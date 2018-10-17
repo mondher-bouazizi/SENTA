@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.application.SelectAdvancedFeaturesWindow">
+         <children>
+
+         	<Label layoutX="22.0" layoutY="24.0" text="Select the sets of features you want to use. To customize each set of features, click &quot;Customize&quot;:" />
+            <Separator layoutX="20.0" layoutY="58.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+            <!-- ****************************************** -->
+			<!--          Sentiment Related Features        -->
+            <!-- ****************************************** -->
+            <CheckBox fx:id="sentimentRelatedFeatures" layoutX="41.0" layoutY="80.0" mnemonicParsing="false" text="Advanced Sentiment Features">
+                <font>
+            		<Font name="System Bold" size="12.0" />
+        		</font>
+      		</CheckBox>
+			<Button fx:id="sentimentFeaturesHelp" layoutX="236.0" layoutY="80.0" mnemonicParsing="false" onAction="#handleSentimentFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+            <Label fx:id="numberOfSentimentFeaturesLabel" layoutX="578.0" layoutY="80.0" text="000" />
+            <Label fx:id="nbSentF" layoutX="609.0" layoutY="80.0" text="Features" />
+            <Button fx:id="sentimentFeaturesCustomize" layoutX="708.0" layoutY="75.0" mnemonicParsing="false" onAction="#handleSentimentFeaturesCustomize" text="Customize" />
+            <Separator layoutX="20.0" layoutY="117.0" prefHeight="0.0" prefWidth="760.0" />
+            
+            
+            
+            <!-- ****************************************** -->
+			<!--              Semantic features             -->
+			<!-- ****************************************** -->
+			<CheckBox fx:id="semanticFeatures" layoutX="43.0" layoutY="138.0" mnemonicParsing="false" text="Advanced Semantic features">
+				<font>
+					<Font name="System Bold" size="12.0" />
+				</font>
+			</CheckBox>
+			<Button fx:id="semanticFeaturesHelp" layoutX="232.0" layoutY="137.0" mnemonicParsing="false" onAction="#handleSemanticFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+			<Label fx:id="numberOfSemanticFeaturesLabel" layoutX="578.0" layoutY="139.0" text="666" />
+			<Label fx:id="nbSemF" layoutX="609.0" layoutY="138.0" text="Features" />
+            <Button fx:id="semanticFeaturesCustomize" layoutX="708.0" layoutY="134.0" mnemonicParsing="false" onAction="#handleSemanticFeaturesCustomize" text="Customize" />
+			<Separator layoutX="20.0" layoutY="175.0" prefHeight="0.0" prefWidth="760.0" />
+
+            <!-- ****************************************** -->
+			<!--          Pattern-related features          -->
+			<!-- ****************************************** -->
+            <CheckBox fx:id="patternFeatures" layoutX="41.0" layoutY="197.0" mnemonicParsing="false" text="Advanced Pattern-related features">
+                <font>
+            		<Font name="System Bold" size="12.0" />
+        		</font>
+      		</CheckBox>
+            <Button fx:id="patternFeaturesHelp" layoutX="264.0" layoutY="196.0" mnemonicParsing="false" onAction="#handlePatternFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+			<Label fx:id="numberOfPatternFeaturesLabel" layoutX="578.0" layoutY="196.0" text="444" />
+            <Label layoutX="609.0" layoutY="196.0" text="Features" />
+            <Button fx:id="patternFeaturesCustomize" layoutX="709.0" layoutY="193.0" mnemonicParsing="false" onAction="#handlePatternFeaturesCustomize" text="Customize" />
+            
+            <Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+		
+		    <!-- ****************************************** -->
+			<!--              More coming soon              -->
+			<!-- ****************************************** -->
+			
+			<Separator layoutX="20.0" layoutY="235.0" prefHeight="0.0" prefWidth="760.0" />
+			<Label layoutX="41.0" layoutY="255.0" text="More (Coming soon...)" />
+			
+			<!-- ****************************************** -->
+			<!--                   Others                  -->
+			<!-- ****************************************** -->
+			
+			<Separator layoutX="10.0" layoutY="506.0" prefHeight="0.0" prefWidth="400.0" />
+
+			<Label layoutX="12.0" layoutY="511.0" text="Note:" textFill="#024eff" />
+			<Label layoutX="46.0" layoutY="511.0" prefHeight="35.0" prefWidth="708.0" text="The use of advanced features (except advanced pattern related features) require that the user specifies the field in the table that corresponds to the index in the tweet of the topic." textAlignment="JUSTIFY" wrapText="true" />
+			
+		
+			<!-- ##################### -->
+			<!--        Buttons        -->
+			<!-- ##################### -->
+	
+			<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+			<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+			<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+			
+			<Button fx:id="importButton" layoutX="41.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleImportButton" prefHeight="25.0" prefWidth="72.0" text="Import" />
+			<Button fx:id="exportButton" layoutX="128.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleExportButton" prefHeight="25.0" prefWidth="72.0" text="Export" />
+			
+			
+ 		</children>
+</AnchorPane>

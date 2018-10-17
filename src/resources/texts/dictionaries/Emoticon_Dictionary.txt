@@ -1,0 +1,177 @@
+:-)	Smiley or happy face	1
+(-:	Smiley or happy face	1
+:)	Smiley or happy face	1
+(:	Smiley or happy face	1
+:o)	Smiley or happy face	1
+(o:	Smiley or happy face	1
+:]	Smiley or happy face	1
+[:	Smiley or happy face	1
+:c)	Smiley or happy face	1
+:>	Smiley or happy face	1
+<:	Smiley or happy face	1
+=]	Smiley or happy face	1
+[=	Smiley or happy face	1
+8)	Smiley or happy face	1
+(8	Smiley or happy face	1
+=)	Smiley or happy face	1
+(=	Smiley or happy face	1
+=-)	Smiley or happy face	1
+(-=	Smiley or happy face	1
+:}	Smiley or happy face	1
+{:	Smiley or happy face	1
+:^)	Smiley or happy face	1
+(^:	Smiley or happy face	1
+:?)	Smiley or happy face	1
+:3	Smiley or happy face	1
+=-3	Smiley or happy face	1
+=3	Smiley or happy face	1
+^_^	Smiley or happy face	1
+=D	Laughing	1
+:D	Laughing	1
+:-D	Laughing	1
+=-D	Laughing	1
+XD	big grin	1
+x-D	big grin	1
+xD	big grin	1
+X-D	big grin	1
+8-D	laugh with glasses	1
+8D	laugh with glasses	1
+B^D	laugh with glasses	1
+:-))	Very happy or double chin	1
+((-:	Very happy or double chin	1
+>:[	Frown/sad	-1
+]:<	Frown/sad	-1
+:-(	Frown/sad	-1
+)-:	Frown/sad	-1
+:(	Frown/sad	-1
+):	Frown/sad	-1
+X(	Frown/sad	-1
+X-(	Frown/sad	-1
+:-c	Frown/sad	-1
+:c	Frown/sad	-1
+:-<	Frown/sad	-1
+:?C	Frown/sad	-1
+:<	Frown/sad	-1
+:-[	Frown/sad	-1
+:[	Frown/sad	-1
+:{	Frown/sad	-1
+;(	Winky frowny(sadness, with a bit of sarcasm)	-1
+:-||	Angry	-1
+:@	Angry	-1
+>:(	Angry	-1
+:'-(	Crying	-1
+:'(	Crying	-1
+:'-)	Tears of happiness	1
+:')	Tears of happiness	1
+D8	Horror/disgust/sadness/great dismay	-1
+D:<	Horror/disgust/sadness/great dismay	-1
+D:	Horror/disgust/sadness/great dismay	-1
+D-':	Horror/disgust/sadness/great dismay	-1
+v.v	Horror/disgust/sadness/great dismay	-1
+DX	Horror/disgust/sadness/great dismay	-1
+D=	Horror/disgust/sadness/great dismay	-1
+D;	Horror/disgust/sadness/great dismay	-1
+:o	Surprise/shock/yawn	-1
+O-O	Surprise/shock/yawn	-1
+o_o	Surprise/shock/yawn	-1
+o_O	Surprise/shock/yawn	-1
+O_o	Surprise/shock/yawn	-1
+o-o	Surprise/shock/yawn	-1
+O_O	Surprise/shock/yawn	-1
+>:O	Surprise/shock/yawn	-1
+80	Surprise/shock/yawn	-1
+:-O	Surprise/shock/yawn	-1
+:O	Surprise/shock/yawn	-1
+:-o	Surprise/shock/yawn	-1
+:*	Kiss	1
+:^*	Kiss	1
+( '}{' )	couple kissing	1
+;-)	Wink/smirk	1
+;)	Wink/smirk	1
+*-)	Wink/smirk	1
+*)	Wink/smirk	1
+;-]	Wink/smirk	1
+;]	Wink/smirk	1
+;D	Wink/smirk	1
+;^)	Wink/smirk	1
+>:P	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:-P	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:P	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+X-P	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+x-p	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+xp	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+XP	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:-p	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:p	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+=p	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:-Þ	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:Þ	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:þ	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:-þ	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:-b	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+:b	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+d:	Tongue sticking out/cheeky/playful/blowing a raspberry	2
+>:\	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+>:/t	Skeptical/annoyed/undecided/uneasy/hesitan	-1
+:-/	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+:-.	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+>.<	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+:S	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+=L	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+:L	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+=\	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+=/	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+:\	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+:/	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+-.-	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+-_-"	Skeptical/annoyed/undecided/uneasy/hesitant	-1
+:|	Straight face / no expression/indecision	0
+:-|	Straight face / no expression/indecision	0
+:$	Embarrassed/blushing	-1
+:-X	Sealed lips or wearing braces	-1
+:X	Sealed lips or wearing braces	-1
+:-#	Sealed lips or wearing braces	-1
+:#	Sealed lips or wearing braces	-1
+O:-)	Angel/saint/innocent	1
+0:-3	Angel/saint/innocent	1
+0:03	Angel/saint/innocent	1
+0:-)	Angel/saint/innocent	1
+0:)	Angel/saint/innocent	1
+0;^)	Angel/saint/innocent	1
+>:)	Evil	2
+>;)	Evil	2
+>:-)	Evil	2
+}:-)	Devilish	2
+}:)	Devilish	2
+3:-)	Devilish	2
+3:)	Devilish	2
+o/\o	High five	1
+^5	High five	1
+>_>^ ^<_<	High five	1
+|;-)	Cool	1
+|-O	bored/yawning	-1
+:-&	Tongue-tied	-1
+:&	Tongue-tied	-1
+#-)	Partied all night	0
+%-)	Drunk/confused	0
+%)	Drunk/confused	0
+:-###..	Being sick	-1
+:###..	Being sick	-1
+<:-|	Dumb/dunce-like	-1
+?_?	Look of disapproval	-1
+<*)))-{	Fish/something's fishy/Christian fish	0
+><(((*>	Fish/something's fishy/Christian fish	0
+><>	Fish/something's fishy/Christian fish	0
+\o/	"Cheer ", "Yay.. yay.."	1
+*\0/*	Cheerleader	1
+@}-;-'---	Rose	1
+@>-->--	Rose	1
+~(_8^(I)	Homer Simpson	0
+5:-)	Elvis Presley	0
+~:-\	Elvis Presley	0
+//0-0\\	John Lennon	0
+*<|:-)	Santa Claus	0
+=:o]	Bill Clinton	0
+7:^]	Ronald Reagan	0
+</3	Broken-heart (reverse-rotation)	-1
+<3	love	1

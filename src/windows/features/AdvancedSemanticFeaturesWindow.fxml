@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.AdvancedSemanticFeaturesWindow">
+	<children>
+
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Advanced semantic features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+
+		<!-- ############################### -->
+		<!--    Words taken into account     -->
+		<!-- ############################### -->
+
+		<Label layoutX="33.0" layoutY="75.0" text="Words taken into account" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="onlyTopicWords" layoutX="38.0" layoutY="98.0" mnemonicParsing="false" text="Only words referring to the topic">
+	    	<toggleGroup>
+	    		<ToggleGroup fx:id="onlyTopicWordsTaken" />
+	     	</toggleGroup>
+         </RadioButton>
+		<RadioButton fx:id="allWords" layoutX="38.0" layoutY="121.0" mnemonicParsing="false" text="All sentimental words in the tweet" toggleGroup="$onlyTopicWordsTaken" />
+
+
+		<!-- ############################### -->
+		<!--        Count other words        -->
+		<!-- ############################### -->
+
+		<Label layoutX="311.0" layoutY="75.0" text="Count the other sentimental words as extra features" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<RadioButton fx:id="countOtherWords" layoutX="316.0" layoutY="100.0" mnemonicParsing="false" text="Yes">
+	    	<toggleGroup>
+	    		<ToggleGroup fx:id="countOthers" />
+	     	</toggleGroup>
+         </RadioButton>
+		<RadioButton fx:id="notCountOtherWords" layoutX="316.0" layoutY="123.0" mnemonicParsing="false" text="No" toggleGroup="$countOthers" />
+
+
+		<!-- ############################### -->
+		<!--       Other words actions       -->
+		<!-- ############################### -->
+
+		<Label layoutX="36.0" layoutY="175.0" text="Words with different PoS tags are taken" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="posSeparately" layoutX="41.0" layoutY="223.0" mnemonicParsing="false" text="Separately">
+	    	<toggleGroup>
+	    		<ToggleGroup fx:id="posTaken" />
+	    	</toggleGroup>
+        </RadioButton>
+		<RadioButton fx:id="posTogether" layoutX="41.0" layoutY="200.0" mnemonicParsing="false" text="Together" toggleGroup="$posTaken" />
+
+
+		<!-- ############################### -->
+		<!--       Use of words / forms      -->
+		<!-- ############################### -->
+
+		<Label layoutX="311.0" layoutY="176.0" text="Use of words/forms" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="useSentimentalPositiveWords" layoutX="316.0" layoutY="199.0" mnemonicParsing="false" text="Sentimental positive words" />
+		<CheckBox fx:id="useSentimentalNegativeWords" layoutX="316.0" layoutY="218.0" mnemonicParsing="false" text="Sentimental negative words" />
+		<CheckBox fx:id="useOfHighlySentimentalPositiveWords" layoutX="316.0" layoutY="237.0" mnemonicParsing="false" text="Use of highly sentimental pos. words" />
+		<CheckBox fx:id="useOfHighlySentimentalNegativeWords" layoutX="316.0" layoutY="256.0" mnemonicParsing="false" text="Use of highly sentimental neg. words" />
+		<CheckBox fx:id="useOfOpinionWords" layoutX="316.0" layoutY="275.0" mnemonicParsing="false" text="Use of opinion words" />
+		<CheckBox fx:id="useOfUncertaintyWords" layoutX="316.0" layoutY="294.0" mnemonicParsing="false" text="Use of uncertainty words (maybe, likely)" />
+		<CheckBox fx:id="useOfActiveForm" layoutX="316.0" layoutY="313.0" mnemonicParsing="false" text="Use of active form" />
+		<CheckBox fx:id="useOfPassiveForm" layoutX="316.0" layoutY="332.0" mnemonicParsing="false" text="Use of passive form" />
+
+
+
+
+
+		<!-- ############################### -->
+		<!--             Buttons             -->
+		<!-- ############################### -->
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+
+		<Label layoutX="59.0" layoutY="355.0" text="(More coming soon...)" />
+
+	</children>
+</AnchorPane>

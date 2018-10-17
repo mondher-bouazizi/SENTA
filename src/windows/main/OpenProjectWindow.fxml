@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.OpenProjectWindow">
+	<children>
+
+		<!-- ########################################## -->
+		<!--                Project File                -->
+		<!-- ########################################## -->
+
+		<Label layoutX="357.0" layoutY="16.0" text="Open Project" textFill="#4c00ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="20.0" layoutY="34.0" text="Select the project file you want to open:" />
+
+		<!-- Choose a file -->
+
+		<RadioButton fx:id="fileSelection" layoutX="20.0" layoutY="60.0" mnemonicParsing="false" onAction="#fileSelectionSelection" text="Project file location" textFill="#2e62ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+			<toggleGroup>
+				<ToggleGroup fx:id="fileType" />
+			</toggleGroup>
+		</RadioButton>
+
+		<TextField fx:id="fileLocation" layoutX="20.0" layoutY="82.0" prefHeight="25.0" prefWidth="512.0" />
+
+		<Button fx:id="fileLocationSelect" layoutX="550.0" layoutY="82.0" mnemonicParsing="false" onAction="#handleFileLocationSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label fx:id="fileLocationStatusLabel" layoutX="643.0" layoutY="86.0" text="Status:" />
+		<Label fx:id="fileLocationStatus" layoutX="683.0" layoutY="86.0" text="No file selected">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<!-- Open a recent file -->
+
+		<RadioButton fx:id="recentFile" layoutX="20.0" layoutY="122.0" mnemonicParsing="false" onAction="#recentFileSelection" text="Recent Projects" textFill="#2e62ff" toggleGroup="$fileType">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+		
+		<ComboBox fx:id="recentFilesList" layoutX="20.0" layoutY="145.0" prefHeight="25.0" prefWidth="595.0" promptText="Choose a recent project" />
+		
+		<Label fx:id="recentFilesStatusLabel" layoutX="643.0" layoutY="149.0" text="Status:" />
+		<Label fx:id="recentFilesStatus" layoutX="683.0" layoutY="149.0" text="No file selected">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<!-- Check Button -->
+		
+		<Button fx:id="getButton" layoutX="361.0" layoutY="189.0" mnemonicParsing="false" onAction="#handleGetButton" prefHeight="25.0" prefWidth="65.0" text="Get" />
+
+		<Separator layoutX="20.0" layoutY="228.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+		<!-- ########################################## -->
+		<!--           PROJECT SPECIFICATIONS           -->
+		<!-- ########################################## -->
+
+		<Label layoutX="334.0" layoutY="245.0" text="Project specifications" textFill="#4c00ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<!-- Project name and type -->
+		
+		<Label layoutX="20.0" layoutY="272.0" text="Project type:" />
+		<Label fx:id="projectType" layoutX="154.0" layoutY="272.0" text="#N/A" />
+		
+		<Label layoutX="20.0" layoutY="297.0" text="Project name:" />
+		<Label fx:id="projectName" layoutX="154.0" layoutY="297.0" text="#N/A" />
+		
+		<Separator layoutX="100.0" layoutY="322.0" prefWidth="600.0" />
+		
+		<!-- Training set file -->
+		
+		<Label layoutX="20.0" layoutY="332.0" text="Training set file:" />
+		<Label fx:id="trainingFile" layoutX="154.0" layoutY="332.0" prefHeight="17.0" prefWidth="410.0" text="#N/A" />
+		<Label fx:id="trainingFileStatusLabel" layoutX="570.0" layoutY="332.0" text="Status:" />
+		<Label fx:id="trainingFileStatus" layoutX="611.0" layoutY="332.0" text="Non valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Button fx:id="trainingFileUpdate" layoutX="724.0" layoutY="328.0" mnemonicParsing="false" onAction="#handleTrainingFileUpdate" text="Update" />
+		
+		<!-- Test set file -->
+		
+		<Label layoutX="20.0" layoutY="362.0" text="Test set file:" />
+		<Label fx:id="testFile" layoutX="154.0" layoutY="362.0" prefHeight="17.0" prefWidth="410.0" text="#N/A" />
+		<Label fx:id="testFileStatusLabel" layoutX="570.0" layoutY="362.0" text="Status:" />
+		<Label fx:id="testFileStatus" layoutX="611.0" layoutY="362.0" text="Non valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Button fx:id="testFileUpdate" layoutX="724.0" layoutY="358.0" mnemonicParsing="false" onAction="#handleTestFileUpdate" text="Update" />
+		
+		<Separator layoutX="100.0" layoutY="387.0" prefWidth="600.0" />
+		
+		<!-- Sentiment classes -->
+		
+		<Label layoutX="20.0" layoutY="397.0" text="Sentiment classes:" />
+		<Label fx:id="classes" layoutX="154.0" layoutY="397.0" prefHeight="17.0" prefWidth="542.0" text="No Class" />
+		
+		<Separator layoutX="100.0" layoutY="422.0" prefWidth="600.0" />
+		
+		<!-- Features file -->
+		
+		<CheckBox fx:id="isFeaturesFile" layoutX="20.0" layoutY="432.0" text="Features file:" />
+		<Label fx:id="featuresFile" layoutX="154.0" layoutY="432.0" prefHeight="17.0" prefWidth="410.0" text="#N/A" />
+		<Label fx:id="featuresFileStatusLabel" layoutX="570.0" layoutY="432.0" text="Status:" />
+		<Label fx:id="featuresFileStatus" layoutX="611.0" layoutY="432.0" text="Non valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		
+		<Separator layoutX="100.0" layoutY="455.0" prefWidth="600.0" />
+		
+		<CheckBox fx:id="isTopWordsFile" layoutX="20.0" layoutY="467.0" text="Top words file:" />
+		<Label fx:id="topWordsFile" layoutX="154.0" layoutY="467.0" prefHeight="17.0" prefWidth="410.0" text="#N/A" />
+		<Label fx:id="topWordsFileStatusLabel" layoutX="570.0" layoutY="467.0" text="Status:" />
+		<Label fx:id="topWordsFileStatus" layoutX="611.0" layoutY="467.0" text="Non valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="isBasicPatternsFile" layoutX="20.0" layoutY="492.0" text="Basic patterns file:" />
+		<Label fx:id="basicPatternsFile" layoutX="154.0" layoutY="492.0" prefHeight="17.0" prefWidth="410.0" text="#N/A" />
+		<Label fx:id="basicPatternsFileStatusLabel" layoutX="570.0" layoutY="492.0" text="Status:" />
+		<Label fx:id="basicPatternsFileStatus" layoutX="611.0" layoutY="492.0" text="Non valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="isAdvancedPatternsFile" layoutX="20.0" layoutY="517.0" text="Adv. patterns file:" />
+		<Label fx:id="advancedPatternsFile" layoutX="154.0" layoutY="517.0" prefHeight="17.0" prefWidth="410.0" text="#N/A" />
+		<Label fx:id="advancedPatternsFileStatusLabel" layoutX="570.0" layoutY="517.0" text="Status:" />
+		<Label fx:id="advancedPatternsFileStatus" layoutX="611.0" layoutY="517.0" text="Non valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+
+		<!-- ########################################## -->
+		<!--        Back, Next and Cancel Buttons       -->
+		<!-- ########################################## -->
+
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+		
+      
+		
+	</children>
+</AnchorPane>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.PatternFeaturesWindow">
+	<children>
+	
+		<!-- =============================== -->
+		<!--              Title              -->
+		<!-- =============================== -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Pattern features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+
+		<!-- =============================== -->
+		<!--          Patterns Type          -->
+		<!-- =============================== -->
+
+		<Label layoutX="55.0" layoutY="86.0" text="Patterns Type" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="uniqueFeatures" layoutX="69.0" layoutY="114.0" mnemonicParsing="false" onAction="#handleUniqueFeaturesSelection" text="Unique features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfFeature" />
+			</toggleGroup>
+		</RadioButton>
+		
+		<Label layoutX="206.0" layoutY="114.0" text="Pattern length" />
+		<ComboBox fx:id="patternLength" layoutX="316.0" layoutY="110.0" prefHeight="25.0" prefWidth="76.0" promptText="length" />
+		
+		<Label layoutX="415.0" layoutY="114.0" text="# Patterns per class" />
+		<TextField fx:id="numberOfPatternsPerClass" layoutX="526.0" layoutY="110.0" prefHeight="25.0" prefWidth="55.0" promptText="e.g. 50" />
+		
+		<RadioButton fx:id="summedFeatures" layoutX="69.0" layoutY="153.0" mnemonicParsing="false" onAction="#handleSummedFeaturesSelection" text="Summed" toggleGroup="$typeOfFeature">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+		
+		<Label layoutX="206.0" layoutY="153.0" text="Min pattern length" />
+		<ComboBox fx:id="minPatternLength" layoutX="316.0" layoutY="149.0" prefHeight="25.0" prefWidth="76.0" promptText="length" />
+		
+		<Label layoutX="415.0" layoutY="153.0" text="Max pattern length" />
+		<ComboBox fx:id="maxPatternLength" layoutX="525.0" layoutY="149.0" prefHeight="25.0" prefWidth="76.0" promptText="length" />
+
+
+		<!-- ############################### -->
+		<!--        Customize rules          -->
+		<!-- ############################### -->
+		
+		<Label layoutX="55.0" layoutY="211.0" text="Customize rules" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="93.0" layoutY="244.0" text="Number of PoS Categories" />
+		<ComboBox fx:id="numberOfPosCategories" layoutX="248.0" layoutY="240.0" prefHeight="25.0" prefWidth="92.0" promptText="# PoS cat" />
+		
+		<Button fx:id="cuztomizePosActions" layoutX="379.0" layoutY="240.0" mnemonicParsing="false" onAction="#handleCuztomizePosActions" text="Customize" />
+		<Button fx:id="definePosCategory" layoutX="461.0" layoutY="240.0" mnemonicParsing="false" onAction="#handleDefinePosCategory" prefHeight="25.0" prefWidth="72.0" text="Define" />
+
+     	
+     	<!-- =============================== -->
+		<!--           Parameters            -->
+		<!-- =============================== -->
+		
+		<Label layoutX="55.0" layoutY="300.0" text="Parameters" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+      
+		<Label layoutX="68.0" layoutY="326.0" text="Min # of occurrences" />
+		<TextField fx:id="patternsMinOccurrence" layoutX="189.0" layoutY="322.0" prefHeight="25.0" prefWidth="42.0" />
+		
+		<Label layoutX="261.0" layoutY="326.0" text="alpha" />
+		<TextField fx:id="alpha" layoutX="300.0" layoutY="322.0" prefHeight="25.0" prefWidth="42.0" />
+
+		<Label layoutX="377.0" layoutY="326.0" text="gamma" />
+		<TextField fx:id="gamma" layoutX="427.0" layoutY="322.0" prefHeight="25.0" prefWidth="42.0" />
+
+		<Label layoutX="510.0" layoutY="326.0" text="knn">
+			<font>
+				<Font name="System Italic" size="12.0" />
+			</font>
+		</Label>
+		<TextField fx:id="knn" layoutX="540.0" layoutY="322.0" prefHeight="25.0" prefWidth="42.0" />
+		
+		
+      	<!-- =============================== -->
+		<!--             Buttons             -->
+		<!-- =============================== -->
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+
+	</children>
+</AnchorPane>

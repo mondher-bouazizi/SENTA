@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="320.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.custompatterns.CustomPosWindow">
+	<children>
+		<!-- ########################### -->
+		<!--            title            -->
+		<!-- ########################### -->
+		<Label layoutX="20.0" layoutY="15.0" text="Customize the PoS-Tags">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="13.0" layoutY="42.0" prefHeight="3.0" prefWidth="455.0" />
+
+
+		<!-- ########################### -->
+		<!--           Buttons           -->
+		<!-- ########################### -->
+
+		<Separator layoutX="13.0" layoutY="273.0" prefHeight="3.0" prefWidth="455.0" />
+
+		<Button fx:id="ok" onAction="#handleOk" layoutX="206.0" layoutY="284.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="69.0" text="OK" />
+		<Button fx:id="cancel" onAction="#handleCancel" layoutX="291.0" layoutY="284.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="69.0" text="Cancel" />
+		<Button fx:id="def" onAction="#handleDefault" layoutX="121.0" layoutY="284.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="69.0" text="Default" />
+
+		<!-- ########################### -->
+		<!--       Content params        -->
+		<!-- ########################### -->
+
+		<ScrollPane layoutX="13.0" layoutY="45.0" prefHeight="226.0" prefWidth="455.0">
+			<content>
+				<AnchorPane prefHeight="970.0" prefWidth="440.0">
+					<children>
+						
+						
+						<!-- ================== -->
+						<!--        Titles      -->
+						<!-- ================== -->
+						<Label layoutX="30.0" layoutY="11.0" text="PoS Tag" textFill="#1e43d3">
+							<font>
+								<Font name="System Bold" size="12.0" />
+							</font>
+						</Label>
+						
+						<Label layoutX="111.0" layoutY="11.0" text="Description" textFill="#1e43d3">
+							<font>
+								<Font name="System Bold" size="12.0" />
+							</font>
+						</Label>
+						<Label layoutX="296.0" layoutY="11.0" text="Category" textFill="#1e43d3">
+							<font>
+								<Font name="System Bold" size="12.0" />
+							</font>
+						</Label>
+						
+						
+						<!-- ================== -->
+						<!--     Separators     -->
+						<!-- ================== -->
+						
+						<Separator layoutX="9.0" layoutY="55.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="80.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="105.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="130.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="155.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="180.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="205.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="230.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="255.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="280.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="305.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="330.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="355.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="380.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="405.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="430.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="455.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="480.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="505.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="530.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="555.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="580.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="605.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="630.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="655.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="680.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="705.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="730.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="755.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="780.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="805.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="830.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="855.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="880.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="905.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="930.0" prefHeight="3.0" prefWidth="289.0" />
+						<Separator layoutX="9.0" layoutY="955.0" prefHeight="3.0" prefWidth="289.0" />
+						
+						
+						<!-- ================== -->
+						<!--      Pos tags     -->
+						<!-- ================== -->
+						
+						<!--  CC  -->
+						<Label layoutX="111.0" layoutY="35.0" text="coordinating conjunction" />
+						<Label layoutX="30.0" layoutY="35.0" text="CC" />
+						<ComboBox fx:id="cc" layoutX="296.0" layoutY="30.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  CD  -->
+						<Label layoutX="111.0" layoutY="60.0" text="cardinal number" />
+						<Label layoutX="30.0" layoutY="60.0" text="CD" />
+						<ComboBox fx:id="cd" layoutX="296.0" layoutY="55.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  EX  -->
+						<Label layoutX="111.0" layoutY="85.0" text="existential there" />
+						<Label layoutX="30.0" layoutY="85.0" text="EX" />
+						<ComboBox fx:id="ex" layoutX="296.0" layoutY="80.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  FW  -->
+						<Label layoutX="30.0" layoutY="110.0" text="FW" />
+						<Label layoutX="111.0" layoutY="110.0" text="foreign word" />
+						<ComboBox fx:id="fw" layoutX="296.0" layoutY="105.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  IN  -->
+						<Label layoutX="30.0" layoutY="135.0" text="IN" />
+						<Label layoutX="111.0" layoutY="135.0" text="prep / sub conjunction" />
+						<ComboBox fx:id="in" layoutX="296.0" layoutY="130.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  JJ  -->
+						<Label layoutX="30.0" layoutY="160.0" text="JJ" />
+						<Label layoutX="111.0" layoutY="160.0" text="adjective" />
+						<ComboBox fx:id="jj" layoutX="296.0" layoutY="155.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  JJR -->
+						<Label layoutX="30.0" layoutY="185.0" text="JJR" />
+						<Label layoutX="111.0" layoutY="185.0" text="adjective, comparative" />
+						<ComboBox fx:id="jjr" layoutX="296.0" layoutY="180.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  JJS -->
+						<Label layoutX="30.0" layoutY="210.0" text="JJS" />
+						<Label layoutX="111.0" layoutY="210.0" text="adjective, superlative" />
+						<ComboBox fx:id="jjs" layoutX="296.0" layoutY="205.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  LS　 -->
+						<Label layoutX="30.0" layoutY="235.0" text="LS" />
+						<Label layoutX="111.0" layoutY="235.0" text="list marker" />
+						<ComboBox fx:id="ls" layoutX="296.0" layoutY="230.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  MD　 -->
+						<Label layoutX="30.0" layoutY="260.0" text="MD" />
+						<Label layoutX="111.0" layoutY="260.0" text="modal" />
+						<ComboBox fx:id="md" layoutX="296.0" layoutY="255.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  NN　 -->
+						<Label layoutX="30.0" layoutY="285.0" text="NN" />
+						<Label layoutX="111.0" layoutY="285.0" text="noun, singular or mass" />
+						<ComboBox fx:id="nn" layoutX="296.0" layoutY="280.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  NNS -->
+						<Label layoutX="30.0" layoutY="310.0" text="NNS" />
+						<Label layoutX="111.0" layoutY="310.0" text="noun plural" />
+						<ComboBox fx:id="nns" layoutX="296.0" layoutY="305.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  NNP -->
+						<Label layoutX="30.0" layoutY="335.0" text="NNP" />
+						<Label layoutX="111.0" layoutY="335.0" text="proper noun, singular" />
+						<ComboBox fx:id="nnp" layoutX="296.0" layoutY="330.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!-- NNPS -->
+						<Label layoutX="111.0" layoutY="360.0" text="proper noun, plural" />
+						<Label layoutX="30.0" layoutY="360.0" text="NNPS" />
+						<ComboBox fx:id="nnps" layoutX="296.0" layoutY="355.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!-- PDT  -->
+						<Label layoutX="30.0" layoutY="385.0" text="PDT" />
+						<Label layoutX="111.0" layoutY="385.0" text="predeterminer" />
+						<ComboBox fx:id="pdt" layoutX="296.0" layoutY="380.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!-- POS  -->
+						<Label layoutX="30.0" layoutY="410.0" text="POS" />
+						<Label layoutX="111.0" layoutY="410.0" text="possessive ending" />
+						<ComboBox fx:id="pos" layoutX="296.0" layoutY="405.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  PRP -->
+						<Label layoutX="30.0" layoutY="435.0" text="PRP" />
+						<Label layoutX="111.0" layoutY="435.0" text="personal pronoun" />
+						<ComboBox fx:id="prp" layoutX="296.0" layoutY="430.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!-- PRP$ -->
+						<Label layoutX="30.0" layoutY="460.0" text="PRP$" />
+						<Label layoutX="111.0" layoutY="460.0" text="possessive pronoun" />
+						<ComboBox fx:id="prps" layoutX="296.0" layoutY="455.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  RB  -->
+						<Label layoutX="30.0" layoutY="485.0" text="RB" />
+						<Label layoutX="111.0" layoutY="485.0" text="adverb" />
+						<ComboBox fx:id="rb" layoutX="296.0" layoutY="480.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  RBR -->
+						<Label layoutX="30.0" layoutY="510.0" text="RBR" />
+						<Label layoutX="111.0" layoutY="510.0" text="adverb, comparative" />
+						<ComboBox fx:id="rbr" layoutX="296.0" layoutY="505.0" prefHeight="25.0" prefWidth="120.0" />
+
+						<!--  RBS -->
+						<Label layoutX="30.0" layoutY="535.0" text="RBS" />
+						<Label layoutX="111.0" layoutY="535.0" text="adverb, superlative" />
+						<ComboBox fx:id="rbs" layoutX="296.0" layoutY="530.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  RP  -->
+						<Label layoutX="30.0" layoutY="560.0" text="RP" />
+						<Label layoutX="111.0" layoutY="560.0" text="particle" />
+						<ComboBox fx:id="rp" layoutX="296.0" layoutY="555.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  SYM -->
+						<Label layoutX="30.0" layoutY="585.0" text="SYM" />
+						<Label layoutX="111.0" layoutY="585.0" text="Symbol" />
+						<ComboBox fx:id="sym" layoutX="296.0" layoutY="580.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  TO  -->
+						<Label layoutX="111.0" layoutY="610.0" text="to" />
+						<Label layoutX="30.0" layoutY="610.0" text="TO" />
+						<ComboBox fx:id="to" layoutX="296.0" layoutY="605.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  UH  -->
+						<Label layoutX="30.0" layoutY="635.0" text="UH" />
+						<Label layoutX="111.0" layoutY="635.0" text="interjection" />
+						<ComboBox fx:id="uh" layoutX="296.0" layoutY="630.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  VB  -->
+						<Label layoutX="30.0" layoutY="660.0" text="VB" />
+						<Label layoutX="111.0" layoutY="660.0" text="verb, base form" />
+						<ComboBox fx:id="vb" layoutX="296.0" layoutY="655.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  VBD -->
+						<Label layoutX="30.0" layoutY="685.0" text="VBD" />
+						<Label layoutX="111.0" layoutY="685.0" text="verb, past tense" />
+						<ComboBox fx:id="vbd" layoutX="296.0" layoutY="680.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  VBG -->
+						<Label layoutX="111.0" layoutY="710.0" text="verb, gerund/present participle" />
+						<Label layoutX="30.0" layoutY="710.0" text="VBG" />
+						<ComboBox fx:id="vbg" layoutX="296.0" layoutY="705.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  VBN -->
+						<Label layoutX="30.0" layoutY="735.0" text="VBN" />
+						<Label layoutX="111.0" layoutY="735.0" text="verb, past participle" />
+						<ComboBox fx:id="vbn" layoutX="296.0" layoutY="730.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  VBP -->
+						<Label layoutX="30.0" layoutY="760.0" text="VBP" />
+						<Label layoutX="111.0" layoutY="760.0" text="verb, sing. present, non-3d" />
+						<ComboBox fx:id="vbp" layoutX="296.0" layoutY="755.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  VBZ -->
+						<Label layoutX="30.0" layoutY="785.0" text="VBZ" />
+						<Label layoutX="111.0" layoutY="785.0" text="verb, 3rd person sing. present" />
+						<ComboBox fx:id="vbz" layoutX="296.0" layoutY="780.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  WDT -->
+						<Label layoutX="30.0" layoutY="810.0" text="WDT" />
+						<Label layoutX="111.0" layoutY="810.0" text="wh-determiner" />
+						<ComboBox fx:id="wdt" layoutX="296.0" layoutY="805.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  WP -->
+						<Label layoutX="30.0" layoutY="835.0" text="WP" />
+						<Label layoutX="111.0" layoutY="835.0" text="wh-pronoun" />
+						<ComboBox fx:id="wp" layoutX="296.0" layoutY="830.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  WP$ -->
+						<Label layoutX="111.0" layoutY="860.0" text="possessive wh-pronoun" />
+						<Label layoutX="30.0" layoutY="860.0" text="WP$" />
+						<ComboBox fx:id="wps" layoutX="296.0" layoutY="855.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  WRB -->
+						<Label layoutX="30.0" layoutY="885.0" text="WRB" />
+						<Label layoutX="111.0" layoutY="885.0" text="wh-adverb" />
+						<ComboBox fx:id="wrb" layoutX="296.0" layoutY="880.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--  DT -->
+						<Label layoutX="111.0" layoutY="910.0" text="determiner" />
+						<Label layoutX="30.0" layoutY="910.0" text="DT" />
+						<ComboBox fx:id="dt" layoutX="296.0" layoutY="905.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						<!--   .  -->
+						<Label layoutX="30.0" layoutY="935.0" text="." />
+						<Label layoutX="111.0" layoutY="935.0" text="punctuation marks" />
+						<ComboBox fx:id="dot" layoutX="296.0" layoutY="930.0" prefHeight="25.0" prefWidth="120.0" />
+						
+						
+					</children>
+				</AnchorPane>
+			</content>
+		</ScrollPane>
+
+
+
+
+
+
+
+
+
+	</children>
+</AnchorPane>

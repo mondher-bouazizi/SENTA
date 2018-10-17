@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.features.windows.SentimentFeaturesWindow">
+	<children>
+	
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+	
+		<Label layoutX="20.0" layoutY="34.0" text="Sentiment-related features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<!-- ############################### -->
+		<!--        Textual Components       -->
+		<!-- ############################### -->
+		
+		<Label layoutX="59.0" layoutY="66.0" text="Textual Components" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="numberOfPositiveWords" layoutX="59.0" layoutY="85.0" mnemonicParsing="false" text="Number of positive words" />
+		<CheckBox fx:id="numberOfNegativeWords" layoutX="59.0" layoutY="104.0" mnemonicParsing="false" text="Number of negative words" />
+		<CheckBox fx:id="numberOfHighlyEmoPositiveWords" layoutX="59.0" layoutY="123.0" mnemonicParsing="false" text="Number of highly emotional pos. words" />
+		<CheckBox fx:id="numberOfHighlyEmoNegativeWords" layoutX="59.0" layoutY="142.0" mnemonicParsing="false" text="Number of highly emotional neg. words" />
+		<CheckBox fx:id="numberOfCapitalizedPositiveWords" layoutX="59.0" layoutY="180.0" mnemonicParsing="false" text="Number of capitalized neg. words" />
+		<CheckBox fx:id="numberOfCapitalizedNegativeWords" layoutX="59.0" layoutY="161.0" mnemonicParsing="false" text="Number of capitalized pos. words" />
+		<CheckBox fx:id="ratioOfEmotionalWords" layoutX="59.0" layoutY="199.0" mnemonicParsing="false" text="Ratio of emotional words" />
+		
+		
+		<!-- ############################### -->
+		<!--            Emoticons            -->
+		<!-- ############################### -->
+		
+		<Label layoutX="375.0" layoutY="66.0" text="Emoticons" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="numberOfPositiveEmoticons" layoutX="375.0" layoutY="85.0" mnemonicParsing="false" text="Number of positive emoticons" />
+		<CheckBox fx:id="numberOfNegativeEmoticons" layoutX="375.0" layoutY="104.0" mnemonicParsing="false" text="Number of negative emoticons" />
+		<CheckBox fx:id="numberOfNeutralEmoticons" layoutX="375.0" layoutY="123.0" mnemonicParsing="false" text="Number of &quot;neutral&quot; emoticons" />
+		<CheckBox fx:id="numberOfJokingEmoticons" layoutX="375.0" layoutY="142.0" mnemonicParsing="false" text="Number of &quot;joking&quot; emoticons" />
+		
+		
+		<!-- ############################### -->
+		<!--           Slang words           -->
+		<!-- ############################### -->
+		
+		<Label layoutX="373.0" layoutY="229.0" text="Slang words" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="numberOfPositiveSlangs" layoutX="373.0" layoutY="248.0" mnemonicParsing="false" text="Number of positive slang words" />
+		<CheckBox fx:id="numberOfNegativeSlangs" layoutX="373.0" layoutY="267.0" mnemonicParsing="false" text="Number of negative slang words" />
+		
+		
+		<!-- ############################### -->
+		<!--            Hashtags             -->
+		<!-- ############################### -->
+		
+		<Label layoutX="59.0" layoutY="229.0" text="Hashtags" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="numberOfPositiveHashtags" layoutX="59.0" layoutY="248.0" mnemonicParsing="false" text="Number of positive Hashtags" />
+		<CheckBox fx:id="numberOfNegativeHashtags" layoutX="59.0" layoutY="267.0" mnemonicParsing="false" text="Number of negative Hashtags" />
+		
+		
+		<!-- ############################### -->
+		<!--            Contrast             -->
+		<!-- ############################### -->
+		
+		<Label layoutX="59.0" layoutY="299.0" text="Contrast" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="contrastWordsVsWords" layoutX="59.0" layoutY="318.0" mnemonicParsing="false" text="Contrast words vs. words" />
+		<CheckBox fx:id="contrastWordsVsHashtags" layoutX="59.0" layoutY="337.0" mnemonicParsing="false" text="Contrast words vs. Hashtags" />
+		<CheckBox fx:id="contrastWordsVsEmoticons" layoutX="59.0" layoutY="356.0" mnemonicParsing="false" text="Contrast words vs. emoticons" />
+		<CheckBox fx:id="contrastHashtagsVsHashtags" layoutX="373.0" layoutY="318.0" mnemonicParsing="false" text="Contrast Hashtags vs. Hashtags" />
+		<CheckBox fx:id="contrastHashtagsVsEmoticons" layoutX="373.0" layoutY="337.0" mnemonicParsing="false" text="Contrast Hashtags vs. emoticons" />
+
+
+		<!-- ############################### -->
+		<!--             Buttons             -->
+		<!-- ############################### -->
+
+		<Button fx:id="defaultFeatures" onAction="#handleDefault" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" onAction="#handleAll" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" onAction="#handleClear" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+
+	</children>
+</AnchorPane>

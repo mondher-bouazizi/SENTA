@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.AdvancedUnigramFeaturesWindow">
+	<children>
+
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Advanced unigram features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="20.0" layoutY="70.0" prefHeight="40.0" prefWidth="600.0" text="This allows users to use a pre-trained set of unigrams and check their existance on each tweet. Each word is an independent feature that has one of two values: &quot;True&quot; or &quot;False&quot;" textAlignment="JUSTIFY" wrapText="true" />
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<!-- ############################### -->
+		<!--       Type of the features      -->
+		<!-- ############################### -->
+
+		<Label layoutX="25.0" layoutY="135.0" text="Type of the words to look for" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="lemmasRadio" layoutX="30.0" layoutY="158.0" mnemonicParsing="false" text="Lemmas">
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfFeature" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="wordsRadio" layoutX="30.0" layoutY="181.0" mnemonicParsing="false" text="Words" toggleGroup="$typeOfFeature" />
+
+
+		<!-- ############################### -->
+		<!--   Number of surrounding words   -->
+		<!-- ############################### -->
+
+		<Label layoutX="25.0" layoutY="211.0" text="File containing the words (one word per line)" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<TextField fx:id="fileLocationField" layoutX="26.0" layoutY="233.0" prefHeight="25.0" prefWidth="430.0" />
+		
+		<Button fx:id="SelectFileButton" layoutX="473.0" layoutY="233.0" mnemonicParsing="false" onAction="#handleSelectFile" prefHeight="25.0" prefWidth="91.0" text="Select" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+      
+      
+		
+	</children>
+</AnchorPane>

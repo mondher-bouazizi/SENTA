@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.OpenFeaturesFileWindow">
+	<children>
+
+		<!-- ================================ -->
+		<!--              Step 1              -->
+		<!-- ================================ -->
+
+		<Label layoutX="22.0" layoutY="16.0" text="Step 1:" textFill="#7114ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label layoutX="67.0" layoutY="16.0" text="Specify the type of file you want to open (weka file, txt file, or csv file):" />
+
+		<RadioButton fx:id="wekaFileType" layoutX="70.0" layoutY="45.0" mnemonicParsing="false" text="Weka file (*.arff)">
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfFile" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="textFileType" layoutX="276.0" layoutY="45.0" mnemonicParsing="false" text="Text file tab separated (*.txt)" toggleGroup="$typeOfFile" />
+		<RadioButton fx:id="csvFileType" layoutX="523.0" layoutY="45.0" mnemonicParsing="false" text="Csv file comma separated (*.csv)" toggleGroup="$typeOfFile" />
+
+		<Label layoutX="36.0" layoutY="101.0" text="Training set file" textFill="GREEN">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+
+		<!-- ================================ -->
+		<!--              Step 2              -->
+		<!-- ================================ -->
+
+		<Label layoutX="67.0" layoutY="78.0" text="Specify the file location for both the training and the text / non-annotated set" />
+		<Label layoutX="22.0" layoutY="78.0" text="Step 2:" textFill="#7114ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<!-- Training set file -->
+		<TextField fx:id="trainingSetLocation" layoutX="36.0" layoutY="121.0" prefHeight="25.0" prefWidth="500.0" />
+		<Button fx:id="trainingSetSelect" layoutX="549.0" layoutY="121.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label layoutX="633.0" layoutY="125.0" text="Status:" />
+		<Label fx:id="trainingSetStatus" layoutX="682.0" layoutY="125.0" text="Non Valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<!-- Test set file -->
+		<RadioButton fx:id="testSet" layoutX="35.0" layoutY="158.0" mnemonicParsing="false" text="Test set" textFill="GREEN">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfSet" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="nonAnnotatedSet" layoutX="160.0" layoutY="158.0" mnemonicParsing="false" text="Non-annotated set" textFill="GREEN" toggleGroup="$typeOfSet">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+		<TextField fx:id="testSetLocation" layoutX="36.0" layoutY="179.0" prefHeight="25.0" prefWidth="500.0" />
+		<Button fx:id="testSetSelect" layoutX="551.0" layoutY="179.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label layoutX="633.0" layoutY="183.0" text="Status:" />
+		<Label fx:id="testSetStatus" layoutX="682.0" layoutY="183.0" text="Non Valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Button fx:id="loadTweets" onAction="#handleLoadTweetsButton" layoutX="353.0" layoutY="215.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="95.0" text="Load Tweets" />
+
+		<Separator layoutX="20.0" layoutY="250.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+		<!-- ================================ -->
+		<!--              Step 3              -->
+		<!-- ================================ -->
+
+		<Label layoutX="22.0" layoutY="262.0" text="Step 3:" textFill="#7114ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label layoutX="67.0" layoutY="262.0" text="Specify the features file location for both the training and the text / non-annotated set" />
+
+		<!-- Training set file -->
+		<Label layoutX="36.0" layoutY="285.0" text="Training set features file" textFill="GREEN">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<TextField fx:id="trainingSetFeaturesLocation" layoutX="36.0" layoutY="304.0" prefHeight="25.0" prefWidth="500.0" />
+
+		<Button fx:id="trainingSetFeaturesSelect" layoutX="549.0" layoutY="304.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label layoutX="633.0" layoutY="308.0" text="Status:" />
+		<Label fx:id="trainingSetFeaturesStatus" layoutX="682.0" layoutY="308.0" text="Non Valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="425.0" prefHeight="0.0" prefWidth="760.0" />
+
+		<!-- Test set file -->
+		<Label layoutX="37.0" layoutY="335.0" text="Test set / non-annotated set" textFill="GREEN">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<TextField fx:id="testSetFeaturesLocation" layoutX="36.0" layoutY="355.0" prefHeight="25.0" prefWidth="500.0" />
+
+		<Button fx:id="testSetFeaturesSelect" layoutX="551.0" layoutY="355.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label layoutX="633.0" layoutY="359.0" text="Status:" />
+		<Label fx:id="testSetFeaturesStatus" layoutX="682.0" layoutY="359.0" text="Non Valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Button fx:id="collectFeatures" onAction="#handleCollectFeaturesButton" layoutX="347.0" layoutY="390.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="106.0" text="Collect features" />
+
+
+		<!-- ================================ -->
+		<!--              Step 4              -->
+		<!-- ================================ -->
+
+		<Label layoutX="18.0" layoutY="434.0" text="Step 4:" textFill="#7114ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="67.0" layoutY="434.0" text="If you have selected to load a text or a csv file, you can choose here the field corresponding to the tweet ID" />
+
+		<Label layoutX="207.0" layoutY="460.0" text="Tweet ID Field" textFill="GREEN">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<ComboBox fx:id="fields" layoutX="308.0" layoutY="456.0" prefHeight="25.0" prefWidth="251.0" />
+
+		<Label layoutX="20.0" layoutY="491.0" prefHeight="44.0" prefWidth="760.0" text="Note that, in case you have chosen to leave the Tweet ID field empty, or in case you have chosen to load a weka file, your tweets will be attributed the features in the same order as in the feature files (first tweet = first line, second tweet = second line etc.)" textAlignment="JUSTIFY" wrapText="true" />
+
+
+		<!-- ================================ -->
+		<!--              Buttons             -->
+		<!-- ================================ -->
+
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+
+		<Button fx:id="backButton" onAction="#handleBackButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" onAction="#handleNextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" onAction="#handleCancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+
+	</children>
+</AnchorPane>

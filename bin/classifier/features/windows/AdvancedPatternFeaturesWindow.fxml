@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.features.windows.AdvancedPatternFeaturesWindow">
+	<children>
+
+
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Advanced Pattern features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+
+		<!-- ############################### -->
+		<!--          Patterns Type          -->
+		<!-- ############################### -->
+
+		<Label layoutX="55.0" layoutY="105.0" text="Patterns Type" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="uniqueFeatures" layoutX="69.0" layoutY="133.0" mnemonicParsing="false" onAction="#handleUniqueFeaturesSelection" text="Unique features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfFeature" />
+			</toggleGroup>
+		</RadioButton>
+		
+		<Label layoutX="206.0" layoutY="133.0" text="Pattern length" />
+		<ComboBox fx:id="patternLength" layoutX="316.0" layoutY="129.0" prefHeight="25.0" prefWidth="76.0" promptText="length" />
+		
+		<RadioButton fx:id="summedFeatures" layoutX="69.0" layoutY="172.0" mnemonicParsing="false" onAction="#handleSummedFeaturesSelection" text="Summed" toggleGroup="$typeOfFeature">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+		
+		<Label layoutX="206.0" layoutY="172.0" text="Min pattern length" />
+		<ComboBox fx:id="minPatternLength" layoutX="316.0" layoutY="168.0" prefHeight="25.0" prefWidth="76.0" promptText="length" />
+		
+		<Label layoutX="414.0" layoutY="133.0" text="# Patterns per class" />
+		<TextField fx:id="numberOfPatternsPerClass" layoutX="525.0" layoutY="129.0" prefHeight="25.0" prefWidth="55.0" promptText="e.g. 50" />
+		
+		<Label layoutX="415.0" layoutY="172.0" text="Max pattern length" />
+		<ComboBox fx:id="maxPatternLength" layoutX="525.0" layoutY="168.0" prefHeight="25.0" prefWidth="76.0" promptText="length" />
+
+     	
+     	<!-- ############################### -->
+		<!--           Parameters            -->
+		<!-- ############################### -->
+		
+		<Label layoutX="55.0" layoutY="226.0" text="Parameters" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+      
+		<Label layoutX="77.0" layoutY="252.0" text="Min # of occurrences" />
+		<TextField fx:id="patternsMinOccurrence" layoutX="203.0" layoutY="248.0" prefHeight="25.0" prefWidth="42.0" />
+		
+		<Label layoutX="303.0" layoutY="252.0" text="alpha" />
+		<TextField fx:id="alpha" layoutX="348.0" layoutY="248.0" prefHeight="25.0" prefWidth="42.0" />
+
+		<Label layoutX="465.0" layoutY="252.0" text="gamma" />
+		<TextField fx:id="gamma" layoutX="522.0" layoutY="248.0" prefHeight="25.0" prefWidth="42.0" />
+		
+		
+      	<!-- ############################### -->
+		<!--             Buttons             -->
+		<!-- ############################### -->
+		
+		<Button fx:id="importBasicConfig" layoutX="215.0" layoutY="330.0" mnemonicParsing="false" onAction="#handleImportBasicConfig" prefHeight="25.0" prefWidth="211.0" text="Import basic patterns configuration" />
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />   
+
+		
+	</children>
+</AnchorPane>

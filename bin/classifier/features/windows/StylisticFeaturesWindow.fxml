@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.features.windows.StylisticFeaturesWindow">
+	<children>
+
+
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Stylistic and syntactic features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+
+		<!-- ############################### -->
+		<!--       Use of content words      -->
+		<!-- ############################### -->
+
+		<Label layoutX="55.0" layoutY="75.0" text="Use of content words" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="numberOfNouns" layoutX="55.0" layoutY="94.0" mnemonicParsing="false" text="Number of nouns" />
+		<CheckBox fx:id="ratioOfNouns" layoutX="55.0" layoutY="113.0" mnemonicParsing="false" text="Ratio of nouns" />
+		<CheckBox fx:id="numberOfVerbs" layoutX="55.0" layoutY="132.0" mnemonicParsing="false" text="Number of verbs" />
+		<CheckBox fx:id="ratioOfVerbs" layoutX="55.0" layoutY="151.0" mnemonicParsing="false" text="Ratio of verbs" />
+		<CheckBox fx:id="numberOfAdjectives" layoutX="55.0" layoutY="170.0" mnemonicParsing="false" text="Number of adjectives" />
+		<CheckBox fx:id="ratioOfAdjectives" layoutX="55.0" layoutY="189.0" mnemonicParsing="false" text="Ratio of adjectives" />
+		<CheckBox fx:id="numberOfAdverbs" layoutX="55.0" layoutY="208.0" mnemonicParsing="false" text="Number of adverbs" />
+		<CheckBox fx:id="ratioOfAdverbs" layoutX="55.0" layoutY="227.0" mnemonicParsing="false" text="Ratio of adverbs" />
+
+
+		<!-- ############################### -->
+		<!--            Syntactic            -->
+		<!-- ############################### -->
+
+		<Label layoutX="55.0" layoutY="259.0" text="Syntactic" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="useOfSymbols" layoutX="55.0" layoutY="278.0" mnemonicParsing="false" text="Use of symbols (e.g. &quot;#&quot;, &quot;&amp;&quot;)" />
+		<CheckBox fx:id="useOfComparativeForm" layoutX="55.0" layoutY="297.0" mnemonicParsing="false" text="Use of comparative form" />
+		<CheckBox fx:id="useOfSuperlativeForm" layoutX="55.0" layoutY="316.0" mnemonicParsing="false" text="Use of superlative form" />
+		<CheckBox fx:id="useOfProperNouns" layoutX="55.0" layoutY="334.0" mnemonicParsing="false" text="Use of proper nouns" />
+		
+		
+		<!-- ############################### -->
+		<!--           Use of words          -->
+		<!-- ############################### -->
+
+		<Label layoutX="331.0" layoutY="75.0" text="Use of words" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="totalNumberOfParticles" layoutX="331.0" layoutY="94.0" mnemonicParsing="false" text="Total number of particles" />
+		<CheckBox fx:id="averageNumberOfParticles" layoutX="331.0" layoutY="113.0" mnemonicParsing="false" text="Average Number of particles" />
+		<CheckBox fx:id="totalNumberOfInterjections" layoutX="331.0" layoutY="132.0" mnemonicParsing="false" text="Total number of interjections" />
+		<CheckBox fx:id="averageNumberOfInterjections" layoutX="331.0" layoutY="151.0" mnemonicParsing="false" text="Average number of interjections" />
+		<CheckBox fx:id="totalNumberOfPronouns" layoutX="331.0" layoutY="170.0" mnemonicParsing="false" text="Total number of prounouns" />
+		<CheckBox fx:id="averageNumberOfPronouns" layoutX="331.0" layoutY="189.0" mnemonicParsing="false" text="Average number of pronouns" />
+		<CheckBox fx:id="totalNumberOfPronounsGroup1" layoutX="331.0" layoutY="208.0" mnemonicParsing="false" text="Total number of pronouns of group I *" />
+		<CheckBox fx:id="averageNumberOfPronounsGroup1" layoutX="331.0" layoutY="227.0" mnemonicParsing="false" text="Average number of pronouns of group I *" />
+		<CheckBox fx:id="totalNumberOfPronounsGroup2" layoutX="331.0" layoutY="246.0" mnemonicParsing="false" text="Total number of pronouns of group II *" />
+		<CheckBox fx:id="averageNumberOfPronounsGroup2" layoutX="331.0" layoutY="265.0" mnemonicParsing="false" text="Average number of pronouns of group II *" />
+		<CheckBox fx:id="useOfNegation" layoutX="331.0" layoutY="285.0" mnemonicParsing="false" text="Use of negation" />
+		<CheckBox fx:id="useOfUncommonWords" layoutX="331.0" layoutY="304.0" mnemonicParsing="false" text="Use of uncommon words" />
+		<CheckBox fx:id="numberOfUncommonWords" layoutX="331.0" layoutY="323.0" mnemonicParsing="false" text="Number of uncommon words" />
+
+
+		<!-- ############################### -->
+		<!--             Buttons             -->
+		<!-- ############################### -->
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Label layoutX="21.0" layoutY="423.0" text="* Group I include the following pronouns: &quot;I, me, my, mine, you, your, yours, we, us, our, ours&quot;&#10;* Group II include the rest">
+			<font>
+				<Font size="10.0" />
+			</font>
+		</Label>
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+
+
+	</children>
+</AnchorPane>

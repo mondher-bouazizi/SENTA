@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classification.help.HelpWindow">
+	<children>
+		<Label fx:id="featureSetTitle" layoutX="20.0" layoutY="34.0" text="Sentiment-related features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label fx:id="pageReference" layoutX="602.0" layoutY="34.0" text="1/3" />
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+		
+		<VBox fx:id="helpLabel" layoutX="20.0" layoutY="75.0" prefHeight="330.0" prefWidth="600.0" />
+		
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+		
+		<Button fx:id="ok" onAction="#handleOk" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" prefWidth="55.0" text="OK" />
+		<Button fx:id="next" onAction="#handleNext" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" prefWidth="55.0" text="Next" />
+		<Button fx:id="back" onAction="#handleBack" layoutX="428.0" layoutY="438.0" mnemonicParsing="false" prefWidth="55.0" text="Back" />
+
+	</children>
+</AnchorPane>

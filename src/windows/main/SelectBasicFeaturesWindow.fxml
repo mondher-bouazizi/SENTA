@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.SelectBasicFeaturesWindow">
+         <children>
+
+         	<Label layoutX="22.0" layoutY="24.0" text="Select the sets of features you want to use. To customize each set of features, click &quot;Customize&quot;:" />
+            <Separator layoutX="20.0" layoutY="58.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+            <!-- ****************************************** -->
+			<!--          Sentiment Related Features        -->
+            <!-- ****************************************** -->
+            <CheckBox fx:id="sentimentRelatedFeatures" layoutX="41.0" layoutY="80.0" mnemonicParsing="false" text="Sentiment-related features">
+                <font>
+            		<Font name="System Bold" size="12.0" />
+        		</font>
+      		</CheckBox>
+			<Button fx:id="sentimentRelatedFeaturesHelp" layoutX="221.0" layoutY="80.0" mnemonicParsing="false" onAction="#handleSentimentRelatedFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+            <Label fx:id="numberOfSentimentFeaturesLabel" layoutX="578.0" layoutY="80.0" text="000" textAlignment="RIGHT" />
+            <Label layoutX="609.0" layoutY="80.0" text="Features" />
+            <Button fx:id="sentimentRelatedFeaturesCustomize" layoutX="708.0" layoutY="75.0" mnemonicParsing="false" onAction="#handleSentimentRelatedFeaturesCustomize" text="Customize" />
+            <Separator layoutX="20.0" layoutY="117.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+			<!-- ****************************************** -->
+			<!--        Punctuation-related features        -->
+			<!-- ****************************************** -->
+            <CheckBox fx:id="punctuationFeatures" layoutX="42.0" layoutY="139.0" mnemonicParsing="false" text="Punctuation features">
+                <font>
+            		<Font name="System Bold" size="12.0" />
+        		</font>
+      		</CheckBox>
+			<Button fx:id="punctuationFeaturesHelp" layoutX="187.0" layoutY="139.0" mnemonicParsing="false" onAction="#handlePunctuationFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+            <Label fx:id="numberOfPunctuationFeaturesLabel" layoutX="578.0" layoutY="139.0" text="111" textAlignment="RIGHT" />
+            <Label layoutX="609.0" layoutY="139.0" text="Features" />
+            <Button fx:id="punctuationFeaturesCustomize" layoutX="708.0" layoutY="136.0" mnemonicParsing="false" onAction="#handlePunctuationFeaturesCustomize" text="Customize" />
+            <Separator layoutX="20.0" layoutY="296.0" prefHeight="0.0" prefWidth="760.0" />
+            
+            
+            <!-- ****************************************** -->
+			<!--      Syntactic and stylistic features      -->
+			<!-- ****************************************** -->
+			<CheckBox fx:id="stylisticFeatures" layoutX="43.0" layoutY="198.0" mnemonicParsing="false" text="Syntactic and stylistic features">
+				<font>
+					<Font name="System Bold" size="12.0" />
+				</font>
+			</CheckBox>
+			<Button fx:id="stylisticFeaturesHelp" layoutX="240.0" layoutY="198.0" mnemonicParsing="false" onAction="#handleStylisticFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+      		<Label fx:id="numberOfStylisticFeaturesLabel" layoutX="578.0" layoutY="198.0" text="555" textAlignment="RIGHT" />
+      		<Label layoutX="609.0" layoutY="198.0" text="Features" />
+            <Button fx:id="stylisticFeaturesCustomize" layoutX="708.0" layoutY="195.0" mnemonicParsing="false" onAction="#handleStylisticFeaturesCustomize" text="Customize" />
+            
+            <Separator layoutX="20.0" layoutY="177.0" prefHeight="0.0" prefWidth="760.0" />
+            
+            
+            <!-- ****************************************** -->
+			<!--              Semantic features             -->
+			<!-- ****************************************** -->
+			<CheckBox fx:id="semanticFeatures" layoutX="43.0" layoutY="259.0" mnemonicParsing="false" text="Semantic features">
+				<font>
+					<Font name="System Bold" size="12.0" />
+				</font>
+			</CheckBox>
+			<Button fx:id="semanticFeaturesHelp" layoutX="171.0" layoutY="258.0" mnemonicParsing="false" onAction="#handleSemanticFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+			<Label fx:id="numberOfSemanticFeaturesLabel" layoutX="578.0" layoutY="260.0" text="666" textAlignment="RIGHT" />
+			<Label layoutX="609.0" layoutY="259.0" text="Features" />
+            <Button fx:id="semanticFeaturesCustomize" layoutX="708.0" layoutY="255.0" mnemonicParsing="false" onAction="#handleSemanticFeaturesCustomize" text="Customize" />
+			
+			<Separator layoutX="20.0" layoutY="237.0" prefHeight="0.0" prefWidth="760.0" />
+			
+            <!-- ****************************************** -->
+			<!--            Unigram features                -->
+			<!-- ****************************************** -->
+            <CheckBox fx:id="unigramFeatures" layoutX="43.0" layoutY="317.0" mnemonicParsing="false" text="Unigram features">
+                <font>
+            		<Font name="System Bold" size="12.0" />
+        		</font>
+      		</CheckBox>
+			<Button fx:id="unigramFeaturesHelp" layoutX="169.0" layoutY="317.0" mnemonicParsing="false" onAction="#handleUnigramFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+            <Label fx:id="numberOfUnigramFeaturesLabel" layoutX="578.0" layoutY="318.0" text="222" textAlignment="RIGHT" />
+            <Label layoutX="609.0" layoutY="318.0" text="Features" />
+            <Button fx:id="unigramFeaturesCustomize" layoutX="708.0" layoutY="314.0" mnemonicParsing="false" onAction="#handleUnigramFeaturesCustomize" text="Customize" />
+            <Separator layoutX="20.0" layoutY="356.0" prefHeight="0.0" prefWidth="760.0" />
+            
+            
+            <!-- ****************************************** -->
+			<!--                  Top Words                 -->
+			<!-- ****************************************** -->
+            <CheckBox fx:id="topWordsFeatures" layoutX="43.0" layoutY="378.0" mnemonicParsing="false" text="Top words">
+         		<font>
+            		<Font name="System Bold" size="12.0" />
+         		</font>
+      		</CheckBox>
+      		<Button fx:id="topWordsFeaturesHelp" layoutX="131.0" layoutY="377.0" mnemonicParsing="false" onAction="#handleTopWordsFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+         		<font>
+            		<Font size="8.0" />
+         		</font>
+      		</Button>
+      		<Label fx:id="numberOfTopWordsFeaturesLabel" layoutX="578.0" layoutY="379.0" text="333" textAlignment="RIGHT" />
+      		<Label layoutX="609.0" layoutY="379.0" text="Features" />
+            <Button fx:id="topWordsFeaturesCustomize" layoutX="708.0" layoutY="374.0" mnemonicParsing="false" onAction="#handleTopWordsFeaturesCustomize" text="Customize" />
+            <Separator layoutX="20.0" layoutY="417.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+            <!-- ****************************************** -->
+			<!--          Pattern-related features          -->
+			<!-- ****************************************** -->
+            <CheckBox fx:id="patternFeatures" layoutX="41.0" layoutY="439.0" mnemonicParsing="false" text="Pattern-related features">
+                <font>
+            		<Font name="System Bold" size="12.0" />
+        		</font>
+      		</CheckBox>
+            <Button fx:id="patternFeaturesHelp" layoutX="205.0" layoutY="438.0" mnemonicParsing="false" onAction="#handlePatternFeaturesHelp" prefHeight="18.0" prefWidth="11.0" text="?">
+				<font>
+					<Font size="8.0" />
+				</font>
+			</Button>
+			<Label fx:id="numberOfPatternFeaturesLabel" layoutX="578.0" layoutY="438.0" text="444" textAlignment="RIGHT" />
+            <Label layoutX="609.0" layoutY="438.0" text="Features" />
+            <Button fx:id="patternFeaturesCustomize" layoutX="708.0" layoutY="435.0" mnemonicParsing="false" onAction="#handlePatternFeaturesCustomize" text="Customize" />
+            
+            <Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+		
+		    <!-- ****************************************** -->
+			<!--              More coming soon              -->
+			<!-- ****************************************** -->
+			<Separator layoutX="20.0" layoutY="477.0" prefHeight="0.0" prefWidth="760.0" />
+			<Label layoutX="41.0" layoutY="503.0" text="More (Coming soon...)" />
+			
+		
+			<!-- ##################### -->
+			<!--        Buttons        -->
+			<!-- ##################### -->
+	
+			<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+			<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+			<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+			
+			<Button fx:id="importButton" layoutX="41.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleImportButton" prefHeight="25.0" prefWidth="72.0" text="Import" />
+			<Button fx:id="exportButton" layoutX="128.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleExportButton" prefHeight="25.0" prefWidth="72.0" text="Export" />
+
+            
+ 		</children>
+</AnchorPane>

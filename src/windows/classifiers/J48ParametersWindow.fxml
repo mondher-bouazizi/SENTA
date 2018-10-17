@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="700.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.classifiers.J48ParametersWindow">
+	<children>
+		<!-- ########################### -->
+		<!--            title            -->
+		<!-- ########################### -->
+		
+		<Label layoutX="20.0" layoutY="8.0" text="Customize Parameters">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Separator layoutX="20.0" layoutY="32.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<!-- ########################### -->
+		<!--          Parameters         -->
+		<!-- ########################### -->
+		
+		<Label layoutX="146.0" layoutY="47.0" text="Batch size" />
+		<Label layoutX="141.0" layoutY="80.0" text="Binary split" />
+		<Label layoutX="130.0" layoutY="113.0" text="Collapse tree" />
+		<Label layoutX="105.0" layoutY="146.0" text="Confidence factor" />
+		<Label layoutX="163.0" layoutY="179.0" text="Debug" />
+		<Label layoutX="66.0" layoutY="214.0" text="Do not check capabilities" />
+		<Label layoutX="8.0" layoutY="247.0" text="Do not make split point actual value" />
+		<Label layoutX="129.0" layoutY="280.0" text="Min num Obj" />
+		<Label layoutX="91.0" layoutY="313.0" text="Num Decimal Places" />
+		<Label layoutX="143.0" layoutY="346.0" text="Num folds" />
+		<Label layoutX="85.0" layoutY="379.0" text="Reduce error pruning" />
+		<Label layoutX="101.0" layoutY="412.0" text="Save instance data" />
+		<Label layoutX="173.0" layoutY="445.0" text="Seed" textFill="#304bff" />
+		<Label layoutX="113.0" layoutY="478.0" text="Sub-tree raising" />
+		<Label layoutX="144.0" layoutY="511.0" text="Unpruned" />
+		<Label layoutX="135.0" layoutY="544.0" text="Use Laplace" />
+		<Label layoutX="91.0" layoutY="577.0" text="Use MDL Correction" />
+		
+		<TextField fx:id="batchSizeField" layoutX="210.0" layoutY="43.0" prefHeight="25.0" prefWidth="241.0" promptText="batchSize" />
+		<ToggleButton fx:id="binarySplitButton" layoutX="210.0" layoutY="76.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="collapseTreeButton" layoutX="210.0" layoutY="109.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<TextField fx:id="confidenceFactorField" layoutX="210.0" layoutY="142.0" prefHeight="25.0" prefWidth="241.0" promptText="confidenceFactor" />
+		<ToggleButton fx:id="debugButton" layoutX="210.0" layoutY="175.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="doNotCheckCapabilitiesButton" layoutX="210.0" layoutY="210.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="doNotMakeSplitPAVButton" layoutX="210.0" layoutY="243.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<TextField fx:id="minNumObjField" layoutX="210.0" layoutY="276.0" prefHeight="25.0" prefWidth="241.0" promptText="minNumObj" />
+		<TextField fx:id="numDecimalPlacesField" layoutX="210.0" layoutY="309.0" prefHeight="25.0" prefWidth="241.0" promptText="numDecimalPlaces" />
+		<TextField fx:id="numFoldsField" layoutX="210.0" layoutY="342.0" prefHeight="25.0" prefWidth="241.0" promptText="numExecutionSlots" />
+		<ToggleButton fx:id="reduceErrorPruningButton" layoutX="210.0" layoutY="375.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="saveInstanceDataButton" layoutX="210.0" layoutY="408.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<TextField fx:id="seedField" layoutX="209.0" layoutY="441.0" prefHeight="25.0" prefWidth="241.0" promptText="seed" />
+		<ToggleButton fx:id="subTreeRaisingButton" layoutX="209.0" layoutY="474.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="unprunedButton" layoutX="209.0" layoutY="507.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="useLaplaceButton" layoutX="209.0" layoutY="540.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="useMDLcorrectionButton" layoutX="209.0" layoutY="573.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		
+		<!-- ########################### -->
+		<!--           Buttons           -->
+		<!-- ########################### -->
+		
+		<Separator layoutX="20.0" layoutY="656.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<Button fx:id="def" layoutX="116.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="60.0" text="Default" />
+		<Button fx:id="ok" layoutX="219.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleOk" prefHeight="25.0" prefWidth="60.0" text="OK" />
+		<Button fx:id="cancel" layoutX="324.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="25.0" prefWidth="60.0" text="Cancel" />	
+
+	</children>
+</AnchorPane>

@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\To test SENTA\New\New-Config.senta
+C:\Users\admin\Desktop\tweetDataforNNwithPattern\hate_speech_1\hate_speech_1-Config.senta
+C:\Users\admin\Desktop\for test\Quantif\Test_Q13\Test_Q13-Config.senta
+C:\Users\admin\Desktop\for test\Quantif\Test_Q11\Test_Q11-Config.senta
+C:\Users\admin\Desktop\for test\Quantif\Test_Q9\Test_Q9-Config.senta
+C:\Users\admin\Desktop\for test\Test_5\Test_5-Config.senta
+C:\Users\admin\Desktop\Project\Project\Project-Config.senta
+C:\Users\admin\Desktop\Project\lol\lol-Config.senta
+C:\Users\admin\Desktop\for test\Test_1\Test_1-Config.senta
+C:\Users\admin\Desktop\for test\Quantif\Test_Q10\Test_Q10-Config.senta
+C:\Users\admin\Desktop\tweetDataforNNwithPattern\Hate_speech_01\Hate_speech_01-Config.senta

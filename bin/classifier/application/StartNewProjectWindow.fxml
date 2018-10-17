@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.application.StartNewProjectWindow">
+	<children>
+
+		<Label layoutX="22.0" layoutY="24.0" text="Select your training set file locations and choose whether you want to use a test set or a set of unknow data" />
+		
+		<Separator layoutX="20.0" layoutY="58.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+		<!-- ##################### -->
+		<!--      Training set     -->
+		<!-- ##################### -->
+		
+		<Label layoutX="36.0" layoutY="74.0" text="Training set" textFill="GREEN">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<TextField fx:id="trainingSetLocation" layoutX="36.0" layoutY="100.0" prefHeight="25.0" prefWidth="500.0" />
+		<Button fx:id="trainingSetSelect" layoutX="549.0" layoutY="100.0" mnemonicParsing="false" onAction="#handleTrainingSetSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label layoutX="633.0" layoutY="104.0" text="Status:" />
+		<Label fx:id="trainingSetStatus" layoutX="682.0" layoutY="104.0" text="Non Valid">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font>
+         </Label>
+
+
+		<!-- ##################### -->
+		<!--        Test set       -->
+		<!-- ##################### -->
+		<RadioButton fx:id="testSetRadio" layoutX="34.0" layoutY="143.0" mnemonicParsing="false" onAction="#handleTestSetRadio" text="Test set" textFill="BLACK">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+			<toggleGroup>
+				<ToggleGroup fx:id="set" />
+			</toggleGroup>
+		</RadioButton>
+		<TextField fx:id="testSetLocation" layoutX="34.0" layoutY="169.0" prefHeight="25.0" prefWidth="500.0" />
+		<Button fx:id="testSetSelect" layoutX="551.0" layoutY="169.0" mnemonicParsing="false" onAction="#handleTestSetSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+		
+		<Label fx:id="testSetStatusText" layoutX="633.0" layoutY="173.0" text="Status:" />
+		<Label fx:id="testSetStatus" layoutX="682.0" layoutY="173.0" text="Non Valid">
+			<font>
+	            <Font name="System Bold" size="12.0" />
+	         </font>
+         </Label>
+		
+		
+		<!-- ##################### -->
+		<!--   non-annotated set   -->
+		<!-- ##################### -->
+		<RadioButton fx:id="nonAnnotatedSetRadio" layoutX="33.0" layoutY="212.0" mnemonicParsing="false" onAction="#handleNonAnnotatedSetRadio" text="Non-annotated set" textFill="BLACK" toggleGroup="$set">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+		<TextField fx:id="nonAnnotatedSetLocation" layoutX="34.0" layoutY="238.0" prefHeight="25.0" prefWidth="500.0" />
+		<Button fx:id="nonAnnotatedSetSelect" layoutX="551.0" layoutY="238.0" mnemonicParsing="false" onAction="#handlenonAnnotatedSetSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+		
+		<Label fx:id="nonAnnotatedSetStatusText" layoutX="633.0" layoutY="242.0" text="Status:" />
+		<Label fx:id="nonAnnotatedSetStatus" layoutX="682.0" layoutY="242.0" text="Non Valid">
+			<font>
+	            <Font name="System Bold" size="12.0" />
+	         </font>
+         </Label>
+		
+		
+		<!-- ##################### -->
+		<!--        Classes        -->
+		<!-- ##################### -->
+		
+		<Button fx:id="load" layoutX="353.0" layoutY="281.0" mnemonicParsing="false" onAction="#handleLoad" prefHeight="25.0" prefWidth="95.0" text="Load classes" />
+		
+		<Separator layoutX="20.0" layoutY="315.0" prefHeight="0.0" prefWidth="760.0" />
+		
+		<Label layoutX="22.0" layoutY="325.0" prefHeight="17.0" prefWidth="708.0" text="(Note. By clicking on &quot;Load&quot; the list of classes found on the training set will be automatically added, however you can still add others)" />
+		
+		<Label layoutX="160.0" layoutY="501.0" text="Add another class" />
+		<TextField fx:id="classField" layoutX="260.0" layoutY="497.0" prefHeight="25.0" prefWidth="122.0" promptText="e.g. Happiness" />
+		<Button fx:id="add" layoutX="389.0" layoutY="497.0" mnemonicParsing="false" onAction="#handleAdd" text="Add" />
+		
+		<Label layoutX="536.0" layoutY="501.0" text="Clear list" />
+		
+		<Button fx:id="clear" layoutX="588.0" layoutY="497.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="52.0" text="Clear" />
+
+		<VBox fx:id="classesOuterBorder" layoutX="160.0" layoutY="351.0" prefHeight="136.0" prefWidth="480.0" spacing="8.0" style="-fx-border-color: #d0d0d0; -fx-border-width: 1; -fx-border-style: solid;" AnchorPane.leftAnchor="160.0">
+			<padding>
+				<Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+			</padding>
+			<children>
+				<Label prefHeight="17.0" prefWidth="46.0" text="Classes" />
+			</children>
+		</VBox>
+		
+
+		<!-- ##################### -->
+		<!--        Buttons        -->
+		<!-- ##################### -->
+
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+		
+	</children>
+</AnchorPane>

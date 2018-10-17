@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.features.windows.customunigrams.CustomUnigramsWindow">
+	<children>
+		<!-- ########################### -->
+		<!--            title            -->
+		<!-- ########################### -->
+		<Label layoutX="20.0" layoutY="15.0" text="Add / remove unigrams">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Separator layoutX="20.0" layoutY="43.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		
+		<!-- ########################### -->
+		<!--          add word           -->
+		<!-- ########################### -->
+
+		<Label layoutX="54.0" layoutY="49.0" text="Word" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="147.0" layoutY="49.0" text="Part of Speech" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="299.0" layoutY="49.0" text="Class" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<TextField fx:id="wordField" layoutX="24.0" layoutY="68.0" prefHeight="25.0" prefWidth="91.0" promptText="word..." />
+		<ComboBox fx:id="posChoice" layoutX="137.0" layoutY="68.0" prefHeight="25.0" prefWidth="101.0" promptText="Part of Speech..." />
+		<ComboBox fx:id="classChoice" layoutX="263.0" layoutY="68.0" prefHeight="25.0" prefWidth="101.0" promptText="Class..." />
+		<Button fx:id="addButton" layoutX="389.0" layoutY="68.0" mnemonicParsing="false" onAction="#handleAdd" prefHeight="25.0" prefWidth="68.0" text="Add" />
+
+		<!-- ########################### -->
+		<!--    Container of the table   -->
+		<!-- ########################### -->
+
+		<VBox fx:id="tableLayout" layoutX="24.0" layoutY="103.0" prefHeight="209.0" prefWidth="433.0" />
+		<Button fx:id="removeButton" layoutX="391.0" layoutY="321.0" mnemonicParsing="false" onAction="#handleRemove" prefHeight="25.0" prefWidth="68.0" text="Remove" />
+
+		<Label layoutX="26.0" layoutY="325.0" text="Filter" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<ComboBox fx:id="filterClassChoice" layoutX="66.0" layoutY="321.0" prefHeight="25.0" prefWidth="101.0" promptText="Class..." />
+
+		<Button fx:id="filterButton" layoutX="178.0" layoutY="321.0" mnemonicParsing="false" onAction="#handleFilterButton" prefHeight="25.0" prefWidth="47.0" text="Filter" />
+
+		<!-- ########################### -->
+		<!--           Buttons           -->
+		<!-- ########################### -->
+
+		<Separator layoutX="20.0" layoutY="356.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<Button fx:id="ok" layoutX="166.0" layoutY="366.0" mnemonicParsing="false" onAction="#handleOk" prefHeight="25.0" prefWidth="60.0" text="OK" />
+		<Button fx:id="cancel" layoutX="253.0" layoutY="366.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="25.0" prefWidth="60.0" text="Cancel" />
+      	
+	</children>
+</AnchorPane>

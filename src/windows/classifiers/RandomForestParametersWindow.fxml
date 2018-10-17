@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="700.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.classifiers.RandomForestParametersWindow">
+	<children>
+		<!-- ########################### -->
+		<!--            title            -->
+		<!-- ########################### -->
+		
+		<Label layoutX="20.0" layoutY="8.0" text="Customize Parameters">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Separator layoutX="20.0" layoutY="32.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		
+		<!-- ########################### -->
+		<!--          parameters         -->
+		<!-- ########################### -->
+		
+		<Label layoutX="113.0" layoutY="51.0" text="Bag size percent" />
+		<Label layoutX="146.0" layoutY="85.0" text="Batch size" />
+		<Label layoutX="94.0" layoutY="118.0" text="Break ties randomly" />
+		<Label layoutX="118.0" layoutY="151.0" text="Calc out of bag" />
+		<Label layoutX="37.0" layoutY="184.0" text="Compute attribute importance" />
+		<Label layoutX="163.0" layoutY="218.0" text="Debug" />
+		<Label layoutX="66.0" layoutY="253.0" text="Do not check capabilities" />
+		<Label layoutX="140.0" layoutY="287.0" text="Max Depth" textFill="#304bff" />
+		<Label layoutX="91.0" layoutY="320.0" text="Num Decimal Places" />
+		<Label layoutX="89.0" layoutY="353.0" text="Num Execution Slots" />
+		<Label layoutX="124.0" layoutY="386.0" text="Num Features" textFill="#304bff" />
+		<Label layoutX="119.0" layoutY="418.0" text="Num Iterations" textFill="#304bff" />
+		<Label layoutX="11.0" layoutY="452.0" text="Output Out of bag complexity stats" />
+		<Label layoutX="119.0" layoutY="485.0" text="Print Classifiers" />
+		<Label layoutX="173.0" layoutY="518.0" text="Seed" textFill="#304bff" />
+		<Label layoutX="110.0" layoutY="551.0" text="Store Out of Bag" />
+		
+		
+		
+		<TextField fx:id="bagSizePercentField" layoutX="210.0" layoutY="47.0" prefHeight="25.0" prefWidth="241.0" promptText="bagSizePercent" />
+		<TextField fx:id="batchSizeField" layoutX="210.0" layoutY="81.0" prefHeight="25.0" prefWidth="241.0" promptText="batchSize" />
+		
+		<ToggleButton fx:id="breakTizeRandomlyButton" layoutX="210.0" layoutY="114.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="calcOutOfBagButton" layoutX="210.0" layoutY="147.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="computeAttributeImportanceButton" layoutX="210.0" layoutY="180.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="debugButton" layoutX="210.0" layoutY="214.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="doNotCheckCapabilitiesButton" layoutX="210.0" layoutY="249.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		
+		<TextField fx:id="maxDepthField" layoutX="210.0" layoutY="283.0" prefHeight="25.0" prefWidth="241.0" promptText="maxDepth" />
+		<TextField fx:id="numDecimalPlacesField" layoutX="210.0" layoutY="316.0" prefHeight="25.0" prefWidth="241.0" promptText="numDecimalPlaces" />
+		<TextField fx:id="numExecutionSlotsField" layoutX="210.0" layoutY="349.0" prefHeight="25.0" prefWidth="241.0" promptText="numExecutionSlots" />
+		<TextField fx:id="numFeaturesField" layoutX="210.0" layoutY="382.0" prefHeight="25.0" prefWidth="241.0" promptText="numFeatures" />
+		<TextField fx:id="numIterationsField" layoutX="210.0" layoutY="414.0" prefHeight="25.0" prefWidth="241.0" promptText="numIterations" />
+		
+		<ToggleButton fx:id="outputComplexityStatsButton" layoutX="210.0" layoutY="481.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="printClassifierButton" layoutX="210.0" layoutY="448.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		
+		<TextField fx:id="seedField" layoutX="209.0" layoutY="514.0" prefHeight="25.0" prefWidth="241.0" promptText="seed" />
+		
+		<ToggleButton fx:id="storeOutOfBagButton" layoutX="209.0" layoutY="547.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		
+		<!-- ########################### -->
+		<!--           Buttons           -->
+		<!-- ########################### -->
+		
+		<Separator layoutX="20.0" layoutY="656.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<Button fx:id="def" layoutX="116.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="60.0" text="Default" />
+		<Button fx:id="ok" layoutX="219.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleOk" prefHeight="25.0" prefWidth="60.0" text="OK" />
+		<Button fx:id="cancel" layoutX="324.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="25.0" prefWidth="60.0" text="Cancel" />
+		
+		
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+
+      
+
+		
+
+	</children>
+</AnchorPane>

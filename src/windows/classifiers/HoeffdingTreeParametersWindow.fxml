@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="700.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.classifiers.HoeffdingTreeParametersWindow">
+	<children>
+		<!-- ########################### -->
+		<!--            title            -->
+		<!-- ########################### -->
+		
+		<Label layoutX="20.0" layoutY="8.0" text="Customize Parameters">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Separator layoutX="20.0" layoutY="32.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<!-- ########################### -->
+		<!--          Parameters         -->
+		<!-- ########################### -->
+		
+		<Label layoutX="146.0" layoutY="54.0" text="Batch size" />
+		<Label layoutX="163.0" layoutY="87.0" text="Debug" />
+		<Label layoutX="66.0" layoutY="120.0" text="Do not check capabilities" />
+		<Label layoutX="130.0" layoutY="153.0" text="Grace period" />
+		<Label layoutX="75.0" layoutY="185.0" text="Hoeffding tie threshold" />
+		<Label layoutX="74.0" layoutY="218.0" text="Leaf prediction strategy" />
+		<Label layoutX="31.0" layoutY="251.0" text="Min fraction of weight info gain" />
+		<Label layoutX="24.0" layoutY="284.0" text="Naive Bayes prediction threshold" />
+		<Label layoutX="89.0" layoutY="317.0" text="Num Decimal Places" />
+		<Label layoutX="106.0" layoutY="349.0" text="Print leaf models" />
+		<Label layoutX="113.0" layoutY="382.0" text="Split confidence" />
+		<Label layoutX="125.0" layoutY="415.0" text="Split criterion" />
+			
+		
+		
+		
+		
+		<TextField fx:id="batchSizeField" layoutX="210.0" layoutY="50.0" prefHeight="25.0" prefWidth="241.0" promptText="batchSize" />
+		<ToggleButton fx:id="debugButton" layoutX="210.0" layoutY="83.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<ToggleButton fx:id="doNotCheckCapabilitiesButton" layoutX="210.0" layoutY="116.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		
+		<TextField fx:id="gracePeriodField" layoutX="210.0" layoutY="149.0" prefHeight="25.0" prefWidth="241.0" promptText="gracePeriod" />
+		<TextField fx:id="hoeffdingTieThresholdField" layoutX="210.0" layoutY="181.0" prefHeight="25.0" prefWidth="241.0" promptText="hoeffdingTieThreshold" />
+		<ComboBox fx:id="leafPredictionStrategyCombo" layoutX="210.0" layoutY="214.0" prefHeight="25.0" prefWidth="241.0" />
+		<TextField fx:id="minimumFractionOfWeightInfoGainField" layoutX="210.0" layoutY="247.0" prefHeight="25.0" prefWidth="241.0" promptText="minimumFractionOfWeightInfoGain" />
+		<TextField fx:id="naiveBayesPredictionThresholdField" layoutX="210.0" layoutY="280.0" prefHeight="25.0" prefWidth="241.0" promptText="naiveBayesPredictionThreshold" />
+		<TextField fx:id="numDecimalPlacesField" layoutX="210.0" layoutY="313.0" prefHeight="25.0" prefWidth="241.0" promptText="numDecimalPlaces" />
+		<ToggleButton fx:id="printLeafModelButton" layoutX="209.0" layoutY="345.0" mnemonicParsing="false" onAction="#handleToggleButtons" prefHeight="25.0" prefWidth="108.0" text="False" />
+		<TextField fx:id="splitConfidenceField" layoutX="209.0" layoutY="378.0" prefHeight="25.0" prefWidth="241.0" promptText="splitCondifence" />
+		<ComboBox fx:id="splitCriterionCombo" layoutX="210.0" layoutY="411.0" prefHeight="25.0" prefWidth="241.0" />
+		
+		<!-- ########################### -->
+		<!--           Buttons           -->
+		<!-- ########################### -->
+		
+		<Separator layoutX="20.0" layoutY="656.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<Button fx:id="def" layoutX="116.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="60.0" text="Default" />
+		<Button fx:id="ok" layoutX="219.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleOk" prefHeight="25.0" prefWidth="60.0" text="OK" />
+		<Button fx:id="cancel" layoutX="324.0" layoutY="666.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="25.0" prefWidth="60.0" text="Cancel" />
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+		
+		
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+      
+      
+      
+      
+      
+
+      
+
+		
+
+	</children>
+</AnchorPane>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.RadioButton?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.QuantifierWindow">
+	<children>
+
+		<!-- ================================ -->
+		<!--             Features             -->
+		<!-- ================================ -->
+		
+		<Label layoutX="80.0" layoutY="11.0" prefHeight="39.0" prefWidth="696.0" text="Please choose the features you want to use for quantification and the coffecients you want to input for each one. You can choose &quot;Automatic&quot; and let SENTA find the optimal combinations for you." textAlignment="JUSTIFY" wrapText="true" />
+		
+		<Label layoutX="17.0" layoutY="11.0" text="Features" textFill="#1100ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="unigramsCheckBox" layoutX="80.0" layoutY="63.0" mnemonicParsing="false" text="Unigrams" />
+		<TextField fx:id="unigramCoef" layoutX="184.0" layoutY="59.0" prefHeight="25.0" prefWidth="41.0" />
+		
+		<CheckBox fx:id="basicPatternsCheckBox" layoutX="80.0" layoutY="94.0" mnemonicParsing="false" text="Basic Patterns" />
+		<TextField fx:id="basicPatternsCoef" layoutX="184.0" layoutY="90.0" prefHeight="25.0" prefWidth="41.0" />
+		
+		<CheckBox fx:id="advancedPatternsCheckBox" layoutX="363.0" layoutY="62.0" mnemonicParsing="false" text="Advanced Patterns" />
+		<TextField fx:id="advancedPatternsCoef" layoutX="492.0" layoutY="59.0" prefHeight="25.0" prefWidth="41.0" />
+
+		<Label fx:id="quantifThresholdLabel" layoutX="417.0" layoutY="95.0" prefHeight="17.0" prefWidth="65.0" text="Threshold" />
+		
+		<TextField fx:id="quantifThreshold" layoutX="492.0" layoutY="91.0" prefHeight="25.0" prefWidth="41.0" />
+
+		<Label layoutX="615.0" layoutY="78.0" text="Automatic Optim." />
+		<ToggleButton fx:id="automaticChoices" layoutX="719.0" layoutY="67.0" onAction="#handleToggleButtons" prefHeight="39.0" prefWidth="49.0" text="Off" />
+
+		<Button fx:id="startButton" layoutX="353.0" layoutY="121.0" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="25.0" prefWidth="81.0" text="Start" />
+		
+		
+		<!-- ================================ -->
+		<!--              Output              -->
+		<!-- ================================ -->
+		
+		<Label layoutX="16.0" layoutY="166.0" text="Output" textFill="#1100ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="outputPrediction" layoutX="666.0" layoutY="166.0" mnemonicParsing="false" prefHeight="17.0" prefWidth="130.0" text="Output predictions" />		
+
+		<TextArea fx:id="output" layoutX="11.0" layoutY="194.0" prefHeight="344.0" prefWidth="780.0">
+			<font>
+				<Font name="Consolas" size="10.0" />
+			</font>
+		</TextArea>
+
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+
+
+		<!-- ================================ -->
+		<!--             Buttons              -->
+		<!-- ================================ -->
+
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+
+		<Separator layoutX="11.0" layoutY="155.0" prefWidth="780.0" />
+
+      
+		
+	</children>
+</AnchorPane>

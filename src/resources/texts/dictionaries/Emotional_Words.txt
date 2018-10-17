@@ -1,0 +1,9348 @@
+acrimony	ANGER	2
+bitterness	ANGER	2
+acerbity	ANGER	1
+jaundice	ANGER	1
+tartness	ANGER	1
+thorniness	ANGER	1
+aggravate	ANGER	3
+worsen	ANGER	3
+exacerbate	ANGER	1
+exasperate	ANGER	2
+irritate	ANGER	3
+inflame	ANGER	2
+degrade	ANGER	3
+cheapen	ANGER	2
+chafe	ANGER	2
+gall	ANGER	2
+fret	ANGER	3
+rub	ANGER	1
+scratch	ANGER	1
+itch	ANGER	1
+devalue	ANGER	1
+devaluate	ANGER	1
+agitate	ANGER	2
+foment	ANGER	1
+stir up	ANGER	1
+rumpus	ANGER	1
+rouse	ANGER	1
+turn on	ANGER	1
+charge	ANGER	2
+commove	ANGER	1
+excite	ANGER	3
+charge up	ANGER	1
+hype up	ANGER	1
+psych up	ANGER	1
+bother	ANGER	2
+pother	ANGER	1
+electrify	ANGER	1
+crusade	ANGER	1
+fight	ANGER	3
+press	ANGER	1
+campaign	ANGER	1
+push	ANGER	1
+stir	ANGER	1
+shift	ANGER	1
+budge	ANGER	1
+shake	ANGER	2
+fluff up	ANGER	1
+plump up	ANGER	1
+shake up	ANGER	1
+tremble	ANGER	3
+tremor	ANGER	1
+quake	ANGER	1
+palpitate	ANGER	1
+convulse	ANGER	1
+sparge	ANGER	1
+succuss	ANGER	1
+concuss	ANGER	1
+rattle	ANGER	1
+thresh	ANGER	1
+thresh about	ANGER	1
+thrash	ANGER	2
+thrash about	ANGER	1
+slash	ANGER	2
+toss	ANGER	1
+jactitate	ANGER	1
+jiggle	ANGER	1
+joggle	ANGER	1
+wiggle	ANGER	1
+winnow	ANGER	1
+shudder	ANGER	1
+shiver	ANGER	2
+throb	ANGER	1
+thrill	ANGER	4
+quiver	ANGER	1
+whip	ANGER	2
+wag	ANGER	1
+waggle	ANGER	1
+vex	ANGER	3
+disturb	ANGER	2
+raise up	ANGER	1
+beat	ANGER	1
+scramble	ANGER	1
+roil	ANGER	1
+rile	ANGER	1
+poke	ANGER	1
+whisk	ANGER	1
+cream	ANGER	1
+tumble	ANGER	1
+muddle	ANGER	2
+puddle	ANGER	1
+anger	ANGER	4
+choler	ANGER	1
+ire	ANGER	1
+fury	ANGER	4
+shit	ANGER	4
+rage	ANGER	4
+madness	ANGER	2
+infuriation	ANGER	1
+enragement	ANGER	1
+umbrage	ANGER	1
+offense	ANGER	3
+offence	ANGER	2
+indignation	ANGER	3
+outrage	ANGER	3
+huffiness	ANGER	1
+dander	ANGER	1
+hackles	ANGER	1
+bad temper	ANGER	1
+ill temper	ANGER	1
+annoyance	ANGER	3
+horrible	ANGER	1
+chafe	ANGER	2
+vexation	ANGER	3
+wrath	ANGER	2
+lividity	ANGER	1
+dudgeon	ANGER	1
+high dudgeon	ANGER	1
+irascibility	ANGER	1
+short temper	ANGER	1
+spleen	ANGER	1
+quick temper	ANGER	1
+fit	ANGER	1
+tantrum	ANGER	3
+scene	ANGER	1
+conniption	ANGER	1
+pique	ANGER	1
+temper	ANGER	3
+irritation	ANGER	3
+frustration	ANGER	3
+aggravation	ANGER	3
+exasperation	ANGER	2
+harassment	ANGER	3
+torment	ANGER	2
+displeasure	ANGER	3
+angriness	ANGER	1
+ira	ANGER	1
+anger	ANGER	4
+combust	ANGER	1
+miff	ANGER	1
+irk	ANGER	2
+infuriate	ANGER	2
+incense	ANGER	1
+madden	ANGER	3
+pique	ANGER	1
+offend	ANGER	3
+enrage	ANGER	4
+see red	ANGER	1
+bridle	ANGER	1
+steam	ANGER	1
+raise the roof	ANGER	1
+angry	ANGER	4
+furious	ANGER	4
+raging	ANGER	4
+tempestuous	ANGER	1
+wild	ANGER	1
+animosity	ANGER	2
+animus	ANGER	1
+bad blood	ANGER	1
+annoy	ANGER	3
+rag	ANGER	1
+get to	ANGER	1
+get at	ANGER	1
+nark	ANGER	1
+nettle	ANGER	1
+gravel	ANGER	1
+devil	ANGER	2
+get	ANGER	1
+get under one's skin	ANGER	1
+eat into	ANGER	1
+rankle	ANGER	1
+grate	ANGER	1
+peeve	ANGER	1
+ruffle	ANGER	1
+harass	ANGER	3
+hassle	ANGER	2
+harry	ANGER	1
+chivy	ANGER	1
+chivvy	ANGER	1
+chevy	ANGER	1
+chevvy	ANGER	1
+beset	ANGER	2
+plague	ANGER	2
+molest	ANGER	4
+provoke	ANGER	2
+antagonize	ANGER	2
+antagonise	ANGER	1
+needle	ANGER	1
+goad	ANGER	1
+torment	ANGER	2
+bedevil	ANGER	1
+crucify	ANGER	1
+dun	ANGER	1
+frustrate	ANGER	3
+haze	ANGER	1
+annoyance	ANGER	3
+botheration	ANGER	1
+bummer	ANGER	1
+huff	ANGER	1
+miff	ANGER	1
+seeing red	ANGER	1
+pinprick	ANGER	1
+restlessness	ANGER	2
+impatience	ANGER	2
+snit	ANGER	1
+aggravator	ANGER	1
+bother	ANGER	2
+pain	ANGER	4
+infliction	ANGER	1
+pain in the neck	ANGER	1
+pain in the ass	ANGER	1
+nuisance	ANGER	2
+irritant	ANGER	3
+thorn	ANGER	1
+plague	ANGER	2
+abatable nuisance	ANGER	1
+attractive nuisance	ANGER	1
+mixed nuisance	ANGER	1
+private nuisance	ANGER	1
+public nuisance	ANGER	1
+common nuisance	ANGER	1
+annoying	ANGER	3
+red flag	ANGER	1
+exacerbation	ANGER	1
+annoyed	ANGER	3
+irritated	ANGER	3
+miffed	ANGER	1
+nettled	ANGER	1
+peeved	ANGER	1
+pissed	ANGER	3
+pissed off	ANGER	1
+riled	ANGER	1
+roiled	ANGER	1
+steamed	ANGER	1
+stung	ANGER	1
+harassed	ANGER	3
+harried	ANGER	1
+pestered	ANGER	1
+vexed	ANGER	3
+antagonism	ANGER	2
+hostility	ANGER	3
+enmity	ANGER	1
+latent hostility	ANGER	1
+tension	ANGER	3
+war	ANGER	3
+state of war	ANGER	1
+cold war	ANGER	1
+suspicion	ANGER	2
+proxy war	ANGER	1
+cloud	ANGER	1
+antagonize	ANGER	2
+counteract	ANGER	2
+arouse	ANGER	1
+elicit	ANGER	1
+enkindle	ANGER	1
+kindle	ANGER	1
+evoke	ANGER	1
+fire	ANGER	1
+raise	ANGER	1
+strike a chord	ANGER	1
+touch a chord	ANGER	1
+invite	ANGER	1
+ask for	ANGER	1
+draw	ANGER	1
+rekindle	ANGER	1
+infatuate	ANGER	1
+prick	ANGER	3
+wake	ANGER	1
+ignite	ANGER	1
+heat	ANGER	1
+fire up	ANGER	1
+stimulate	ANGER	1
+upset	ANGER	3
+discompose	ANGER	1
+untune	ANGER	1
+disconcert	ANGER	1
+discomfit	ANGER	1
+shame	ANGER	3
+hurt	ANGER	3
+wound	ANGER	2
+injure	ANGER	2
+bruise	ANGER	2
+spite	ANGER	4
+overwhelm	ANGER	3
+overpower	ANGER	2
+sweep over	ANGER	1
+whelm	ANGER	1
+overcome	ANGER	1
+overtake	ANGER	1
+interest	ANGER	2
+ferment	ANGER	1
+fuel	ANGER	1
+sex	ANGER	1
+wind up	ANGER	1
+frighten	ANGER	4
+fright	ANGER	4
+scare	ANGER	4
+affright	ANGER	1
+tickle	ANGER	1
+vibrate	ANGER	1
+tempt	ANGER	1
+elate	ANGER	1
+lift up	ANGER	1
+uplift	ANGER	1
+pick up	ANGER	1
+intoxicate	ANGER	2
+inspire	ANGER	3
+animate	ANGER	1
+invigorate	ANGER	2
+enliven	ANGER	1
+exalt	ANGER	1
+titillate	ANGER	1
+enthuse	ANGER	3
+faze	ANGER	1
+unnerve	ANGER	2
+enervate	ANGER	1
+unsettle	ANGER	1
+dissolve	ANGER	1
+inhibit	ANGER	2
+bewilder	ANGER	3
+bemuse	ANGER	1
+discombobulate	ANGER	1
+throw	ANGER	1
+embarrass	ANGER	3
+abash	ANGER	1
+pain	ANGER	4
+anguish	ANGER	4
+afflict	ANGER	3
+discountenance	ANGER	1
+diss	ANGER	1
+insult	ANGER	3
+affront	ANGER	1
+lacerate	ANGER	1
+sting	ANGER	2
+humiliate	ANGER	4
+mortify	ANGER	3
+chagrin	ANGER	1
+humble	ANGER	1
+abase	ANGER	1
+devastate	ANGER	5
+seize	ANGER	2
+clutch	ANGER	1
+get hold of	ANGER	1
+kill	ANGER	2
+benight	ANGER	1
+knock out	ANGER	1
+stagger	ANGER	1
+lock	ANGER	1
+absorb	ANGER	1
+engross	ANGER	1
+engage	ANGER	1
+occupy	ANGER	1
+fascinate	ANGER	1
+transfix	ANGER	1
+grip	ANGER	1
+spellbind	ANGER	1
+wake up	ANGER	1
+awake	ANGER	1
+awaken	ANGER	1
+come alive	ANGER	1
+waken	ANGER	1
+conjure	ANGER	1
+conjure up	ANGER	1
+invoke	ANGER	1
+call down	ANGER	1
+bring up	ANGER	1
+put forward	ANGER	1
+call forth	ANGER	1
+curse	ANGER	2
+beshrew	ANGER	1
+damn	ANGER	2
+bedamn	ANGER	1
+anathemize	ANGER	1
+anathemise	ANGER	1
+imprecate	ANGER	1
+maledict	ANGER	1
+bless	ANGER	2
+anoint	ANGER	1
+inunct	ANGER	1
+oil	ANGER	1
+anele	ANGER	1
+embrocate	ANGER	1
+brace	ANGER	1
+energize	ANGER	1
+energise	ANGER	1
+perk up	ANGER	1
+cathect	ANGER	1
+recreate	ANGER	1
+reanimate	ANGER	1
+revive	ANGER	1
+renovate	ANGER	1
+repair	ANGER	1
+quicken	ANGER	1
+vivify	ANGER	1
+revivify	ANGER	1
+reinvigorate	ANGER	1
+liven	ANGER	1
+liven up	ANGER	1
+jazz up	ANGER	1
+juice up	ANGER	1
+pep up	ANGER	1
+ginger up	ANGER	1
+spirit	ANGER	1
+spirit up	ANGER	1
+inspirit	ANGER	3
+reawaken	ANGER	1
+bring to	ANGER	1
+bring back	ANGER	1
+bring round	ANGER	1
+bring around	ANGER	1
+call	ANGER	1
+resuscitate	ANGER	1
+bitter	ANGER	2
+acrimonious	ANGER	2
+acerb	ANGER	1
+acerbic	ANGER	1
+acid	ANGER	1
+acrid	ANGER	1
+blistering	ANGER	1
+caustic	ANGER	1
+sulfurous	ANGER	1
+sulphurous	ANGER	1
+virulent	ANGER	1
+vitriolic	ANGER	1
+biting	ANGER	1
+bother	ANGER	2
+trouble oneself	ANGER	1
+trouble	ANGER	2
+inconvenience oneself	ANGER	1
+put out	ANGER	1
+inconvenience	ANGER	2
+disoblige	ANGER	1
+discommode	ANGER	1
+incommode	ANGER	1
+straiten	ANGER	1
+distress	ANGER	3
+choler	ANGER	1
+irritability	ANGER	3
+crossness	ANGER	1
+fretfulness	ANGER	3
+fussiness	ANGER	1
+peevishness	ANGER	1
+petulance	ANGER	1
+testiness	ANGER	1
+touchiness	ANGER	1
+tetchiness	ANGER	1
+pet	ANGER	1
+yellow bile	ANGER	1
+conniption	ANGER	1
+crazed	ANGER	1
+deranged	ANGER	1
+half-crazed	ANGER	1
+crazy	ANGER	2
+brainsick	ANGER	1
+demented	ANGER	1
+disturbed	ANGER	2
+mad	ANGER	2
+sick	ANGER	2
+unbalanced	ANGER	1
+unhinged	ANGER	1
+half-baked	ANGER	1
+screwball	ANGER	1
+screw	ANGER	1
+softheaded	ANGER	1
+dotty	ANGER	1
+gaga	ANGER	1
+dander	ANGER	1
+disapprobation	ANGER	1
+condemnation	ANGER	2
+censure	ANGER	2
+animadversion	ANGER	1
+demonization	ANGER	1
+demonisation	ANGER	1
+interdict	ANGER	1
+displease	ANGER	3
+repel	ANGER	1
+repulse	ANGER	2
+dissatisfy	ANGER	2
+disgust	ANGER	4
+revolt	ANGER	2
+nauseate	ANGER	1
+sicken	ANGER	4
+churn up	ANGER	1
+turn off	ANGER	1
+put off	ANGER	1
+discontent	ANGER	2
+disgruntle	ANGER	1
+displeasure	ANGER	3
+disturb	ANGER	2
+jolt	ANGER	1
+perturb	ANGER	2
+unhinge	ANGER	1
+disquiet	ANGER	1
+cark	ANGER	1
+distract	ANGER	2
+disorder	ANGER	2
+worry	ANGER	4
+besiege	ANGER	2
+touch	ANGER	1
+violate	ANGER	4
+interrupt	ANGER	2
+embitter	ANGER	1
+envenom	ANGER	1
+acerbate	ANGER	1
+enmity	ANGER	1
+ill will	ANGER	1
+class feeling	ANGER	1
+aggression	ANGER	3
+aggressiveness	ANGER	3
+belligerence	ANGER	1
+belligerency	ANGER	1
+resentment	ANGER	3
+gall	ANGER	2
+rancor	ANGER	1
+rancour	ANGER	1
+warpath	ANGER	2
+heartburning	ANGER	1
+sulkiness	ANGER	1
+huffishness	ANGER	1
+grudge	ANGER	2
+score	ANGER	1
+grievance	ANGER	4
+envy	ANGER	3
+enviousness	ANGER	3
+enrage	ANGER	4
+enraged	ANGER	4
+angered	ANGER	4
+infuriated	ANGER	2
+maddened	ANGER	3
+exacerbate	ANGER	1
+exasperate	ANGER	2
+exasperated	ANGER	2
+cheesed off	ANGER	1
+browned off	ANGER	1
+exasperation	ANGER	2
+fire up	ANGER	1
+light up	ANGER	1
+light	ANGER	1
+foolish	ANGER	2
+anserine	ANGER	1
+dopy	ANGER	1
+dopey	ANGER	1
+goosey	ANGER	1
+goosy	ANGER	1
+gooselike	ANGER	1
+jerky	ANGER	1
+frantic	ANGER	2
+frenetic	ANGER	1
+phrenetic	ANGER	1
+frenzied	ANGER	1
+delirious	ANGER	1
+excited	ANGER	3
+unrestrained	ANGER	1
+furious	ANGER	4
+ferocious	ANGER	4
+fierce	ANGER	3
+savage	ANGER	3
+fury	ANGER	4
+craze	ANGER	2
+delirium	ANGER	2
+frenzy	ANGER	1
+hysteria	ANGER	2
+nympholepsy	ANGER	1
+mass hysteria	ANGER	1
+epidemic hysertia	ANGER	1
+ferocity	ANGER	4
+fierceness	ANGER	3
+furiousness	ANGER	1
+vehemence	ANGER	1
+violence	ANGER	4
+wildness	ANGER	1
+savageness	ANGER	3
+savagery	ANGER	3
+Eumenides	ANGER	1
+Erinyes	ANGER	1
+Alecto	ANGER	1
+Megaera	ANGER	1
+Tisiphone	ANGER	1
+gall	ANGER	2
+hatred	ANGER	4
+hate	ANGER	4
+abhorrence	ANGER	4
+abomination	ANGER	3
+detestation	ANGER	4
+execration	ANGER	1
+loathing	ANGER	1
+odium	ANGER	1
+misanthropy	ANGER	1
+misogamy	ANGER	1
+misogyny	ANGER	1
+misogynism	ANGER	1
+mysoandry	ANGER	1
+misology	ANGER	1
+misoneism	ANGER	1
+misopedia	ANGER	1
+murderousness	ANGER	4
+despisal	ANGER	1
+despising	ANGER	4
+malevolence	ANGER	1
+malignity	ANGER	1
+misocainea	ANGER	1
+maleficence	ANGER	1
+malice	ANGER	4
+maliciousness	ANGER	4
+spite	ANGER	4
+spitefulness	ANGER	4
+venom	ANGER	4
+vindictiveness	ANGER	1
+vengefulness	ANGER	1
+huff	ANGER	1
+impassioned	ANGER	1
+ardent	ANGER	3
+fervent	ANGER	1
+fervid	ANGER	1
+fiery	ANGER	2
+perfervid	ANGER	1
+torrid	ANGER	1
+incense	ANGER	1
+cense	ANGER	1
+thurify	ANGER	1
+indignant	ANGER	1
+incensed	ANGER	1
+outraged	ANGER	3
+umbrageous	ANGER	1
+indignation	ANGER	3
+inflame	ANGER	2
+conflagrate	ANGER	1
+infuriate	ANGER	2
+infuriation	ANGER	1
+irate	ANGER	1
+ireful	ANGER	1
+irk	ANGER	2
+irritable	ANGER	3
+cranky	ANGER	2
+fractious	ANGER	1
+nettlesome	ANGER	1
+peevish	ANGER	1
+peckish	ANGER	1
+pettish	ANGER	1
+petulant	ANGER	1
+scratchy	ANGER	1
+testy	ANGER	1
+tetchy	ANGER	1
+techy	ANGER	1
+excitable	ANGER	3
+irritate	ANGER	3
+pinch	ANGER	2
+vellicate	ANGER	1
+irritated	ANGER	3
+irritation	ANGER	3
+excitation	ANGER	3
+innervation	ANGER	1
+discomfort	ANGER	2
+soreness	ANGER	2
+provocation	ANGER	2
+aggro	ANGER	1
+last straw	ANGER	1
+twit	ANGER	2
+taunt	ANGER	2
+taunting	ANGER	2
+mad	ANGER	2
+huffy	ANGER	1
+sore	ANGER	2
+harebrained	ANGER	1
+insane	ANGER	2
+offend	ANGER	3
+transgress	ANGER	2
+infract	ANGER	1
+go against	ANGER	1
+breach	ANGER	2
+break	ANGER	1
+sin	ANGER	2
+trespass	ANGER	2
+drop the ball	ANGER	1
+blunder	ANGER	2
+boob	ANGER	1
+goof	ANGER	1
+conflict	ANGER	2
+run afoul	ANGER	1
+infringe	ANGER	1
+contravene	ANGER	1
+intrude	ANGER	2
+fall	ANGER	1
+break in	ANGER	1
+shock	ANGER	3
+scandalize	ANGER	3
+scandalise	ANGER	1
+appal	ANGER	1
+appall	ANGER	4
+outrage	ANGER	3
+crush	ANGER	2
+smash	ANGER	2
+take down	ANGER	1
+disgrace	ANGER	4
+demean	ANGER	2
+put down	ANGER	1
+offended	ANGER	3
+pained	ANGER	2
+injured	ANGER	1
+outrage	ANGER	3
+scandal	ANGER	3
+skeleton	ANGER	1
+skeleton in the closet	ANGER	1
+skeleton in the cupboard	ANGER	1
+Teapot Dome	ANGER	1
+Teapot Dome scandal	ANGER	1
+Watergate	ANGER	1
+Watergate scandal	ANGER	1
+scandalization	ANGER	3
+scandalisation	ANGER	1
+outrage	ANGER	3
+desecrate	ANGER	1
+profane	ANGER	1
+rape	ANGER	4
+ravish	ANGER	1
+assault	ANGER	3
+dishonor	ANGER	2
+dishonour	ANGER	1
+gang-rape	ANGER	1
+outraged	ANGER	3
+peeve	ANGER	1
+pique	ANGER	1
+provoke	ANGER	2
+kick up	ANGER	1
+pick	ANGER	1
+entice	ANGER	1
+lure	ANGER	2
+rejuvenate	ANGER	1
+jog	ANGER	1
+incite	ANGER	1
+instigate	ANGER	1
+set off	ANGER	1
+hook	ANGER	1
+snare	ANGER	2
+seduce	ANGER	1
+stool	ANGER	1
+lead on	ANGER	1
+tweedle	ANGER	1
+decoy	ANGER	1
+bait	ANGER	2
+hamstring	ANGER	1
+tease	ANGER	2
+badger	ANGER	1
+pester	ANGER	1
+bug	ANGER	2
+beleaguer	ANGER	1
+persecute	ANGER	3
+oppress	ANGER	3
+rage	ANGER	4
+passion	ANGER	3
+fad	ANGER	1
+furor	ANGER	1
+furore	ANGER	1
+cult	ANGER	1
+rankle	ANGER	1
+raving	ANGER	1
+resentful	ANGER	3
+resentment	ANGER	3
+covetousness	ANGER	2
+jealousy	ANGER	3
+green-eyed monster	ANGER	1
+penis envy	ANGER	1
+rile	ANGER	1
+sullen	ANGER	2
+dark	ANGER	1
+dour	ANGER	1
+glowering	ANGER	1
+glum	ANGER	3
+moody	ANGER	3
+morose	ANGER	1
+saturnine	ANGER	1
+sour	ANGER	2
+heavy	ANGER	1
+lowering	ANGER	2
+threatening	ANGER	3
+tantrum	ANGER	3
+tiff	ANGER	1
+bicker	ANGER	1
+bickering	ANGER	1
+spat	ANGER	1
+squabble	ANGER	1
+pettifoggery	ANGER	1
+fuss	ANGER	2
+trouble	ANGER	2
+misgive	ANGER	1
+eat	ANGER	1
+eat on	ANGER	1
+nag	ANGER	2
+ail	ANGER	2
+erupt	ANGER	1
+recrudesce	ANGER	1
+break out	ANGER	1
+umbrage	ANGER	1
+uptight	ANGER	3
+edgy	ANGER	1
+high-strung	ANGER	1
+highly strung	ANGER	1
+jittery	ANGER	2
+jumpy	ANGER	2
+nervy	ANGER	1
+overstrung	ANGER	1
+restive	ANGER	1
+vex	ANGER	3
+perplex	ANGER	2
+stick	ANGER	1
+puzzle	ANGER	1
+mystify	ANGER	1
+baffle	ANGER	2
+pose	ANGER	1
+flummox	ANGER	1
+stupefy	ANGER	1
+nonplus	ANGER	1
+amaze	ANGER	3
+dumbfound	ANGER	1
+stump	ANGER	1
+mix up	ANGER	1
+riddle	ANGER	1
+elude	ANGER	1
+escape	ANGER	1
+defy	ANGER	2
+resist	ANGER	1
+refuse	ANGER	2
+vexation	ANGER	3
+concern	ANGER	2
+worry	ANGER	4
+headache	ANGER	2
+bugaboo	ANGER	1
+burden	ANGER	2
+load	ANGER	1
+encumbrance	ANGER	1
+incumbrance	ANGER	1
+onus	ANGER	1
+business	ANGER	1
+dead weight	ANGER	1
+fardel	ANGER	1
+imposition	ANGER	1
+pill	ANGER	1
+violence	ANGER	4
+force	ANGER	2
+domestic violence	ANGER	1
+road rage	ANGER	1
+riot	ANGER	1
+public violence	ANGER	1
+race riot	ANGER	1
+annoy	BOREDOM	3
+rag	BOREDOM	1
+get to	BOREDOM	1
+bother	BOREDOM	2
+get at	BOREDOM	1
+irritate	BOREDOM	3
+rile	BOREDOM	1
+nark	BOREDOM	1
+nettle	BOREDOM	1
+gravel	BOREDOM	1
+vex	BOREDOM	3
+chafe	BOREDOM	2
+devil	BOREDOM	2
+get	BOREDOM	1
+get under one's skin	BOREDOM	1
+eat into	BOREDOM	1
+fret	BOREDOM	3
+rankle	BOREDOM	1
+grate	BOREDOM	1
+peeve	BOREDOM	1
+ruffle	BOREDOM	1
+harass	BOREDOM	3
+hassle	BOREDOM	2
+harry	BOREDOM	1
+chivy	BOREDOM	1
+chivvy	BOREDOM	1
+chevy	BOREDOM	1
+chevvy	BOREDOM	1
+beset	BOREDOM	2
+plague	BOREDOM	2
+molest	BOREDOM	4
+provoke	BOREDOM	2
+antagonize	BOREDOM	2
+antagonise	BOREDOM	1
+needle	BOREDOM	1
+goad	BOREDOM	1
+torment	BOREDOM	2
+bedevil	BOREDOM	1
+crucify	BOREDOM	1
+dun	BOREDOM	1
+frustrate	BOREDOM	3
+haze	BOREDOM	1
+bore	BOREDOM	2
+dullard	BOREDOM	2
+gasbag	BOREDOM	1
+windbag	BOREDOM	1
+nudnik	BOREDOM	1
+nudnick	BOREDOM	1
+platitudinarian	BOREDOM	1
+stuffed shirt	BOREDOM	1
+tidal bore	BOREDOM	1
+eagre	BOREDOM	1
+aegir	BOREDOM	1
+eager	BOREDOM	1
+gauge	BOREDOM	1
+caliber	BOREDOM	1
+calibre	BOREDOM	1
+bore-hole	BOREDOM	1
+drill hole	BOREDOM	1
+shot hole	BOREDOM	1
+bore	BOREDOM	2
+tire	BOREDOM	2
+drill	BOREDOM	1
+spud	BOREDOM	1
+counter-drill	BOREDOM	1
+trepan	BOREDOM	1
+bored	BOREDOM	2
+world-weary	BOREDOM	1
+blase	BOREDOM	1
+boring	BOREDOM	2
+deadening	BOREDOM	1
+dull	BOREDOM	2
+ho-hum	BOREDOM	1
+irksome	BOREDOM	2
+slow	BOREDOM	1
+tedious	BOREDOM	3
+tiresome	BOREDOM	2
+wearisome	BOREDOM	2
+bother	BOREDOM	2
+fuss	BOREDOM	2
+trouble	BOREDOM	2
+hassle	BOREDOM	2
+annoyance	BOREDOM	3
+botheration	BOREDOM	1
+pain	BOREDOM	4
+infliction	BOREDOM	1
+pain in the neck	BOREDOM	1
+pain in the ass	BOREDOM	1
+nuisance	BOREDOM	2
+irritant	BOREDOM	3
+thorn	BOREDOM	1
+plague	BOREDOM	2
+abatable nuisance	BOREDOM	1
+attractive nuisance	BOREDOM	1
+mixed nuisance	BOREDOM	1
+private nuisance	BOREDOM	1
+public nuisance	BOREDOM	1
+common nuisance	BOREDOM	1
+bother	BOREDOM	2
+trouble oneself	BOREDOM	1
+trouble	BOREDOM	2
+inconvenience oneself	BOREDOM	1
+put out	BOREDOM	1
+inconvenience	BOREDOM	2
+disoblige	BOREDOM	1
+discommode	BOREDOM	1
+incommode	BOREDOM	1
+straiten	BOREDOM	1
+distress	BOREDOM	3
+bromide	BOREDOM	1
+hydrogen bromide	BOREDOM	1
+methyl bromide	BOREDOM	1
+silver bromide	BOREDOM	1
+platitude	BOREDOM	1
+cliche	BOREDOM	1
+banality	BOREDOM	2
+commonplace	BOREDOM	1
+bummer	BOREDOM	1
+bummer	BOREDOM	1
+cloy	BOREDOM	1
+surfeit	BOREDOM	1
+pall	BOREDOM	1
+cloying	BOREDOM	1
+saccharine	BOREDOM	1
+syrupy	BOREDOM	1
+treacly	BOREDOM	1
+commonplace	BOREDOM	1
+humdrum	BOREDOM	1
+prosaic	BOREDOM	1
+unglamorous	BOREDOM	1
+unglamourous	BOREDOM	1
+banal	BOREDOM	2
+hackneyed	BOREDOM	1
+old-hat	BOREDOM	1
+shopworn	BOREDOM	1
+stock	BOREDOM	1
+threadbare	BOREDOM	1
+timeworn	BOREDOM	1
+tired	BOREDOM	2
+trite	BOREDOM	3
+well-worn	BOREDOM	1
+creep	BOREDOM	1
+weirdo	BOREDOM	2
+weirdie	BOREDOM	2
+weirdy	BOREDOM	2
+spook	BOREDOM	1
+crawl	BOREDOM	1
+crawling	BOREDOM	1
+creeping	BOREDOM	1
+creepy	BOREDOM	1
+creepy-crawly	BOREDOM	1
+deadhead	BOREDOM	1
+discomfort	BOREDOM	2
+disinterested	BOREDOM	2
+drab	BOREDOM	2
+dreary	BOREDOM	2
+sober	BOREDOM	1
+somber	BOREDOM	2
+sombre	BOREDOM	1
+olive-drab	BOREDOM	1
+blue	BOREDOM	1
+dark	BOREDOM	1
+dingy	BOREDOM	1
+disconsolate	BOREDOM	1
+dismal	BOREDOM	2
+gloomy	BOREDOM	3
+grim	BOREDOM	3
+sorry	BOREDOM	2
+drear	BOREDOM	1
+dull	BOREDOM	2
+muffled	BOREDOM	1
+muted	BOREDOM	1
+softened	BOREDOM	1
+dense	BOREDOM	1
+dim	BOREDOM	2
+dumb	BOREDOM	2
+obtuse	BOREDOM	1
+sluggish	BOREDOM	2
+thudding	BOREDOM	1
+leaden	BOREDOM	1
+dull	BOREDOM	2
+headache	BOREDOM	2
+concern	BOREDOM	2
+worry	BOREDOM	4
+vexation	BOREDOM	3
+bugaboo	BOREDOM	1
+burden	BOREDOM	2
+load	BOREDOM	1
+encumbrance	BOREDOM	1
+incumbrance	BOREDOM	1
+onus	BOREDOM	1
+business	BOREDOM	1
+dead weight	BOREDOM	1
+fardel	BOREDOM	1
+imposition	BOREDOM	1
+pill	BOREDOM	1
+head ache	BOREDOM	1
+cephalalgia	BOREDOM	1
+histamine headache	BOREDOM	1
+cluster headache	BOREDOM	1
+migraine	BOREDOM	1
+megrim	BOREDOM	1
+sick headache	BOREDOM	1
+hemicrania	BOREDOM	1
+sinus headache	BOREDOM	1
+tension headache	BOREDOM	1
+humdrum	BOREDOM	1
+monotonous	BOREDOM	2
+inattentive	BOREDOM	1
+neglectful	BOREDOM	1
+irk	BOREDOM	2
+gall	BOREDOM	2
+lifeless	BOREDOM	2
+exanimate	BOREDOM	1
+monotonous	BOREDOM	2
+flat	BOREDOM	1
+monotone	BOREDOM	1
+monotonic	BOREDOM	1
+mundane	BOREDOM	2
+everyday	BOREDOM	1
+quotidian	BOREDOM	1
+routine	BOREDOM	1
+unremarkable	BOREDOM	1
+workaday	BOREDOM	1
+terrestrial	BOREDOM	1
+terrene	BOREDOM	1
+pall	BOREDOM	1
+dull	BOREDOM	2
+daunt	BOREDOM	1
+dash	BOREDOM	1
+scare off	BOREDOM	1
+frighten off	BOREDOM	1
+scare away	BOREDOM	1
+frighten away	BOREDOM	1
+scare	BOREDOM	4
+die	BOREDOM	1
+become flat	BOREDOM	1
+weary	BOREDOM	1
+fatigue	BOREDOM	3
+jade	BOREDOM	1
+poop out	BOREDOM	1
+peter out	BOREDOM	1
+run down	BOREDOM	1
+run out	BOREDOM	1
+conk out	BOREDOM	1
+retire	BOREDOM	2
+withdraw	BOREDOM	1
+chicken out	BOREDOM	1
+back off	BOREDOM	1
+pull out	BOREDOM	1
+back down	BOREDOM	1
+bow out	BOREDOM	1
+pest	BOREDOM	2
+pestilence	BOREDOM	1
+pestis	BOREDOM	1
+bubonic plague	BOREDOM	1
+pestis bubonica	BOREDOM	1
+glandular plague	BOREDOM	1
+pneumonic plague	BOREDOM	1
+pulmonic plague	BOREDOM	1
+plague pneumonia	BOREDOM	1
+septicemic plague	BOREDOM	1
+ambulant plague	BOREDOM	1
+ambulatory plague	BOREDOM	1
+pestis ambulans	BOREDOM	1
+Black Death	BOREDOM	1
+Black Plague	BOREDOM	1
+blighter	BOREDOM	1
+cuss	BOREDOM	1
+pesterer	BOREDOM	1
+gadfly	BOREDOM	1
+vermin	BOREDOM	1
+pester	BOREDOM	1
+tease	BOREDOM	2
+badger	BOREDOM	1
+bug	BOREDOM	2
+beleaguer	BOREDOM	1
+plebeian	BOREDOM	1
+common	BOREDOM	1
+vulgar	BOREDOM	2
+unwashed	BOREDOM	1
+routine	BOREDOM	1
+soporific	BOREDOM	1
+hypnotic	BOREDOM	1
+narcoleptic	BOREDOM	1
+sleeping pill	BOREDOM	1
+sleeping tablet	BOREDOM	1
+sleeping capsule	BOREDOM	1
+sleeping draught	BOREDOM	1
+spiritless	BOREDOM	1
+meek	BOREDOM	2
+stale	BOREDOM	2
+cold	BOREDOM	2
+dusty	BOREDOM	1
+moth-eaten	BOREDOM	1
+stereotyped	BOREDOM	1
+stereotypic	BOREDOM	1
+stereotypical	BOREDOM	1
+unimaginative	BOREDOM	1
+stodgy	BOREDOM	1
+fogyish	BOREDOM	1
+moss-grown	BOREDOM	1
+mossy	BOREDOM	1
+stick-in-the-mud	BOREDOM	1
+stuffy	BOREDOM	2
+stuffy	BOREDOM	2
+airless	BOREDOM	1
+close	BOREDOM	1
+unaired	BOREDOM	1
+stupid	BOREDOM	2
+dazed	BOREDOM	2
+stunned	BOREDOM	2
+stupefied	BOREDOM	1
+unintelligent	BOREDOM	1
+tedious	BOREDOM	3
+long-winded	BOREDOM	1
+verbose	BOREDOM	1
+windy	BOREDOM	1
+wordy	BOREDOM	1
+tire	BOREDOM	2
+wear upon	BOREDOM	1
+tire out	BOREDOM	1
+wear	BOREDOM	1
+wear out	BOREDOM	1
+outwear	BOREDOM	1
+wear down	BOREDOM	1
+fag out	BOREDOM	1
+fag	BOREDOM	1
+exhaust	BOREDOM	2
+wash up	BOREDOM	1
+beat	BOREDOM	1
+tucker	BOREDOM	1
+tucker out	BOREDOM	1
+overtire	BOREDOM	1
+overweary	BOREDOM	1
+overfatigue	BOREDOM	1
+frazzle	BOREDOM	1
+play	BOREDOM	1
+kill	BOREDOM	2
+play out	BOREDOM	1
+sap	BOREDOM	2
+tiresome	BOREDOM	2
+uninteresting	BOREDOM	1
+vex	BOREDOM	3
+worry	BOREDOM	4
+misgive	BOREDOM	1
+eat	BOREDOM	1
+eat on	BOREDOM	1
+nag	BOREDOM	2
+agitate	BOREDOM	2
+disturb	BOREDOM	2
+commove	BOREDOM	1
+shake up	BOREDOM	1
+stir up	BOREDOM	1
+raise up	BOREDOM	1
+scramble	BOREDOM	1
+toss	BOREDOM	1
+roil	BOREDOM	1
+poke	BOREDOM	1
+whisk	BOREDOM	1
+whip	BOREDOM	2
+cream	BOREDOM	1
+tumble	BOREDOM	1
+muddle	BOREDOM	2
+puddle	BOREDOM	1
+perplex	BOREDOM	2
+stick	BOREDOM	1
+puzzle	BOREDOM	1
+mystify	BOREDOM	1
+baffle	BOREDOM	2
+pose	BOREDOM	1
+bewilder	BOREDOM	3
+flummox	BOREDOM	1
+stupefy	BOREDOM	1
+nonplus	BOREDOM	1
+amaze	BOREDOM	3
+dumbfound	BOREDOM	1
+stump	BOREDOM	1
+mix up	BOREDOM	1
+riddle	BOREDOM	1
+elude	BOREDOM	1
+escape	BOREDOM	1
+defy	BOREDOM	2
+resist	BOREDOM	1
+refuse	BOREDOM	2
+weary	BOREDOM	1
+yawn	BOREDOM	2
+yawning	BOREDOM	1
+oscitance	BOREDOM	1
+oscitancy	BOREDOM	1
+pandiculation	BOREDOM	1
+activity	ENTHUSIASM	1
+update	ENTHUSIASM	1
+variation	ENTHUSIASM	1
+variance	ENTHUSIASM	1
+space walk	ENTHUSIASM	1
+domesticity	ENTHUSIASM	1
+operation	ENTHUSIASM	1
+practice	ENTHUSIASM	1
+pattern	ENTHUSIASM	1
+diversion	ENTHUSIASM	1
+recreation	ENTHUSIASM	1
+cup of tea	ENTHUSIASM	1
+bag	ENTHUSIASM	1
+dish	ENTHUSIASM	1
+follow-up	ENTHUSIASM	1
+followup	ENTHUSIASM	1
+game	ENTHUSIASM	1
+turn	ENTHUSIASM	1
+play	ENTHUSIASM	1
+music	ENTHUSIASM	1
+acting	ENTHUSIASM	1
+playing	ENTHUSIASM	2
+playacting	ENTHUSIASM	1
+performing	ENTHUSIASM	1
+liveliness	ENTHUSIASM	2
+animation	ENTHUSIASM	1
+burst	ENTHUSIASM	1
+fit	ENTHUSIASM	1
+work	ENTHUSIASM	1
+works	ENTHUSIASM	1
+deeds	ENTHUSIASM	1
+service	ENTHUSIASM	1
+occupation	ENTHUSIASM	1
+business	ENTHUSIASM	1
+job	ENTHUSIASM	1
+line of work	ENTHUSIASM	1
+line	ENTHUSIASM	1
+writing	ENTHUSIASM	1
+committal to writing	ENTHUSIASM	1
+role	ENTHUSIASM	1
+wrongdoing	ENTHUSIASM	3
+wrongful conduct	ENTHUSIASM	1
+misconduct	ENTHUSIASM	1
+actus reus	ENTHUSIASM	1
+waste	ENTHUSIASM	2
+wastefulness	ENTHUSIASM	2
+dissipation	ENTHUSIASM	1
+attempt	ENTHUSIASM	1
+effort	ENTHUSIASM	1
+endeavor	ENTHUSIASM	1
+endeavour	ENTHUSIASM	1
+try	ENTHUSIASM	1
+control	ENTHUSIASM	1
+protection	ENTHUSIASM	1
+sensory activity	ENTHUSIASM	1
+education	ENTHUSIASM	1
+instruction	ENTHUSIASM	1
+teaching	ENTHUSIASM	1
+pedagogy	ENTHUSIASM	1
+didactics	ENTHUSIASM	1
+educational activity	ENTHUSIASM	1
+training	ENTHUSIASM	1
+preparation	ENTHUSIASM	1
+grooming	ENTHUSIASM	1
+representation	ENTHUSIASM	1
+creation	ENTHUSIASM	1
+creative activity	ENTHUSIASM	1
+dismantling	ENTHUSIASM	1
+dismantlement	ENTHUSIASM	1
+disassembly	ENTHUSIASM	1
+puncture	ENTHUSIASM	1
+search	ENTHUSIASM	1
+hunt	ENTHUSIASM	1
+hunting	ENTHUSIASM	1
+use	ENTHUSIASM	1
+usage	ENTHUSIASM	1
+utilization	ENTHUSIASM	1
+utilisation	ENTHUSIASM	1
+employment	ENTHUSIASM	1
+exercise	ENTHUSIASM	1
+military operation	ENTHUSIASM	1
+measurement	ENTHUSIASM	1
+measuring	ENTHUSIASM	1
+measure	ENTHUSIASM	1
+mensuration	ENTHUSIASM	1
+calibration	ENTHUSIASM	1
+standardization	ENTHUSIASM	1
+standardisation	ENTHUSIASM	1
+organization	ENTHUSIASM	1
+organisation	ENTHUSIASM	1
+grouping	ENTHUSIASM	1
+support	ENTHUSIASM	2
+supporting	ENTHUSIASM	2
+continuance	ENTHUSIASM	1
+continuation	ENTHUSIASM	1
+procedure	ENTHUSIASM	1
+process	ENTHUSIASM	1
+ceremony	ENTHUSIASM	1
+worship	ENTHUSIASM	2
+energizing	ENTHUSIASM	1
+activating	ENTHUSIASM	1
+awesome	ENTHUSIASM	2
+activation	ENTHUSIASM	1
+concealment	ENTHUSIASM	2
+concealing	ENTHUSIASM	2
+hiding	ENTHUSIASM	1
+placement	ENTHUSIASM	1
+location	ENTHUSIASM	1
+locating	ENTHUSIASM	1
+position	ENTHUSIASM	1
+positioning	ENTHUSIASM	1
+emplacement	ENTHUSIASM	1
+provision	ENTHUSIASM	1
+supply	ENTHUSIASM	1
+supplying	ENTHUSIASM	1
+demand	ENTHUSIASM	1
+pleasure	ENTHUSIASM	3
+enjoyment	ENTHUSIASM	3
+delectation	ENTHUSIASM	1
+lamentation	ENTHUSIASM	3
+mourning	ENTHUSIASM	3
+laughter	ENTHUSIASM	2
+market	ENTHUSIASM	1
+marketplace	ENTHUSIASM	1
+market place	ENTHUSIASM	1
+politics	ENTHUSIASM	1
+readying	ENTHUSIASM	1
+aid	ENTHUSIASM	1
+assist	ENTHUSIASM	1
+assistance	ENTHUSIASM	1
+help	ENTHUSIASM	1
+behavior	ENTHUSIASM	1
+behaviour	ENTHUSIASM	1
+conduct	ENTHUSIASM	1
+doings	ENTHUSIASM	1
+leadership	ENTHUSIASM	1
+leading	ENTHUSIASM	1
+precession	ENTHUSIASM	1
+precedence	ENTHUSIASM	1
+precedency	ENTHUSIASM	1
+solo	ENTHUSIASM	1
+buzz	ENTHUSIASM	1
+fun	ENTHUSIASM	2
+release	ENTHUSIASM	1
+outlet	ENTHUSIASM	1
+vent	ENTHUSIASM	1
+last	ENTHUSIASM	1
+mystification	ENTHUSIASM	1
+obfuscation	ENTHUSIASM	1
+negotiation	ENTHUSIASM	1
+verbalization	ENTHUSIASM	1
+verbalisation	ENTHUSIASM	1
+perturbation	ENTHUSIASM	2
+disturbance	ENTHUSIASM	2
+timekeeping	ENTHUSIASM	1
+rescue operation	ENTHUSIASM	1
+sting	ENTHUSIASM	2
+sting operation	ENTHUSIASM	1
+undercover operation	ENTHUSIASM	1
+biologism	ENTHUSIASM	1
+cooperation	ENTHUSIASM	1
+featherbedding	ENTHUSIASM	1
+formalism	ENTHUSIASM	1
+one-upmanship	ENTHUSIASM	1
+pluralism	ENTHUSIASM	1
+symbolism	ENTHUSIASM	1
+symbolization	ENTHUSIASM	1
+symbolisation	ENTHUSIASM	1
+modernism	ENTHUSIASM	1
+occult	ENTHUSIASM	1
+occult arts	ENTHUSIASM	1
+ornamentalism	ENTHUSIASM	1
+cannibalism	ENTHUSIASM	2
+careerism	ENTHUSIASM	1
+custom	ENTHUSIASM	1
+usance	ENTHUSIASM	1
+habitude	ENTHUSIASM	1
+fashion	ENTHUSIASM	1
+lobbyism	ENTHUSIASM	1
+slavery	ENTHUSIASM	1
+slaveholding	ENTHUSIASM	1
+peonage	ENTHUSIASM	1
+unwritten law	ENTHUSIASM	1
+lynch law	ENTHUSIASM	1
+mistreatment	ENTHUSIASM	1
+nonconformism	ENTHUSIASM	1
+calisthenics	ENTHUSIASM	1
+callisthenics	ENTHUSIASM	1
+popery	ENTHUSIASM	1
+papism	ENTHUSIASM	1
+quotation	ENTHUSIASM	1
+ritual	ENTHUSIASM	1
+ritualism	ENTHUSIASM	1
+nudism	ENTHUSIASM	1
+naturism	ENTHUSIASM	1
+systematism	ENTHUSIASM	1
+transvestism	ENTHUSIASM	1
+transvestitism	ENTHUSIASM	1
+cross dressing	ENTHUSIASM	1
+antic	ENTHUSIASM	1
+joke	ENTHUSIASM	2
+prank	ENTHUSIASM	1
+trick	ENTHUSIASM	2
+caper	ENTHUSIASM	1
+put-on	ENTHUSIASM	1
+bathing	ENTHUSIASM	1
+celebration	ENTHUSIASM	2
+festivity	ENTHUSIASM	1
+dancing	ENTHUSIASM	1
+dance	ENTHUSIASM	1
+terpsichore	ENTHUSIASM	1
+saltation	ENTHUSIASM	1
+entertainment	ENTHUSIASM	1
+amusement	ENTHUSIASM	2
+escapade	ENTHUSIASM	1
+lark	ENTHUSIASM	1
+escape	ENTHUSIASM	1
+escapism	ENTHUSIASM	1
+eurythmy	ENTHUSIASM	1
+eurhythmy	ENTHUSIASM	1
+eurythmics	ENTHUSIASM	1
+eurhythmics	ENTHUSIASM	1
+merriment	ENTHUSIASM	2
+playfulness	ENTHUSIASM	2
+gambling	ENTHUSIASM	1
+gaming	ENTHUSIASM	1
+jest	ENTHUSIASM	1
+jocularity	ENTHUSIASM	1
+nightlife	ENTHUSIASM	1
+night life	ENTHUSIASM	1
+pastime	ENTHUSIASM	1
+interest	ENTHUSIASM	2
+pursuit	ENTHUSIASM	1
+child's play	ENTHUSIASM	1
+frolic	ENTHUSIASM	4
+romp	ENTHUSIASM	1
+gambol	ENTHUSIASM	1
+sport	ENTHUSIASM	1
+athletics	ENTHUSIASM	1
+curling	ENTHUSIASM	1
+bowling	ENTHUSIASM	1
+pall-mall	ENTHUSIASM	1
+athletic game	ENTHUSIASM	1
+child's game	ENTHUSIASM	1
+card game	ENTHUSIASM	1
+cards	ENTHUSIASM	1
+table game	ENTHUSIASM	1
+parlor game	ENTHUSIASM	1
+parlour game	ENTHUSIASM	1
+game of chance	ENTHUSIASM	1
+gambling game	ENTHUSIASM	1
+zero-sum game	ENTHUSIASM	1
+move	ENTHUSIASM	1
+start	ENTHUSIASM	1
+starting	ENTHUSIASM	1
+innings	ENTHUSIASM	1
+attack	ENTHUSIASM	3
+down	ENTHUSIASM	1
+bat	ENTHUSIASM	1
+at-bat	ENTHUSIASM	1
+lead	ENTHUSIASM	1
+ruff	ENTHUSIASM	1
+trumping	ENTHUSIASM	1
+bell ringing	ENTHUSIASM	1
+carillon	ENTHUSIASM	1
+carillon playing	ENTHUSIASM	1
+instrumental music	ENTHUSIASM	1
+intonation	ENTHUSIASM	1
+percussion	ENTHUSIASM	1
+vocal music	ENTHUSIASM	1
+whistling	ENTHUSIASM	1
+portrayal	ENTHUSIASM	1
+characterization	ENTHUSIASM	1
+enactment	ENTHUSIASM	1
+personation	ENTHUSIASM	1
+impersonation	ENTHUSIASM	1
+method acting	ENTHUSIASM	1
+method	ENTHUSIASM	1
+mime	ENTHUSIASM	1
+pantomime	ENTHUSIASM	1
+dumb show	ENTHUSIASM	1
+stage business	ENTHUSIASM	1
+byplay	ENTHUSIASM	1
+skit	ENTHUSIASM	1
+hamming	ENTHUSIASM	1
+overacting	ENTHUSIASM	1
+heroics	ENTHUSIASM	3
+reenactment	ENTHUSIASM	1
+roleplaying	ENTHUSIASM	1
+fits and starts	ENTHUSIASM	1
+wash	ENTHUSIASM	1
+washing	ENTHUSIASM	1
+lavation	ENTHUSIASM	1
+action	ENTHUSIASM	1
+shining	ENTHUSIASM	1
+polishing	ENTHUSIASM	1
+heavy lifting	ENTHUSIASM	1
+housewifery	ENTHUSIASM	1
+housework	ENTHUSIASM	1
+housekeeping	ENTHUSIASM	1
+ironing	ENTHUSIASM	1
+busywork	ENTHUSIASM	1
+make-work	ENTHUSIASM	1
+logging	ENTHUSIASM	1
+loose end	ENTHUSIASM	1
+unfinished business	ENTHUSIASM	1
+nightwork	ENTHUSIASM	1
+paperwork	ENTHUSIASM	1
+welfare work	ENTHUSIASM	1
+social service	ENTHUSIASM	1
+labor	ENTHUSIASM	1
+labour	ENTHUSIASM	1
+toil	ENTHUSIASM	2
+subbing	ENTHUSIASM	1
+substituting	ENTHUSIASM	1
+investigation	ENTHUSIASM	1
+investigating	ENTHUSIASM	1
+care	ENTHUSIASM	2
+attention	ENTHUSIASM	1
+tending	ENTHUSIASM	1
+duty	ENTHUSIASM	2
+mission	ENTHUSIASM	1
+missionary work	ENTHUSIASM	1
+spadework	ENTHUSIASM	1
+timework	ENTHUSIASM	1
+undertaking	ENTHUSIASM	1
+project	ENTHUSIASM	1
+task	ENTHUSIASM	1
+coursework	ENTHUSIASM	1
+socage	ENTHUSIASM	1
+military service	ENTHUSIASM	1
+knight's service	ENTHUSIASM	1
+confectionery	ENTHUSIASM	1
+farming	ENTHUSIASM	1
+land	ENTHUSIASM	1
+biz	ENTHUSIASM	1
+career	ENTHUSIASM	1
+calling	ENTHUSIASM	1
+vocation	ENTHUSIASM	1
+appointment	ENTHUSIASM	1
+post	ENTHUSIASM	1
+berth	ENTHUSIASM	1
+office	ENTHUSIASM	1
+spot	ENTHUSIASM	1
+billet	ENTHUSIASM	1
+place	ENTHUSIASM	1
+situation	ENTHUSIASM	1
+treadmill	ENTHUSIASM	1
+salt mine	ENTHUSIASM	1
+trade	ENTHUSIASM	1
+craft	ENTHUSIASM	1
+profession	ENTHUSIASM	1
+metier	ENTHUSIASM	1
+medium	ENTHUSIASM	1
+accountancy	ENTHUSIASM	1
+accounting	ENTHUSIASM	1
+photography	ENTHUSIASM	1
+catering	ENTHUSIASM	1
+cryptography	ENTHUSIASM	1
+coding	ENTHUSIASM	1
+secret writing	ENTHUSIASM	1
+steganography	ENTHUSIASM	1
+handwriting	ENTHUSIASM	1
+inscription	ENTHUSIASM	1
+notation	ENTHUSIASM	1
+gender role	ENTHUSIASM	1
+brutalization	ENTHUSIASM	3
+brutalisation	ENTHUSIASM	1
+trespass	ENTHUSIASM	2
+encroachment	ENTHUSIASM	2
+violation	ENTHUSIASM	2
+intrusion	ENTHUSIASM	2
+usurpation	ENTHUSIASM	2
+tort	ENTHUSIASM	1
+civil wrong	ENTHUSIASM	1
+malversation	ENTHUSIASM	1
+misbehavior	ENTHUSIASM	2
+misbehaviour	ENTHUSIASM	1
+misdeed	ENTHUSIASM	1
+dereliction	ENTHUSIASM	1
+malfeasance	ENTHUSIASM	1
+misfeasance	ENTHUSIASM	1
+malpractice	ENTHUSIASM	1
+perversion	ENTHUSIASM	2
+injury	ENTHUSIASM	2
+injustice	ENTHUSIASM	1
+unfairness	ENTHUSIASM	2
+iniquity	ENTHUSIASM	1
+shabbiness	ENTHUSIASM	1
+infliction	ENTHUSIASM	1
+transgression	ENTHUSIASM	2
+evildoing	ENTHUSIASM	1
+dishonesty	ENTHUSIASM	2
+knavery	ENTHUSIASM	1
+falsification	ENTHUSIASM	1
+misrepresentation	ENTHUSIASM	2
+champerty	ENTHUSIASM	1
+maintenance	ENTHUSIASM	1
+criminal maintenance	ENTHUSIASM	1
+infringement	ENTHUSIASM	2
+boondoggle	ENTHUSIASM	1
+waste of effort	ENTHUSIASM	1
+waste of energy	ENTHUSIASM	1
+waste of material	ENTHUSIASM	1
+waste of money	ENTHUSIASM	1
+waste of time	ENTHUSIASM	1
+extravagance	ENTHUSIASM	1
+prodigality	ENTHUSIASM	1
+lavishness	ENTHUSIASM	1
+highlife	ENTHUSIASM	1
+high life	ENTHUSIASM	1
+squandering	ENTHUSIASM	2
+batting	ENTHUSIASM	1
+best	ENTHUSIASM	2
+worst	ENTHUSIASM	3
+bid	ENTHUSIASM	1
+crack	ENTHUSIASM	1
+fling	ENTHUSIASM	1
+go	ENTHUSIASM	1
+pass	ENTHUSIASM	1
+whirl	ENTHUSIASM	1
+offer	ENTHUSIASM	1
+essay	ENTHUSIASM	1
+foray	ENTHUSIASM	1
+contribution	ENTHUSIASM	1
+part	ENTHUSIASM	1
+share	ENTHUSIASM	1
+liberation	ENTHUSIASM	1
+mug's game	ENTHUSIASM	1
+power play	ENTHUSIASM	1
+squeeze play	ENTHUSIASM	1
+squeeze	ENTHUSIASM	1
+seeking	ENTHUSIASM	1
+shot	ENTHUSIASM	2
+stab	ENTHUSIASM	2
+striving	ENTHUSIASM	1
+nisus	ENTHUSIASM	1
+pains	ENTHUSIASM	4
+strain	ENTHUSIASM	2
+struggle	ENTHUSIASM	2
+battle	ENTHUSIASM	2
+takeover attempt	ENTHUSIASM	1
+test	ENTHUSIASM	1
+trial	ENTHUSIASM	1
+run	ENTHUSIASM	1
+repression	ENTHUSIASM	2
+crowd control	ENTHUSIASM	1
+damage control	ENTHUSIASM	1
+federalization	ENTHUSIASM	1
+federalisation	ENTHUSIASM	1
+flight control	ENTHUSIASM	1
+flood control	ENTHUSIASM	1
+imperialism	ENTHUSIASM	1
+regulation	ENTHUSIASM	1
+regulating	ENTHUSIASM	1
+internal control	ENTHUSIASM	1
+regularization	ENTHUSIASM	1
+regularisation	ENTHUSIASM	1
+possession	ENTHUSIASM	1
+ownership	ENTHUSIASM	1
+power trip	ENTHUSIASM	1
+riot control	ENTHUSIASM	1
+riot control operation	ENTHUSIASM	1
+grasping	ENTHUSIASM	1
+taking hold	ENTHUSIASM	1
+seizing	ENTHUSIASM	1
+prehension	ENTHUSIASM	1
+steering	ENTHUSIASM	1
+steerage	ENTHUSIASM	1
+guidance	ENTHUSIASM	1
+direction	ENTHUSIASM	1
+self-denial	ENTHUSIASM	1
+self-discipline	ENTHUSIASM	1
+self-control	ENTHUSIASM	1
+traffic control	ENTHUSIASM	1
+price-fixing	ENTHUSIASM	1
+restraint	ENTHUSIASM	1
+air cover	ENTHUSIASM	1
+shielding	ENTHUSIASM	1
+preservation	ENTHUSIASM	1
+saving	ENTHUSIASM	1
+momism	ENTHUSIASM	1
+overprotection	ENTHUSIASM	1
+overshielding	ENTHUSIASM	1
+defense	ENTHUSIASM	1
+defence	ENTHUSIASM	1
+inoculating	ENTHUSIASM	1
+vaccinating	ENTHUSIASM	1
+patrol	ENTHUSIASM	1
+self-defense	ENTHUSIASM	1
+self-defence	ENTHUSIASM	1
+self-protection	ENTHUSIASM	1
+insulation	ENTHUSIASM	1
+locking	ENTHUSIASM	1
+lockup	ENTHUSIASM	1
+escort	ENTHUSIASM	1
+accompaniment	ENTHUSIASM	1
+covering	ENTHUSIASM	1
+immunization	ENTHUSIASM	1
+immunisation	ENTHUSIASM	1
+charge	ENTHUSIASM	2
+tutelage	ENTHUSIASM	1
+guardianship	ENTHUSIASM	1
+ruggedization	ENTHUSIASM	1
+ruggedisation	ENTHUSIASM	1
+waterproofing	ENTHUSIASM	1
+sealing	ENTHUSIASM	1
+civil defense	ENTHUSIASM	1
+sensing	ENTHUSIASM	1
+perception	ENTHUSIASM	1
+coeducation	ENTHUSIASM	1
+continuing education	ENTHUSIASM	1
+course	ENTHUSIASM	1
+course of study	ENTHUSIASM	1
+course of instruction	ENTHUSIASM	1
+class	ENTHUSIASM	1
+elementary education	ENTHUSIASM	1
+extension	ENTHUSIASM	1
+extension service	ENTHUSIASM	1
+university extension	ENTHUSIASM	1
+extracurricular activity	ENTHUSIASM	1
+higher education	ENTHUSIASM	1
+secondary education	ENTHUSIASM	1
+team teaching	ENTHUSIASM	1
+work-study program	ENTHUSIASM	1
+athletic training	ENTHUSIASM	1
+discipline	ENTHUSIASM	1
+drill	ENTHUSIASM	1
+practice session	ENTHUSIASM	1
+recitation	ENTHUSIASM	1
+military training	ENTHUSIASM	1
+retraining	ENTHUSIASM	1
+schooling	ENTHUSIASM	1
+skull session	ENTHUSIASM	1
+skull practice	ENTHUSIASM	1
+toilet training	ENTHUSIASM	1
+model	ENTHUSIASM	1
+modelling	ENTHUSIASM	1
+modeling	ENTHUSIASM	1
+dramatization	ENTHUSIASM	1
+dramatisation	ENTHUSIASM	1
+pageant	ENTHUSIASM	1
+pageantry	ENTHUSIASM	1
+figuration	ENTHUSIASM	1
+schematization	ENTHUSIASM	1
+schematisation	ENTHUSIASM	1
+diagramming	ENTHUSIASM	1
+pictorial representation	ENTHUSIASM	1
+picturing	ENTHUSIASM	1
+typification	ENTHUSIASM	1
+pornography	ENTHUSIASM	1
+porno	ENTHUSIASM	1
+porn	ENTHUSIASM	1
+erotica	ENTHUSIASM	1
+smut	ENTHUSIASM	1
+re-creation	ENTHUSIASM	1
+creating from raw materials	ENTHUSIASM	1
+production	ENTHUSIASM	1
+creating by mental acts	ENTHUSIASM	1
+art	ENTHUSIASM	1
+artistic creation	ENTHUSIASM	1
+artistic production	ENTHUSIASM	1
+creating by removal	ENTHUSIASM	1
+centesis	ENTHUSIASM	1
+perforation	ENTHUSIASM	1
+prick	ENTHUSIASM	3
+pricking	ENTHUSIASM	3
+venipuncture	ENTHUSIASM	1
+exploration	ENTHUSIASM	1
+foraging	ENTHUSIASM	1
+forage	ENTHUSIASM	1
+frisk	ENTHUSIASM	1
+frisking	ENTHUSIASM	1
+looking	ENTHUSIASM	1
+looking for	ENTHUSIASM	1
+manhunt	ENTHUSIASM	1
+quest	ENTHUSIASM	1
+ransacking	ENTHUSIASM	1
+rummage	ENTHUSIASM	1
+scouring	ENTHUSIASM	1
+shakedown	ENTHUSIASM	2
+misuse	ENTHUSIASM	2
+abuse	ENTHUSIASM	4
+exploitation	ENTHUSIASM	1
+development	ENTHUSIASM	1
+recycling	ENTHUSIASM	1
+application	ENTHUSIASM	1
+practical application	ENTHUSIASM	1
+combined operation	ENTHUSIASM	1
+maneuver	ENTHUSIASM	1
+manoeuvre	ENTHUSIASM	1
+simulated military operation	ENTHUSIASM	1
+campaign	ENTHUSIASM	1
+military campaign	ENTHUSIASM	1
+naval campaign	ENTHUSIASM	1
+military mission	ENTHUSIASM	1
+reinforcement	ENTHUSIASM	1
+reenforcement	ENTHUSIASM	1
+onslaught	ENTHUSIASM	1
+onset	ENTHUSIASM	1
+onrush	ENTHUSIASM	1
+offense	ENTHUSIASM	3
+offence	ENTHUSIASM	2
+offensive	ENTHUSIASM	3
+peacekeeping	ENTHUSIASM	1
+peacekeeping mission	ENTHUSIASM	1
+peacekeeping operation	ENTHUSIASM	1
+amphibious operation	ENTHUSIASM	1
+information gathering	ENTHUSIASM	1
+psychological operation	ENTHUSIASM	1
+psyop	ENTHUSIASM	1
+covert operation	ENTHUSIASM	1
+Meuse	ENTHUSIASM	1
+Meuse River	ENTHUSIASM	1
+Argonne	ENTHUSIASM	1
+Argonne Forest	ENTHUSIASM	1
+Meuse-Argonne	ENTHUSIASM	1
+Meuse-Argonne operation	ENTHUSIASM	1
+Operation Desert Storm	ENTHUSIASM	1
+seismography	ENTHUSIASM	1
+quantitative analysis	ENTHUSIASM	1
+quantitative chemical analysis	ENTHUSIASM	1
+actinometry	ENTHUSIASM	1
+algometry	ENTHUSIASM	1
+anemography	ENTHUSIASM	1
+anemometry	ENTHUSIASM	1
+angulation	ENTHUSIASM	1
+anthropometry	ENTHUSIASM	1
+arterial blood gases	ENTHUSIASM	1
+audiometry	ENTHUSIASM	1
+bathymetry	ENTHUSIASM	1
+plumbing	ENTHUSIASM	1
+calorimetry	ENTHUSIASM	1
+cephalometry	ENTHUSIASM	1
+densitometry	ENTHUSIASM	1
+dosimetry	ENTHUSIASM	1
+fetometry	ENTHUSIASM	1
+foetometry	ENTHUSIASM	1
+hydrometry	ENTHUSIASM	1
+gravimetry	ENTHUSIASM	1
+hypsometry	ENTHUSIASM	1
+hypsography	ENTHUSIASM	1
+mental measurement	ENTHUSIASM	1
+micrometry	ENTHUSIASM	1
+observation	ENTHUSIASM	1
+pelvimetry	ENTHUSIASM	1
+photometry	ENTHUSIASM	1
+quantification	ENTHUSIASM	1
+radioactive dating	ENTHUSIASM	1
+reading	ENTHUSIASM	1
+meter reading	ENTHUSIASM	1
+sampling	ENTHUSIASM	1
+sounding	ENTHUSIASM	1
+sound ranging	ENTHUSIASM	1
+scaling	ENTHUSIASM	1
+spirometry	ENTHUSIASM	1
+surveying	ENTHUSIASM	1
+telemetry	ENTHUSIASM	1
+thermometry	ENTHUSIASM	1
+thermogravimetry	ENTHUSIASM	1
+tonometry	ENTHUSIASM	1
+viscometry	ENTHUSIASM	1
+viscosimetry	ENTHUSIASM	1
+tuning	ENTHUSIASM	1
+adjustment	ENTHUSIASM	1
+registration	ENTHUSIASM	1
+readjustment	ENTHUSIASM	1
+randomization	ENTHUSIASM	1
+randomisation	ENTHUSIASM	1
+systematization	ENTHUSIASM	1
+systematisation	ENTHUSIASM	1
+rationalization	ENTHUSIASM	1
+rationalisation	ENTHUSIASM	1
+order	ENTHUSIASM	1
+ordering	ENTHUSIASM	1
+listing	ENTHUSIASM	1
+itemization	ENTHUSIASM	1
+itemisation	ENTHUSIASM	1
+territorialization	ENTHUSIASM	1
+territorialisation	ENTHUSIASM	1
+pairing	ENTHUSIASM	1
+punctuation	ENTHUSIASM	1
+phrasing	ENTHUSIASM	1
+categorization	ENTHUSIASM	1
+categorisation	ENTHUSIASM	1
+classification	ENTHUSIASM	1
+compartmentalization	ENTHUSIASM	1
+compartmentalisation	ENTHUSIASM	1
+assortment	ENTHUSIASM	1
+collection	ENTHUSIASM	1
+collecting	ENTHUSIASM	1
+assembling	ENTHUSIASM	1
+aggregation	ENTHUSIASM	1
+sorting	ENTHUSIASM	1
+shoring	ENTHUSIASM	1
+shoring up	ENTHUSIASM	1
+propping up	ENTHUSIASM	1
+suspension	ENTHUSIASM	2
+dangling	ENTHUSIASM	1
+hanging	ENTHUSIASM	1
+prolongation	ENTHUSIASM	1
+protraction	ENTHUSIASM	1
+perpetuation	ENTHUSIASM	1
+lengthening	ENTHUSIASM	1
+repetition	ENTHUSIASM	1
+repeating	ENTHUSIASM	1
+perseverance	ENTHUSIASM	1
+persistence	ENTHUSIASM	1
+perseveration	ENTHUSIASM	1
+abidance	ENTHUSIASM	1
+pursuance	ENTHUSIASM	1
+prosecution	ENTHUSIASM	2
+survival	ENTHUSIASM	1
+Bertillon system	ENTHUSIASM	1
+fingerprinting	ENTHUSIASM	1
+genetic profiling	ENTHUSIASM	1
+genetic fingerprinting	ENTHUSIASM	1
+diagnostic procedure	ENTHUSIASM	1
+diagnostic technique	ENTHUSIASM	1
+emergency procedure	ENTHUSIASM	1
+experimental procedure	ENTHUSIASM	1
+calculation	ENTHUSIASM	1
+computation	ENTHUSIASM	1
+computing	ENTHUSIASM	1
+medical procedure	ENTHUSIASM	1
+mapping	ENTHUSIASM	1
+chromosome mapping	ENTHUSIASM	1
+operating procedure	ENTHUSIASM	1
+stiffening	ENTHUSIASM	1
+indirection	ENTHUSIASM	1
+rigmarole	ENTHUSIASM	1
+rigamarole	ENTHUSIASM	1
+routine	ENTHUSIASM	1
+modus operandi	ENTHUSIASM	1
+condition	ENTHUSIASM	1
+experimental condition	ENTHUSIASM	1
+rule	ENTHUSIASM	1
+formula	ENTHUSIASM	1
+tea ceremony	ENTHUSIASM	1
+chanoyu	ENTHUSIASM	1
+groundbreaking	ENTHUSIASM	1
+groundbreaking ceremony	ENTHUSIASM	1
+purification	ENTHUSIASM	1
+purgation	ENTHUSIASM	1
+lustrum	ENTHUSIASM	1
+religious ceremony	ENTHUSIASM	1
+religious ritual	ENTHUSIASM	1
+military ceremony	ENTHUSIASM	1
+presentation	ENTHUSIASM	1
+deification	ENTHUSIASM	1
+exaltation	ENTHUSIASM	1
+apotheosis	ENTHUSIASM	1
+ancestor worship	ENTHUSIASM	1
+prayer	ENTHUSIASM	1
+supplication	ENTHUSIASM	1
+idolization	ENTHUSIASM	1
+idolisation	ENTHUSIASM	1
+adoration	ENTHUSIASM	4
+latria	ENTHUSIASM	1
+idolatry	ENTHUSIASM	1
+idol worship	ENTHUSIASM	1
+devotion	ENTHUSIASM	3
+veneration	ENTHUSIASM	1
+cultism	ENTHUSIASM	1
+idiolatry	ENTHUSIASM	1
+autolatry	ENTHUSIASM	1
+self-worship	ENTHUSIASM	1
+anthropolatry	ENTHUSIASM	1
+worship of man	ENTHUSIASM	1
+gyneolatry	ENTHUSIASM	1
+gynaeolatry	ENTHUSIASM	1
+woman-worship	ENTHUSIASM	1
+lordolatry	ENTHUSIASM	1
+thaumatolatry	ENTHUSIASM	1
+miracle-worship	ENTHUSIASM	1
+topolatry	ENTHUSIASM	1
+place-worship	ENTHUSIASM	1
+arborolatry	ENTHUSIASM	1
+tree-worship	ENTHUSIASM	1
+astrolatry	ENTHUSIASM	1
+worship of heavenly bodies	ENTHUSIASM	1
+cosmolatry	ENTHUSIASM	1
+diabolatry	ENTHUSIASM	1
+demonolatry	ENTHUSIASM	1
+devil-worship	ENTHUSIASM	1
+pyrolatry	ENTHUSIASM	1
+fire-worship	ENTHUSIASM	1
+hagiolatry	ENTHUSIASM	1
+hierolatry	ENTHUSIASM	1
+heliolatry	ENTHUSIASM	1
+sun-worship	ENTHUSIASM	1
+zoolatry	ENTHUSIASM	1
+animal-worship	ENTHUSIASM	1
+monolatry	ENTHUSIASM	1
+moon-worship	ENTHUSIASM	1
+selenolatry	ENTHUSIASM	1
+salat	ENTHUSIASM	1
+salaat	ENTHUSIASM	1
+salah	ENTHUSIASM	1
+salaah	ENTHUSIASM	1
+praise	ENTHUSIASM	3
+electrification	ENTHUSIASM	1
+vivification	ENTHUSIASM	1
+invigoration	ENTHUSIASM	2
+disguise	ENTHUSIASM	2
+camouflage	ENTHUSIASM	1
+mask	ENTHUSIASM	1
+cover	ENTHUSIASM	1
+screening	ENTHUSIASM	1
+masking	ENTHUSIASM	1
+cover-up	ENTHUSIASM	1
+burying	ENTHUSIASM	1
+burial	ENTHUSIASM	1
+smoke screen	ENTHUSIASM	1
+smokescreen	ENTHUSIASM	1
+stealth	ENTHUSIASM	3
+stealing	ENTHUSIASM	3
+money laundering	ENTHUSIASM	1
+stratification	ENTHUSIASM	1
+juxtaposition	ENTHUSIASM	1
+apposition	ENTHUSIASM	1
+collocation	ENTHUSIASM	1
+interposition	ENTHUSIASM	1
+intervention	ENTHUSIASM	1
+orientation	ENTHUSIASM	1
+planting	ENTHUSIASM	1
+implantation	ENTHUSIASM	1
+repositioning	ENTHUSIASM	1
+set	ENTHUSIASM	1
+superposition	ENTHUSIASM	1
+fingering	ENTHUSIASM	1
+irrigation	ENTHUSIASM	1
+feeding	ENTHUSIASM	1
+alimentation	ENTHUSIASM	1
+fueling	ENTHUSIASM	1
+refueling	ENTHUSIASM	1
+healthcare delivery	ENTHUSIASM	1
+health care delivery	ENTHUSIASM	1
+care delivery	ENTHUSIASM	1
+issue	ENTHUSIASM	1
+issuing	ENTHUSIASM	1
+issuance	ENTHUSIASM	1
+logistics	ENTHUSIASM	1
+purveyance	ENTHUSIASM	1
+stocking	ENTHUSIASM	1
+subvention	ENTHUSIASM	1
+exaction	ENTHUSIASM	1
+claim	ENTHUSIASM	1
+luxuriation	ENTHUSIASM	1
+black market	ENTHUSIASM	1
+buyer's market	ENTHUSIASM	1
+buyers' market	ENTHUSIASM	1
+soft market	ENTHUSIASM	1
+grey market	ENTHUSIASM	1
+gray market	ENTHUSIASM	1
+seller's market	ENTHUSIASM	1
+sellers' market	ENTHUSIASM	1
+labor market	ENTHUSIASM	1
+monopoly	ENTHUSIASM	1
+monopsony	ENTHUSIASM	1
+oligopoly	ENTHUSIASM	1
+fire control	ENTHUSIASM	1
+warm up	ENTHUSIASM	1
+deployment	ENTHUSIASM	1
+groundwork	ENTHUSIASM	1
+makeready	ENTHUSIASM	1
+priming	ENTHUSIASM	1
+planning	ENTHUSIASM	1
+turnaround	ENTHUSIASM	1
+turnround	ENTHUSIASM	1
+warm-up	ENTHUSIASM	1
+tune-up	ENTHUSIASM	1
+prolusion	ENTHUSIASM	1
+self-help	ENTHUSIASM	1
+facilitation	ENTHUSIASM	1
+hand	ENTHUSIASM	1
+helping hand	ENTHUSIASM	1
+recourse	ENTHUSIASM	1
+resort	ENTHUSIASM	1
+refuge	ENTHUSIASM	1
+thanks	ENTHUSIASM	2
+relief	ENTHUSIASM	2
+succor	ENTHUSIASM	1
+succour	ENTHUSIASM	1
+ministration	ENTHUSIASM	1
+lift	ENTHUSIASM	1
+accommodation	ENTHUSIASM	1
+boost	ENTHUSIASM	1
+encouragement	ENTHUSIASM	2
+comfort	ENTHUSIASM	2
+sustenance	ENTHUSIASM	1
+sustentation	ENTHUSIASM	1
+sustainment	ENTHUSIASM	1
+upkeep	ENTHUSIASM	1
+logistic support	ENTHUSIASM	1
+logistic assistance	ENTHUSIASM	1
+aggression	ENTHUSIASM	3
+bohemianism	ENTHUSIASM	1
+dirty pool	ENTHUSIASM	1
+dirty tricks	ENTHUSIASM	1
+discourtesy	ENTHUSIASM	1
+offensive activity	ENTHUSIASM	1
+easiness	ENTHUSIASM	1
+the way of the world	ENTHUSIASM	1
+the ways of the world	ENTHUSIASM	1
+territoriality	ENTHUSIASM	1
+helm	ENTHUSIASM	1
+trend setting	ENTHUSIASM	1
+fuss	ENTHUSIASM	2
+trouble	ENTHUSIASM	2
+bother	ENTHUSIASM	2
+hassle	ENTHUSIASM	2
+magnetic storm	ENTHUSIASM	1
+anachronism	ENTHUSIASM	1
+mistiming	ENTHUSIASM	1
+misdating	ENTHUSIASM	1
+activeness	ENTHUSIASM	1
+agency	ENTHUSIASM	1
+busyness	ENTHUSIASM	1
+hum	ENTHUSIASM	1
+eruption	ENTHUSIASM	1
+eructation	ENTHUSIASM	1
+extravasation	ENTHUSIASM	1
+overdrive	ENTHUSIASM	1
+swing	ENTHUSIASM	1
+Frankenstein	ENTHUSIASM	1
+commission	ENTHUSIASM	1
+running	ENTHUSIASM	1
+idle	ENTHUSIASM	1
+bodily process	ENTHUSIASM	1
+body process	ENTHUSIASM	1
+bodily function	ENTHUSIASM	1
+breathing	ENTHUSIASM	1
+external respiration	ENTHUSIASM	1
+respiration	ENTHUSIASM	1
+ventilation	ENTHUSIASM	1
+breath	ENTHUSIASM	1
+consumption	ENTHUSIASM	1
+ingestion	ENTHUSIASM	1
+intake	ENTHUSIASM	1
+uptake	ENTHUSIASM	1
+sexual activity	ENTHUSIASM	1
+sexual practice	ENTHUSIASM	1
+sex	ENTHUSIASM	1
+sex activity	ENTHUSIASM	1
+insemination	ENTHUSIASM	1
+sleeping	ENTHUSIASM	1
+reaction	ENTHUSIASM	1
+response	ENTHUSIASM	1
+crying	ENTHUSIASM	4
+weeping	ENTHUSIASM	3
+tears	ENTHUSIASM	4
+ablactation	ENTHUSIASM	1
+anastalsis	ENTHUSIASM	1
+discharge	ENTHUSIASM	2
+emission	ENTHUSIASM	1
+expelling	ENTHUSIASM	2
+expectoration	ENTHUSIASM	1
+festering	ENTHUSIASM	1
+suppuration	ENTHUSIASM	1
+maturation	ENTHUSIASM	1
+healing	ENTHUSIASM	1
+hypostasis	ENTHUSIASM	1
+lacrimation	ENTHUSIASM	1
+lachrymation	ENTHUSIASM	1
+tearing	ENTHUSIASM	1
+watering	ENTHUSIASM	1
+lactation	ENTHUSIASM	1
+opsonization	ENTHUSIASM	1
+opsonisation	ENTHUSIASM	1
+overactivity	ENTHUSIASM	1
+peristalsis	ENTHUSIASM	1
+vermiculation	ENTHUSIASM	1
+perspiration	ENTHUSIASM	1
+sweating	ENTHUSIASM	1
+diaphoresis	ENTHUSIASM	1
+sudation	ENTHUSIASM	1
+hidrosis	ENTHUSIASM	1
+phagocytosis	ENTHUSIASM	1
+pinocytosis	ENTHUSIASM	1
+placentation	ENTHUSIASM	1
+psilosis	ENTHUSIASM	1
+tanning	ENTHUSIASM	1
+transpiration	ENTHUSIASM	1
+motor control	ENTHUSIASM	1
+artificial respiration	ENTHUSIASM	1
+abdominal breathing	ENTHUSIASM	1
+eupnea	ENTHUSIASM	1
+eupnoea	ENTHUSIASM	1
+hyperpnea	ENTHUSIASM	1
+hypopnea	ENTHUSIASM	1
+hyperventilation	ENTHUSIASM	1
+panting	ENTHUSIASM	1
+heaving	ENTHUSIASM	1
+periodic breathing	ENTHUSIASM	1
+Cheyne-Stokes respiration	ENTHUSIASM	1
+smoke	ENTHUSIASM	1
+smoking	ENTHUSIASM	1
+snore	ENTHUSIASM	2
+snoring	ENTHUSIASM	1
+stertor	ENTHUSIASM	1
+snuffle	ENTHUSIASM	1
+sniffle	ENTHUSIASM	1
+snivel	ENTHUSIASM	1
+wheeze	ENTHUSIASM	1
+second wind	ENTHUSIASM	1
+exhalation	ENTHUSIASM	1
+expiration	ENTHUSIASM	1
+breathing out	ENTHUSIASM	1
+inhalation	ENTHUSIASM	1
+inspiration	ENTHUSIASM	3
+aspiration	ENTHUSIASM	1
+breathing in	ENTHUSIASM	1
+eating	ENTHUSIASM	1
+swallow	ENTHUSIASM	1
+drink	ENTHUSIASM	1
+deglutition	ENTHUSIASM	1
+sucking	ENTHUSIASM	1
+suck	ENTHUSIASM	2
+suction	ENTHUSIASM	1
+drinking	ENTHUSIASM	1
+imbibing	ENTHUSIASM	1
+imbibition	ENTHUSIASM	1
+bondage	ENTHUSIASM	2
+outercourse	ENTHUSIASM	1
+safe sex	ENTHUSIASM	1
+conception	ENTHUSIASM	1
+sexual intercourse	ENTHUSIASM	1
+intercourse	ENTHUSIASM	1
+sex act	ENTHUSIASM	1
+copulation	ENTHUSIASM	1
+coitus	ENTHUSIASM	1
+coition	ENTHUSIASM	1
+sexual congress	ENTHUSIASM	1
+sexual relation	ENTHUSIASM	1
+relation	ENTHUSIASM	1
+carnal knowledge	ENTHUSIASM	1
+sexual love	ENTHUSIASM	1
+lovemaking	ENTHUSIASM	4
+making love	ENTHUSIASM	1
+love	ENTHUSIASM	3
+love life	ENTHUSIASM	1
+carnal abuse	ENTHUSIASM	1
+coupling	ENTHUSIASM	1
+mating	ENTHUSIASM	1
+conjugation	ENTHUSIASM	1
+union	ENTHUSIASM	1
+sexual union	ENTHUSIASM	1
+reproduction	ENTHUSIASM	1
+procreation	ENTHUSIASM	1
+breeding	ENTHUSIASM	1
+facts of life	ENTHUSIASM	1
+foreplay	ENTHUSIASM	1
+arousal	ENTHUSIASM	1
+stimulation	ENTHUSIASM	1
+sexual perversion	ENTHUSIASM	1
+autoeroticism	ENTHUSIASM	1
+autoerotism	ENTHUSIASM	1
+promiscuity	ENTHUSIASM	2
+promiscuousness	ENTHUSIASM	2
+sleeping around	ENTHUSIASM	1
+lechery	ENTHUSIASM	1
+homosexuality	ENTHUSIASM	1
+homosexualism	ENTHUSIASM	1
+homoeroticism	ENTHUSIASM	1
+queerness	ENTHUSIASM	1
+gayness	ENTHUSIASM	1
+bisexuality	ENTHUSIASM	1
+heterosexuality	ENTHUSIASM	1
+heterosexualism	ENTHUSIASM	1
+straightness	ENTHUSIASM	1
+bestiality	ENTHUSIASM	1
+zooerastia	ENTHUSIASM	1
+zooerasty	ENTHUSIASM	1
+sodomy	ENTHUSIASM	1
+artificial insemination	ENTHUSIASM	1
+AI	ENTHUSIASM	1
+sleepwalking	ENTHUSIASM	1
+somnambulism	ENTHUSIASM	1
+somnambulation	ENTHUSIASM	1
+noctambulism	ENTHUSIASM	1
+noctambulation	ENTHUSIASM	1
+sleep talking	ENTHUSIASM	1
+somniloquy	ENTHUSIASM	1
+somniloquism	ENTHUSIASM	1
+nap	ENTHUSIASM	1
+catnap	ENTHUSIASM	1
+light sleep	ENTHUSIASM	1
+short sleep	ENTHUSIASM	1
+forty winks	ENTHUSIASM	1
+snooze	ENTHUSIASM	1
+doze	ENTHUSIASM	1
+drowse	ENTHUSIASM	1
+automatism	ENTHUSIASM	1
+rebound	ENTHUSIASM	1
+overreaction	ENTHUSIASM	1
+galvanic skin response	ENTHUSIASM	1
+GSR	ENTHUSIASM	1
+psychogalvanic response	ENTHUSIASM	1
+electrodermal response	ENTHUSIASM	1
+electrical skin response	ENTHUSIASM	1
+Fere phenomenon	ENTHUSIASM	1
+Tarchanoff phenomenon	ENTHUSIASM	1
+immune response	ENTHUSIASM	1
+immune reaction	ENTHUSIASM	1
+immunologic response	ENTHUSIASM	1
+tropism	ENTHUSIASM	1
+taxis	ENTHUSIASM	2
+kinesis	ENTHUSIASM	1
+double take	ENTHUSIASM	1
+reflex	ENTHUSIASM	1
+reflex response	ENTHUSIASM	1
+reflex action	ENTHUSIASM	1
+instinctive reflex	ENTHUSIASM	1
+innate reflex	ENTHUSIASM	1
+inborn reflex	ENTHUSIASM	1
+unconditioned reflex	ENTHUSIASM	1
+physiological reaction	ENTHUSIASM	1
+learned reaction	ENTHUSIASM	1
+learned response	ENTHUSIASM	1
+passage	ENTHUSIASM	1
+passing	ENTHUSIASM	1
+answer	ENTHUSIASM	1
+transfusion reaction	ENTHUSIASM	1
+sniveling	ENTHUSIASM	1
+sob	ENTHUSIASM	4
+sobbing	ENTHUSIASM	4
+wailing	ENTHUSIASM	2
+bawling	ENTHUSIASM	1
+ejaculation	ENTHUSIASM	1
+elimination	ENTHUSIASM	2
+evacuation	ENTHUSIASM	1
+excretion	ENTHUSIASM	1
+excreting	ENTHUSIASM	1
+voiding	ENTHUSIASM	1
+menstruation	ENTHUSIASM	1
+menses	ENTHUSIASM	1
+menstruum	ENTHUSIASM	1
+catamenia	ENTHUSIASM	1
+period	ENTHUSIASM	1
+flow	ENTHUSIASM	1
+convalescence	ENTHUSIASM	1
+recuperation	ENTHUSIASM	1
+recovery	ENTHUSIASM	1
+conglutination	ENTHUSIASM	1
+hyperhidrosis	ENTHUSIASM	1
+hyperidrosis	ENTHUSIASM	1
+polyhidrosis	ENTHUSIASM	1
+natural process	ENTHUSIASM	1
+natural action	ENTHUSIASM	1
+radiation	ENTHUSIASM	1
+absorption	ENTHUSIASM	1
+acidification	ENTHUSIASM	1
+adiabatic process	ENTHUSIASM	1
+aeration	ENTHUSIASM	1
+antiredeposition	ENTHUSIASM	1
+capture	ENTHUSIASM	2
+centrifugation	ENTHUSIASM	1
+chemical process	ENTHUSIASM	1
+chemical change	ENTHUSIASM	1
+chemical action	ENTHUSIASM	1
+chromatography	ENTHUSIASM	1
+concretion	ENTHUSIASM	1
+condensation	ENTHUSIASM	1
+convection	ENTHUSIASM	1
+curdling	ENTHUSIASM	1
+clotting	ENTHUSIASM	1
+coagulation	ENTHUSIASM	1
+decay	ENTHUSIASM	2
+demagnetization	ENTHUSIASM	1
+demagnetisation	ENTHUSIASM	1
+desorption	ENTHUSIASM	1
+diffusion	ENTHUSIASM	1
+dissolution	ENTHUSIASM	2
+disintegration	ENTHUSIASM	1
+distillation	ENTHUSIASM	1
+distillment	ENTHUSIASM	1
+drift	ENTHUSIASM	1
+effervescence	ENTHUSIASM	1
+electrophoresis	ENTHUSIASM	1
+cataphoresis	ENTHUSIASM	1
+dielectrolysis	ENTHUSIASM	1
+ionophoresis	ENTHUSIASM	1
+establishment	ENTHUSIASM	1
+ecesis	ENTHUSIASM	1
+extinction	ENTHUSIASM	1
+extraction	ENTHUSIASM	1
+feedback	ENTHUSIASM	1
+filtration	ENTHUSIASM	1
+flocculation	ENTHUSIASM	1
+formation	ENTHUSIASM	1
+fossilization	ENTHUSIASM	1
+fossilisation	ENTHUSIASM	1
+geological process	ENTHUSIASM	1
+geologic process	ENTHUSIASM	1
+hardening	ENTHUSIASM	1
+solidifying	ENTHUSIASM	1
+solidification	ENTHUSIASM	1
+curing	ENTHUSIASM	1
+inactivation	ENTHUSIASM	1
+ion exchange	ENTHUSIASM	1
+ionization	ENTHUSIASM	1
+ionisation	ENTHUSIASM	1
+leach	ENTHUSIASM	1
+leaching	ENTHUSIASM	1
+magnetization	ENTHUSIASM	1
+magnetisation	ENTHUSIASM	1
+magnetic induction	ENTHUSIASM	1
+materialization	ENTHUSIASM	1
+materialisation	ENTHUSIASM	1
+nuclear reaction	ENTHUSIASM	1
+opacification	ENTHUSIASM	1
+oscillation	ENTHUSIASM	1
+oxygenation	ENTHUSIASM	1
+pair production	ENTHUSIASM	1
+pair creation	ENTHUSIASM	1
+pair formation	ENTHUSIASM	1
+phase change	ENTHUSIASM	1
+phase transition	ENTHUSIASM	1
+state change	ENTHUSIASM	1
+physical change	ENTHUSIASM	1
+precession of the equinoxes	ENTHUSIASM	1
+scattering	ENTHUSIASM	1
+sericulture	ENTHUSIASM	1
+sink	ENTHUSIASM	1
+soak	ENTHUSIASM	1
+soakage	ENTHUSIASM	1
+soaking	ENTHUSIASM	1
+softening	ENTHUSIASM	1
+sorption	ENTHUSIASM	1
+source	ENTHUSIASM	2
+rigidifying	ENTHUSIASM	1
+rigidification	ENTHUSIASM	1
+succession	ENTHUSIASM	3
+ecological succession	ENTHUSIASM	1
+survival of the fittest	ENTHUSIASM	1
+natural selection	ENTHUSIASM	1
+selection	ENTHUSIASM	1
+synergy	ENTHUSIASM	1
+synergism	ENTHUSIASM	1
+temperature change	ENTHUSIASM	1
+transduction	ENTHUSIASM	1
+vitrification	ENTHUSIASM	1
+adaptive radiation	ENTHUSIASM	1
+ultracentrifugation	ENTHUSIASM	1
+acylation	ENTHUSIASM	1
+agglutination	ENTHUSIASM	1
+agglutinating activity	ENTHUSIASM	1
+amylolysis	ENTHUSIASM	1
+association	ENTHUSIASM	1
+bluing	ENTHUSIASM	1
+blueing	ENTHUSIASM	1
+calcification	ENTHUSIASM	1
+catalysis	ENTHUSIASM	1
+contact action	ENTHUSIASM	1
+chelation	ENTHUSIASM	1
+chemical reaction	ENTHUSIASM	1
+chlorination	ENTHUSIASM	1
+cleavage	ENTHUSIASM	1
+corrosion	ENTHUSIASM	2
+corroding	ENTHUSIASM	1
+erosion	ENTHUSIASM	2
+cracking	ENTHUSIASM	1
+deamination	ENTHUSIASM	1
+deaminization	ENTHUSIASM	1
+decalcification	ENTHUSIASM	1
+decarboxylation	ENTHUSIASM	1
+de-iodination	ENTHUSIASM	1
+demineralization	ENTHUSIASM	1
+demineralisation	ENTHUSIASM	1
+desalination	ENTHUSIASM	1
+desalinization	ENTHUSIASM	1
+desalinisation	ENTHUSIASM	1
+digestion	ENTHUSIASM	1
+dissociation	ENTHUSIASM	1
+gasification	ENTHUSIASM	1
+gassing	ENTHUSIASM	1
+hydrogenation	ENTHUSIASM	1
+intumescence	ENTHUSIASM	1
+intumescency	ENTHUSIASM	1
+swelling	ENTHUSIASM	1
+inversion	ENTHUSIASM	1
+iodination	ENTHUSIASM	1
+mechanism	ENTHUSIASM	1
+chemical mechanism	ENTHUSIASM	1
+nitrification	ENTHUSIASM	1
+peptization	ENTHUSIASM	1
+peptisation	ENTHUSIASM	1
+photosynthesis	ENTHUSIASM	1
+polymerization	ENTHUSIASM	1
+polymerisation	ENTHUSIASM	1
+precipitation	ENTHUSIASM	1
+proteolysis	ENTHUSIASM	1
+pyrochemical process	ENTHUSIASM	1
+pyrochemistry	ENTHUSIASM	1
+sequestration	ENTHUSIASM	1
+syneresis	ENTHUSIASM	1
+synaeresis	ENTHUSIASM	1
+synthesis	ENTHUSIASM	1
+transamination	ENTHUSIASM	1
+zymosis	ENTHUSIASM	1
+zymolysis	ENTHUSIASM	1
+fermentation	ENTHUSIASM	1
+fermenting	ENTHUSIASM	1
+ferment	ENTHUSIASM	1
+column chromatography	ENTHUSIASM	1
+paper chromatography	ENTHUSIASM	1
+blood coagulation	ENTHUSIASM	1
+blood clotting	ENTHUSIASM	1
+thermocoagulation	ENTHUSIASM	1
+cavity	ENTHUSIASM	1
+caries	ENTHUSIASM	1
+dental caries	ENTHUSIASM	1
+tooth decay	ENTHUSIASM	1
+corruption	ENTHUSIASM	3
+decomposition	ENTHUSIASM	2
+rot	ENTHUSIASM	2
+rotting	ENTHUSIASM	1
+putrefaction	ENTHUSIASM	1
+breakdown	ENTHUSIASM	2
+dilapidation	ENTHUSIASM	1
+ruin	ENTHUSIASM	2
+spoilage	ENTHUSIASM	2
+spoiling	ENTHUSIASM	2
+degaussing	ENTHUSIASM	1
+osmosis	ENTHUSIASM	1
+permeation	ENTHUSIASM	1
+pervasion	ENTHUSIASM	1
+suffusion	ENTHUSIASM	1
+transport	ENTHUSIASM	1
+fibrinolysis	ENTHUSIASM	1
+lysis	ENTHUSIASM	1
+leeway	ENTHUSIASM	1
+immunoelectrophoresis	ENTHUSIASM	1
+paper electrophoresis	ENTHUSIASM	1
+carrier electrophoresis	ENTHUSIASM	1
+decoction	ENTHUSIASM	1
+dehydration	ENTHUSIASM	1
+desiccation	ENTHUSIASM	1
+drying up	ENTHUSIASM	1
+evaporation	ENTHUSIASM	1
+elution	ENTHUSIASM	1
+infusion	ENTHUSIASM	1
+mineral extraction	ENTHUSIASM	1
+mineral processing	ENTHUSIASM	1
+mineral dressing	ENTHUSIASM	1
+ore processing	ENTHUSIASM	1
+ore dressing	ENTHUSIASM	1
+beneficiation	ENTHUSIASM	1
+negative feedback	ENTHUSIASM	1
+positive feedback	ENTHUSIASM	1
+regeneration	ENTHUSIASM	1
+percolation	ENTHUSIASM	1
+infiltration	ENTHUSIASM	2
+slipstream	ENTHUSIASM	1
+airstream	ENTHUSIASM	1
+race	ENTHUSIASM	1
+backwash	ENTHUSIASM	1
+turbulent flow	ENTHUSIASM	1
+streamline flow	ENTHUSIASM	1
+filling	ENTHUSIASM	1
+flowage	ENTHUSIASM	1
+inflow	ENTHUSIASM	1
+influx	ENTHUSIASM	1
+outflow	ENTHUSIASM	1
+effluence	ENTHUSIASM	1
+efflux	ENTHUSIASM	1
+incrustation	ENTHUSIASM	1
+encrustation	ENTHUSIASM	1
+reticulation	ENTHUSIASM	1
+petrifaction	ENTHUSIASM	4
+petrification	ENTHUSIASM	4
+alluvion	ENTHUSIASM	1
+desertification	ENTHUSIASM	1
+diastrophism	ENTHUSIASM	1
+eroding	ENTHUSIASM	1
+eating away	ENTHUSIASM	1
+wearing	ENTHUSIASM	1
+wearing away	ENTHUSIASM	1
+fold	ENTHUSIASM	1
+folding	ENTHUSIASM	1
+glaciation	ENTHUSIASM	1
+metamorphism	ENTHUSIASM	1
+orogeny	ENTHUSIASM	1
+subduction	ENTHUSIASM	1
+congealment	ENTHUSIASM	1
+congelation	ENTHUSIASM	1
+chain reaction	ENTHUSIASM	1
+radioactive decay	ENTHUSIASM	1
+endoergic reaction	ENTHUSIASM	1
+exoergic reaction	ENTHUSIASM	1
+fission	ENTHUSIASM	1
+nuclear fission	ENTHUSIASM	1
+fusion	ENTHUSIASM	1
+nuclear fusion	ENTHUSIASM	1
+nuclear fusion reaction	ENTHUSIASM	1
+spallation	ENTHUSIASM	1
+libration	ENTHUSIASM	1
+freeze	ENTHUSIASM	1
+freezing	ENTHUSIASM	1
+liquefaction	ENTHUSIASM	1
+thaw	ENTHUSIASM	1
+melt	ENTHUSIASM	1
+thawing	ENTHUSIASM	1
+melting	ENTHUSIASM	1
+vaporization	ENTHUSIASM	1
+vaporisation	ENTHUSIASM	1
+vapor	ENTHUSIASM	1
+vapour	ENTHUSIASM	1
+heat sink	ENTHUSIASM	1
+maceration	ENTHUSIASM	1
+soaking up	ENTHUSIASM	1
+adsorption	ENTHUSIASM	1
+surface assimilation	ENTHUSIASM	1
+origin	ENTHUSIASM	1
+rigor mortis	ENTHUSIASM	1
+galvanization	ENTHUSIASM	1
+galvanisation	ENTHUSIASM	1
+potentiation	ENTHUSIASM	1
+advection	ENTHUSIASM	1
+climate change	ENTHUSIASM	1
+global climate change	ENTHUSIASM	1
+cooling	ENTHUSIASM	1
+chilling	ENTHUSIASM	1
+temperature reduction	ENTHUSIASM	1
+heating	ENTHUSIASM	1
+warming	ENTHUSIASM	1
+microphoning	ENTHUSIASM	1
+spiritedness	ENTHUSIASM	1
+brio	ENTHUSIASM	1
+dynamism	ENTHUSIASM	2
+pizzazz	ENTHUSIASM	1
+pizzaz	ENTHUSIASM	1
+oomph	ENTHUSIASM	1
+zing	ENTHUSIASM	1
+chirpiness	ENTHUSIASM	1
+life	ENTHUSIASM	1
+spirit	ENTHUSIASM	1
+sprightliness	ENTHUSIASM	1
+agog	ENTHUSIASM	1
+animated	ENTHUSIASM	1
+alive	ENTHUSIASM	1
+ardent	ENTHUSIASM	3
+fervent	ENTHUSIASM	1
+fervid	ENTHUSIASM	1
+fiery	ENTHUSIASM	2
+impassioned	ENTHUSIASM	1
+perfervid	ENTHUSIASM	1
+torrid	ENTHUSIASM	1
+warm	ENTHUSIASM	1
+ardor	ENTHUSIASM	1
+ardour	ENTHUSIASM	1
+elan	ENTHUSIASM	1
+zeal	ENTHUSIASM	1
+fervor	ENTHUSIASM	1
+fervour	ENTHUSIASM	1
+fervency	ENTHUSIASM	1
+fire	ENTHUSIASM	1
+fervidness	ENTHUSIASM	1
+attracted	ENTHUSIASM	2
+concerned	ENTHUSIASM	2
+interested	ENTHUSIASM	2
+implicated	ENTHUSIASM	1
+conviction	ENTHUSIASM	2
+strong belief	ENTHUSIASM	1
+article of faith	ENTHUSIASM	1
+amateurism	ENTHUSIASM	1
+judgment of conviction	ENTHUSIASM	1
+condemnation	ENTHUSIASM	2
+sentence	ENTHUSIASM	1
+murder conviction	ENTHUSIASM	1
+rape conviction	ENTHUSIASM	1
+robbery conviction	ENTHUSIASM	1
+dash	ENTHUSIASM	1
+flair	ENTHUSIASM	1
+panache	ENTHUSIASM	1
+style	ENTHUSIASM	1
+sprint	ENTHUSIASM	1
+break	ENTHUSIASM	1
+fast break	ENTHUSIASM	1
+hyphen	ENTHUSIASM	1
+dah	ENTHUSIASM	1
+bolt	ENTHUSIASM	2
+devoted	ENTHUSIASM	3
+devotion	ENTHUSIASM	3
+devotedness	ENTHUSIASM	3
+hobbyism	ENTHUSIASM	1
+fetish	ENTHUSIASM	1
+fetich	ENTHUSIASM	1
+party spirit	ENTHUSIASM	1
+bhakti	ENTHUSIASM	1
+novena	ENTHUSIASM	1
+Stations	ENTHUSIASM	1
+Stations of the Cross	ENTHUSIASM	1
+eager	ENTHUSIASM	1
+eagerness	ENTHUSIASM	1
+avidity	ENTHUSIASM	1
+avidness	ENTHUSIASM	1
+keenness	ENTHUSIASM	1
+readiness	ENTHUSIASM	1
+forwardness	ENTHUSIASM	1
+earnest	ENTHUSIASM	1
+sincere	ENTHUSIASM	1
+solemn	ENTHUSIASM	3
+dear	ENTHUSIASM	2
+devout	ENTHUSIASM	1
+heartfelt	ENTHUSIASM	2
+businesslike	ENTHUSIASM	1
+earnestness	ENTHUSIASM	1
+seriousness	ENTHUSIASM	2
+sincerity	ENTHUSIASM	1
+serious-mindedness	ENTHUSIASM	1
+committedness	ENTHUSIASM	1
+commitment	ENTHUSIASM	1
+graveness	ENTHUSIASM	3
+gravity	ENTHUSIASM	1
+sobriety	ENTHUSIASM	1
+soberness	ENTHUSIASM	1
+somberness	ENTHUSIASM	2
+sombreness	ENTHUSIASM	1
+sedateness	ENTHUSIASM	1
+staidness	ENTHUSIASM	1
+solemnity	ENTHUSIASM	3
+solemness	ENTHUSIASM	1
+investment	ENTHUSIASM	1
+stodginess	ENTHUSIASM	1
+stuffiness	ENTHUSIASM	1
+ebullient	ENTHUSIASM	1
+exuberant	ENTHUSIASM	3
+high-spirited	ENTHUSIASM	1
+ecstasy	ENTHUSIASM	4
+rapture	ENTHUSIASM	1
+raptus	ENTHUSIASM	1
+Adam	ENTHUSIASM	1
+XTC	ENTHUSIASM	1
+disco biscuit	ENTHUSIASM	1
+cristal	ENTHUSIASM	1
+X	ENTHUSIASM	1
+hug drug	ENTHUSIASM	1
+elate	ENTHUSIASM	1
+lift up	ENTHUSIASM	1
+uplift	ENTHUSIASM	1
+pick up	ENTHUSIASM	1
+intoxicate	ENTHUSIASM	2
+beatify	ENTHUSIASM	1
+puff	ENTHUSIASM	1
+exhilarate	ENTHUSIASM	1
+tickle pink	ENTHUSIASM	1
+inebriate	ENTHUSIASM	1
+thrill	ENTHUSIASM	4
+exalt	ENTHUSIASM	1
+energy	ENTHUSIASM	1
+free energy	ENTHUSIASM	1
+activation energy	ENTHUSIASM	1
+energy of activation	ENTHUSIASM	1
+alternative energy	ENTHUSIASM	1
+atomic energy	ENTHUSIASM	1
+nuclear energy	ENTHUSIASM	1
+binding energy	ENTHUSIASM	1
+separation energy	ENTHUSIASM	1
+chemical energy	ENTHUSIASM	1
+electricity	ENTHUSIASM	1
+electrical energy	ENTHUSIASM	1
+power	ENTHUSIASM	1
+energy level	ENTHUSIASM	1
+energy state	ENTHUSIASM	1
+rest energy	ENTHUSIASM	1
+heat	ENTHUSIASM	1
+heat energy	ENTHUSIASM	1
+mechanical energy	ENTHUSIASM	1
+radiant energy	ENTHUSIASM	1
+solar energy	ENTHUSIASM	1
+solar power	ENTHUSIASM	1
+wind generation	ENTHUSIASM	1
+wind power	ENTHUSIASM	1
+atomic power	ENTHUSIASM	1
+nuclear power	ENTHUSIASM	1
+alternating current	ENTHUSIASM	1
+AC	ENTHUSIASM	1
+alternating electric current	ENTHUSIASM	1
+direct current	ENTHUSIASM	1
+DC	ENTHUSIASM	1
+direct electric current	ENTHUSIASM	1
+signal	ENTHUSIASM	1
+geothermal energy	ENTHUSIASM	1
+heat of dissociation	ENTHUSIASM	1
+heat of formation	ENTHUSIASM	1
+heat of solution	ENTHUSIASM	1
+latent heat	ENTHUSIASM	1
+heat of transformation	ENTHUSIASM	1
+specific heat	ENTHUSIASM	1
+kinetic energy	ENTHUSIASM	1
+K.E.	ENTHUSIASM	1
+potential energy	ENTHUSIASM	1
+P.E.	ENTHUSIASM	1
+luminous energy	ENTHUSIASM	1
+ionizing radiation	ENTHUSIASM	1
+cosmic radiation	ENTHUSIASM	1
+electromagnetic radiation	ENTHUSIASM	1
+electromagnetic wave	ENTHUSIASM	1
+nonparticulate radiation	ENTHUSIASM	1
+solar radiation	ENTHUSIASM	1
+vigor	ENTHUSIASM	1
+vigour	ENTHUSIASM	1
+zip	ENTHUSIASM	1
+athleticism	ENTHUSIASM	1
+strenuosity	ENTHUSIASM	1
+push	ENTHUSIASM	1
+get-up-and-go	ENTHUSIASM	1
+muscularity	ENTHUSIASM	1
+vim	ENTHUSIASM	1
+vitality	ENTHUSIASM	1
+verve	ENTHUSIASM	1
+sparkle	ENTHUSIASM	1
+twinkle	ENTHUSIASM	1
+spark	ENTHUSIASM	1
+light	ENTHUSIASM	1
+juice	ENTHUSIASM	1
+qi	ENTHUSIASM	1
+chi	ENTHUSIASM	1
+ch'i	ENTHUSIASM	1
+ki	ENTHUSIASM	1
+Department of Energy	ENTHUSIASM	1
+Energy Department	ENTHUSIASM	1
+DOE	ENTHUSIASM	1
+enthuse	ENTHUSIASM	3
+bring down	ENTHUSIASM	1
+rhapsodize	ENTHUSIASM	1
+rhapsodise	ENTHUSIASM	1
+enthusiasm	ENTHUSIASM	3
+gusto	ENTHUSIASM	1
+relish	ENTHUSIASM	1
+zest	ENTHUSIASM	2
+zestfulness	ENTHUSIASM	2
+exuberance	ENTHUSIASM	3
+technophilia	ENTHUSIASM	1
+ebullience	ENTHUSIASM	1
+lyricism	ENTHUSIASM	1
+madness	ENTHUSIASM	2
+rabidity	ENTHUSIASM	1
+rabidness	ENTHUSIASM	1
+Anglomania	ENTHUSIASM	1
+balletomania	ENTHUSIASM	1
+enthusiastic	ENTHUSIASM	3
+exhilarated	ENTHUSIASM	1
+gladdened	ENTHUSIASM	3
+exhilaration	ENTHUSIASM	1
+excitement	ENTHUSIASM	3
+bang	ENTHUSIASM	1
+boot	ENTHUSIASM	1
+rush	ENTHUSIASM	1
+flush	ENTHUSIASM	1
+thrill	ENTHUSIASM	4
+kick	ENTHUSIASM	2
+intoxication	ENTHUSIASM	1
+titillation	ENTHUSIASM	1
+fascinated	ENTHUSIASM	1
+hypnotized	ENTHUSIASM	1
+hypnotised	ENTHUSIASM	1
+mesmerized	ENTHUSIASM	1
+mesmerised	ENTHUSIASM	1
+spellbound	ENTHUSIASM	1
+spell-bound	ENTHUSIASM	1
+transfixed	ENTHUSIASM	1
+fervent	ENTHUSIASM	1
+fervid	ENTHUSIASM	1
+fervor	ENTHUSIASM	1
+excitation	ENTHUSIASM	3
+inflammation	ENTHUSIASM	1
+fever pitch	ENTHUSIASM	1
+sensation	ENTHUSIASM	1
+glow	ENTHUSIASM	1
+freshness	ENTHUSIASM	1
+luminescence	ENTHUSIASM	1
+incandescence	ENTHUSIASM	1
+sky glow	ENTHUSIASM	1
+radiance	ENTHUSIASM	3
+glowing	ENTHUSIASM	1
+aureole	ENTHUSIASM	1
+corona	ENTHUSIASM	1
+gleam	ENTHUSIASM	1
+gleaming	ENTHUSIASM	1
+lambency	ENTHUSIASM	1
+gush	ENTHUSIASM	1
+spurt	ENTHUSIASM	1
+spirt	ENTHUSIASM	1
+spout	ENTHUSIASM	1
+pump	ENTHUSIASM	1
+blow	ENTHUSIASM	1
+whoosh	ENTHUSIASM	1
+rave	ENTHUSIASM	1
+jet	ENTHUSIASM	1
+hearty	ENTHUSIASM	1
+satisfying	ENTHUSIASM	2
+solid	ENTHUSIASM	1
+square	ENTHUSIASM	1
+substantial	ENTHUSIASM	1
+full-blooded	ENTHUSIASM	1
+lusty	ENTHUSIASM	1
+red-blooded	ENTHUSIASM	1
+hilarity	ENTHUSIASM	3
+mirth	ENTHUSIASM	1
+mirthfulness	ENTHUSIASM	1
+glee	ENTHUSIASM	1
+gleefulness	ENTHUSIASM	1
+hobby	ENTHUSIASM	1
+avocation	ENTHUSIASM	1
+by-line	ENTHUSIASM	1
+sideline	ENTHUSIASM	1
+spare-time activity	ENTHUSIASM	1
+speleology	ENTHUSIASM	1
+spelaeology	ENTHUSIASM	1
+hobbyhorse	ENTHUSIASM	1
+rocking horse	ENTHUSIASM	1
+Falco subbuteo	ENTHUSIASM	1
+impetuosity	ENTHUSIASM	1
+impetuousness	ENTHUSIASM	2
+intent	ENTHUSIASM	1
+captive	ENTHUSIASM	2
+absorbed	ENTHUSIASM	1
+engrossed	ENTHUSIASM	1
+enwrapped	ENTHUSIASM	1
+wrapped	ENTHUSIASM	1
+interest	ENTHUSIASM	2
+involvement	ENTHUSIASM	1
+concern	ENTHUSIASM	2
+worldly concern	ENTHUSIASM	1
+earthly concern	ENTHUSIASM	1
+world	ENTHUSIASM	1
+earth	ENTHUSIASM	1
+matter	ENTHUSIASM	1
+affair	ENTHUSIASM	1
+thing	ENTHUSIASM	1
+personal business	ENTHUSIASM	1
+personal matters	ENTHUSIASM	1
+affairs	ENTHUSIASM	1
+point of honor	ENTHUSIASM	1
+sake	ENTHUSIASM	1
+behalf	ENTHUSIASM	1
+interestingness	ENTHUSIASM	1
+charisma	ENTHUSIASM	1
+personal appeal	ENTHUSIASM	1
+personal magnetism	ENTHUSIASM	1
+newsworthiness	ENTHUSIASM	1
+news	ENTHUSIASM	1
+topicality	ENTHUSIASM	1
+color	ENTHUSIASM	1
+colour	ENTHUSIASM	1
+vividness	ENTHUSIASM	1
+shrillness	ENTHUSIASM	2
+compound interest	ENTHUSIASM	1
+simple interest	ENTHUSIASM	1
+stake	ENTHUSIASM	1
+grubstake	ENTHUSIASM	1
+controlling interest	ENTHUSIASM	1
+insurable interest	ENTHUSIASM	1
+vested interest	ENTHUSIASM	1
+security interest	ENTHUSIASM	1
+terminable interest	ENTHUSIASM	1
+undivided interest	ENTHUSIASM	1
+undivided right	ENTHUSIASM	1
+fee	ENTHUSIASM	1
+equity	ENTHUSIASM	1
+reversion	ENTHUSIASM	1
+right	ENTHUSIASM	1
+pledge	ENTHUSIASM	1
+mortgage	ENTHUSIASM	1
+conditional sale	ENTHUSIASM	1
+collateral	ENTHUSIASM	1
+lien	ENTHUSIASM	1
+fee simple	ENTHUSIASM	1
+fee tail	ENTHUSIASM	1
+sweat equity	ENTHUSIASM	1
+escheat	ENTHUSIASM	1
+interest group	ENTHUSIASM	1
+special interest	ENTHUSIASM	1
+special-interest group	ENTHUSIASM	1
+special interest group	ENTHUSIASM	1
+advocacy group	ENTHUSIASM	1
+lobby group	ENTHUSIASM	1
+lobby	ENTHUSIASM	1
+pressure group	ENTHUSIASM	1
+third house	ENTHUSIASM	1
+National Rifle Association	ENTHUSIASM	1
+NRA	ENTHUSIASM	1
+military-industrial complex	ENTHUSIASM	1
+keen	ENTHUSIASM	1
+acute	ENTHUSIASM	1
+discriminating	ENTHUSIASM	1
+incisive	ENTHUSIASM	1
+knifelike	ENTHUSIASM	1
+penetrating	ENTHUSIASM	1
+penetrative	ENTHUSIASM	1
+piercing	ENTHUSIASM	1
+sharp	ENTHUSIASM	1
+exquisite	ENTHUSIASM	1
+bang-up	ENTHUSIASM	1
+bully	ENTHUSIASM	1
+corking	ENTHUSIASM	1
+cracking	ENTHUSIASM	1
+dandy	ENTHUSIASM	1
+great	ENTHUSIASM	3
+groovy	ENTHUSIASM	1
+neat	ENTHUSIASM	1
+nifty	ENTHUSIASM	1
+not bad	ENTHUSIASM	1
+peachy	ENTHUSIASM	1
+slap-up	ENTHUSIASM	1
+swell	ENTHUSIASM	1
+smashing	ENTHUSIASM	1
+old	ENTHUSIASM	1
+cutting	ENTHUSIASM	1
+stabbing	ENTHUSIASM	2
+lancinate	ENTHUSIASM	1
+lancinating	ENTHUSIASM	1
+keenness	ENTHUSIASM	1
+acuteness	ENTHUSIASM	1
+acuity	ENTHUSIASM	1
+sharpness	ENTHUSIASM	1
+steel trap	ENTHUSIASM	1
+lively	ENTHUSIASM	2
+racy	ENTHUSIASM	1
+alert	ENTHUSIASM	1
+brisk	ENTHUSIASM	1
+merry	ENTHUSIASM	2
+rattling	ENTHUSIASM	1
+snappy	ENTHUSIASM	1
+spanking	ENTHUSIASM	1
+zippy	ENTHUSIASM	1
+bouncy	ENTHUSIASM	1
+live	ENTHUSIASM	1
+resilient	ENTHUSIASM	1
+springy	ENTHUSIASM	1
+vital	ENTHUSIASM	1
+mirth	ENTHUSIASM	1
+obsessed	ENTHUSIASM	3
+haunted	ENTHUSIASM	1
+preoccupied	ENTHUSIASM	1
+taken up	ENTHUSIASM	1
+possessed	ENTHUSIASM	1
+oomph	ENTHUSIASM	1
+sex appeal	ENTHUSIASM	1
+desirability	ENTHUSIASM	1
+desirableness	ENTHUSIASM	1
+sultriness	ENTHUSIASM	1
+passion	ENTHUSIASM	3
+passionateness	ENTHUSIASM	1
+infatuation	ENTHUSIASM	1
+wildness	ENTHUSIASM	1
+abandon	ENTHUSIASM	2
+storminess	ENTHUSIASM	1
+warmth	ENTHUSIASM	1
+fieriness	ENTHUSIASM	1
+rage	ENTHUSIASM	4
+mania	ENTHUSIASM	1
+cacoethes	ENTHUSIASM	1
+agromania	ENTHUSIASM	1
+dipsomania	ENTHUSIASM	1
+alcoholism	ENTHUSIASM	1
+potomania	ENTHUSIASM	1
+egomania	ENTHUSIASM	1
+kleptomania	ENTHUSIASM	1
+logorrhea	ENTHUSIASM	1
+logomania	ENTHUSIASM	1
+monomania	ENTHUSIASM	1
+necrophilia	ENTHUSIASM	1
+necrophilism	ENTHUSIASM	1
+necromania	ENTHUSIASM	1
+phaneromania	ENTHUSIASM	1
+pyromania	ENTHUSIASM	1
+trichotillomania	ENTHUSIASM	1
+Passion of Christ	ENTHUSIASM	1
+passionate	ENTHUSIASM	3
+pep	ENTHUSIASM	1
+peppiness	ENTHUSIASM	1
+ginger	ENTHUSIASM	1
+rapture	ENTHUSIASM	1
+relish	ENTHUSIASM	1
+olive	ENTHUSIASM	1
+pickle	ENTHUSIASM	1
+chowchow	ENTHUSIASM	1
+pickle relish	ENTHUSIASM	1
+piccalilli	ENTHUSIASM	1
+black olive	ENTHUSIASM	1
+ripe olive	ENTHUSIASM	1
+green olive	ENTHUSIASM	1
+gherkin	ENTHUSIASM	1
+dill pickle	ENTHUSIASM	1
+sweet pickle	ENTHUSIASM	1
+flavor	ENTHUSIASM	1
+flavour	ENTHUSIASM	1
+sapidity	ENTHUSIASM	1
+savor	ENTHUSIASM	1
+savour	ENTHUSIASM	1
+smack	ENTHUSIASM	2
+nip	ENTHUSIASM	1
+tang	ENTHUSIASM	1
+lemon	ENTHUSIASM	1
+vanilla	ENTHUSIASM	1
+spirited	ENTHUSIASM	1
+bouncing	ENTHUSIASM	1
+peppy	ENTHUSIASM	1
+game	ENTHUSIASM	1
+gamy	ENTHUSIASM	1
+gamey	ENTHUSIASM	1
+gritty	ENTHUSIASM	1
+mettlesome	ENTHUSIASM	1
+spunky	ENTHUSIASM	1
+enlivened	ENTHUSIASM	1
+tantalized	ENTHUSIASM	1
+thrill	ENTHUSIASM	4
+tickle	ENTHUSIASM	1
+vibrate	ENTHUSIASM	1
+shudder	ENTHUSIASM	1
+shiver	ENTHUSIASM	2
+throb	ENTHUSIASM	1
+thrilled	ENTHUSIASM	4
+verve	ENTHUSIASM	1
+vigorous	ENTHUSIASM	1
+vim	ENTHUSIASM	1
+vivacity	ENTHUSIASM	1
+willing	ENTHUSIASM	1
+uncoerced	ENTHUSIASM	1
+unforced	ENTHUSIASM	1
+zeal	ENTHUSIASM	1
+zealous	ENTHUSIASM	1
+avid	ENTHUSIASM	1
+zest	ENTHUSIASM	2
+piquance	ENTHUSIASM	1
+piquancy	ENTHUSIASM	1
+piquantness	ENTHUSIASM	1
+tanginess	ENTHUSIASM	1
+agreeable	FUN	1
+accordant	FUN	1
+conformable	FUN	1
+consonant	FUN	1
+concordant	FUN	1
+amuse	FUN	2
+divert	FUN	1
+disport	FUN	1
+convulse	FUN	1
+amused	FUN	2
+diverted	FUN	1
+entertained	FUN	1
+amusing	FUN	2
+amusive	FUN	1
+diverting	FUN	1
+comic	FUN	1
+comical	FUN	1
+funny	FUN	2
+laughable	FUN	2
+mirthful	FUN	1
+risible	FUN	1
+buffoonery	FUN	2
+clowning	FUN	1
+japery	FUN	1
+frivolity	FUN	1
+harlequinade	FUN	1
+prank	FUN	1
+shtik	FUN	1
+schtik	FUN	1
+shtick	FUN	1
+schtick	FUN	1
+celebration	FUN	2
+jubilation	FUN	1
+festivity	FUN	1
+agon	FUN	1
+merrymaking	FUN	2
+conviviality	FUN	1
+jollification	FUN	3
+feria	FUN	1
+festival	FUN	1
+fete	FUN	1
+gala	FUN	1
+gala affair	FUN	1
+jamboree	FUN	1
+blowout	FUN	1
+Ludi Saeculares	FUN	1
+secular games	FUN	1
+victory celebration	FUN	1
+Isthmian Games	FUN	1
+Nemean Games	FUN	1
+Olympian Games	FUN	1
+Olympic Games	FUN	1
+Pythian Games	FUN	1
+jinks	FUN	1
+high jinks	FUN	1
+hijinks	FUN	1
+high jinx	FUN	1
+revel	FUN	1
+revelry	FUN	1
+carnival	FUN	1
+Dionysia	FUN	1
+Bacchanalia	FUN	1
+eisteddfod	FUN	1
+film festival	FUN	1
+jazz festival	FUN	1
+Kwanzaa	FUN	1
+Kwanza	FUN	1
+Oktoberfest	FUN	1
+Saturnalia	FUN	1
+sheepshearing	FUN	1
+solemnization	FUN	3
+solemnisation	FUN	1
+charming	FUN	2
+magic	FUN	1
+magical	FUN	1
+sorcerous	FUN	1
+witching	FUN	1
+wizard	FUN	1
+wizardly	FUN	1
+cheer	FUN	2
+hearten	FUN	1
+recreate	FUN	1
+embolden	FUN	1
+take heart	FUN	1
+buck up	FUN	1
+lighten	FUN	1
+lighten up	FUN	1
+buoy up	FUN	1
+cheer up	FUN	1
+jolly along	FUN	1
+jolly up	FUN	1
+chirk up	FUN	1
+exuberate	FUN	1
+exult	FUN	1
+rejoice	FUN	4
+triumph	FUN	3
+jubilate	FUN	1
+glory	FUN	2
+root on	FUN	1
+inspire	FUN	3
+urge	FUN	1
+barrack	FUN	1
+urge on	FUN	1
+exhort	FUN	1
+pep up	FUN	1
+cheerlead	FUN	1
+cheerful	FUN	3
+pollyannaish	FUN	1
+upbeat	FUN	2
+cheering	FUN	2
+comforting	FUN	2
+satisfying	FUN	2
+clowning	FUN	1
+comical	FUN	1
+convivial	FUN	1
+good-time	FUN	1
+delightful	FUN	3
+delicious	FUN	3
+diverting	FUN	1
+droll	FUN	1
+enchanting	FUN	1
+bewitching	FUN	1
+captivating	FUN	1
+enthralling	FUN	1
+entrancing	FUN	1
+fascinating	FUN	1
+engaging	FUN	1
+piquant	FUN	1
+enjoy	FUN	3
+bask	FUN	1
+relish	FUN	1
+savor	FUN	1
+savour	FUN	1
+feast one's eyes	FUN	1
+devour	FUN	1
+love	FUN	3
+get off	FUN	1
+delight	FUN	3
+revel	FUN	1
+have a ball	FUN	1
+have a good time	FUN	1
+wallow	FUN	2
+live it up	FUN	1
+enjoyable	FUN	3
+gratifying	FUN	2
+pleasurable	FUN	3
+enjoyment	FUN	3
+joie de vivre	FUN	1
+gusto	FUN	1
+relish	FUN	1
+zest	FUN	2
+zestfulness	FUN	2
+delectation	FUN	1
+use	FUN	1
+fair use	FUN	1
+fruition	FUN	1
+entertain	FUN	1
+host	FUN	1
+feast	FUN	1
+banquet	FUN	1
+junket	FUN	1
+wine and dine	FUN	1
+emcee	FUN	1
+compere	FUN	1
+do the honors	FUN	1
+think of	FUN	1
+toy with	FUN	1
+flirt with	FUN	1
+think about	FUN	1
+harbor	FUN	1
+harbour	FUN	1
+hold	FUN	1
+nurse	FUN	1
+entertaining	FUN	1
+entertainment	FUN	1
+amusement	FUN	2
+beguilement	FUN	1
+distraction	FUN	2
+edutainment	FUN	1
+extravaganza	FUN	1
+militainment	FUN	1
+nightlife	FUN	1
+night life	FUN	1
+show	FUN	1
+fair	FUN	1
+funfair	FUN	1
+dog show	FUN	1
+horseshow	FUN	1
+raree-show	FUN	1
+circus	FUN	1
+cabaret	FUN	1
+floorshow	FUN	1
+floor show	FUN	1
+ice show	FUN	1
+interlude	FUN	1
+intermezzo	FUN	1
+entr'acte	FUN	1
+display	FUN	1
+exhibit	FUN	1
+showing	FUN	1
+presentation	FUN	1
+presentment	FUN	1
+demonstration	FUN	1
+road show	FUN	1
+sideshow	FUN	1
+Wild West Show	FUN	1
+Buffalo Bill's Wild West Show	FUN	1
+festivity	FUN	1
+frolic	FUN	4
+play	FUN	1
+romp	FUN	1
+gambol	FUN	1
+caper	FUN	1
+flirt	FUN	2
+flirting	FUN	2
+flirtation	FUN	2
+coquetry	FUN	1
+dalliance	FUN	1
+toying	FUN	1
+folly	FUN	1
+foolery	FUN	2
+tomfoolery	FUN	1
+craziness	FUN	1
+lunacy	FUN	1
+indulgence	FUN	1
+game	FUN	1
+horseplay	FUN	1
+teasing	FUN	1
+word play	FUN	1
+meshugaas	FUN	1
+mishegaas	FUN	1
+mishegoss	FUN	1
+fun	FUN	2
+merriment	FUN	2
+playfulness	FUN	2
+sport	FUN	1
+jocosity	FUN	1
+jocularity	FUN	1
+waggery	FUN	1
+waggishness	FUN	1
+drollery	FUN	1
+comedy	FUN	1
+funniness	FUN	2
+pun	FUN	1
+punning	FUN	1
+wordplay	FUN	1
+paronomasia	FUN	1
+facetiousness	FUN	1
+impertinence	FUN	1
+perkiness	FUN	1
+pertness	FUN	1
+sauciness	FUN	1
+archness	FUN	1
+friskiness	FUN	1
+frolicsomeness	FUN	1
+sportiveness	FUN	1
+impishness	FUN	1
+mischievousness	FUN	2
+puckishness	FUN	1
+whimsicality	FUN	1
+humor	FUN	3
+humour	FUN	3
+sense of humor	FUN	1
+sense of humour	FUN	1
+fun	FUN	2
+funny	FUN	2
+curious	FUN	1
+odd	FUN	1
+peculiar	FUN	1
+queer	FUN	2
+rum	FUN	1
+rummy	FUN	1
+singular	FUN	1
+fishy	FUN	1
+shady	FUN	2
+suspect	FUN	2
+suspicious	FUN	2
+gaiety	FUN	1
+hilarity	FUN	3
+mirth	FUN	1
+mirthfulness	FUN	1
+glee	FUN	1
+gleefulness	FUN	1
+jocundity	FUN	1
+jollity	FUN	3
+jolliness	FUN	3
+joviality	FUN	1
+gladdening	FUN	3
+gratifying	FUN	2
+sweet	FUN	2
+grins	FUN	2
+smile	FUN	3
+smiling	FUN	3
+grin	FUN	2
+grinning	FUN	2
+simper	FUN	1
+smirk	FUN	1
+humorous	FUN	3
+humourous	FUN	1
+interesting	FUN	2
+jocular	FUN	1
+jesting	FUN	1
+jocose	FUN	1
+joking	FUN	3
+jocularity	FUN	1
+jest	FUN	1
+joke	FUN	2
+leg-pull	FUN	1
+leg-pulling	FUN	1
+pleasantry	FUN	3
+joke	FUN	2
+jest	FUN	1
+gag	FUN	1
+quip	FUN	1
+horse around	FUN	1
+arse around	FUN	1
+fool around	FUN	1
+fool	FUN	2
+pun	FUN	1
+clown	FUN	1
+clown around	FUN	1
+antic	FUN	1
+joke	FUN	2
+gag	FUN	1
+laugh	FUN	2
+jape	FUN	1
+belly laugh	FUN	1
+sidesplitter	FUN	1
+howler	FUN	1
+thigh-slapper	FUN	1
+scream	FUN	4
+wow	FUN	3
+riot	FUN	1
+dirty joke	FUN	1
+dirty story	FUN	1
+blue joke	FUN	1
+blue story	FUN	1
+ethnic joke	FUN	1
+funny story	FUN	1
+good story	FUN	1
+funny remark	FUN	1
+funny	FUN	2
+in-joke	FUN	1
+one-liner	FUN	1
+shaggy dog story	FUN	1
+sick joke	FUN	1
+sight gag	FUN	1
+visual joke	FUN	1
+antic	FUN	1
+trick	FUN	2
+put-on	FUN	1
+dirty trick	FUN	1
+practical joke	FUN	1
+April fool	FUN	1
+hotfoot	FUN	1
+rag	FUN	1
+snipe hunt	FUN	1
+jokey	FUN	1
+jollity	FUN	3
+joshing	FUN	1
+joy	FUN	3
+joyousness	FUN	3
+joyfulness	FUN	3
+rhapsody	FUN	1
+elation	FUN	1
+high spirits	FUN	1
+lightness	FUN	1
+exultation	FUN	1
+jubilance	FUN	1
+jubilancy	FUN	1
+exhilaration	FUN	1
+excitement	FUN	3
+exuberance	FUN	3
+euphoria	FUN	1
+euphory	FUN	1
+triumph	FUN	3
+bang	FUN	1
+boot	FUN	1
+charge	FUN	2
+rush	FUN	1
+flush	FUN	1
+thrill	FUN	4
+kick	FUN	2
+intoxication	FUN	1
+titillation	FUN	1
+delight	FUN	3
+pleasure	FUN	3
+junketing	FUN	1
+laughable	FUN	2
+absurd	FUN	2
+cockeyed	FUN	1
+derisory	FUN	1
+idiotic	FUN	3
+ludicrous	FUN	3
+nonsensical	FUN	2
+preposterous	FUN	2
+ridiculous	FUN	3
+laughter	FUN	2
+cachinnation	FUN	1
+cackle	FUN	1
+chortle	FUN	1
+chuckle	FUN	3
+giggle	FUN	3
+guffaw	FUN	1
+hee-haw	FUN	1
+horselaugh	FUN	1
+ha-ha	FUN	1
+haw-haw	FUN	1
+snicker	FUN	1
+snort	FUN	1
+snigger	FUN	1
+titter	FUN	1
+lively	FUN	2
+racy	FUN	1
+alert	FUN	1
+brisk	FUN	1
+merry	FUN	2
+rattling	FUN	1
+snappy	FUN	1
+spanking	FUN	1
+zippy	FUN	1
+bouncy	FUN	1
+live	FUN	1
+resilient	FUN	1
+springy	FUN	1
+vital	FUN	1
+merriment	FUN	2
+merry	FUN	2
+gay	FUN	2
+jocund	FUN	1
+jolly	FUN	3
+jovial	FUN	1
+festal	FUN	1
+festive	FUN	1
+merrymaking	FUN	2
+bust	FUN	1
+tear	FUN	2
+binge	FUN	1
+bout	FUN	1
+carouse	FUN	1
+carousal	FUN	1
+bender	FUN	1
+toot	FUN	1
+booze-up	FUN	1
+orgy	FUN	1
+debauch	FUN	1
+debauchery	FUN	1
+bacchanal	FUN	1
+drunken revelry	FUN	1
+whoopee	FUN	1
+mirth	FUN	1
+pastime	FUN	1
+interest	FUN	2
+pursuit	FUN	1
+avocation	FUN	1
+by-line	FUN	1
+hobby	FUN	1
+sideline	FUN	1
+spare-time activity	FUN	1
+speleology	FUN	1
+spelaeology	FUN	1
+playfulness	FUN	2
+pleasant	FUN	3
+please	FUN	2
+endear	FUN	1
+enchant	FUN	1
+enrapture	FUN	1
+transport	FUN	1
+enthrall	FUN	1
+ravish	FUN	1
+enthral	FUN	1
+pleasing	FUN	3
+pleasure	FUN	3
+pleasance	FUN	1
+pleasantness	FUN	3
+comfort	FUN	2
+sexual pleasure	FUN	1
+entrancement	FUN	1
+ravishment	FUN	1
+Schadenfreude	FUN	1
+afterglow	FUN	1
+consolation	FUN	1
+solace	FUN	1
+solacement	FUN	1
+relief	FUN	2
+alleviation	FUN	1
+assuagement	FUN	1
+algolagnia	FUN	1
+algophilia	FUN	1
+sadism	FUN	1
+masochism	FUN	3
+luxuriation	FUN	1
+recreation	FUN	1
+diversion	FUN	1
+bathing	FUN	1
+dancing	FUN	1
+dance	FUN	1
+terpsichore	FUN	1
+saltation	FUN	1
+escapade	FUN	1
+lark	FUN	1
+escape	FUN	1
+escapism	FUN	1
+eurythmy	FUN	1
+eurhythmy	FUN	1
+eurythmics	FUN	1
+eurhythmics	FUN	1
+gambling	FUN	1
+gaming	FUN	1
+child's play	FUN	1
+athletics	FUN	1
+sea bathing	FUN	1
+sun bathing	FUN	1
+adagio	FUN	1
+break dancing	FUN	1
+break dance	FUN	1
+courante	FUN	1
+nautch	FUN	1
+nauch	FUN	1
+nautch dance	FUN	1
+pavane	FUN	1
+pavan	FUN	1
+phrase	FUN	1
+saraband	FUN	1
+skank	FUN	1
+slam dancing	FUN	1
+slam dance	FUN	1
+step dancing	FUN	1
+hoofing	FUN	1
+toe dancing	FUN	1
+toe dance	FUN	1
+stage dancing	FUN	1
+choreography	FUN	3
+pas seul	FUN	1
+variation	FUN	1
+pas de deux	FUN	1
+duet	FUN	1
+pas de trois	FUN	1
+pas de quatre	FUN	1
+social dancing	FUN	1
+mambo	FUN	1
+ritual dancing	FUN	1
+ritual dance	FUN	1
+ceremonial dance	FUN	1
+sexcapade	FUN	1
+sporting life	FUN	1
+bet	FUN	1
+wager	FUN	1
+game of chance	FUN	1
+gambling game	FUN	1
+throw	FUN	1
+catch	FUN	1
+party game	FUN	1
+computer game	FUN	1
+video game	FUN	1
+pinball	FUN	1
+pinball game	FUN	1
+guessing game	FUN	1
+ducks and drakes	FUN	1
+mind game	FUN	1
+paper chase	FUN	1
+hare and hounds	FUN	1
+ring-around-the-rosy	FUN	1
+ring-around-a-rosy	FUN	1
+ring-a-rosy	FUN	1
+prisoner's base	FUN	1
+treasure hunt	FUN	1
+house	FUN	1
+doctor	FUN	1
+fireman	FUN	1
+funambulism	FUN	1
+tightrope walking	FUN	1
+rock climbing	FUN	1
+contact sport	FUN	1
+outdoor sport	FUN	1
+field sport	FUN	1
+gymnastics	FUN	1
+gymnastic exercise	FUN	1
+track and field	FUN	1
+skiing	FUN	1
+water sport	FUN	1
+aquatics	FUN	1
+rowing	FUN	1
+row	FUN	1
+archery	FUN	1
+sledding	FUN	1
+skating	FUN	1
+racing	FUN	1
+riding	FUN	1
+horseback riding	FUN	1
+equitation	FUN	1
+cycling	FUN	1
+blood sport	FUN	1
+athletic game	FUN	1
+judo	FUN	1
+spectator sport	FUN	1
+team sport	FUN	1
+refreshment	FUN	1
+rejoicing	FUN	1
+exultant	FUN	1
+exulting	FUN	1
+jubilant	FUN	1
+prideful	FUN	1
+triumphal	FUN	3
+triumphant	FUN	3
+relaxation	FUN	3
+relaxation behavior	FUN	1
+easiness	FUN	1
+languor	FUN	1
+dreaminess	FUN	1
+loosening	FUN	1
+slackening	FUN	1
+thaw	FUN	1
+rest	FUN	1
+ease	FUN	1
+repose	FUN	1
+bedrest	FUN	1
+bed rest	FUN	1
+laziness	FUN	1
+lie-in	FUN	1
+quiescence	FUN	1
+quiescency	FUN	1
+dormancy	FUN	1
+sleeping	FUN	1
+leisure	FUN	1
+cool	FUN	2
+vegetation	FUN	1
+vacationing	FUN	1
+relaxation method	FUN	1
+liberalization	FUN	1
+liberalisation	FUN	1
+romp	FUN	1
+runaway	FUN	2
+laugher	FUN	2
+shoo-in	FUN	1
+walkaway	FUN	1
+tomboy	FUN	1
+hoyden	FUN	1
+treat	FUN	2
+dainty	FUN	1
+delicacy	FUN	1
+goody	FUN	1
+kickshaw	FUN	2
+choice morsel	FUN	1
+tidbit	FUN	1
+titbit	FUN	1
+savory	FUN	1
+savoury	FUN	1
+sweet	FUN	2
+confection	FUN	1
+ambrosia	FUN	1
+nectar	FUN	1
+gelatin	FUN	1
+jelly	FUN	1
+marrow	FUN	1
+bone marrow	FUN	1
+confectionery	FUN	1
+confiture	FUN	1
+sweetmeat	FUN	1
+candy	FUN	1
+confect	FUN	1
+hardbake	FUN	1
+chewing gum	FUN	1
+gum	FUN	1
+candied apple	FUN	1
+candy apple	FUN	1
+taffy apple	FUN	1
+caramel apple	FUN	1
+toffee apple	FUN	1
+center	FUN	1
+centre	FUN	1
+comfit	FUN	1
+maraschino	FUN	1
+maraschino cherry	FUN	1
+nonpareil	FUN	1
+calf's-foot jelly	FUN	1
+gelatin dessert	FUN	1
+aspic	FUN	1
+witty	FUN	1
+appreciate	HAPPINESS	2
+take account	HAPPINESS	1
+prize	HAPPINESS	3
+value	HAPPINESS	2
+treasure	HAPPINESS	2
+do justice	HAPPINESS	1
+recognize	HAPPINESS	1
+recognise	HAPPINESS	1
+honor	HAPPINESS	1
+honour	HAPPINESS	1
+reward	HAPPINESS	2
+rubricate	HAPPINESS	1
+apprize	HAPPINESS	1
+apprise	HAPPINESS	1
+revalue	HAPPINESS	1
+appreciation	HAPPINESS	2
+grasp	HAPPINESS	1
+hold	HAPPINESS	1
+sense	HAPPINESS	1
+taste	HAPPINESS	1
+discernment	HAPPINESS	1
+perceptiveness	HAPPINESS	1
+virtu	HAPPINESS	1
+vertu	HAPPINESS	1
+connoisseurship	HAPPINESS	1
+vogue	HAPPINESS	1
+trend	HAPPINESS	1
+style	HAPPINESS	1
+delicacy	HAPPINESS	1
+discretion	HAPPINESS	1
+culture	HAPPINESS	1
+New Look	HAPPINESS	1
+fashion	HAPPINESS	1
+bandwagon	HAPPINESS	1
+counterculture	HAPPINESS	1
+mass culture	HAPPINESS	1
+letters	HAPPINESS	1
+admiration	HAPPINESS	3
+adoration	HAPPINESS	4
+idolization	HAPPINESS	1
+idolisation	HAPPINESS	1
+idealization	HAPPINESS	1
+idealisation	HAPPINESS	1
+glorification	HAPPINESS	2
+sentimentalization	HAPPINESS	3
+sentimentalisation	HAPPINESS	1
+romanticization	HAPPINESS	4
+romanticisation	HAPPINESS	1
+beatitude	HAPPINESS	1
+blessedness	HAPPINESS	2
+beatification	HAPPINESS	1
+nirvana	HAPPINESS	1
+enlightenment	HAPPINESS	1
+blessedness	HAPPINESS	2
+bliss	HAPPINESS	5
+blissfulness	HAPPINESS	1
+cloud nine	HAPPINESS	1
+seventh heaven	HAPPINESS	1
+walking on air	HAPPINESS	1
+ecstasy	HAPPINESS	4
+rapture	HAPPINESS	1
+blissful	HAPPINESS	5
+cheer	HAPPINESS	2
+banzai	HAPPINESS	1
+bravo	HAPPINESS	1
+hurrah	HAPPINESS	3
+hooray	HAPPINESS	1
+salvo	HAPPINESS	1
+cheerfulness	HAPPINESS	3
+sunniness	HAPPINESS	1
+sunshine	HAPPINESS	2
+good-temperedness	HAPPINESS	1
+good-humoredness	HAPPINESS	1
+good-humouredness	HAPPINESS	1
+good-naturedness	HAPPINESS	1
+cheer	HAPPINESS	2
+hearten	HAPPINESS	1
+recreate	HAPPINESS	1
+embolden	HAPPINESS	1
+take heart	HAPPINESS	1
+buck up	HAPPINESS	1
+lighten	HAPPINESS	1
+lighten up	HAPPINESS	1
+buoy up	HAPPINESS	1
+cheer up	HAPPINESS	1
+jolly along	HAPPINESS	1
+jolly up	HAPPINESS	1
+amuse	HAPPINESS	2
+convulse	HAPPINESS	1
+chirk up	HAPPINESS	1
+exuberate	HAPPINESS	1
+exult	HAPPINESS	1
+rejoice	HAPPINESS	4
+triumph	HAPPINESS	3
+jubilate	HAPPINESS	1
+glory	HAPPINESS	2
+root on	HAPPINESS	1
+inspire	HAPPINESS	3
+urge	HAPPINESS	1
+barrack	HAPPINESS	1
+urge on	HAPPINESS	1
+exhort	HAPPINESS	1
+pep up	HAPPINESS	1
+cheerlead	HAPPINESS	1
+cheerful	HAPPINESS	3
+pollyannaish	HAPPINESS	1
+upbeat	HAPPINESS	2
+cheerfulness	HAPPINESS	3
+blitheness	HAPPINESS	1
+buoyancy	HAPPINESS	1
+perkiness	HAPPINESS	1
+carefreeness	HAPPINESS	1
+insouciance	HAPPINESS	1
+lightheartedness	HAPPINESS	1
+lightsomeness	HAPPINESS	1
+cheeriness	HAPPINESS	2
+content	HAPPINESS	1
+contents	HAPPINESS	1
+message	HAPPINESS	1
+subject matter	HAPPINESS	1
+substance	HAPPINESS	1
+body	HAPPINESS	1
+corker	HAPPINESS	1
+reminder	HAPPINESS	1
+request	HAPPINESS	1
+petition	HAPPINESS	1
+postulation	HAPPINESS	1
+memorial	HAPPINESS	1
+latent content	HAPPINESS	1
+subject	HAPPINESS	1
+topic	HAPPINESS	1
+theme	HAPPINESS	1
+digression	HAPPINESS	1
+aside	HAPPINESS	1
+excursus	HAPPINESS	1
+divagation	HAPPINESS	1
+parenthesis	HAPPINESS	1
+meaning	HAPPINESS	1
+significance	HAPPINESS	1
+signification	HAPPINESS	1
+import	HAPPINESS	1
+nonsense	HAPPINESS	2
+bunk	HAPPINESS	1
+nonsensicality	HAPPINESS	1
+meaninglessness	HAPPINESS	1
+hokum	HAPPINESS	1
+drivel	HAPPINESS	2
+garbage	HAPPINESS	3
+acknowledgment	HAPPINESS	1
+acknowledgement	HAPPINESS	1
+refusal	HAPPINESS	2
+information	HAPPINESS	1
+info	HAPPINESS	1
+guidance	HAPPINESS	1
+counsel	HAPPINESS	1
+counseling	HAPPINESS	1
+counselling	HAPPINESS	1
+direction	HAPPINESS	1
+commitment	HAPPINESS	1
+dedication	HAPPINESS	1
+approval	HAPPINESS	1
+commendation	HAPPINESS	1
+disapproval	HAPPINESS	2
+respects	HAPPINESS	3
+disrespect	HAPPINESS	1
+discourtesy	HAPPINESS	1
+interpolation	HAPPINESS	1
+insertion	HAPPINESS	1
+statement	HAPPINESS	1
+wit	HAPPINESS	1
+humor	HAPPINESS	3
+humour	HAPPINESS	3
+witticism	HAPPINESS	1
+wittiness	HAPPINESS	1
+opinion	HAPPINESS	1
+view	HAPPINESS	1
+instruction	HAPPINESS	1
+proposal	HAPPINESS	1
+offer	HAPPINESS	1
+offering	HAPPINESS	1
+submission	HAPPINESS	1
+entry	HAPPINESS	1
+narrative	HAPPINESS	1
+narration	HAPPINESS	1
+story	HAPPINESS	1
+tale	HAPPINESS	1
+promotion	HAPPINESS	1
+promo	HAPPINESS	1
+publicity	HAPPINESS	1
+promotional material	HAPPINESS	1
+packaging	HAPPINESS	1
+sensationalism	HAPPINESS	1
+shocker	HAPPINESS	3
+phylactery	HAPPINESS	1
+tefillin	HAPPINESS	1
+application	HAPPINESS	1
+solicitation	HAPPINESS	1
+appeal	HAPPINESS	1
+collection	HAPPINESS	1
+ingathering	HAPPINESS	1
+demand	HAPPINESS	1
+bone of contention	HAPPINESS	1
+precedent	HAPPINESS	1
+question	HAPPINESS	1
+head	HAPPINESS	1
+keynote	HAPPINESS	1
+lexical meaning	HAPPINESS	1
+grammatical meaning	HAPPINESS	1
+symbolization	HAPPINESS	1
+symbolisation	HAPPINESS	1
+signified	HAPPINESS	1
+intension	HAPPINESS	1
+connotation	HAPPINESS	1
+referent	HAPPINESS	1
+effect	HAPPINESS	1
+essence	HAPPINESS	1
+burden	HAPPINESS	2
+core	HAPPINESS	1
+gist	HAPPINESS	1
+intent	HAPPINESS	1
+purport	HAPPINESS	1
+spirit	HAPPINESS	1
+moral	HAPPINESS	1
+lesson	HAPPINESS	1
+nuance	HAPPINESS	1
+nicety	HAPPINESS	2
+shade	HAPPINESS	1
+subtlety	HAPPINESS	1
+refinement	HAPPINESS	1
+overtone	HAPPINESS	1
+point	HAPPINESS	1
+absurdity	HAPPINESS	2
+absurdness	HAPPINESS	2
+ridiculousness	HAPPINESS	3
+amphigory	HAPPINESS	1
+nonsense verse	HAPPINESS	1
+balderdash	HAPPINESS	2
+fiddle-faddle	HAPPINESS	1
+piffle	HAPPINESS	2
+buzzword	HAPPINESS	1
+cant	HAPPINESS	1
+cobblers	HAPPINESS	1
+crock	HAPPINESS	1
+fa la	HAPPINESS	1
+fal la	HAPPINESS	1
+gibberish	HAPPINESS	2
+gibber	HAPPINESS	1
+incoherence	HAPPINESS	1
+incoherency	HAPPINESS	1
+unintelligibility	HAPPINESS	1
+jabberwocky	HAPPINESS	1
+mummery	HAPPINESS	1
+flummery	HAPPINESS	1
+palaver	HAPPINESS	1
+hot air	HAPPINESS	1
+empty words	HAPPINESS	1
+empty talk	HAPPINESS	1
+rhetoric	HAPPINESS	1
+rigmarole	HAPPINESS	1
+rigamarole	HAPPINESS	1
+shmegegge	HAPPINESS	1
+schmegegge	HAPPINESS	1
+stuff	HAPPINESS	1
+stuff and nonsense	HAPPINESS	1
+hooey	HAPPINESS	2
+poppycock	HAPPINESS	2
+baloney	HAPPINESS	2
+boloney	HAPPINESS	1
+bilgewater	HAPPINESS	1
+bosh	HAPPINESS	1
+drool	HAPPINESS	1
+humbug	HAPPINESS	1
+taradiddle	HAPPINESS	1
+tarradiddle	HAPPINESS	1
+tommyrot	HAPPINESS	2
+tosh	HAPPINESS	1
+twaddle	HAPPINESS	1
+bunkum	HAPPINESS	2
+buncombe	HAPPINESS	1
+guff	HAPPINESS	1
+rot	HAPPINESS	2
+hogwash	HAPPINESS	2
+chickenshit	HAPPINESS	1
+folderol	HAPPINESS	1
+rubbish	HAPPINESS	3
+tripe	HAPPINESS	1
+trumpery	HAPPINESS	1
+trash	HAPPINESS	2
+wish-wash	HAPPINESS	1
+applesauce	HAPPINESS	1
+codswallop	HAPPINESS	1
+pap	HAPPINESS	1
+pablum	HAPPINESS	1
+credits	HAPPINESS	1
+receipt	HAPPINESS	1
+farewell	HAPPINESS	1
+word of farewell	HAPPINESS	1
+greeting	HAPPINESS	1
+salutation	HAPPINESS	1
+aloha	HAPPINESS	1
+ciao	HAPPINESS	1
+handshake	HAPPINESS	1
+shake	HAPPINESS	2
+handshaking	HAPPINESS	1
+handclasp	HAPPINESS	1
+apology	HAPPINESS	1
+mea culpa	HAPPINESS	1
+condolence	HAPPINESS	3
+commiseration	HAPPINESS	2
+declination	HAPPINESS	1
+regrets	HAPPINESS	2
+admission	HAPPINESS	1
+thanks	HAPPINESS	2
+ammunition	HAPPINESS	1
+factoid	HAPPINESS	1
+misinformation	HAPPINESS	2
+material	HAPPINESS	1
+details	HAPPINESS	1
+inside information	HAPPINESS	1
+fact	HAPPINESS	1
+format	HAPPINESS	1
+formatting	HAPPINESS	1
+data format	HAPPINESS	1
+data formatting	HAPPINESS	1
+gen	HAPPINESS	1
+database	HAPPINESS	1
+news	HAPPINESS	1
+intelligence	HAPPINESS	1
+tidings	HAPPINESS	1
+word	HAPPINESS	1
+nuts and bolts	HAPPINESS	1
+intelligence information	HAPPINESS	1
+update	HAPPINESS	1
+confirmation	HAPPINESS	1
+insider information	HAPPINESS	1
+secret	HAPPINESS	1
+arcanum	HAPPINESS	1
+propaganda	HAPPINESS	2
+course of study	HAPPINESS	1
+program	HAPPINESS	1
+programme	HAPPINESS	1
+curriculum	HAPPINESS	1
+syllabus	HAPPINESS	1
+evidence	HAPPINESS	1
+readout	HAPPINESS	1
+read-out	HAPPINESS	1
+tabulation	HAPPINESS	1
+tabular matter	HAPPINESS	1
+skinny	HAPPINESS	1
+report card	HAPPINESS	1
+report	HAPPINESS	1
+road map	HAPPINESS	1
+guideline	HAPPINESS	1
+career counseling	HAPPINESS	1
+cynosure	HAPPINESS	1
+genetic counseling	HAPPINESS	1
+marriage counseling	HAPPINESS	1
+tip	HAPPINESS	1
+lead	HAPPINESS	1
+steer	HAPPINESS	1
+confidential information	HAPPINESS	1
+wind	HAPPINESS	1
+hint	HAPPINESS	1
+oath	HAPPINESS	1
+swearing	HAPPINESS	1
+affirmation	HAPPINESS	1
+promise	HAPPINESS	2
+assurance	HAPPINESS	1
+pledge	HAPPINESS	1
+approbation	HAPPINESS	1
+sanction	HAPPINESS	1
+countenance	HAPPINESS	1
+endorsement	HAPPINESS	1
+indorsement	HAPPINESS	1
+warrant	HAPPINESS	1
+imprimatur	HAPPINESS	1
+recognition	HAPPINESS	1
+credit	HAPPINESS	1
+connivance	HAPPINESS	1
+secret approval	HAPPINESS	1
+tacit consent	HAPPINESS	1
+permission	HAPPINESS	1
+encouragement	HAPPINESS	2
+acclaim	HAPPINESS	1
+acclamation	HAPPINESS	1
+plaudits	HAPPINESS	1
+plaudit	HAPPINESS	1
+eclat	HAPPINESS	1
+applause	HAPPINESS	2
+hand clapping	HAPPINESS	1
+clapping	HAPPINESS	1
+praise	HAPPINESS	3
+congratulations	HAPPINESS	3
+kudos	HAPPINESS	1
+extolment	HAPPINESS	1
+tribute	HAPPINESS	1
+testimonial	HAPPINESS	1
+disapprobation	HAPPINESS	1
+condemnation	HAPPINESS	2
+criticism	HAPPINESS	2
+unfavorable judgment	HAPPINESS	1
+discouragement	HAPPINESS	2
+abuse	HAPPINESS	4
+insult	HAPPINESS	3
+revilement	HAPPINESS	1
+contumely	HAPPINESS	1
+vilification	HAPPINESS	1
+derision	HAPPINESS	2
+ridicule	HAPPINESS	3
+contempt	HAPPINESS	4
+scorn	HAPPINESS	2
+disparagement	HAPPINESS	2
+depreciation	HAPPINESS	2
+derogation	HAPPINESS	1
+impudence	HAPPINESS	1
+cheek	HAPPINESS	1
+impertinence	HAPPINESS	1
+blasphemy	HAPPINESS	1
+summary	HAPPINESS	1
+sum-up	HAPPINESS	1
+pleading	HAPPINESS	1
+awesome	HAPPINESS	4
+amendment	HAPPINESS	1
+thing	HAPPINESS	1
+truth	HAPPINESS	2
+true statement	HAPPINESS	1
+description	HAPPINESS	1
+verbal description	HAPPINESS	1
+declaration	HAPPINESS	1
+announcement	HAPPINESS	1
+proclamation	HAPPINESS	1
+annunciation	HAPPINESS	1
+Bill of Rights	HAPPINESS	1
+formula	HAPPINESS	1
+mathematical statement	HAPPINESS	1
+bid	HAPPINESS	1
+bidding	HAPPINESS	1
+explanation	HAPPINESS	1
+account	HAPPINESS	1
+explicandum	HAPPINESS	1
+explanandum	HAPPINESS	1
+explanans	HAPPINESS	1
+value statement	HAPPINESS	1
+representation	HAPPINESS	1
+solution	HAPPINESS	1
+answer	HAPPINESS	1
+result	HAPPINESS	1
+resolution	HAPPINESS	1
+solvent	HAPPINESS	1
+reply	HAPPINESS	1
+response	HAPPINESS	1
+promulgation	HAPPINESS	1
+prediction	HAPPINESS	1
+foretelling	HAPPINESS	1
+forecasting	HAPPINESS	1
+prognostication	HAPPINESS	1
+proposition	HAPPINESS	1
+quotation	HAPPINESS	1
+falsehood	HAPPINESS	2
+falsity	HAPPINESS	1
+untruth	HAPPINESS	2
+understatement	HAPPINESS	1
+reservation	HAPPINESS	1
+qualification	HAPPINESS	1
+cautious statement	HAPPINESS	1
+comment	HAPPINESS	1
+commentary	HAPPINESS	1
+remark	HAPPINESS	1
+input	HAPPINESS	1
+rhetorical question	HAPPINESS	1
+misstatement	HAPPINESS	1
+restatement	HAPPINESS	1
+agreement	HAPPINESS	1
+understanding	HAPPINESS	1
+condition	HAPPINESS	1
+strings	HAPPINESS	1
+term	HAPPINESS	1
+estimate	HAPPINESS	1
+chemical formula	HAPPINESS	1
+recital	HAPPINESS	1
+negation	HAPPINESS	1
+jeu d'esprit	HAPPINESS	1
+bon mot	HAPPINESS	1
+mot	HAPPINESS	1
+esprit de l'escalier	HAPPINESS	1
+pungency	HAPPINESS	1
+bite	HAPPINESS	1
+sarcasm	HAPPINESS	3
+irony	HAPPINESS	2
+satire	HAPPINESS	1
+caustic remark	HAPPINESS	1
+repartee	HAPPINESS	1
+joke	HAPPINESS	2
+gag	HAPPINESS	1
+laugh	HAPPINESS	2
+jest	HAPPINESS	1
+jape	HAPPINESS	1
+caricature	HAPPINESS	1
+imitation	HAPPINESS	1
+impersonation	HAPPINESS	1
+cartoon	HAPPINESS	1
+sketch	HAPPINESS	1
+fun	HAPPINESS	2
+play	HAPPINESS	1
+sport	HAPPINESS	1
+ribaldry	HAPPINESS	1
+topper	HAPPINESS	1
+adverse opinion	HAPPINESS	1
+guess	HAPPINESS	1
+conjecture	HAPPINESS	1
+supposition	HAPPINESS	1
+surmise	HAPPINESS	1
+surmisal	HAPPINESS	1
+speculation	HAPPINESS	1
+hypothesis	HAPPINESS	1
+side	HAPPINESS	1
+position	HAPPINESS	1
+rule	HAPPINESS	1
+prescript	HAPPINESS	1
+rubric	HAPPINESS	1
+misdirection	HAPPINESS	1
+address	HAPPINESS	1
+destination	HAPPINESS	1
+name and address	HAPPINESS	1
+markup	HAPPINESS	1
+prescription	HAPPINESS	1
+recipe	HAPPINESS	1
+stage direction	HAPPINESS	1
+system command	HAPPINESS	1
+advice	HAPPINESS	1
+counterproposal	HAPPINESS	1
+suggestion	HAPPINESS	1
+proffer	HAPPINESS	1
+introduction	HAPPINESS	1
+re-introduction	HAPPINESS	1
+motion	HAPPINESS	1
+contract offer	HAPPINESS	1
+marriage proposal	HAPPINESS	1
+proposal of marriage	HAPPINESS	1
+marriage offer	HAPPINESS	1
+counteroffer	HAPPINESS	1
+tender	HAPPINESS	3
+prospectus	HAPPINESS	1
+tender offer	HAPPINESS	1
+reward	HAPPINESS	2
+rights offering	HAPPINESS	1
+rights issue	HAPPINESS	1
+special	HAPPINESS	2
+peace offering	HAPPINESS	1
+olive branch	HAPPINESS	1
+twofer	HAPPINESS	1
+filing	HAPPINESS	1
+tearjerker	HAPPINESS	1
+Canterbury Tales	HAPPINESS	1
+tall tale	HAPPINESS	1
+folktale	HAPPINESS	1
+folk tale	HAPPINESS	1
+sob story	HAPPINESS	1
+sob stuff	HAPPINESS	1
+fairytale	HAPPINESS	1
+fairy tale	HAPPINESS	1
+fairy story	HAPPINESS	1
+nursery rhyme	HAPPINESS	1
+buildup	HAPPINESS	1
+public relations	HAPPINESS	1
+PR	HAPPINESS	1
+blurb	HAPPINESS	2
+ballyhoo	HAPPINESS	1
+hoopla	HAPPINESS	1
+hype	HAPPINESS	1
+plug	HAPPINESS	1
+sales talk	HAPPINESS	1
+sales pitch	HAPPINESS	1
+pitch	HAPPINESS	1
+ad	HAPPINESS	1
+advertisement	HAPPINESS	1
+advertizement	HAPPINESS	1
+advertising	HAPPINESS	1
+advertizing	HAPPINESS	1
+advert	HAPPINESS	1
+sales promotion	HAPPINESS	1
+capacity	HAPPINESS	1
+vital capacity	HAPPINESS	1
+cognitive content	HAPPINESS	1
+mental object	HAPPINESS	1
+tradition	HAPPINESS	1
+object	HAPPINESS	1
+food	HAPPINESS	1
+food for thought	HAPPINESS	1
+intellectual nourishment	HAPPINESS	1
+noumenon	HAPPINESS	1
+thing-in-itself	HAPPINESS	1
+universe	HAPPINESS	1
+universe of discourse	HAPPINESS	1
+issue	HAPPINESS	1
+matter	HAPPINESS	1
+idea	HAPPINESS	1
+thought	HAPPINESS	1
+kernel	HAPPINESS	1
+center	HAPPINESS	1
+centre	HAPPINESS	1
+heart	HAPPINESS	1
+heart and soul	HAPPINESS	1
+inwardness	HAPPINESS	1
+marrow	HAPPINESS	1
+meat	HAPPINESS	1
+nub	HAPPINESS	1
+pith	HAPPINESS	1
+sum	HAPPINESS	1
+nitty-gritty	HAPPINESS	1
+wisdom	HAPPINESS	1
+mental representation	HAPPINESS	1
+internal representation	HAPPINESS	1
+belief	HAPPINESS	1
+kenosis	HAPPINESS	1
+unbelief	HAPPINESS	1
+disbelief	HAPPINESS	2
+heresy	HAPPINESS	1
+unorthodoxy	HAPPINESS	1
+goal	HAPPINESS	1
+end	HAPPINESS	1
+education	HAPPINESS	1
+experience	HAPPINESS	1
+acculturation	HAPPINESS	1
+lore	HAPPINESS	1
+traditional knowledge	HAPPINESS	1
+ignorance	HAPPINESS	3
+knowledge domain	HAPPINESS	1
+knowledge base	HAPPINESS	1
+domain	HAPPINESS	1
+metaknowledge	HAPPINESS	1
+antipathy	HAPPINESS	2
+bugbear	HAPPINESS	1
+hobgoblin	HAPPINESS	1
+execration	HAPPINESS	1
+center of attention	HAPPINESS	1
+centre of attention	HAPPINESS	1
+hallucination	HAPPINESS	1
+infatuation	HAPPINESS	1
+love	HAPPINESS	3
+passion	HAPPINESS	3
+pabulum	HAPPINESS	1
+area	HAPPINESS	1
+blind spot	HAPPINESS	1
+remit	HAPPINESS	1
+res judicata	HAPPINESS	1
+res adjudicata	HAPPINESS	1
+gut issue	HAPPINESS	1
+hot-button issue	HAPPINESS	1
+paramount issue	HAPPINESS	1
+pocketbook issue	HAPPINESS	1
+bread-and-butter issue	HAPPINESS	1
+quodlibet	HAPPINESS	1
+inspiration	HAPPINESS	3
+cogitation	HAPPINESS	1
+concept	HAPPINESS	1
+conception	HAPPINESS	1
+construct	HAPPINESS	1
+preoccupation	HAPPINESS	1
+misconception	HAPPINESS	1
+plan	HAPPINESS	1
+figment	HAPPINESS	1
+generalization	HAPPINESS	1
+generalisation	HAPPINESS	1
+generality	HAPPINESS	1
+impression	HAPPINESS	2
+feeling	HAPPINESS	1
+notion	HAPPINESS	1
+reaction	HAPPINESS	1
+theorem	HAPPINESS	1
+whim	HAPPINESS	1
+whimsy	HAPPINESS	1
+whimsey	HAPPINESS	1
+motif	HAPPINESS	1
+ideal	HAPPINESS	1
+kink	HAPPINESS	1
+bare bones	HAPPINESS	1
+hypostasis	HAPPINESS	1
+quiddity	HAPPINESS	1
+haecceity	HAPPINESS	1
+quintessence	HAPPINESS	1
+reconditeness	HAPPINESS	1
+abstruseness	HAPPINESS	1
+abstrusity	HAPPINESS	1
+profoundness	HAPPINESS	1
+profundity	HAPPINESS	1
+overlap	HAPPINESS	1
+convergence	HAPPINESS	1
+intersection	HAPPINESS	1
+instantiation	HAPPINESS	1
+antitype	HAPPINESS	1
+stereotype	HAPPINESS	1
+schema	HAPPINESS	1
+scheme	HAPPINESS	1
+image	HAPPINESS	1
+mental image	HAPPINESS	1
+interpretation	HAPPINESS	1
+reading	HAPPINESS	1
+version	HAPPINESS	1
+phantasmagoria	HAPPINESS	1
+psychosexuality	HAPPINESS	1
+percept	HAPPINESS	1
+perception	HAPPINESS	1
+perceptual experience	HAPPINESS	1
+memory	HAPPINESS	1
+model	HAPPINESS	1
+example	HAPPINESS	1
+appearance	HAPPINESS	1
+blur	HAPPINESS	2
+fuzz	HAPPINESS	1
+abstractionism	HAPPINESS	1
+unrealism	HAPPINESS	1
+concretism	HAPPINESS	1
+concrete representation	HAPPINESS	1
+conviction	HAPPINESS	2
+strong belief	HAPPINESS	1
+article of faith	HAPPINESS	1
+faith	HAPPINESS	2
+trust	HAPPINESS	2
+doctrine	HAPPINESS	1
+philosophy	HAPPINESS	1
+philosophical system	HAPPINESS	1
+school of thought	HAPPINESS	1
+ism	HAPPINESS	1
+expectation	HAPPINESS	1
+outlook	HAPPINESS	1
+prospect	HAPPINESS	1
+fetishism	HAPPINESS	1
+fetichism	HAPPINESS	1
+geneticism	HAPPINESS	1
+meliorism	HAPPINESS	1
+sentiment	HAPPINESS	1
+persuasion	HAPPINESS	1
+autotelism	HAPPINESS	1
+originalism	HAPPINESS	1
+pacifism	HAPPINESS	1
+pacificism	HAPPINESS	1
+religion	HAPPINESS	1
+religious belief	HAPPINESS	1
+public opinion	HAPPINESS	1
+popular opinion	HAPPINESS	1
+vox populi	HAPPINESS	1
+revolutionism	HAPPINESS	1
+sacerdotalism	HAPPINESS	1
+spiritualism	HAPPINESS	1
+spiritual world	HAPPINESS	1
+spiritual domain	HAPPINESS	1
+unseen	HAPPINESS	1
+suffragism	HAPPINESS	1
+supernaturalism	HAPPINESS	1
+superstition	HAPPINESS	2
+superstitious notion	HAPPINESS	1
+supremacism	HAPPINESS	1
+theory	HAPPINESS	1
+theosophism	HAPPINESS	1
+totemism	HAPPINESS	1
+tribalism	HAPPINESS	1
+values	HAPPINESS	2
+vampirism	HAPPINESS	1
+individualism	HAPPINESS	1
+spiritual being	HAPPINESS	1
+supernatural being	HAPPINESS	1
+agnosticism	HAPPINESS	1
+skepticism	HAPPINESS	2
+scepticism	HAPPINESS	1
+atheism	HAPPINESS	1
+Arianism	HAPPINESS	1
+Marcionism	HAPPINESS	1
+Monophysitism	HAPPINESS	1
+Monothelitism	HAPPINESS	1
+Nestorianism	HAPPINESS	1
+Pelagianism	HAPPINESS	1
+Docetism	HAPPINESS	1
+Gnosticism	HAPPINESS	1
+tritheism	HAPPINESS	1
+Albigensianism	HAPPINESS	1
+Catharism	HAPPINESS	1
+Zurvanism	HAPPINESS	1
+aim	HAPPINESS	1
+objective	HAPPINESS	1
+target	HAPPINESS	1
+bourn	HAPPINESS	1
+bourne	HAPPINESS	1
+end-all	HAPPINESS	1
+terminus	HAPPINESS	1
+no-goal	HAPPINESS	1
+purpose	HAPPINESS	1
+intention	HAPPINESS	1
+design	HAPPINESS	1
+physical education	HAPPINESS	1
+eruditeness	HAPPINESS	1
+erudition	HAPPINESS	1
+learnedness	HAPPINESS	1
+learning	HAPPINESS	1
+scholarship	HAPPINESS	1
+encyclopedism	HAPPINESS	1
+encyclopaedism	HAPPINESS	1
+foundation	HAPPINESS	1
+grounding	HAPPINESS	1
+world	HAPPINESS	1
+reality	HAPPINESS	1
+life	HAPPINESS	1
+living	HAPPINESS	1
+reliving	HAPPINESS	1
+re-experiencing	HAPPINESS	1
+meme	HAPPINESS	1
+old wives' tale	HAPPINESS	1
+folklore	HAPPINESS	1
+ignorantness	HAPPINESS	3
+nescience	HAPPINESS	1
+unknowing	HAPPINESS	1
+unknowingness	HAPPINESS	1
+inexperience	HAPPINESS	1
+rawness	HAPPINESS	1
+unenlightenment	HAPPINESS	1
+illiteracy	HAPPINESS	1
+discipline	HAPPINESS	1
+subject area	HAPPINESS	1
+subject field	HAPPINESS	1
+field	HAPPINESS	1
+field of study	HAPPINESS	1
+study	HAPPINESS	1
+bailiwick	HAPPINESS	2
+region	HAPPINESS	1
+realm	HAPPINESS	1
+scientific knowledge	HAPPINESS	1
+contentedness	HAPPINESS	2
+depicted object	HAPPINESS	1
+contented	HAPPINESS	2
+content	HAPPINESS	1
+contentment	HAPPINESS	2
+satisfaction	HAPPINESS	2
+pride	HAPPINESS	2
+complacency	HAPPINESS	1
+complacence	HAPPINESS	1
+self-complacency	HAPPINESS	1
+self-satisfaction	HAPPINESS	1
+fulfillment	HAPPINESS	1
+fulfilment	HAPPINESS	1
+gloat	HAPPINESS	2
+gloating	HAPPINESS	2
+glee	HAPPINESS	1
+delectation	HAPPINESS	1
+delight	HAPPINESS	3
+entrancement	HAPPINESS	1
+ravishment	HAPPINESS	1
+amusement	HAPPINESS	2
+Schadenfreude	HAPPINESS	1
+enjoyment	HAPPINESS	3
+delight	HAPPINESS	3
+joy	HAPPINESS	3
+pleasure	HAPPINESS	3
+delighted	HAPPINESS	3
+beguiled	HAPPINESS	1
+captivated	HAPPINESS	1
+charmed	HAPPINESS	2
+enthralled	HAPPINESS	1
+entranced	HAPPINESS	1
+ecstasy	HAPPINESS	4
+transport	HAPPINESS	1
+exaltation	HAPPINESS	1
+raptus	HAPPINESS	1
+Adam	HAPPINESS	1
+XTC	HAPPINESS	1
+go	HAPPINESS	1
+disco biscuit	HAPPINESS	1
+cristal	HAPPINESS	1
+X	HAPPINESS	1
+hug drug	HAPPINESS	1
+elated	HAPPINESS	1
+gleeful	HAPPINESS	1
+joyful	HAPPINESS	3
+jubilant	HAPPINESS	1
+elation	HAPPINESS	1
+high	HAPPINESS	1
+high spirits	HAPPINESS	1
+lightness	HAPPINESS	1
+euphoria	HAPPINESS	1
+euphory	HAPPINESS	1
+enchantment	HAPPINESS	1
+captivation	HAPPINESS	1
+enthrallment	HAPPINESS	1
+fascination	HAPPINESS	1
+spell	HAPPINESS	1
+trance	HAPPINESS	1
+possession	HAPPINESS	1
+bewitchment	HAPPINESS	1
+enjoyment	HAPPINESS	3
+joie de vivre	HAPPINESS	1
+gusto	HAPPINESS	1
+relish	HAPPINESS	1
+zest	HAPPINESS	2
+zestfulness	HAPPINESS	2
+use	HAPPINESS	1
+fair use	HAPPINESS	1
+fruition	HAPPINESS	1
+euphoria	HAPPINESS	1
+euphoric	HAPPINESS	1
+exhilaration	HAPPINESS	1
+excitement	HAPPINESS	3
+bang	HAPPINESS	1
+boot	HAPPINESS	1
+charge	HAPPINESS	2
+rush	HAPPINESS	1
+flush	HAPPINESS	1
+thrill	HAPPINESS	4
+kick	HAPPINESS	2
+intoxication	HAPPINESS	1
+titillation	HAPPINESS	1
+felicity	HAPPINESS	1
+felicitousness	HAPPINESS	1
+happiness	HAPPINESS	3
+radiance	HAPPINESS	3
+gaiety	HAPPINESS	1
+merriment	HAPPINESS	2
+hilarity	HAPPINESS	3
+mirth	HAPPINESS	1
+mirthfulness	HAPPINESS	1
+gleefulness	HAPPINESS	1
+jocundity	HAPPINESS	1
+jocularity	HAPPINESS	1
+jollity	HAPPINESS	3
+jolliness	HAPPINESS	3
+joviality	HAPPINESS	1
+playfulness	HAPPINESS	2
+geniality	HAPPINESS	1
+affability	HAPPINESS	3
+affableness	HAPPINESS	1
+amiability	HAPPINESS	3
+amiableness	HAPPINESS	3
+bonhomie	HAPPINESS	1
+condescension	HAPPINESS	3
+condescendingness	HAPPINESS	1
+mellowness	HAPPINESS	1
+sweetness and light	HAPPINESS	1
+glad	HAPPINESS	2
+happy	HAPPINESS	2
+beaming	HAPPINESS	1
+gladness	HAPPINESS	3
+gladfulness	HAPPINESS	1
+gladsomeness	HAPPINESS	1
+glee	HAPPINESS	1
+hilarity	HAPPINESS	3
+hopefulness	HAPPINESS	2
+confidence	HAPPINESS	2
+anticipation	HAPPINESS	1
+joviality	HAPPINESS	1
+conviviality	HAPPINESS	1
+joy	HAPPINESS	3
+joyousness	HAPPINESS	3
+joyfulness	HAPPINESS	3
+rhapsody	HAPPINESS	1
+exultation	HAPPINESS	1
+jubilance	HAPPINESS	1
+jubilancy	HAPPINESS	1
+jubilation	HAPPINESS	1
+exuberance	HAPPINESS	3
+triumph	HAPPINESS	3
+joyful	HAPPINESS	3
+joyous	HAPPINESS	3
+jubilant	HAPPINESS	1
+exultant	HAPPINESS	1
+exulting	HAPPINESS	1
+prideful	HAPPINESS	1
+rejoicing	HAPPINESS	1
+triumphal	HAPPINESS	3
+triumphant	HAPPINESS	3
+jubilation	HAPPINESS	1
+celebration	HAPPINESS	2
+rejoicing	HAPPINESS	1
+jubliate	HAPPINESS	1
+lightheartedness	HAPPINESS	1
+lighthearted	HAPPINESS	1
+blithe	HAPPINESS	1
+blithesome	HAPPINESS	1
+lightsome	HAPPINESS	1
+light-hearted	HAPPINESS	1
+lively	HAPPINESS	2
+racy	HAPPINESS	1
+alert	HAPPINESS	1
+brisk	HAPPINESS	1
+merry	HAPPINESS	2
+rattling	HAPPINESS	1
+snappy	HAPPINESS	1
+spanking	HAPPINESS	1
+zippy	HAPPINESS	1
+bouncy	HAPPINESS	1
+live	HAPPINESS	1
+resilient	HAPPINESS	1
+springy	HAPPINESS	1
+vital	HAPPINESS	1
+merriment	HAPPINESS	2
+merry	HAPPINESS	2
+gay	HAPPINESS	2
+jocund	HAPPINESS	1
+jolly	HAPPINESS	3
+jovial	HAPPINESS	1
+mirthful	HAPPINESS	1
+festal	HAPPINESS	1
+festive	HAPPINESS	1
+mirth	HAPPINESS	1
+optimism	HAPPINESS	2
+sanguinity	HAPPINESS	1
+sanguineness	HAPPINESS	1
+overjoyed	HAPPINESS	5
+paradise	HAPPINESS	4
+Eden	HAPPINESS	1
+heaven	HAPPINESS	2
+promised land	HAPPINESS	1
+Shangri-la	HAPPINESS	1
+peace of mind	HAPPINESS	1
+peace	HAPPINESS	1
+peacefulness	HAPPINESS	1
+repose	HAPPINESS	1
+serenity	HAPPINESS	1
+heartsease	HAPPINESS	1
+ataraxis	HAPPINESS	1
+peaceful	HAPPINESS	1
+peaceable	HAPPINESS	1
+passive	HAPPINESS	1
+playfulness	HAPPINESS	2
+facetiousness	HAPPINESS	1
+pertness	HAPPINESS	1
+sauciness	HAPPINESS	1
+archness	HAPPINESS	1
+friskiness	HAPPINESS	1
+frolicsomeness	HAPPINESS	1
+sportiveness	HAPPINESS	1
+impishness	HAPPINESS	1
+mischievousness	HAPPINESS	2
+puckishness	HAPPINESS	1
+whimsicality	HAPPINESS	1
+sense of humor	HAPPINESS	1
+sense of humour	HAPPINESS	1
+pleasant	HAPPINESS	3
+pleased	HAPPINESS	2
+proud of	HAPPINESS	1
+pleasure	HAPPINESS	3
+pleasance	HAPPINESS	1
+pleasantness	HAPPINESS	3
+comfort	HAPPINESS	2
+sexual pleasure	HAPPINESS	1
+afterglow	HAPPINESS	1
+consolation	HAPPINESS	1
+solace	HAPPINESS	1
+solacement	HAPPINESS	1
+relief	HAPPINESS	2
+alleviation	HAPPINESS	1
+assuagement	HAPPINESS	1
+algolagnia	HAPPINESS	1
+algophilia	HAPPINESS	1
+sadism	HAPPINESS	1
+masochism	HAPPINESS	3
+luxuriation	HAPPINESS	1
+praise	HAPPINESS	3
+troll	HAPPINESS	1
+salute	HAPPINESS	1
+applaud	HAPPINESS	2
+laud	HAPPINESS	1
+extol	HAPPINESS	1
+exalt	HAPPINESS	1
+glorify	HAPPINESS	2
+proclaim	HAPPINESS	1
+flatter	HAPPINESS	1
+blandish	HAPPINESS	1
+eulogize	HAPPINESS	1
+eulogise	HAPPINESS	1
+compliment	HAPPINESS	2
+congratulate	HAPPINESS	2
+rave	HAPPINESS	1
+gush	HAPPINESS	1
+commend	HAPPINESS	1
+recommend	HAPPINESS	1
+advertise	HAPPINESS	1
+advertize	HAPPINESS	1
+promote	HAPPINESS	1
+push	HAPPINESS	1
+puff	HAPPINESS	1
+puff up	HAPPINESS	1
+sonnet	HAPPINESS	1
+acclaim	HAPPINESS	1
+hail	HAPPINESS	1
+herald	HAPPINESS	1
+canonize	HAPPINESS	1
+canonise	HAPPINESS	1
+ensky	HAPPINESS	1
+crack up	HAPPINESS	1
+hymn	HAPPINESS	1
+soft-soap	HAPPINESS	1
+adulate	HAPPINESS	1
+stroke	HAPPINESS	1
+fawn	HAPPINESS	1
+toady	HAPPINESS	1
+truckle	HAPPINESS	1
+bootlick	HAPPINESS	1
+kowtow	HAPPINESS	1
+kotow	HAPPINESS	1
+suck up	HAPPINESS	1
+butter up	HAPPINESS	1
+brown-nose	HAPPINESS	1
+propagandize	HAPPINESS	1
+propagandise	HAPPINESS	1
+plug	HAPPINESS	1
+bill	HAPPINESS	1
+crusade	HAPPINESS	1
+fight	HAPPINESS	3
+press	HAPPINESS	1
+campaign	HAPPINESS	1
+agitate	HAPPINESS	2
+prosperity	HAPPINESS	2
+boom	HAPPINESS	1
+successfulness	HAPPINESS	1
+wellbeing	HAPPINESS	2
+well-being	HAPPINESS	1
+welfare	HAPPINESS	1
+upbeat	HAPPINESS	2
+eudaemonia	HAPPINESS	1
+eudaimonia	HAPPINESS	1
+strength	HAPPINESS	1
+success	HAPPINESS	3
+fool's paradise	HAPPINESS	1
+health	HAPPINESS	1
+wellness	HAPPINESS	2
+big time	HAPPINESS	1
+pay dirt	HAPPINESS	1
+prosperous	HAPPINESS	2
+comfortable	HAPPINESS	2
+easy	HAPPINESS	1
+well-fixed	HAPPINESS	1
+well-heeled	HAPPINESS	1
+well-off	HAPPINESS	1
+well-situated	HAPPINESS	1
+well-to-do	HAPPINESS	1
+booming	HAPPINESS	1
+flourishing	HAPPINESS	1
+palmy	HAPPINESS	1
+prospering	HAPPINESS	1
+roaring	HAPPINESS	1
+thriving	HAPPINESS	1
+golden	HAPPINESS	1
+halcyon	HAPPINESS	1
+favorable	HAPPINESS	2
+favourable	HAPPINESS	1
+lucky	HAPPINESS	2
+rejoice	HAPPINESS	4
+joy	HAPPINESS	3
+gladden	HAPPINESS	3
+walk on air	HAPPINESS	1
+be on cloud nine	HAPPINESS	1
+jump for joy	HAPPINESS	1
+wallow	HAPPINESS	2
+rejoicing	HAPPINESS	1
+thrill	HAPPINESS	4
+tickle	HAPPINESS	1
+vibrate	HAPPINESS	1
+shudder	HAPPINESS	1
+shiver	HAPPINESS	2
+throb	HAPPINESS	1
+exhilarate	HAPPINESS	1
+tickle pink	HAPPINESS	1
+inebriate	HAPPINESS	1
+beatify	HAPPINESS	1
+thrilled	HAPPINESS	4
+thrilling	HAPPINESS	4
+electrifying	HAPPINESS	1
+upbeat	HAPPINESS	2
+vivacity	HAPPINESS	1
+well-being	HAPPINESS	1
+abhor	HATE	4
+loathe	HATE	1
+abominate	HATE	3
+execrate	HATE	1
+abhorred	HATE	4
+abhorrence	HATE	4
+abomination	HATE	3
+detestation	HATE	4
+execration	HATE	1
+loathing	HATE	1
+odium	HATE	1
+abominate	HATE	3
+abominated	HATE	3
+abomination	HATE	3
+anathema	HATE	1
+bete noire	HATE	1
+anathematize	HATE	1
+accurse	HATE	1
+anathemize	HATE	1
+comminate	HATE	1
+anathemise	HATE	1
+anathematise	HATE	1
+anathematized	HATE	1
+animosity	HATE	2
+animus	HATE	1
+bad blood	HATE	1
+animus	HATE	1
+antagonism	HATE	2
+hostility	HATE	3
+enmity	HATE	1
+latent hostility	HATE	1
+tension	HATE	3
+war	HATE	3
+state of war	HATE	1
+cold war	HATE	1
+suspicion	HATE	2
+proxy war	HATE	1
+cloud	HATE	1
+antipathy	HATE	2
+aversion	HATE	3
+distaste	HATE	1
+aversion	HATE	3
+averting	HATE	2
+avoid	HATE	2
+hedge	HATE	1
+fudge	HATE	1
+evade	HATE	2
+put off	HATE	1
+circumvent	HATE	1
+parry	HATE	1
+elude	HATE	1
+skirt	HATE	1
+dodge	HATE	1
+duck	HATE	1
+sidestep	HATE	1
+miss	HATE	2
+escape	HATE	1
+get off	HATE	1
+get away	HATE	1
+get by	HATE	1
+get out	HATE	1
+bypass	HATE	1
+short-circuit	HATE	1
+go around	HATE	1
+get around	HATE	1
+keep off	HATE	1
+stay off	HATE	1
+shirk	HATE	2
+shy away from	HATE	1
+shun	HATE	2
+eschew	HATE	1
+beg	HATE	2
+quibble	HATE	2
+debar	HATE	1
+forefend	HATE	1
+forfend	HATE	1
+obviate	HATE	1
+deflect	HATE	1
+avert	HATE	2
+head off	HATE	1
+stave off	HATE	1
+fend off	HATE	1
+ward off	HATE	1
+fiddle	HATE	1
+shrink from	HATE	1
+goldbrick	HATE	1
+scrimshank	HATE	1
+malinger	HATE	1
+skulk	HATE	2
+slack	HATE	1
+invalidate	HATE	2
+annul	HATE	1
+quash	HATE	1
+void	HATE	2
+nullify	HATE	2
+set aside	HATE	1
+break	HATE	1
+stet	HATE	1
+avoided	HATE	2
+bugbear	HATE	1
+bogeyman	HATE	1
+bugaboo	HATE	1
+boogeyman	HATE	1
+booger	HATE	1
+hobgoblin	HATE	1
+condemn	HATE	2
+reprobate	HATE	1
+decry	HATE	1
+objurgate	HATE	1
+excoriate	HATE	1
+boo	HATE	1
+hiss	HATE	1
+explode	HATE	2
+attaint	HATE	1
+sentence	HATE	1
+doom	HATE	2
+foredoom	HATE	1
+condemned	HATE	2
+curse	HATE	2
+cuss	HATE	1
+blaspheme	HATE	1
+swear	HATE	2
+imprecate	HATE	1
+beshrew	HATE	1
+damn	HATE	2
+bedamn	HATE	1
+maledict	HATE	1
+excommunicate	HATE	2
+unchurch	HATE	1
+cursed	HATE	2
+curst	HATE	1
+damned	HATE	2
+doomed	HATE	2
+unredeemed	HATE	1
+unsaved	HATE	1
+deplore	HATE	2
+lament	HATE	3
+bewail	HATE	1
+bemoan	HATE	1
+deprecate	HATE	1
+depreciate	HATE	2
+vilipend	HATE	1
+deflate	HATE	1
+puncture	HATE	1
+deprecation	HATE	1
+denigration	HATE	1
+deride	HATE	2
+catcall	HATE	1
+despise	HATE	4
+contemn	HATE	1
+scorn	HATE	2
+disdain	HATE	2
+look down on	HATE	1
+detest	HATE	4
+hate	HATE	4
+detestation	HATE	4
+detested	HATE	4
+despised	HATE	4
+hated	HATE	4
+scorned	HATE	2
+disapprobation	HATE	1
+condemnation	HATE	2
+censure	HATE	2
+animadversion	HATE	1
+demonization	HATE	1
+demonisation	HATE	1
+interdict	HATE	1
+disapproval	HATE	2
+criticism	HATE	2
+unfavorable judgment	HATE	1
+discouragement	HATE	2
+attack	HATE	3
+brickbat	HATE	1
+faultfinding	HATE	2
+carping	HATE	1
+fire	HATE	1
+flak	HATE	1
+flack	HATE	1
+blast	HATE	1
+thrust	HATE	1
+potshot	HATE	1
+rebuke	HATE	2
+reproof	HATE	1
+reproval	HATE	1
+reprehension	HATE	1
+reprimand	HATE	1
+slating	HATE	1
+static	HATE	2
+stricture	HATE	2
+disheartenment	HATE	2
+dissuasion	HATE	1
+determent	HATE	1
+deterrence	HATE	1
+intimidation	HATE	4
+disfavor	HATE	1
+disfavour	HATE	1
+dislike	HATE	3
+doghouse	HATE	1
+reprobation	HATE	1
+disparagement	HATE	2
+dispraise	HATE	1
+stigmatization	HATE	1
+stigmatisation	HATE	1
+branding	HATE	1
+belittling	HATE	3
+detraction	HATE	2
+disapprove	HATE	2
+frown on	HATE	1
+frown upon	HATE	1
+discountenance	HATE	1
+reject	HATE	2
+object	HATE	1
+deter	HATE	2
+discourage	HATE	2
+demur	HATE	1
+except	HATE	1
+challenge	HATE	2
+take exception	HATE	1
+cavil	HATE	1
+carp	HATE	1
+chicane	HATE	1
+mind	HATE	1
+remonstrate	HATE	1
+raise hell	HATE	1
+make a stink	HATE	1
+raise a stink	HATE	1
+disdain	HATE	2
+spurn	HATE	1
+freeze off	HATE	1
+pooh-pooh	HATE	1
+turn down	HATE	1
+rebuff	HATE	2
+snub	HATE	1
+repel	HATE	1
+disesteem	HATE	1
+disesteem	HATE	1
+disrespect	HATE	1
+undervalue	HATE	1
+disfavor	HATE	1
+wilderness	HATE	1
+disfavor	HATE	1
+disadvantage	HATE	2
+disfavour	HATE	1
+handicap	HATE	2
+hinder	HATE	2
+hamper	HATE	1
+prejudice	HATE	3
+disgust	HATE	4
+repugnance	HATE	3
+repulsion	HATE	1
+revulsion	HATE	1
+horror	HATE	4
+nausea	HATE	1
+disgusted	HATE	4
+fed up	HATE	1
+sick	HATE	2
+sick of	HATE	1
+tired of	HATE	1
+disinclination	HATE	1
+reluctance	HATE	2
+hesitancy	HATE	1
+hesitation	HATE	1
+indisposition	HATE	1
+sloth	HATE	2
+slothfulness	HATE	3
+disliked	HATE	3
+disparage	HATE	2
+belittle	HATE	3
+pick at	HATE	1
+pan	HATE	1
+tear apart	HATE	1
+trash	HATE	2
+discredit	HATE	2
+disgrace	HATE	4
+minimize	HATE	1
+denigrate	HATE	1
+derogate	HATE	1
+talk down	HATE	1
+displeasure	HATE	3
+dispute	HATE	2
+difference	HATE	1
+difference of opinion	HATE	1
+conflict	HATE	2
+collision	HATE	2
+controversy	HATE	2
+contention	HATE	1
+contestation	HATE	1
+disputation	HATE	1
+disceptation	HATE	1
+tilt	HATE	1
+argument	HATE	2
+arguing	HATE	2
+gap	HATE	1
+quarrel	HATE	3
+wrangle	HATE	1
+row	HATE	1
+words	HATE	1
+run-in	HATE	1
+dustup	HATE	1
+argy-bargy	HATE	1
+argle-bargle	HATE	1
+firestorm	HATE	1
+sparring	HATE	1
+polemic	HATE	1
+fight	HATE	3
+generation gap	HATE	1
+affray	HATE	1
+altercation	HATE	2
+fracas	HATE	1
+bicker	HATE	1
+bickering	HATE	1
+spat	HATE	1
+tiff	HATE	1
+squabble	HATE	1
+pettifoggery	HATE	1
+fuss	HATE	2
+bust-up	HATE	1
+contravention	HATE	1
+dissatisfaction	HATE	2
+boredom	HATE	2
+ennui	HATE	1
+tedium	HATE	1
+disappointment	HATE	2
+letdown	HATE	1
+blahs	HATE	1
+fatigue	HATE	3
+frustration	HATE	3
+defeat	HATE	1
+distaste	HATE	1
+enmity	HATE	1
+ill will	HATE	1
+class feeling	HATE	1
+aggression	HATE	3
+aggressiveness	HATE	3
+belligerence	HATE	1
+belligerency	HATE	1
+resentment	HATE	3
+bitterness	HATE	2
+gall	HATE	2
+rancor	HATE	1
+rancour	HATE	1
+warpath	HATE	2
+heartburning	HATE	1
+sulkiness	HATE	1
+huffishness	HATE	1
+grudge	HATE	2
+score	HATE	1
+grievance	HATE	4
+envy	HATE	3
+enviousness	HATE	3
+eschew	HATE	1
+execrate	HATE	1
+execrated 	HATE	1
+execration	HATE	1
+curse	HATE	2
+imprecation	HATE	1
+malediction	HATE	1
+frost	HATE	1
+hoar	HATE	1
+hoarfrost	HATE	1
+rime	HATE	1
+freeze	HATE	1
+icing	HATE	1
+Robert Frost	HATE	1
+Robert Lee Frost	HATE	1
+grievance	HATE	4
+gripe	HATE	1
+kick	HATE	2
+beef	HATE	1
+bitch	HATE	2
+squawk	HATE	1
+hatred	HATE	4
+hate	HATE	4
+misanthropy	HATE	1
+misogamy	HATE	1
+misogyny	HATE	1
+misogynism	HATE	1
+mysoandry	HATE	1
+misology	HATE	1
+misoneism	HATE	1
+misopedia	HATE	1
+murderousness	HATE	4
+despisal	HATE	1
+despising	HATE	4
+malevolence	HATE	1
+malignity	HATE	1
+misocainea	HATE	1
+maleficence	HATE	1
+malice	HATE	4
+maliciousness	HATE	4
+spite	HATE	4
+spitefulness	HATE	4
+venom	HATE	4
+vindictiveness	HATE	1
+vengefulness	HATE	1
+horror	HATE	4
+hostile	HATE	3
+uncongenial	HATE	1
+unfriendly	HATE	3
+hostility	HATE	3
+virulence	HATE	1
+virulency	HATE	1
+meat grinder	HATE	1
+horrible	HATE	3
+violence	HATE	4
+force	HATE	2
+plundering	HATE	1
+pillage	HATE	1
+pillaging	HATE	1
+domestic violence	HATE	1
+road rage	HATE	1
+riot	HATE	1
+public violence	HATE	1
+banditry	HATE	2
+rape	HATE	4
+rapine	HATE	1
+looting	HATE	1
+robbery	HATE	2
+spoil	HATE	2
+spoliation	HATE	1
+spoilation	HATE	1
+despoilation	HATE	1
+despoilment	HATE	1
+despoliation	HATE	1
+ravaging	HATE	2
+devastation	HATE	5
+depredation	HATE	1
+predation	HATE	1
+sack	HATE	1
+implacability	HATE	1
+indisposition	HATE	1
+irritant	HATE	3
+thorn	HATE	1
+loath	HATE	1
+loth	HATE	1
+reluctant	HATE	2
+antipathetic	HATE	1
+antipathetical	HATE	1
+averse	HATE	1
+indisposed	HATE	1
+loathe	HATE	1
+loathed	HATE	1
+loathing	HATE	1
+malevolence	HATE	1
+malevolency	HATE	1
+cattiness	HATE	1
+bitchiness	HATE	1
+nastiness	HATE	3
+cruelty	HATE	4
+cruelness	HATE	4
+harshness	HATE	1
+beastliness	HATE	1
+meanness	HATE	1
+ferociousness	HATE	4
+brutality	HATE	3
+viciousness	HATE	4
+savagery	HATE	3
+malignity	HATE	1
+malignancy	HATE	4
+malignance	HATE	4
+nauseate	HATE	1
+sicken	HATE	4
+turn one's stomach	HATE	1
+disgust	HATE	4
+revolt	HATE	2
+churn up	HATE	1
+shock	HATE	3
+offend	HATE	3
+scandalize	HATE	3
+scandalise	HATE	1
+appal	HATE	1
+appall	HATE	4
+outrage	HATE	3
+nuisance	HATE	2
+abatable nuisance	HATE	1
+attractive nuisance	HATE	1
+mixed nuisance	HATE	1
+private nuisance	HATE	1
+public nuisance	HATE	1
+common nuisance	HATE	1
+pain	HATE	4
+pain in the neck	HATE	1
+objection	HATE	2
+expostulation	HATE	1
+remonstrance	HATE	1
+remonstration	HATE	1
+challenge	HATE	2
+complaint	HATE	2
+demur	HATE	1
+demurral	HATE	1
+demurrer	HATE	1
+dissent	HATE	2
+exception	HATE	1
+protest	HATE	2
+protestation	HATE	2
+grumble	HATE	3
+grumbling	HATE	3
+murmur	HATE	1
+murmuring	HATE	1
+mutter	HATE	2
+muttering	HATE	1
+jeremiad	HATE	1
+kvetch	HATE	1
+pet peeve	HATE	1
+whimper	HATE	2
+whine	HATE	3
+caption	HATE	1
+boycott	HATE	1
+direct action	HATE	1
+demonstration	HATE	1
+manifestation	HATE	1
+walkout	HATE	1
+civil disobedience	HATE	1
+job action	HATE	1
+passive resistance	HATE	1
+nonviolent resistance	HATE	1
+nonviolence	HATE	1
+recusancy	HATE	1
+Boston Tea Party	HATE	1
+work-in	HATE	1
+protest march	HATE	1
+recusation	HATE	1
+odium	HATE	1
+offense	HATE	3
+discourtesy	HATE	1
+offence	HATE	2
+offensive activity	HATE	1
+derision	HATE	2
+ridicule	HATE	3
+indelicacy	HATE	1
+insolence	HATE	2
+insult	HATE	3
+affront	HATE	1
+presumption	HATE	1
+rebuff	HATE	2
+slight	HATE	1
+mock	HATE	3
+indignity	HATE	1
+scandalization	HATE	3
+scandalisation	HATE	1
+outrage	HATE	3
+snub	HATE	1
+cut	HATE	1
+cold shoulder	HATE	1
+silent treatment	HATE	1
+umbrage	HATE	1
+crime	HATE	2
+criminal offense	HATE	1
+criminal offence	HATE	1
+law-breaking	HATE	1
+barratry	HATE	1
+capital offense	HATE	1
+cybercrime	HATE	1
+felony	HATE	1
+forgery	HATE	1
+fraud	HATE	2
+Had crime	HATE	1
+hijack	HATE	2
+highjack	HATE	1
+mayhem	HATE	1
+misdemeanor	HATE	1
+misdemeanour	HATE	1
+infraction	HATE	2
+violation	HATE	2
+infringement	HATE	2
+perpetration	HATE	1
+commission	HATE	1
+committal	HATE	1
+attempt	HATE	1
+Tazir crime	HATE	1
+statutory offense	HATE	1
+statutory offence	HATE	1
+regulatory offense	HATE	1
+regulatory offence	HATE	1
+thuggery	HATE	1
+treason	HATE	3
+high treason	HATE	1
+lese majesty	HATE	1
+vice crime	HATE	1
+victimless crime	HATE	1
+war crime	HATE	1
+offensive	HATE	3
+counteroffensive	HATE	1
+dirty war	HATE	1
+rollback	HATE	1
+push back	HATE	1
+opposition	HATE	2
+resistance	HATE	1
+lockout	HATE	1
+reaction	HATE	1
+anti-takeover defense	HATE	1
+backlash	HATE	1
+oppositeness	HATE	1
+antipode	HATE	1
+antithesis	HATE	1
+contrast	HATE	1
+direct contrast	HATE	1
+flip side	HATE	1
+mutual opposition	HATE	1
+polarity	HATE	1
+gradable opposition	HATE	1
+sign	HATE	1
+ungradable opposition	HATE	1
+contradictoriness	HATE	1
+contradiction	HATE	2
+contrary	HATE	2
+contrariety	HATE	1
+tertium quid	HATE	1
+reverse	HATE	1
+opposite	HATE	1
+inverse	HATE	1
+polar opposition	HATE	1
+positivity	HATE	1
+positiveness	HATE	3
+negativity	HATE	2
+negativeness	HATE	2
+complementarity	HATE	1
+incompatibility	HATE	3
+mutual exclusiveness	HATE	1
+inconsistency	HATE	2
+dialectic	HATE	1
+additive inverse	HATE	1
+multiplicative inverse	HATE	1
+reciprocal	HATE	1
+confrontation	HATE	3
+strikebreaking	HATE	1
+opponent	HATE	2
+Iraqi National Congress	HATE	1
+INC	HATE	1
+orthogonality	HATE	1
+perpendicularity	HATE	1
+orthogonal opposition	HATE	1
+antipodal	HATE	1
+antipodal opposition	HATE	1
+diametrical opposition	HATE	1
+enantiomorphism	HATE	1
+mirror-image relation	HATE	1
+enemy	HATE	2
+foe	HATE	3
+foeman	HATE	3
+besieger	HATE	2
+pain	HATE	4
+hurting	HATE	3
+ache	HATE	2
+aching	HATE	2
+agony	HATE	4
+suffering	HATE	4
+excruciation	HATE	1
+arthralgia	HATE	1
+burn	HATE	2
+burning	HATE	2
+causalgia	HATE	1
+colic	HATE	1
+intestinal colic	HATE	1
+gripes	HATE	1
+griping	HATE	1
+chest pain	HATE	1
+chiralgia	HATE	1
+distress	HATE	3
+dysmenorrhea	HATE	1
+glossalgia	HATE	1
+glossodynia	HATE	1
+growing pains	HATE	1
+keratalgia	HATE	1
+labor pain	HATE	1
+mastalgia	HATE	1
+melagra	HATE	1
+meralgia	HATE	1
+metralgia	HATE	1
+myalgia	HATE	1
+myodynia	HATE	1
+nephralgia	HATE	1
+neuralgia	HATE	1
+neuralgy	HATE	1
+odynophagia	HATE	1
+orchidalgia	HATE	1
+pang	HATE	1
+sting	HATE	2
+photalgia	HATE	1
+photophobia	HATE	1
+pleurodynia	HATE	1
+pleuralgia	HATE	1
+costalgia	HATE	1
+podalgia	HATE	1
+proctalgia	HATE	1
+referred pain	HATE	1
+renal colic	HATE	1
+smart	HATE	2
+smarting	HATE	2
+smartness	HATE	2
+stinging	HATE	2
+stitch	HATE	1
+tenderness	HATE	3
+soreness	HATE	2
+rawness	HATE	1
+thermalgesia	HATE	1
+throb	HATE	1
+torture	HATE	4
+torment	HATE	2
+ulalgia	HATE	1
+urodynia	HATE	1
+toothache	HATE	1
+odontalgia	HATE	1
+backache	HATE	1
+headache	HATE	2
+head ache	HATE	1
+cephalalgia	HATE	1
+stomachache	HATE	1
+stomach ache	HATE	1
+bellyache	HATE	1
+gastralgia	HATE	1
+earache	HATE	1
+otalgia	HATE	1
+throe	HATE	1
+Passion	HATE	1
+Passion of Christ	HATE	1
+lead colic	HATE	1
+painter's colic	HATE	1
+primary dysmenorrhea	HATE	1
+secondary dysmenorrhea	HATE	1
+trigeminal neuralgia	HATE	1
+tic douloureux	HATE	1
+sciatica	HATE	1
+birth pangs	HATE	1
+labor pains	HATE	1
+labour pains	HATE	1
+afterpains	HATE	1
+chafing	HATE	1
+rebound tenderness	HATE	1
+chafe	HATE	2
+painfulness	HATE	4
+unpleasantness	HATE	3
+mental anguish	HATE	1
+hurt	HATE	3
+throes	HATE	1
+discomfort	HATE	2
+irritation	HATE	3
+anguish	HATE	4
+self-torture	HATE	1
+self-torment	HATE	1
+tsoris	HATE	1
+wound	HATE	2
+pain sensation	HATE	1
+painful sensation	HATE	1
+mittelschmerz	HATE	1
+phantom limb pain	HATE	1
+twinge	HATE	1
+annoyance	HATE	3
+bother	HATE	2
+botheration	HATE	1
+infliction	HATE	1
+pain in the ass	HATE	1
+plague	HATE	2
+prejudice	HATE	3
+bias	HATE	1
+preconception	HATE	1
+taboo	HATE	2
+tabu	HATE	1
+irrational hostility	HATE	1
+experimenter bias	HATE	1
+homophobia	HATE	1
+Islamophobia	HATE	1
+racism	HATE	2
+tendentiousness	HATE	1
+anti-Semitism	HATE	1
+antisemitism	HATE	1
+white supremacy	HATE	1
+rancor	HATE	1
+covetousness	HATE	2
+jealousy	HATE	3
+green-eyed monster	HATE	1
+penis envy	HATE	1
+rankling	HATE	1
+regret	HATE	2
+repent	HATE	1
+rue	HATE	2
+fear	HATE	4
+reluctant	HATE	2
+repellent	HATE	1
+rebarbative	HATE	1
+repellant	HATE	1
+disgusting	HATE	4
+disgustful	HATE	1
+distasteful	HATE	1
+foul	HATE	1
+loathly	HATE	1
+loathsome	HATE	1
+repelling	HATE	1
+revolting	HATE	2
+skanky	HATE	1
+wicked	HATE	3
+yucky	HATE	1
+resistant	HATE	1
+repugnance	HATE	3
+repulsion	HATE	1
+repulsive force	HATE	1
+standoff	HATE	1
+resent	HATE	3
+stew	HATE	1
+grudge	HATE	2
+begrudge	HATE	1
+resentment	HATE	3
+revenge	HATE	2
+retaliation	HATE	2
+vengeance	HATE	3
+retribution	HATE	1
+payback	HATE	1
+reprisal	HATE	1
+revulsion	HATE	1
+scorn	HATE	2
+contempt	HATE	4
+disdain	HATE	2
+despite	HATE	1
+fleer	HATE	2
+sneer	HATE	2
+leer	HATE	1
+scorn	HATE	2
+shun	HATE	2
+banish	HATE	2
+ban	HATE	1
+ostracize	HATE	2
+ostracise	HATE	1
+cast out	HATE	1
+blackball	HATE	1
+shunned	HATE	2
+spite	HATE	4
+spurn	HATE	1
+trouble	HATE	2
+problem	HATE	2
+pressure point	HATE	1
+can of worms	HATE	1
+deep water	HATE	1
+hydra	HATE	1
+matter	HATE	1
+hassle	HATE	2
+misfortune	HATE	2
+bad luck	HATE	1
+affliction	HATE	3
+convulsion	HATE	1
+embarrassment	HATE	3
+hell	HATE	2
+blaze	HATE	1
+onslaught	HATE	1
+scandal	HATE	3
+noise	HATE	1
+interference	HATE	2
+disturbance	HATE	2
+pity	HATE	1
+shame	HATE	3
+mishap	HATE	2
+misadventure	HATE	1
+mischance	HATE	1
+calamity	HATE	4
+catastrophe	HATE	4
+disaster	HATE	2
+tragedy	HATE	3
+cataclysm	HATE	4
+adversity	HATE	2
+hardship	HATE	2
+knock	HATE	1
+calvary	HATE	1
+martyrdom	HATE	2
+trial	HATE	1
+tribulation	HATE	1
+visitation	HATE	1
+bane	HATE	2
+scourge	HATE	1
+nemesis	HATE	1
+skeleton	HATE	1
+skeleton in the closet	HATE	1
+skeleton in the cupboard	HATE	1
+Teapot Dome	HATE	1
+Teapot Dome scandal	HATE	1
+Watergate	HATE	1
+Watergate scandal	HATE	1
+clutter	HATE	2
+background	HATE	1
+background signal	HATE	1
+crosstalk	HATE	1
+XT	HATE	1
+fadeout	HATE	1
+jitter	HATE	1
+atmospherics	HATE	1
+atmospheric static	HATE	1
+white noise	HATE	1
+difficulty	HATE	2
+the devil	HATE	1
+tsuris	HATE	1
+worry	HATE	4
+venom	HATE	4
+kokoi venom	HATE	1
+snake venom	HATE	1
+admire	LOVE	3
+look up to	LOVE	1
+envy	LOVE	3
+admirer	LOVE	3
+supporter	LOVE	2
+protagonist	LOVE	1
+champion	LOVE	1
+booster	LOVE	1
+friend	LOVE	2
+anglophile	LOVE	1
+anglophil	LOVE	1
+believer	LOVE	1
+truster	LOVE	2
+Boswell	LOVE	1
+cheerleader	LOVE	1
+Confederate	LOVE	1
+corporatist	LOVE	1
+enthusiast	LOVE	3
+partisan	LOVE	1
+partizan	LOVE	1
+Francophile	LOVE	1
+Francophil	LOVE	1
+free trader	LOVE	1
+functionalist	LOVE	1
+Jacobite	LOVE	1
+loyalist	LOVE	2
+stalwart	LOVE	1
+New Dealer	LOVE	1
+philhellene	LOVE	1
+philhellenist	LOVE	1
+Graecophile	LOVE	1
+pillar	LOVE	1
+mainstay	LOVE	1
+Roundhead	LOVE	1
+seconder	LOVE	1
+Shavian	LOVE	1
+subscriber	LOVE	1
+endorser	LOVE	1
+indorser	LOVE	1
+ratifier	LOVE	1
+sympathizer	LOVE	1
+sympathiser	LOVE	1
+well-wisher	LOVE	1
+toaster	LOVE	1
+wassailer	LOVE	1
+upholder	LOVE	1
+maintainer	LOVE	1
+sustainer	LOVE	1
+voucher	LOVE	1
+verifier	LOVE	1
+Whig	LOVE	1
+abiogenist	LOVE	1
+apostle	LOVE	1
+colonialist	LOVE	1
+Confucian	LOVE	1
+Confucianist	LOVE	1
+evolutionist	LOVE	1
+imperialist	LOVE	1
+Malthusian	LOVE	1
+vitalist	LOVE	3
+Confederate soldier	LOVE	1
+addict	LOVE	2
+nut	LOVE	1
+freak	LOVE	2
+junkie	LOVE	1
+junky	LOVE	1
+backslapper	LOVE	1
+balletomane	LOVE	1
+fanatic	LOVE	2
+fiend	LOVE	3
+gadgeteer	LOVE	1
+shutterbug	LOVE	1
+sports fan	LOVE	1
+fan	LOVE	3
+rooter	LOVE	1
+bleeding heart	LOVE	1
+fellow traveler	LOVE	1
+fellow traveller	LOVE	1
+venerator	LOVE	1
+wonderer	LOVE	1
+marveller	LOVE	1
+adorer	LOVE	4
+fancier	LOVE	1
+suitor	LOVE	1
+suer	LOVE	1
+wooer	LOVE	1
+worshiper	LOVE	2
+worshipper	LOVE	2
+animal fancier	LOVE	1
+bird fancier	LOVE	1
+maniac	LOVE	3
+technophile	LOVE	1
+prince charming	LOVE	1
+hero worshiper	LOVE	1
+hero worshipper	LOVE	1
+adore	LOVE	4
+fetishize	LOVE	1
+idolize	LOVE	1
+idolise	LOVE	1
+worship	LOVE	2
+hero-worship	LOVE	1
+revere	LOVE	2
+drool over	LOVE	1
+slobber over	LOVE	1
+adored	LOVE	4
+idolized	LOVE	1
+idolised	LOVE	1
+worshipped	LOVE	2
+adulate	LOVE	1
+affection	LOVE	3
+affectionateness	LOVE	1
+fondness	LOVE	3
+tenderness	LOVE	3
+heart	LOVE	1
+warmness	LOVE	1
+warmheartedness	LOVE	4
+philia	LOVE	1
+attachment	LOVE	1
+fond regard	LOVE	1
+protectiveness	LOVE	1
+regard	LOVE	1
+respect	LOVE	3
+soft spot	LOVE	1
+alluring	LOVE	1
+beguiling	LOVE	1
+enticing	LOVE	1
+tempting	LOVE	1
+angel	LOVE	1
+archangel	LOVE	1
+cherub	LOVE	1
+seraph	LOVE	1
+guardian spirit	LOVE	1
+guardian angel	LOVE	1
+divine messenger	LOVE	1
+Gabriel	LOVE	1
+Michael	LOVE	1
+Raphael	LOVE	1
+genius loci	LOVE	1
+eudemon	LOVE	1
+eudaemon	LOVE	1
+good spirit	LOVE	1
+saint	LOVE	1
+holy man	LOVE	1
+holy person	LOVE	1
+Buddha	LOVE	1
+fakir	LOVE	1
+fakeer	LOVE	2
+faqir	LOVE	1
+faquir	LOVE	1
+dervish	LOVE	1
+backer	LOVE	1
+Angel Falls	LOVE	1
+appreciate	LOVE	2
+take account	LOVE	1
+prize	LOVE	3
+value	LOVE	2
+treasure	LOVE	2
+do justice	LOVE	1
+recognize	LOVE	1
+recognise	LOVE	1
+honor	LOVE	1
+honour	LOVE	1
+reward	LOVE	2
+rubricate	LOVE	1
+apprize	LOVE	1
+apprise	LOVE	1
+revalue	LOVE	1
+appreciation	LOVE	2
+grasp	LOVE	1
+hold	LOVE	1
+sense	LOVE	1
+taste	LOVE	1
+discernment	LOVE	1
+perceptiveness	LOVE	1
+virtu	LOVE	1
+vertu	LOVE	1
+connoisseurship	LOVE	1
+vogue	LOVE	1
+trend	LOVE	1
+style	LOVE	1
+delicacy	LOVE	1
+discretion	LOVE	1
+culture	LOVE	1
+New Look	LOVE	1
+fashion	LOVE	1
+bandwagon	LOVE	1
+counterculture	LOVE	1
+mass culture	LOVE	1
+letters	LOVE	1
+admiration	LOVE	3
+adoration	LOVE	4
+idolization	LOVE	1
+idolisation	LOVE	1
+idealization	LOVE	1
+idealisation	LOVE	1
+glorification	LOVE	2
+sentimentalization	LOVE	3
+sentimentalisation	LOVE	1
+romanticization	LOVE	4
+romanticisation	LOVE	1
+approve	LOVE	1
+O.K.	LOVE	1
+okay	LOVE	1
+sanction	LOVE	1
+visa	LOVE	1
+back	LOVE	1
+endorse	LOVE	1
+indorse	LOVE	1
+plump for	LOVE	1
+plunk for	LOVE	1
+support	LOVE	2
+confirm	LOVE	1
+guarantee	LOVE	1
+warrant	LOVE	1
+champion	LOVE	1
+defend	LOVE	1
+rubberstamp	LOVE	1
+beau	LOVE	1
+boyfriend	LOVE	1
+fellow	LOVE	1
+swain	LOVE	1
+dandy	LOVE	1
+dude	LOVE	1
+fop	LOVE	1
+gallant	LOVE	1
+sheik	LOVE	1
+swell	LOVE	1
+fashion plate	LOVE	1
+clotheshorse	LOVE	1
+coxcomb	LOVE	1
+cockscomb	LOVE	1
+macaroni	LOVE	1
+Brummell	LOVE	1
+George Bryan Brummell	LOVE	1
+Beau Brummell	LOVE	1
+beloved	LOVE	3
+dear	LOVE	2
+dearest	LOVE	1
+honey	LOVE	1
+love	LOVE	3
+beloved	LOVE	3
+darling	LOVE	3
+dear	LOVE	2
+canonize	LOVE	1
+canonise	LOVE	1
+saint	LOVE	1
+captivating	LOVE	1
+bewitching	LOVE	1
+enchanting	LOVE	1
+enthralling	LOVE	1
+entrancing	LOVE	1
+fascinating	LOVE	1
+care for	LOVE	1
+cherish	LOVE	3
+hold dear	LOVE	1
+yearn	LOVE	2
+treat	LOVE	2
+hyperventilate	LOVE	1
+massage	LOVE	1
+purge	LOVE	1
+correct	LOVE	1
+insufflate	LOVE	1
+detox	LOVE	1
+detoxify	LOVE	1
+irrigate	LOVE	1
+iodize	LOVE	1
+iodise	LOVE	1
+doctor	LOVE	1
+vet	LOVE	1
+nurse	LOVE	1
+manipulate	LOVE	2
+administer	LOVE	1
+dispense	LOVE	2
+remedy	LOVE	1
+relieve	LOVE	2
+dress	LOVE	1
+splint	LOVE	1
+operate on	LOVE	1
+operate	LOVE	1
+medicate	LOVE	1
+medicine	LOVE	1
+bleed	LOVE	1
+leech	LOVE	1
+phlebotomize	LOVE	1
+phlebotomise	LOVE	1
+cup	LOVE	1
+transfuse	LOVE	1
+shock	LOVE	3
+pack	LOVE	1
+cauterize	LOVE	1
+cauterise	LOVE	1
+burn	LOVE	2
+analyze	LOVE	1
+analyse	LOVE	1
+psychoanalyze	LOVE	1
+psychoanalyse	LOVE	1
+digitalize	LOVE	1
+inject	LOVE	1
+shoot	LOVE	2
+give	LOVE	1
+poultice	LOVE	1
+plaster	LOVE	1
+bandage	LOVE	1
+sterilize	LOVE	1
+sterilise	LOVE	1
+desex	LOVE	1
+unsex	LOVE	1
+desexualize	LOVE	1
+desexualise	LOVE	1
+fix	LOVE	1
+face-lift	LOVE	1
+lift	LOVE	1
+trephine	LOVE	1
+venesect	LOVE	1
+drug	LOVE	1
+dose	LOVE	1
+salve	LOVE	1
+galvanize	LOVE	1
+galvanise	LOVE	1
+cherish	LOVE	3
+cherished	LOVE	3
+precious	LOVE	3
+treasured	LOVE	2
+wanted	LOVE	1
+choose	LOVE	1
+take	LOVE	1
+select	LOVE	1
+pick out	LOVE	1
+empanel	LOVE	1
+impanel	LOVE	1
+panel	LOVE	1
+anoint	LOVE	1
+field	LOVE	1
+sieve	LOVE	1
+sift	LOVE	1
+draw	LOVE	1
+dial	LOVE	1
+plump	LOVE	1
+go	LOVE	1
+pick	LOVE	1
+elect	LOVE	1
+excerpt	LOVE	1
+extract	LOVE	1
+take out	LOVE	1
+cull out	LOVE	1
+winnow	LOVE	1
+cream off	LOVE	1
+skim off	LOVE	1
+sieve out	LOVE	1
+pick over	LOVE	1
+assign	LOVE	1
+specify	LOVE	1
+set apart	LOVE	1
+single out	LOVE	1
+think of	LOVE	1
+set	LOVE	1
+determine	LOVE	1
+define	LOVE	1
+limit	LOVE	1
+adopt	LOVE	1
+follow	LOVE	1
+espouse	LOVE	1
+screen	LOVE	1
+screen out	LOVE	1
+sort	LOVE	1
+vote in	LOVE	1
+nominate	LOVE	1
+propose	LOVE	1
+vote	LOVE	1
+hand-pick	LOVE	1
+dedicate	LOVE	1
+detail	LOVE	1
+quantify	LOVE	1
+name	LOVE	1
+reset	LOVE	1
+adhere	LOVE	1
+stick	LOVE	1
+co-opt	LOVE	1
+reelect	LOVE	1
+return	LOVE	1
+put up	LOVE	1
+put forward	LOVE	1
+write in	LOVE	1
+turn thumbs down	LOVE	1
+vote down	LOVE	1
+outvote	LOVE	1
+ballot	LOVE	1
+poll	LOVE	1
+prefer	LOVE	1
+opt	LOVE	1
+opt out	LOVE	1
+cop out	LOVE	1
+courter	LOVE	1
+darling	LOVE	3
+favorite	LOVE	2
+favourite	LOVE	1
+pet	LOVE	1
+dearie	LOVE	1
+deary	LOVE	1
+ducky	LOVE	1
+chosen	LOVE	1
+macushla	LOVE	1
+mollycoddle	LOVE	1
+teacher's pet	LOVE	1
+Darling River	LOVE	1
+dear	LOVE	2
+lamb	LOVE	1
+dearest	LOVE	1
+deify	LOVE	1
+apotheosize	LOVE	1
+apotheosise	LOVE	1
+apotheose	LOVE	1
+delicate	LOVE	1
+fragile	LOVE	2
+frail	LOVE	1
+soft	LOVE	1
+finespun	LOVE	1
+ticklish	LOVE	1
+touchy	LOVE	2
+delicious	LOVE	3
+delightful	LOVE	3
+delectable	LOVE	3
+luscious	LOVE	1
+pleasant-tasting	LOVE	1
+scrumptious	LOVE	4
+toothsome	LOVE	1
+yummy	LOVE	1
+delightful	LOVE	3
+desire	LOVE	1
+want	LOVE	1
+crave	LOVE	2
+hunger	LOVE	2
+thirst	LOVE	2
+starve	LOVE	2
+lust	LOVE	1
+fancy	LOVE	1
+go for	LOVE	1
+take to	LOVE	1
+miss	LOVE	2
+hope	LOVE	3
+wish	LOVE	1
+wish well	LOVE	1
+care	LOVE	2
+like	LOVE	2
+itch	LOVE	1
+spoil	LOVE	2
+ambition	LOVE	1
+feel like	LOVE	1
+begrudge	LOVE	1
+lust after	LOVE	1
+lech after	LOVE	1
+hanker	LOVE	1
+long	LOVE	1
+seek	LOVE	1
+regret	LOVE	2
+trust	LOVE	2
+please	LOVE	2
+covet	LOVE	2
+ache	LOVE	2
+yen	LOVE	1
+pine	LOVE	1
+languish	LOVE	2
+bid	LOVE	1
+quest	LOVE	1
+devotion	LOVE	3
+devotedness	LOVE	3
+cultism	LOVE	1
+hobbyism	LOVE	1
+fetish	LOVE	1
+fetich	LOVE	1
+party spirit	LOVE	1
+veneration	LOVE	1
+bhakti	LOVE	1
+novena	LOVE	1
+Stations	LOVE	1
+Stations of the Cross	LOVE	1
+emotion	LOVE	1
+conditioned emotional response	LOVE	1
+CER	LOVE	1
+conditioned emotion	LOVE	1
+anger	LOVE	4
+choler	LOVE	1
+ire	LOVE	1
+fear	LOVE	4
+fearfulness	LOVE	3
+fright	LOVE	4
+reverence	LOVE	1
+awe	LOVE	1
+anxiety	LOVE	3
+joy	LOVE	3
+joyousness	LOVE	3
+joyfulness	LOVE	3
+hate	LOVE	4
+hatred	LOVE	4
+emotional state	LOVE	1
+spirit	LOVE	1
+fury	LOVE	4
+rage	LOVE	4
+madness	LOVE	2
+infuriation	LOVE	1
+enragement	LOVE	1
+umbrage	LOVE	1
+offense	LOVE	3
+offence	LOVE	2
+indignation	LOVE	3
+outrage	LOVE	3
+huffiness	LOVE	1
+dander	LOVE	1
+hackles	LOVE	1
+bad temper	LOVE	1
+ill temper	LOVE	1
+annoyance	LOVE	3
+chafe	LOVE	2
+vexation	LOVE	3
+alarm	LOVE	3
+dismay	LOVE	3
+consternation	LOVE	2
+creeps	LOVE	1
+frisson	LOVE	1
+shiver	LOVE	2
+chill	LOVE	1
+quiver	LOVE	1
+shudder	LOVE	1
+thrill	LOVE	4
+tingle	LOVE	1
+horror	LOVE	4
+hysteria	LOVE	2
+panic	LOVE	3
+terror	LOVE	2
+affright	LOVE	1
+scare	LOVE	4
+panic attack	LOVE	1
+stage fright	LOVE	1
+apprehension	LOVE	3
+apprehensiveness	LOVE	3
+dread	LOVE	4
+timidity	LOVE	2
+timidness	LOVE	2
+timorousness	LOVE	1
+intimidation	LOVE	4
+discomfiture	LOVE	1
+discomposure	LOVE	1
+disconcertion	LOVE	1
+disconcertment	LOVE	1
+worry	LOVE	4
+trouble	LOVE	2
+concern	LOVE	2
+care	LOVE	2
+anxiousness	LOVE	3
+disquiet	LOVE	1
+insecurity	LOVE	2
+edginess	LOVE	1
+uneasiness	LOVE	2
+inquietude	LOVE	1
+disquietude	LOVE	1
+sinking	LOVE	1
+sinking feeling	LOVE	1
+scruple	LOVE	1
+qualm	LOVE	2
+misgiving	LOVE	1
+jitteriness	LOVE	1
+jumpiness	LOVE	1
+nervousness	LOVE	3
+restiveness	LOVE	1
+angst	LOVE	1
+rhapsody	LOVE	1
+elation	LOVE	1
+high spirits	LOVE	1
+lightness	LOVE	1
+exultation	LOVE	1
+jubilance	LOVE	1
+jubilancy	LOVE	1
+jubilation	LOVE	1
+exhilaration	LOVE	1
+excitement	LOVE	3
+exuberance	LOVE	3
+worship	LOVE	2
+agape	LOVE	1
+agape love	LOVE	1
+filial love	LOVE	1
+ardor	LOVE	1
+ardour	LOVE	1
+amorousness	LOVE	2
+enamoredness	LOVE	1
+puppy love	LOVE	1
+calf love	LOVE	1
+crush	LOVE	2
+infatuation	LOVE	1
+benevolence	LOVE	2
+heartstrings	LOVE	1
+lovingness	LOVE	1
+caring	LOVE	3
+loyalty	LOVE	2
+abhorrence	LOVE	4
+abomination	LOVE	3
+detestation	LOVE	4
+execration	LOVE	1
+loathing	LOVE	1
+odium	LOVE	1
+misanthropy	LOVE	1
+misogamy	LOVE	1
+misogyny	LOVE	1
+misogynism	LOVE	1
+mysoandry	LOVE	1
+misology	LOVE	1
+misoneism	LOVE	1
+misopedia	LOVE	1
+murderousness	LOVE	4
+despisal	LOVE	1
+despising	LOVE	4
+hostility	LOVE	3
+enmity	LOVE	1
+ill will	LOVE	1
+malevolence	LOVE	1
+malignity	LOVE	1
+embarrassment	LOVE	3
+ecstasy	LOVE	4
+rapture	LOVE	1
+transport	LOVE	1
+exaltation	LOVE	1
+raptus	LOVE	1
+gratification	LOVE	2
+satisfaction	LOVE	2
+happiness	LOVE	3
+felicity	LOVE	1
+state	LOVE	1
+unhappiness	LOVE	3
+enchanting	LOVE	1
+engaging	LOVE	1
+piquant	LOVE	1
+esteem	LOVE	1
+respect	LOVE	3
+prise	LOVE	1
+think the world of	LOVE	1
+reverence	LOVE	1
+fear	LOVE	4
+venerate	LOVE	2
+enshrine	LOVE	1
+repute	LOVE	1
+know as	LOVE	1
+be known as	LOVE	1
+regard as	LOVE	1
+look upon	LOVE	1
+look on	LOVE	1
+take to be	LOVE	1
+exalt	LOVE	1
+laud	LOVE	1
+extol	LOVE	1
+glorify	LOVE	2
+proclaim	LOVE	1
+ensky	LOVE	1
+crack up	LOVE	1
+hymn	LOVE	1
+exhilarate	LOVE	1
+tickle pink	LOVE	1
+inebriate	LOVE	1
+thrill	LOVE	4
+beatify	LOVE	1
+inspire	LOVE	3
+animate	LOVE	1
+invigorate	LOVE	2
+enliven	LOVE	1
+encourage	LOVE	2
+cheer	LOVE	2
+awesome	LOVE	2
+root on	LOVE	1
+urge	LOVE	1
+barrack	LOVE	1
+urge on	LOVE	1
+exhort	LOVE	1
+pep up	LOVE	1
+foster	LOVE	1
+nurture	LOVE	1
+hollo	LOVE	1
+hearten	LOVE	1
+recreate	LOVE	1
+embolden	LOVE	1
+draw out	LOVE	1
+bring out	LOVE	1
+spur	LOVE	1
+goad	LOVE	1
+exclaim	LOVE	1
+cry	LOVE	4
+cry out	LOVE	1
+outcry	LOVE	3
+call out	LOVE	1
+shout	LOVE	1
+gee	LOVE	1
+ooh	LOVE	1
+aah	LOVE	1
+promulgate	LOVE	1
+declare	LOVE	1
+trumpet	LOVE	1
+clarion	LOVE	1
+exquisite	LOVE	1
+keen	LOVE	1
+recherche	LOVE	1
+dainty	LOVE	1
+fancy	LOVE	1
+visualize	LOVE	1
+visualise	LOVE	1
+envision	LOVE	1
+project	LOVE	1
+see	LOVE	1
+figure	LOVE	1
+picture	LOVE	1
+image	LOVE	1
+fondness	LOVE	3
+fancy	LOVE	1
+partiality	LOVE	1
+warmth	LOVE	1
+uxoriousness	LOVE	1
+friendship	LOVE	2
+friendly relationship	LOVE	1
+blood brotherhood	LOVE	1
+company	LOVE	1
+companionship	LOVE	1
+fellowship	LOVE	1
+society	LOVE	1
+confidence	LOVE	2
+trust	LOVE	2
+freemasonry	LOVE	1
+glorify	LOVE	2
+transfigure	LOVE	1
+spiritualize	LOVE	1
+gorgeous	LOVE	3
+graceful	LOVE	3
+elegant	LOVE	2
+refined	LOVE	1
+handsome	LOVE	2
+fine-looking	LOVE	1
+good-looking	LOVE	1
+better-looking	LOVE	1
+well-favored	LOVE	1
+well-favoured	LOVE	1
+big	LOVE	1
+bighearted	LOVE	1
+bounteous	LOVE	1
+bountiful	LOVE	2
+freehanded	LOVE	1
+giving	LOVE	1
+liberal	LOVE	1
+openhanded	LOVE	1
+honey	LOVE	1
+idolize	LOVE	1
+inamorata	LOVE	1
+inamorato	LOVE	1
+infatuation	LOVE	1
+like	LOVE	2
+cotton	LOVE	1
+love	LOVE	3
+enjoy	LOVE	3
+get off	LOVE	1
+love	LOVE	3
+beneficence	LOVE	1
+passion	LOVE	3
+sexual love	LOVE	1
+erotic love	LOVE	1
+lovemaking	LOVE	4
+making love	LOVE	1
+love life	LOVE	1
+love	LOVE	3
+dote	LOVE	1
+romance	LOVE	4
+sleep together	LOVE	1
+roll in the hay	LOVE	1
+make out	LOVE	1
+make love	LOVE	1
+sleep with	LOVE	1
+get laid	LOVE	1
+have sex	LOVE	1
+know	LOVE	1
+do it	LOVE	1
+be intimate	LOVE	1
+have intercourse	LOVE	1
+have it away	LOVE	1
+have it off	LOVE	1
+jazz	LOVE	1
+eff	LOVE	1
+hump	LOVE	1
+lie with	LOVE	1
+bed	LOVE	1
+have a go at it	LOVE	1
+bang	LOVE	1
+get it on	LOVE	1
+bonk	LOVE	1
+have	LOVE	1
+fornicate	LOVE	1
+swing	LOVE	1
+whore	LOVE	3
+wench	LOVE	2
+bed-hop	LOVE	1
+bedhop	LOVE	1
+sleep around	LOVE	1
+lovely	LOVE	2
+adorable	LOVE	4
+endearing	LOVE	1
+lover	LOVE	4
+betrothed	LOVE	1
+girlfriend	LOVE	1
+girl	LOVE	1
+lady friend	LOVE	1
+idolizer	LOVE	1
+idoliser	LOVE	1
+kisser	LOVE	3
+osculator	LOVE	1
+necker	LOVE	1
+petter	LOVE	1
+fondler	LOVE	1
+Romeo	LOVE	1
+soul mate	LOVE	1
+squeeze	LOVE	1
+sweetheart	LOVE	4
+sweetie	LOVE	3
+steady	LOVE	1
+truelove	LOVE	5
+fiance	LOVE	1
+groom-to-be	LOVE	1
+fiancee	LOVE	1
+bride-to-be	LOVE	1
+ladylove	LOVE	1
+dulcinea	LOVE	1
+sugar daddy	LOVE	1
+valentine	LOVE	1
+buff	LOVE	1
+devotee	LOVE	3
+aerophile	LOVE	1
+aficionado	LOVE	1
+amorist	LOVE	1
+bacchant	LOVE	1
+bacchanal	LOVE	1
+groupie	LOVE	1
+metalhead	LOVE	1
+fancy man	LOVE	1
+paramour	LOVE	1
+man	LOVE	1
+mistress	LOVE	1
+kept woman	LOVE	1
+fancy woman	LOVE	1
+concubine	LOVE	1
+courtesan	LOVE	1
+doxy	LOVE	1
+Braun	LOVE	1
+Eva Braun	LOVE	1
+Delilah	LOVE	1
+lust	LOVE	1
+lecherousness	LOVE	1
+lustfulness	LOVE	1
+luxuria	LOVE	1
+paramour	LOVE	1
+odalisque	LOVE	1
+passion	LOVE	3
+passionateness	LOVE	1
+wildness	LOVE	1
+abandon	LOVE	2
+fervor	LOVE	1
+fervour	LOVE	1
+fervency	LOVE	1
+fire	LOVE	1
+fervidness	LOVE	1
+storminess	LOVE	1
+zeal	LOVE	1
+heat	LOVE	1
+fieriness	LOVE	1
+mania	LOVE	1
+cacoethes	LOVE	1
+agromania	LOVE	1
+dipsomania	LOVE	1
+alcoholism	LOVE	1
+potomania	LOVE	1
+egomania	LOVE	1
+kleptomania	LOVE	1
+logorrhea	LOVE	1
+logomania	LOVE	1
+monomania	LOVE	1
+possession	LOVE	1
+necrophilia	LOVE	1
+necrophilism	LOVE	1
+necromania	LOVE	1
+phaneromania	LOVE	1
+pyromania	LOVE	1
+trichotillomania	LOVE	1
+Passion of Christ	LOVE	1
+pleasant	LOVE	3
+please	LOVE	2
+delight	LOVE	3
+endear	LOVE	1
+enchant	LOVE	1
+enrapture	LOVE	1
+transport	LOVE	1
+enthrall	LOVE	1
+ravish	LOVE	1
+enthral	LOVE	1
+pleasing	LOVE	3
+precious	LOVE	3
+valued	LOVE	2
+cute	LOVE	2
+prefer	LOVE	1
+favor	LOVE	2
+favour	LOVE	2
+advantage	LOVE	1
+pretty	LOVE	3
+prize	LOVE	3
+pry	LOVE	2
+lever	LOVE	1
+jimmy	LOVE	1
+relish	LOVE	1
+bask	LOVE	1
+savor	LOVE	1
+savour	LOVE	1
+feast one's eyes	LOVE	1
+devour	LOVE	1
+respect	LOVE	3
+esteem	LOVE	1
+stature	LOVE	1
+estimate	LOVE	1
+estimation	LOVE	1
+reputation	LOVE	1
+report	LOVE	1
+deference	LOVE	1
+court	LOVE	1
+homage	LOVE	1
+last respects	LOVE	1
+props	LOVE	1
+obedience	LOVE	1
+respectfulness	LOVE	3
+savor	LOVE	1
+taste	LOVE	1
+smack	LOVE	2
+spark	LOVE	1
+flicker	LOVE	1
+glint	LOVE	1
+sparkle	LOVE	1
+twinkle	LOVE	1
+light	LOVE	1
+discharge	LOVE	2
+arc	LOVE	1
+electric arc	LOVE	1
+electric discharge	LOVE	1
+brush discharge	LOVE	1
+corona discharge	LOVE	1
+corona	LOVE	1
+corposant	LOVE	1
+St. Elmo's fire	LOVE	1
+Saint Elmo's fire	LOVE	1
+Saint Elmo's light	LOVE	1
+Saint Ulmo's fire	LOVE	1
+Saint Ulmo's light	LOVE	1
+electric glow	LOVE	1
+flashover	LOVE	1
+Muriel Spark	LOVE	1
+Dame Muriel Spark	LOVE	1
+Muriel Sarah Spark	LOVE	1
+splendid	LOVE	3
+glorious	LOVE	2
+resplendent	LOVE	1
+splendiferous	LOVE	1
+excellent	LOVE	3
+first-class	LOVE	1
+fantabulous	LOVE	1
+ripping	LOVE	1
+brilliant	LOVE	2
+magnificent	LOVE	4
+stunning	LOVE	1
+arresting	LOVE	1
+sensational	LOVE	1
+suitor	LOVE	1
+swain	LOVE	1
+sweet	LOVE	2
+Henry Sweet	LOVE	1
+dessert	LOVE	1
+afters	LOVE	1
+ambrosia	LOVE	1
+baked Alaska	LOVE	1
+blancmange	LOVE	1
+charlotte	LOVE	1
+compote	LOVE	1
+fruit compote	LOVE	1
+dumpling	LOVE	2
+flan	LOVE	1
+frozen dessert	LOVE	1
+junket	LOVE	1
+mousse	LOVE	1
+pavlova	LOVE	1
+peach melba	LOVE	1
+whip	LOVE	2
+pudding	LOVE	1
+pud	LOVE	1
+syllabub	LOVE	1
+sillabub	LOVE	1
+tiramisu	LOVE	1
+zabaglione	LOVE	1
+sabayon	LOVE	1
+mold	LOVE	1
+mould	LOVE	1
+charlotte russe	LOVE	1
+apple dumpling	LOVE	1
+ice	LOVE	1
+frappe	LOVE	1
+ice cream	LOVE	1
+icecream	LOVE	1
+ice-cream cone	LOVE	1
+sherbert	LOVE	1
+sherbet	LOVE	1
+ice lolly	LOVE	1
+lolly	LOVE	1
+lollipop	LOVE	1
+popsicle	LOVE	1
+ice milk	LOVE	1
+frozen yogurt	LOVE	1
+snowball	LOVE	1
+parfait	LOVE	1
+ice-cream sundae	LOVE	1
+sundae	LOVE	1
+split	LOVE	1
+frozen pudding	LOVE	1
+frozen custard	LOVE	1
+soft ice cream	LOVE	1
+ice-cream cake	LOVE	1
+icebox cake	LOVE	1
+chocolate mousse	LOVE	1
+prune whip	LOVE	1
+flummery	LOVE	1
+plum pudding	LOVE	1
+Christmas pudding	LOVE	1
+steamed pudding	LOVE	1
+duff	LOVE	1
+plum duff	LOVE	1
+vanilla pudding	LOVE	1
+chocolate pudding	LOVE	1
+brown Betty	LOVE	1
+Nesselrode	LOVE	1
+Nesselrode pudding	LOVE	1
+pease pudding	LOVE	1
+tapioca pudding	LOVE	1
+roly-poly	LOVE	1
+roly-poly pudding	LOVE	1
+suet pudding	LOVE	1
+trifle	LOVE	1
+confection	LOVE	1
+confectionery	LOVE	1
+confiture	LOVE	1
+sweetmeat	LOVE	1
+candy	LOVE	1
+confect	LOVE	1
+hardbake	LOVE	1
+chewing gum	LOVE	1
+gum	LOVE	1
+candied apple	LOVE	1
+candy apple	LOVE	1
+taffy apple	LOVE	1
+caramel apple	LOVE	1
+toffee apple	LOVE	1
+center	LOVE	1
+centre	LOVE	1
+comfit	LOVE	1
+maraschino	LOVE	1
+maraschino cherry	LOVE	1
+nonpareil	LOVE	1
+candied fruit	LOVE	1
+succade	LOVE	1
+crystallized fruit	LOVE	1
+conserve	LOVE	1
+preserve	LOVE	1
+conserves	LOVE	1
+preserves	LOVE	1
+candy bar	LOVE	1
+carob bar	LOVE	1
+hard candy	LOVE	1
+brandyball	LOVE	1
+patty	LOVE	1
+bonbon	LOVE	1
+brittle	LOVE	1
+toffee	LOVE	1
+toffy	LOVE	1
+butterscotch	LOVE	1
+candy cane	LOVE	1
+candy corn	LOVE	1
+caramel	LOVE	1
+cotton candy	LOVE	1
+spun sugar	LOVE	1
+candyfloss	LOVE	1
+dragee	LOVE	1
+fondant	LOVE	1
+fudge	LOVE	1
+gumdrop	LOVE	1
+honey crisp	LOVE	1
+mint	LOVE	1
+mint candy	LOVE	1
+horehound	LOVE	1
+jelly bean	LOVE	1
+jelly egg	LOVE	1
+kiss	LOVE	3
+candy kiss	LOVE	1
+licorice	LOVE	1
+liquorice	LOVE	1
+Life Saver	LOVE	1
+sucker	LOVE	2
+all-day sucker	LOVE	1
+lozenge	LOVE	1
+marshmallow	LOVE	1
+marzipan	LOVE	1
+marchpane	LOVE	1
+nougat	LOVE	1
+nougat bar	LOVE	1
+nut bar	LOVE	1
+peanut bar	LOVE	1
+popcorn ball	LOVE	1
+praline	LOVE	1
+rock candy	LOVE	1
+rock	LOVE	2
+sugar candy	LOVE	1
+sugarplum	LOVE	1
+taffy	LOVE	1
+truffle	LOVE	1
+chocolate truffle	LOVE	1
+Turkish Delight	LOVE	1
+Easter egg	LOVE	1
+gum ball	LOVE	1
+bubble gum	LOVE	1
+sweetness	LOVE	3
+sugariness	LOVE	1
+saccharinity	LOVE	1
+sweet	LOVE	2
+angelic	LOVE	2
+angelical	LOVE	1
+cherubic	LOVE	1
+seraphic	LOVE	1
+dulcet	LOVE	1
+honeyed	LOVE	1
+mellifluous	LOVE	1
+mellisonant	LOVE	1
+gratifying	LOVE	2
+odoriferous	LOVE	1
+odorous	LOVE	1
+perfumed	LOVE	1
+scented	LOVE	1
+sweet-scented	LOVE	1
+sweet-smelling	LOVE	1
+fresh	LOVE	1
+unfermented	LOVE	1
+sugared	LOVE	1
+sweetened	LOVE	1
+sweet-flavored	LOVE	1
+sweetheart	LOVE	4
+smasher	LOVE	1
+stunner	LOVE	1
+knockout	LOVE	1
+beauty	LOVE	3
+ravisher	LOVE	1
+peach	LOVE	1
+lulu	LOVE	1
+looker	LOVE	1
+mantrap	LOVE	1
+dish	LOVE	1
+taste	LOVE	1
+taste sensation	LOVE	1
+gustatory sensation	LOVE	1
+taste perception	LOVE	1
+gustatory perception	LOVE	1
+relish	LOVE	1
+flavor	LOVE	1
+flavour	LOVE	1
+sapidity	LOVE	1
+savor	LOVE	1
+savour	LOVE	1
+smack	LOVE	2
+nip	LOVE	1
+tang	LOVE	1
+sour	LOVE	2
+sourness	LOVE	2
+tartness	LOVE	1
+bitter	LOVE	2
+bitterness	LOVE	2
+salt	LOVE	1
+saltiness	LOVE	1
+salinity	LOVE	1
+astringency	LOVE	1
+astringence	LOVE	1
+finish	LOVE	1
+flatness	LOVE	1
+mellowness	LOVE	1
+lemon	LOVE	1
+vanilla	LOVE	1
+acidity	LOVE	1
+acidulousness	LOVE	1
+preference	LOVE	1
+penchant	LOVE	1
+predilection	LOVE	1
+acquired taste	LOVE	1
+weakness	LOVE	2
+mouthful	LOVE	1
+morsel	LOVE	1
+bit	LOVE	1
+bite	LOVE	1
+swallow	LOVE	1
+sup	LOVE	2
+chew	LOVE	1
+chaw	LOVE	1
+cud	LOVE	1
+quid	LOVE	1
+plug	LOVE	1
+wad	LOVE	1
+crumb	LOVE	1
+sop	LOVE	1
+sops	LOVE	1
+gustation	LOVE	1
+sense of taste	LOVE	1
+gustatory modality	LOVE	1
+tasting	LOVE	1
+tenderness	LOVE	3
+soreness	LOVE	2
+rawness	LOVE	1
+chafing	LOVE	1
+rebound tenderness	LOVE	1
+intertrigo	LOVE	1
+tenderheartedness	LOVE	3
+softheartedness	LOVE	1
+treasure	LOVE	2
+truelove	LOVE	5
+valentine	LOVE	1
+venerate	LOVE	2
+want	LOVE	1
+worship	LOVE	2
+offer	LOVE	1
+offer up	LOVE	1
+sacrifice	LOVE	1
+yearning	LOVE	2
+longing	LOVE	3
+hungriness	LOVE	1
+hankering	LOVE	1
+yen	LOVE	1
+pining	LOVE	1
+wishfulness	LOVE	1
+wistfulness	LOVE	1
+nostalgia	LOVE	1
+discontentment	LOVE	2
+discontent	LOVE	2
+discontentedness	LOVE	2
+lovesickness	LOVE	1
+homesickness	LOVE	3
+disgruntlement	LOVE	1
+dysphoria	LOVE	1
+dissatisfaction	LOVE	2
+allay	RELIEF	1
+still	RELIEF	1
+relieve	RELIEF	2
+ease	RELIEF	1
+abreact	RELIEF	1
+quench	RELIEF	1
+slake	RELIEF	1
+assuage	RELIEF	1
+allayed	RELIEF	1
+alleviate	RELIEF	1
+palliate	RELIEF	1
+soothe	RELIEF	1
+comfort	RELIEF	2
+facilitate	RELIEF	1
+alleviated	RELIEF	1
+eased	RELIEF	1
+relieved	RELIEF	2
+alleviation	RELIEF	1
+relief	RELIEF	2
+assuagement	RELIEF	1
+easing	RELIEF	1
+easement	RELIEF	1
+spasmolysis	RELIEF	1
+detente	RELIEF	1
+palliation	RELIEF	1
+liberalization	RELIEF	1
+liberalisation	RELIEF	1
+relaxation	RELIEF	3
+decompression	RELIEF	1
+decompressing	RELIEF	1
+amelioration	RELIEF	1
+melioration	RELIEF	1
+betterment	RELIEF	1
+appeased	RELIEF	1
+appeasement	RELIEF	1
+calming	RELIEF	2
+pacification	RELIEF	1
+mollification	RELIEF	1
+placation	RELIEF	1
+conciliation	RELIEF	1
+propitiation	RELIEF	1
+assistance	RELIEF	1
+aid	RELIEF	1
+assist	RELIEF	1
+help	RELIEF	1
+self-help	RELIEF	1
+facilitation	RELIEF	1
+hand	RELIEF	1
+helping hand	RELIEF	1
+recourse	RELIEF	1
+resort	RELIEF	1
+refuge	RELIEF	1
+thanks	RELIEF	2
+succor	RELIEF	1
+succour	RELIEF	1
+ministration	RELIEF	1
+lift	RELIEF	1
+service	RELIEF	1
+accommodation	RELIEF	1
+boost	RELIEF	1
+encouragement	RELIEF	2
+comfort	RELIEF	2
+support	RELIEF	2
+consolation	RELIEF	1
+solace	RELIEF	1
+mercy	RELIEF	1
+childcare	RELIEF	1
+child care	RELIEF	1
+community service	RELIEF	1
+public service	RELIEF	1
+help desk	RELIEF	1
+helpdesk	RELIEF	1
+seating	RELIEF	1
+morale building	RELIEF	1
+morale booster	RELIEF	1
+attachment	RELIEF	1
+adherence	RELIEF	1
+adhesion	RELIEF	1
+advocacy	RELIEF	1
+protagonism	RELIEF	1
+sponsorship	RELIEF	1
+endorsement	RELIEF	1
+indorsement	RELIEF	1
+blessing	RELIEF	2
+approval	RELIEF	1
+approving	RELIEF	1
+reassurance	RELIEF	2
+economic aid	RELIEF	1
+financial aid	RELIEF	1
+financial assistance	RELIEF	1
+economic assistance	RELIEF	1
+social welfare	RELIEF	1
+welfare	RELIEF	1
+public assistance	RELIEF	1
+philanthropy	RELIEF	1
+philanthropic gift	RELIEF	1
+scholarship	RELIEF	1
+fellowship	RELIEF	1
+foreign aid	RELIEF	1
+grant	RELIEF	1
+grant-in-aid	RELIEF	1
+traineeship	RELIEF	1
+social insurance	RELIEF	1
+dole	RELIEF	1
+pogy	RELIEF	1
+pogey	RELIEF	1
+Marshall Plan	RELIEF	1
+European Recovery Program	RELIEF	1
+subsidy	RELIEF	1
+postdoctoral	RELIEF	1
+postdoc	RELIEF	1
+post doc	RELIEF	1
+assuage	RELIEF	1
+pacify	RELIEF	1
+lenify	RELIEF	1
+conciliate	RELIEF	1
+appease	RELIEF	1
+mollify	RELIEF	1
+placate	RELIEF	1
+gentle	RELIEF	2
+gruntle	RELIEF	1
+assuagement	RELIEF	1
+balm	RELIEF	1
+balm of Gilead	RELIEF	1
+ointment	RELIEF	1
+unction	RELIEF	1
+unguent	RELIEF	1
+salve	RELIEF	1
+arnica	RELIEF	1
+baby oil	RELIEF	1
+balsam	RELIEF	1
+carron oil	RELIEF	1
+cerate	RELIEF	1
+chrism	RELIEF	1
+chrisom	RELIEF	1
+sacramental oil	RELIEF	1
+holy oil	RELIEF	1
+lip balm	RELIEF	1
+mentholated salve	RELIEF	1
+mercurial ointment	RELIEF	1
+zinc ointment	RELIEF	1
+camphor ice	RELIEF	1
+breather	RELIEF	1
+breath	RELIEF	1
+breathing place	RELIEF	1
+breathing space	RELIEF	1
+breathing spell	RELIEF	1
+breathing time	RELIEF	1
+snorkel	RELIEF	1
+schnorkel	RELIEF	1
+schnorchel	RELIEF	1
+snorkel breather	RELIEF	1
+calm	RELIEF	2
+calm down	RELIEF	1
+quiet	RELIEF	1
+tranquilize	RELIEF	2
+tranquillize	RELIEF	2
+tranquillise	RELIEF	1
+quieten	RELIEF	1
+lull	RELIEF	2
+compose	RELIEF	1
+reassure	RELIEF	2
+assure	RELIEF	1
+steady	RELIEF	1
+becalm	RELIEF	1
+cool off	RELIEF	1
+chill out	RELIEF	1
+simmer down	RELIEF	1
+settle down	RELIEF	1
+cool it	RELIEF	1
+sedate	RELIEF	1
+hypnotize	RELIEF	1
+hypnotise	RELIEF	1
+mesmerize	RELIEF	1
+mesmerise	RELIEF	1
+entrance	RELIEF	1
+spellbind	RELIEF	1
+cared	RELIEF	2
+comfort	RELIEF	2
+comfortableness	RELIEF	2
+ease	RELIEF	1
+solacement	RELIEF	1
+coziness	RELIEF	2
+cosiness	RELIEF	2
+snugness	RELIEF	1
+convenience	RELIEF	1
+reprieve	RELIEF	1
+respite	RELIEF	1
+cold comfort	RELIEF	1
+silver lining	RELIEF	1
+bright side	RELIEF	1
+lap of luxury	RELIEF	1
+quilt	RELIEF	1
+comforter	RELIEF	2
+puff	RELIEF	1
+eiderdown	RELIEF	1
+duvet	RELIEF	1
+continental quilt	RELIEF	1
+patchwork	RELIEF	1
+patchwork quilt	RELIEF	1
+crazy quilt	RELIEF	1
+comfort	RELIEF	2
+console	RELIEF	1
+solace	RELIEF	1
+comfortable	RELIEF	2
+comfy	RELIEF	1
+easy	RELIEF	1
+prosperous	RELIEF	2
+well-fixed	RELIEF	1
+well-heeled	RELIEF	1
+well-off	RELIEF	1
+well-situated	RELIEF	1
+well-to-do	RELIEF	1
+comforted	RELIEF	2
+consolation	RELIEF	1
+consoled	RELIEF	1
+contentment	RELIEF	2
+satisfaction	RELIEF	2
+pride	RELIEF	2
+complacency	RELIEF	1
+complacence	RELIEF	1
+self-complacency	RELIEF	1
+self-satisfaction	RELIEF	1
+fulfillment	RELIEF	1
+fulfilment	RELIEF	1
+gloat	RELIEF	2
+gloating	RELIEF	2
+glee	RELIEF	1
+cure	RELIEF	1
+bring around	RELIEF	1
+heal	RELIEF	1
+recuperate	RELIEF	1
+dun	RELIEF	1
+deliverance	RELIEF	1
+rescue	RELIEF	1
+delivery	RELIEF	1
+saving	RELIEF	1
+lifesaving	RELIEF	1
+redemption	RELIEF	1
+salvation	RELIEF	1
+reclamation	RELIEF	1
+reformation	RELIEF	1
+salvage	RELIEF	1
+search and rescue mission	RELIEF	1
+absolution	RELIEF	1
+remission	RELIEF	1
+remittal	RELIEF	1
+remission of sin	RELIEF	1
+conversion	RELIEF	1
+rebirth	RELIEF	1
+spiritual rebirth	RELIEF	1
+expiation	RELIEF	1
+atonement	RELIEF	1
+diminish	RELIEF	1
+decrease	RELIEF	2
+lessen	RELIEF	1
+fall	RELIEF	1
+break	RELIEF	1
+shrink	RELIEF	1
+shrivel	RELIEF	2
+taper	RELIEF	1
+drop off	RELIEF	1
+vanish	RELIEF	2
+fly	RELIEF	1
+vaporize	RELIEF	1
+ease up	RELIEF	1
+ease off	RELIEF	1
+slacken off	RELIEF	1
+flag	RELIEF	1
+weaken	RELIEF	2
+boil down	RELIEF	1
+reduce	RELIEF	1
+decoct	RELIEF	1
+concentrate	RELIEF	1
+contract	RELIEF	1
+shrivel up	RELIEF	1
+wither	RELIEF	1
+abate	RELIEF	2
+let up	RELIEF	1
+slack off	RELIEF	1
+slack	RELIEF	1
+die away	RELIEF	1
+deflate	RELIEF	1
+dwindle	RELIEF	2
+dwindle away	RELIEF	1
+dwindle down	RELIEF	1
+remit	RELIEF	1
+de-escalate	RELIEF	1
+depreciate	RELIEF	2
+undervalue	RELIEF	1
+devaluate	RELIEF	1
+devalue	RELIEF	1
+shorten	RELIEF	1
+thin out	RELIEF	1
+decline	RELIEF	2
+go down	RELIEF	1
+wane	RELIEF	2
+decelerate	RELIEF	1
+slow	RELIEF	1
+slow down	RELIEF	1
+slow up	RELIEF	1
+retard	RELIEF	2
+decrescendo	RELIEF	1
+attenuate	RELIEF	1
+melt	RELIEF	1
+disappear	RELIEF	1
+evaporate	RELIEF	1
+die down	RELIEF	1
+collapse	RELIEF	2
+fade	RELIEF	1
+subside	RELIEF	2
+blur	RELIEF	2
+dim	RELIEF	2
+slur	RELIEF	2
+pine away	RELIEF	1
+waste	RELIEF	2
+languish	RELIEF	2
+dull	RELIEF	2
+pall	RELIEF	1
+loosen	RELIEF	1
+relax	RELIEF	3
+loose	RELIEF	1
+slacken	RELIEF	1
+wilt	RELIEF	2
+flex	RELIEF	1
+atrophy	RELIEF	2
+blast	RELIEF	1
+die back	RELIEF	1
+mummify	RELIEF	1
+dry up	RELIEF	1
+dip	RELIEF	1
+wear on	RELIEF	1
+drop	RELIEF	2
+delay	RELIEF	2
+detain	RELIEF	2
+hold up	RELIEF	1
+belittle	RELIEF	3
+ease	RELIEF	1
+extrication	RELIEF	1
+unsnarling	RELIEF	1
+untangling	RELIEF	1
+disentanglement	RELIEF	1
+fix	RELIEF	1
+hole	RELIEF	1
+jam	RELIEF	1
+mess	RELIEF	1
+muddle	RELIEF	2
+pickle	RELIEF	1
+kettle of fish	RELIEF	1
+dog's breakfast	RELIEF	1
+dog's dinner	RELIEF	1
+repair	RELIEF	1
+fixing	RELIEF	1
+fixture	RELIEF	1
+mend	RELIEF	1
+mending	RELIEF	1
+reparation	RELIEF	1
+darning	RELIEF	1
+patching	RELIEF	1
+care	RELIEF	2
+maintenance	RELIEF	1
+upkeep	RELIEF	1
+band aid	RELIEF	1
+quick fix	RELIEF	1
+quickie	RELIEF	1
+quicky	RELIEF	1
+restoration	RELIEF	1
+reconstruction	RELIEF	1
+restitution	RELIEF	1
+camera care	RELIEF	1
+car care	RELIEF	1
+overhaul	RELIEF	1
+inspection and repair	RELIEF	1
+pump priming	RELIEF	1
+scheduled maintenance	RELIEF	1
+steam fitting	RELIEF	1
+re-establishment	RELIEF	1
+gentrification	RELIEF	1
+renewal	RELIEF	1
+rehabilitation	RELIEF	1
+reinstatement	RELIEF	1
+rejuvenation	RELIEF	1
+makeover	RELIEF	1
+reassembly	RELIEF	1
+refabrication	RELIEF	1
+re-formation	RELIEF	1
+regeneration	RELIEF	1
+rebuilding	RELIEF	1
+localization	RELIEF	1
+localisation	RELIEF	1
+location	RELIEF	1
+locating	RELIEF	1
+echolocation	RELIEF	1
+echo sounding	RELIEF	1
+free	RELIEF	1
+liberate	RELIEF	1
+release	RELIEF	1
+unloose	RELIEF	1
+unloosen	RELIEF	1
+unspell	RELIEF	1
+unchain	RELIEF	1
+bail	RELIEF	2
+run	RELIEF	1
+bail out	RELIEF	1
+parole	RELIEF	1
+rid	RELIEF	2
+disembarrass	RELIEF	1
+cleanse	RELIEF	1
+smooth	RELIEF	1
+smooth out	RELIEF	1
+clear	RELIEF	1
+disinfest	RELIEF	1
+disembody	RELIEF	1
+denazify	RELIEF	1
+dislodge	RELIEF	1
+exempt	RELIEF	2
+derestrict	RELIEF	1
+deregulate	RELIEF	1
+dispense	RELIEF	2
+forgive	RELIEF	2
+spare	RELIEF	1
+declassify	RELIEF	1
+discharge	RELIEF	2
+divest	RELIEF	1
+disinvest	RELIEF	1
+take over	RELIEF	1
+cut	RELIEF	1
+cashier	RELIEF	1
+set free	RELIEF	1
+disinvolve	RELIEF	1
+disembroil	RELIEF	1
+disentangle	RELIEF	1
+dethrone	RELIEF	1
+defrock	RELIEF	1
+unfrock	RELIEF	1
+spell	RELIEF	1
+affranchise	RELIEF	1
+enfranchise	RELIEF	1
+manumit	RELIEF	1
+emancipate	RELIEF	1
+decolonize	RELIEF	1
+decolonise	RELIEF	1
+disengage	RELIEF	1
+dig out	RELIEF	1
+unclog	RELIEF	1
+unstuff	RELIEF	1
+loosen up	RELIEF	1
+extricate	RELIEF	1
+untangle	RELIEF	1
+disencumber	RELIEF	1
+unblock	RELIEF	1
+absolve	RELIEF	1
+excuse	RELIEF	1
+let off	RELIEF	1
+justify	RELIEF	1
+wash one's hands	RELIEF	1
+frank	RELIEF	1
+relinquish	RELIEF	1
+resign	RELIEF	2
+give up	RELIEF	1
+derequisition	RELIEF	1
+sacrifice	RELIEF	1
+give	RELIEF	1
+unfreeze	RELIEF	1
+freed	RELIEF	1
+happiness	RELIEF	3
+felicity	RELIEF	1
+blessedness	RELIEF	2
+beatitude	RELIEF	1
+beatification	RELIEF	1
+radiance	RELIEF	3
+nirvana	RELIEF	1
+enlightenment	RELIEF	1
+bonheur	RELIEF	1
+gladness	RELIEF	3
+gladfulness	RELIEF	1
+gladsomeness	RELIEF	1
+gaiety	RELIEF	1
+merriment	RELIEF	2
+rejoicing	RELIEF	1
+belonging	RELIEF	1
+cheerfulness	RELIEF	3
+blitheness	RELIEF	1
+hilarity	RELIEF	3
+mirth	RELIEF	1
+mirthfulness	RELIEF	1
+gleefulness	RELIEF	1
+jocundity	RELIEF	1
+jocularity	RELIEF	1
+jollity	RELIEF	3
+jolliness	RELIEF	3
+joviality	RELIEF	1
+closeness	RELIEF	1
+intimacy	RELIEF	1
+buoyancy	RELIEF	1
+perkiness	RELIEF	1
+carefreeness	RELIEF	1
+insouciance	RELIEF	1
+lightheartedness	RELIEF	1
+lightsomeness	RELIEF	1
+mitigate	RELIEF	1
+extenuate	RELIEF	1
+lighten	RELIEF	1
+mitigation	RELIEF	1
+extenuation	RELIEF	1
+moderation	RELIEF	1
+abatement	RELIEF	1
+abatement of a nuisance	RELIEF	1
+nuisance abatement	RELIEF	1
+mollification	RELIEF	1
+mollified	RELIEF	1
+pacified	RELIEF	1
+palliative	RELIEF	1
+alleviant	RELIEF	1
+alleviator	RELIEF	1
+placated	RELIEF	1
+reassured	RELIEF	2
+reconciled	RELIEF	1
+refreshment	RELIEF	1
+recreation	RELIEF	1
+relax	RELIEF	3
+unbend	RELIEF	1
+unwind	RELIEF	1
+decompress	RELIEF	1
+vege out	RELIEF	1
+vegetate	RELIEF	1
+sit back	RELIEF	1
+take it easy	RELIEF	1
+unbrace	RELIEF	1
+unstrain	RELIEF	1
+unlax	RELIEF	1
+make relaxed	RELIEF	1
+slack up	RELIEF	1
+relaxed	RELIEF	3
+relief	RELIEF	2
+stand-in	RELIEF	1
+substitute	RELIEF	1
+reliever	RELIEF	2
+backup	RELIEF	1
+backup man	RELIEF	1
+fill-in	RELIEF	1
+locum tenens	RELIEF	1
+locum	RELIEF	1
+double	RELIEF	1
+stunt man	RELIEF	1
+stunt woman	RELIEF	1
+surrogate	RELIEF	1
+alternate	RELIEF	1
+replacement	RELIEF	1
+rest	RELIEF	1
+rest period	RELIEF	1
+disembarrassment	RELIEF	1
+breath of fresh air	RELIEF	1
+relievo	RELIEF	1
+rilievo	RELIEF	1
+embossment	RELIEF	1
+sculptural relief	RELIEF	1
+alto relievo	RELIEF	1
+alto rilievo	RELIEF	1
+high relief	RELIEF	1
+bas relief	RELIEF	1
+low relief	RELIEF	1
+basso relievo	RELIEF	1
+basso rilievo	RELIEF	1
+mezzo-relievo	RELIEF	1
+mezzo-rilievo	RELIEF	1
+half-relief	RELIEF	1
+relieved	RELIEF	2
+jutting	RELIEF	1
+projected	RELIEF	1
+projecting	RELIEF	1
+protruding	RELIEF	1
+sticking	RELIEF	1
+sticking out	RELIEF	1
+relieving	RELIEF	2
+reprieve	RELIEF	1
+suspension	RELIEF	2
+hiatus	RELIEF	1
+defervescence	RELIEF	1
+subsidence	RELIEF	1
+resolution	RELIEF	1
+respite	RELIEF	1
+recess	RELIEF	1
+break	RELIEF	1
+time out	RELIEF	1
+spring break	RELIEF	1
+satisfaction	RELIEF	2
+civic pride	RELIEF	1
+civic spirit	RELIEF	1
+smugness	RELIEF	2
+gratification	RELIEF	2
+quality of life	RELIEF	1
+satiation	RELIEF	1
+self-gratification	RELIEF	1
+head trip	RELIEF	1
+indulgence	RELIEF	1
+indulging	RELIEF	1
+pampering	RELIEF	1
+humoring	RELIEF	3
+pleasing	RELIEF	3
+satisfied	RELIEF	2
+quenched	RELIEF	1
+slaked	RELIEF	1
+solaced	RELIEF	1
+soothe	RELIEF	1
+soothed	RELIEF	1
+ache	SADNESS	2
+hurt	SADNESS	3
+suffer	SADNESS	4
+catch	SADNESS	1
+get	SADNESS	1
+twinge	SADNESS	1
+prick	SADNESS	3
+sting	SADNESS	2
+kill	SADNESS	2
+prickle	SADNESS	1
+yearn	SADNESS	2
+yen	SADNESS	1
+pine	SADNESS	1
+languish	SADNESS	2
+die	SADNESS	1
+smart	SADNESS	2
+bite	SADNESS	1
+burn	SADNESS	2
+itch	SADNESS	1
+hunger	SADNESS	2
+thirst	SADNESS	2
+act up	SADNESS	1
+throb	SADNESS	1
+shoot	SADNESS	2
+nettle	SADNESS	1
+urticate	SADNESS	1
+tickle	SADNESS	1
+titillate	SADNESS	1
+vellicate	SADNESS	1
+tingle	SADNESS	1
+twang	SADNESS	1
+afflict	SADNESS	3
+grieve	SADNESS	4
+aggrieve	SADNESS	2
+tribulate	SADNESS	1
+try	SADNESS	1
+strain	SADNESS	2
+stress	SADNESS	2
+rack	SADNESS	1
+smite	SADNESS	1
+visit	SADNESS	1
+blight	SADNESS	1
+plague	SADNESS	2
+aggrieve	SADNESS	2
+agonize	SADNESS	4
+agonise	SADNESS	4
+anguish	SADNESS	4
+torment	SADNESS	2
+torture	SADNESS	4
+bad	SADNESS	2
+big	SADNESS	1
+tough	SADNESS	2
+spoiled	SADNESS	2
+spoilt	SADNESS	2
+regretful	SADNESS	2
+sorry	SADNESS	2
+uncollectible	SADNESS	1
+risky	SADNESS	2
+high-risk	SADNESS	1
+speculative	SADNESS	1
+unfit	SADNESS	2
+unsound	SADNESS	2
+forged	SADNESS	1
+defective	SADNESS	3
+bear	SADNESS	1
+carry	SADNESS	1
+give birth	SADNESS	1
+deliver	SADNESS	1
+birth	SADNESS	1
+have	SADNESS	1
+twin	SADNESS	1
+drop	SADNESS	2
+foal	SADNESS	1
+cub	SADNESS	1
+kitten	SADNESS	1
+lamb	SADNESS	1
+litter	SADNESS	2
+whelp	SADNESS	1
+pup	SADNESS	1
+farrow	SADNESS	1
+pig	SADNESS	1
+fawn	SADNESS	1
+calve	SADNESS	1
+have young	SADNESS	1
+have a bun in the oven	SADNESS	1
+gestate	SADNESS	1
+expect	SADNESS	1
+digest	SADNESS	1
+endure	SADNESS	1
+stick out	SADNESS	1
+stomach	SADNESS	1
+stand	SADNESS	1
+tolerate	SADNESS	1
+support	SADNESS	2
+brook	SADNESS	1
+abide	SADNESS	1
+put up	SADNESS	1
+accept	SADNESS	1
+live with	SADNESS	1
+swallow	SADNESS	1
+stand for	SADNESS	1
+hold still for	SADNESS	1
+bear up	SADNESS	1
+take lying down	SADNESS	1
+take a joke	SADNESS	1
+sit out	SADNESS	1
+pay	SADNESS	1
+take one's lumps	SADNESS	1
+get one's lumps	SADNESS	1
+frogmarch	SADNESS	1
+turn out	SADNESS	1
+spin off	SADNESS	1
+seed	SADNESS	1
+crop	SADNESS	1
+overbear	SADNESS	1
+fruit	SADNESS	1
+take over	SADNESS	1
+assume	SADNESS	1
+face the music	SADNESS	1
+carry the can	SADNESS	1
+hold	SADNESS	1
+contain	SADNESS	1
+retain	SADNESS	1
+enclose	SADNESS	1
+hold in	SADNESS	1
+confine	SADNESS	2
+bound	SADNESS	1
+border	SADNESS	1
+embank	SADNESS	1
+rail	SADNESS	1
+rail in	SADNESS	1
+box in	SADNESS	1
+box up	SADNESS	1
+frame	SADNESS	1
+yield	SADNESS	1
+net	SADNESS	1
+clear	SADNESS	1
+pay off	SADNESS	1
+wear	SADNESS	1
+behave	SADNESS	1
+acquit	SADNESS	1
+deport	SADNESS	1
+conduct	SADNESS	1
+comport	SADNESS	1
+fluster	SADNESS	1
+assert	SADNESS	1
+put forward	SADNESS	1
+deal	SADNESS	1
+walk around	SADNESS	1
+pose	SADNESS	1
+posture	SADNESS	1
+attitudinize	SADNESS	1
+attitudinise	SADNESS	1
+sling	SADNESS	1
+stoop	SADNESS	1
+piggyback	SADNESS	1
+poise	SADNESS	1
+balance	SADNESS	1
+juggle	SADNESS	1
+bemoan	SADNESS	1
+deplore	SADNESS	2
+lament	SADNESS	3
+bewail	SADNESS	1
+bereaved	SADNESS	4
+bereft	SADNESS	2
+grief-stricken	SADNESS	1
+grieving	SADNESS	4
+mourning	SADNESS	3
+sorrowing	SADNESS	3
+bewail	SADNESS	1
+bitter	SADNESS	2
+acrimonious	SADNESS	2
+acerb	SADNESS	1
+acerbic	SADNESS	1
+acid	SADNESS	1
+acrid	SADNESS	1
+blistering	SADNESS	1
+caustic	SADNESS	1
+sulfurous	SADNESS	1
+sulphurous	SADNESS	1
+virulent	SADNESS	1
+vitriolic	SADNESS	1
+biting	SADNESS	1
+blahs	SADNESS	1
+bleakness	SADNESS	1
+desolation	SADNESS	2
+bareness	SADNESS	1
+nakedness	SADNESS	1
+blue	SADNESS	1
+bluish	SADNESS	1
+blueish	SADNESS	1
+gloomy	SADNESS	3
+grim	SADNESS	3
+depressed	SADNESS	4
+dispirited	SADNESS	1
+down	SADNESS	1
+downcast	SADNESS	3
+downhearted	SADNESS	3
+down in the mouth	SADNESS	1
+low	SADNESS	2
+low-spirited	SADNESS	1
+blasphemous	SADNESS	1
+profane	SADNESS	1
+gamy	SADNESS	1
+gamey	SADNESS	1
+juicy	SADNESS	1
+naughty	SADNESS	2
+racy	SADNESS	1
+risque	SADNESS	1
+spicy	SADNESS	1
+aristocratic	SADNESS	1
+aristocratical	SADNESS	1
+blue-blooded	SADNESS	1
+gentle	SADNESS	2
+patrician	SADNESS	1
+puritanic	SADNESS	1
+puritanical	SADNESS	1
+dark	SADNESS	1
+dingy	SADNESS	1
+disconsolate	SADNESS	1
+dismal	SADNESS	2
+drab	SADNESS	2
+drear	SADNESS	1
+dreary	SADNESS	2
+bummer	SADNESS	1
+cheerless	SADNESS	3
+depressing	SADNESS	4
+uncheerful	SADNESS	1
+cheerlessness	SADNESS	3
+uncheerfulness	SADNESS	1
+joylessness	SADNESS	3
+complain	SADNESS	2
+kick	SADNESS	2
+plain	SADNESS	1
+sound off	SADNESS	1
+quetch	SADNESS	1
+kvetch	SADNESS	1
+nag	SADNESS	2
+peck	SADNESS	1
+hen-peck	SADNESS	1
+backbite	SADNESS	1
+bitch	SADNESS	2
+whine	SADNESS	3
+grizzle	SADNESS	1
+yammer	SADNESS	1
+yawp	SADNESS	1
+murmur	SADNESS	1
+mutter	SADNESS	2
+grumble	SADNESS	3
+croak	SADNESS	2
+gnarl	SADNESS	1
+grouch	SADNESS	2
+scold	SADNESS	2
+protest	SADNESS	2
+repine	SADNESS	1
+gripe	SADNESS	1
+grouse	SADNESS	1
+crab	SADNESS	1
+beef	SADNESS	1
+squawk	SADNESS	1
+bellyache	SADNESS	1
+holler	SADNESS	1
+inveigh	SADNESS	1
+report	SADNESS	1
+bleat	SADNESS	1
+declaim	SADNESS	1
+constrain	SADNESS	2
+enforce	SADNESS	2
+impose	SADNESS	2
+restrain	SADNESS	1
+tie down	SADNESS	1
+tie up	SADNESS	1
+bind	SADNESS	1
+truss	SADNESS	1
+fetter	SADNESS	1
+shackle	SADNESS	1
+enchain	SADNESS	1
+pinion	SADNESS	1
+impound	SADNESS	1
+pound	SADNESS	1
+pound up	SADNESS	1
+pen up	SADNESS	1
+fold	SADNESS	1
+ground	SADNESS	1
+chain up	SADNESS	1
+faggot	SADNESS	2
+fagot	SADNESS	1
+faggot up	SADNESS	1
+hog-tie	SADNESS	1
+manacle	SADNESS	1
+cuff	SADNESS	1
+handcuff	SADNESS	1
+stiffen	SADNESS	1
+tighten	SADNESS	1
+tighten up	SADNESS	1
+crush	SADNESS	2
+oppress	SADNESS	3
+suppress	SADNESS	2
+repress	SADNESS	2
+quash	SADNESS	1
+keep down	SADNESS	1
+subdue	SADNESS	1
+subjugate	SADNESS	2
+reduce	SADNESS	1
+squash	SADNESS	1
+squelch	SADNESS	1
+mash	SADNESS	1
+squeeze	SADNESS	1
+wring	SADNESS	1
+stamp	SADNESS	1
+steamroller	SADNESS	1
+tread	SADNESS	1
+telescope	SADNESS	1
+beat	SADNESS	1
+beat out	SADNESS	1
+shell	SADNESS	1
+trounce	SADNESS	1
+vanquish	SADNESS	1
+outpoint	SADNESS	1
+outscore	SADNESS	1
+walk over	SADNESS	1
+eliminate	SADNESS	2
+worst	SADNESS	3
+pip	SADNESS	1
+mop up	SADNESS	1
+whip	SADNESS	2
+rack up	SADNESS	1
+whomp	SADNESS	1
+get the best	SADNESS	1
+have the best	SADNESS	1
+overcome	SADNESS	1
+spread-eagle	SADNESS	1
+spreadeagle	SADNESS	1
+rout	SADNESS	1
+get the jump	SADNESS	1
+cheat	SADNESS	3
+chouse	SADNESS	1
+shaft	SADNESS	1
+screw	SADNESS	1
+chicane	SADNESS	1
+jockey	SADNESS	1
+surpass	SADNESS	1
+outstrip	SADNESS	1
+outmatch	SADNESS	1
+outgo	SADNESS	1
+exceed	SADNESS	1
+outdo	SADNESS	1
+surmount	SADNESS	1
+outperform	SADNESS	1
+get over	SADNESS	1
+master	SADNESS	1
+outflank	SADNESS	1
+trump	SADNESS	1
+best	SADNESS	2
+scoop	SADNESS	1
+outfight	SADNESS	1
+overpower	SADNESS	2
+overmaster	SADNESS	1
+overwhelm	SADNESS	3
+checkmate	SADNESS	1
+mate	SADNESS	2
+immobilize	SADNESS	1
+immobilise	SADNESS	1
+outplay	SADNESS	1
+cream	SADNESS	1
+bat	SADNESS	1
+clobber	SADNESS	1
+drub	SADNESS	1
+thrash	SADNESS	2
+lick	SADNESS	1
+outwit	SADNESS	1
+overreach	SADNESS	1
+outsmart	SADNESS	1
+outfox	SADNESS	1
+circumvent	SADNESS	1
+outgrow	SADNESS	1
+outshout	SADNESS	1
+outcry	SADNESS	3
+outroar	SADNESS	1
+outsail	SADNESS	1
+outdraw	SADNESS	1
+outsell	SADNESS	1
+outpace	SADNESS	1
+better	SADNESS	1
+break	SADNESS	1
+outshine	SADNESS	1
+outrange	SADNESS	1
+outweigh	SADNESS	1
+outbrave	SADNESS	1
+out-herod	SADNESS	1
+shame	SADNESS	3
+outmarch	SADNESS	1
+outwear	SADNESS	1
+bulldog	SADNESS	1
+outmaneuver	SADNESS	1
+outmanoeuvre	SADNESS	1
+steamroll	SADNESS	1
+bruise	SADNESS	2
+smash	SADNESS	2
+jam	SADNESS	1
+break down	SADNESS	1
+cry	SADNESS	4
+shout	SADNESS	1
+shout out	SADNESS	1
+call	SADNESS	1
+yell	SADNESS	1
+scream	SADNESS	4
+hollo	SADNESS	1
+squall	SADNESS	1
+hurrah	SADNESS	3
+halloo	SADNESS	1
+whoop	SADNESS	1
+shriek	SADNESS	2
+shrill	SADNESS	2
+pipe up	SADNESS	1
+pipe	SADNESS	1
+howl	SADNESS	1
+ululate	SADNESS	1
+wail	SADNESS	2
+roar	SADNESS	1
+yawl	SADNESS	1
+yaup	SADNESS	1
+screak	SADNESS	1
+skreak	SADNESS	1
+skreigh	SADNESS	1
+screech	SADNESS	2
+yowl	SADNESS	1
+caterwaul	SADNESS	1
+waul	SADNESS	1
+wawl	SADNESS	1
+weep	SADNESS	3
+whimper	SADNESS	2
+mewl	SADNESS	1
+pule	SADNESS	1
+bawl	SADNESS	1
+tear	SADNESS	2
+sob	SADNESS	4
+snivel	SADNESS	1
+sniffle	SADNESS	1
+blubber	SADNESS	1
+blub	SADNESS	1
+snuffle	SADNESS	1
+exclaim	SADNESS	1
+cry out	SADNESS	1
+call out	SADNESS	1
+gee	SADNESS	1
+ooh	SADNESS	1
+aah	SADNESS	1
+blazon out	SADNESS	1
+dark	SADNESS	1
+black	SADNESS	1
+sinister	SADNESS	4
+dour	SADNESS	1
+glowering	SADNESS	1
+glum	SADNESS	3
+moody	SADNESS	3
+morose	SADNESS	1
+saturnine	SADNESS	1
+sour	SADNESS	2
+sullen	SADNESS	2
+benighted	SADNESS	1
+obscure	SADNESS	1
+dejected	SADNESS	2
+dejection	SADNESS	1
+fecal matter	SADNESS	1
+faecal matter	SADNESS	1
+feces	SADNESS	1
+faeces	SADNESS	1
+BM	SADNESS	1
+stool	SADNESS	1
+ordure	SADNESS	1
+dog shit	SADNESS	1
+dog do	SADNESS	1
+doggy do	SADNESS	1
+dog turd	SADNESS	1
+crap	SADNESS	3
+dirt	SADNESS	2
+shit	SADNESS	2
+shite	SADNESS	1
+poop	SADNESS	1
+turd	SADNESS	1
+droppings	SADNESS	1
+dung	SADNESS	1
+muck	SADNESS	1
+meconium	SADNESS	1
+melena	SADNESS	1
+melaena	SADNESS	1
+chip	SADNESS	1
+cow chip	SADNESS	1
+cow dung	SADNESS	1
+buffalo chip	SADNESS	1
+coprolite	SADNESS	1
+pigeon droppings	SADNESS	1
+cow pie	SADNESS	1
+cowpie	SADNESS	1
+deplore	SADNESS	2
+accurse	SADNESS	1
+execrate	SADNESS	1
+anathemize	SADNESS	1
+comminate	SADNESS	1
+anathemise	SADNESS	1
+anathematize	SADNESS	1
+anathematise	SADNESS	1
+depressing	SADNESS	4
+despairing	SADNESS	4
+desperate	SADNESS	3
+despondency	SADNESS	1
+despondence	SADNESS	1
+heartsickness	SADNESS	1
+disconsolateness	SADNESS	1
+despondent	SADNESS	1
+heartsick	SADNESS	1
+disconsolate	SADNESS	1
+inconsolable	SADNESS	1
+unconsolable	SADNESS	1
+disconsolateness	SADNESS	1
+dismal	SADNESS	2
+dispiritedness	SADNESS	1
+downheartedness	SADNESS	1
+dejectedness	SADNESS	2
+low-spiritedness	SADNESS	1
+lowness	SADNESS	2
+distress	SADNESS	3
+hurt	SADNESS	3
+suffering	SADNESS	4
+self-torture	SADNESS	1
+self-torment	SADNESS	1
+tsoris	SADNESS	1
+wound	SADNESS	2
+pressure	SADNESS	2
+throe	SADNESS	1
+distraint	SADNESS	1
+distressed	SADNESS	3
+hard-pressed	SADNESS	1
+hard put	SADNESS	1
+in a bad way	SADNESS	1
+dysphoric	SADNESS	1
+unhappy	SADNESS	3
+stressed	SADNESS	2
+disquieted	SADNESS	1
+disturbed	SADNESS	2
+upset	SADNESS	3
+worried	SADNESS	4
+doleful	SADNESS	1
+mournful	SADNESS	3
+dolefulness	SADNESS	1
+dolor	SADNESS	1
+dolour	SADNESS	1
+down	SADNESS	1
+downward	SADNESS	1
+down pat	SADNESS	1
+mastered	SADNESS	1
+downer	SADNESS	1
+sedative	SADNESS	1
+sedative drug	SADNESS	1
+depressant	SADNESS	4
+chloral hydrate	SADNESS	1
+glutethimide	SADNESS	1
+Doriden	SADNESS	1
+sedative-hypnotic	SADNESS	1
+sedative-hypnotic drug	SADNESS	1
+knockout drops	SADNESS	1
+barbiturate	SADNESS	1
+ethchlorvynol	SADNESS	1
+Placidyl	SADNESS	1
+methaqualone	SADNESS	1
+Quaalude	SADNESS	1
+thalidomide	SADNESS	1
+tranquilizer	SADNESS	2
+tranquillizer	SADNESS	2
+tranquilliser	SADNESS	1
+antianxiety agent	SADNESS	1
+ataractic drug	SADNESS	1
+ataractic agent	SADNESS	1
+ataractic	SADNESS	1
+dysphoria	SADNESS	1
+endure	SADNESS	1
+weather	SADNESS	1
+brave	SADNESS	3
+brave out	SADNESS	1
+survive	SADNESS	1
+last	SADNESS	1
+live	SADNESS	1
+live on	SADNESS	1
+go	SADNESS	1
+hold up	SADNESS	1
+hold out	SADNESS	1
+stand up	SADNESS	1
+hold water	SADNESS	1
+perennate	SADNESS	1
+live out	SADNESS	1
+run	SADNESS	1
+run for	SADNESS	1
+drag on	SADNESS	1
+drag out	SADNESS	1
+prevail	SADNESS	1
+persist	SADNESS	1
+die hard	SADNESS	1
+carry over	SADNESS	1
+reverberate	SADNESS	1
+forlornness	SADNESS	1
+loneliness	SADNESS	2
+funk	SADNESS	1
+blue funk	SADNESS	1
+Casimir Funk	SADNESS	1
+gloominess	SADNESS	3
+gloom	SADNESS	3
+glumness	SADNESS	3
+cloud	SADNESS	1
+somberness	SADNESS	2
+sombreness	SADNESS	1
+lugubriousness	SADNESS	1
+sadness	SADNESS	4
+grief	SADNESS	4
+heartache	SADNESS	1
+heartbreak	SADNESS	4
+brokenheartedness	SADNESS	1
+sorrow	SADNESS	3
+heartache	SADNESS	1
+heartbreak	SADNESS	4
+heartbroken	SADNESS	4
+brokenhearted	SADNESS	2
+hopelessness	SADNESS	4
+hurt	SADNESS	3
+injure	SADNESS	2
+wound	SADNESS	2
+trouble	SADNESS	2
+ail	SADNESS	2
+pain	SADNESS	4
+disagree with	SADNESS	1
+trample	SADNESS	2
+concuss	SADNESS	1
+calk	SADNESS	1
+torture	SADNESS	4
+excruciate	SADNESS	5
+torment	SADNESS	2
+pull	SADNESS	1
+overstretch	SADNESS	1
+traumatize	SADNESS	4
+traumatise	SADNESS	1
+shock	SADNESS	3
+maim	SADNESS	1
+twist	SADNESS	1
+sprain	SADNESS	2
+wrench	SADNESS	1
+turn	SADNESS	1
+wrick	SADNESS	1
+rick	SADNESS	1
+subluxate	SADNESS	1
+disable	SADNESS	2
+invalid	SADNESS	2
+incapacitate	SADNESS	1
+handicap	SADNESS	2
+harm	SADNESS	3
+run down	SADNESS	1
+run over	SADNESS	1
+fracture	SADNESS	2
+hit	SADNESS	1
+knife	SADNESS	2
+stab	SADNESS	2
+skin	SADNESS	1
+scrape	SADNESS	2
+contuse	SADNESS	1
+graze	SADNESS	1
+erupt	SADNESS	1
+recrudesce	SADNESS	1
+break out	SADNESS	1
+anguish	SADNESS	4
+break someone's heart	SADNESS	1
+offend	SADNESS	3
+spite	SADNESS	4
+diss	SADNESS	1
+insult	SADNESS	3
+affront	SADNESS	1
+lacerate	SADNESS	1
+humiliate	SADNESS	4
+mortify	SADNESS	3
+chagrin	SADNESS	1
+humble	SADNESS	1
+abase	SADNESS	1
+take down	SADNESS	1
+degrade	SADNESS	3
+disgrace	SADNESS	4
+demean	SADNESS	2
+put down	SADNESS	1
+gag	SADNESS	1
+choke	SADNESS	4
+strangle	SADNESS	3
+suffocate	SADNESS	3
+starve	SADNESS	2
+famish	SADNESS	1
+injure	SADNESS	2
+martyr	SADNESS	2
+martyrize	SADNESS	1
+martyrise	SADNESS	1
+mutilate	SADNESS	1
+mar	SADNESS	2
+cripple	SADNESS	2
+lame	SADNESS	3
+hock	SADNESS	1
+sicken	SADNESS	4
+gun down	SADNESS	1
+grass	SADNESS	1
+kneecap	SADNESS	1
+poniard	SADNESS	1
+bayonet	SADNESS	1
+keen	SADNESS	1
+lament	SADNESS	3
+letdown	SADNESS	1
+disappointment	SADNESS	2
+frustration	SADNESS	3
+defeat	SADNESS	1
+listlessness	SADNESS	1
+languor	SADNESS	1
+lassitude	SADNESS	1
+torpidity	SADNESS	1
+torpidness	SADNESS	1
+torpor	SADNESS	1
+melancholy	SADNESS	4
+melancholic	SADNESS	4
+somber	SADNESS	2
+sombre	SADNESS	1
+melancholy	SADNESS	4
+heavyheartedness	SADNESS	1
+pensiveness	SADNESS	1
+brooding	SADNESS	2
+world-weariness	SADNESS	1
+Weltschmerz	SADNESS	1
+black bile	SADNESS	1
+miserable	SADNESS	3
+suffering	SADNESS	4
+wretched	SADNESS	3
+hapless	SADNESS	2
+misfortunate	SADNESS	1
+pathetic	SADNESS	3
+piteous	SADNESS	1
+pitiable	SADNESS	3
+pitiful	SADNESS	3
+poor	SADNESS	2
+abject	SADNESS	2
+low-down	SADNESS	1
+scummy	SADNESS	2
+scurvy	SADNESS	1
+deplorable	SADNESS	2
+execrable	SADNESS	1
+woeful	SADNESS	3
+measly	SADNESS	1
+paltry	SADNESS	2
+misery	SADNESS	3
+wretchedness	SADNESS	3
+miserableness	SADNESS	3
+concentration camp	SADNESS	1
+living death	SADNESS	1
+woe	SADNESS	3
+moodiness	SADNESS	3
+moroseness	SADNESS	1
+sullenness	SADNESS	1
+mopes	SADNESS	1
+dumps	SADNESS	2
+mournful	SADNESS	3
+plaintive	SADNESS	1
+mournfulness	SADNESS	3
+sorrowfulness	SADNESS	3
+ruthfulness	SADNESS	1
+woefulness	SADNESS	3
+plaintiveness	SADNESS	1
+mourning	SADNESS	3
+bereavement	SADNESS	4
+lamentation	SADNESS	3
+moving	SADNESS	1
+pain	SADNESS	4
+pathetic	SADNESS	3
+ridiculous	SADNESS	3
+silly	SADNESS	2
+pessimistic	SADNESS	3
+pitiful	SADNESS	3
+distressing	SADNESS	3
+lamentable	SADNESS	3
+sad	SADNESS	4
+poignancy	SADNESS	1
+poignance	SADNESS	1
+pathos	SADNESS	1
+poignant	SADNESS	1
+affecting	SADNESS	1
+touching	SADNESS	1
+regret	SADNESS	2
+repent	SADNESS	1
+rue	SADNESS	2
+fear	SADNESS	4
+regrettable	SADNESS	2
+too bad	SADNESS	1
+rue	SADNESS	2
+sad	SADNESS	4
+sadden	SADNESS	4
+weigh down	SADNESS	1
+weigh on	SADNESS	1
+serious	SADNESS	2
+dangerous	SADNESS	2
+grave	SADNESS	3
+grievous	SADNESS	4
+severe	SADNESS	2
+life-threatening	SADNESS	1
+good	SADNESS	2
+unplayful	SADNESS	1
+sober	SADNESS	1
+somber	SADNESS	2
+sorrow	SADNESS	3
+broken heart	SADNESS	1
+self-pity	SADNESS	1
+regret	SADNESS	2
+rue	SADNESS	2
+ruefulness	SADNESS	1
+attrition	SADNESS	1
+contrition	SADNESS	1
+contriteness	SADNESS	1
+compunction	SADNESS	1
+remorse	SADNESS	3
+self-reproach	SADNESS	1
+guilt	SADNESS	4
+guilty conscience	SADNESS	1
+guilt feelings	SADNESS	1
+guilt trip	SADNESS	1
+repentance	SADNESS	1
+penitence	SADNESS	1
+penance	SADNESS	1
+sorrow	SADNESS	3
+mourn	SADNESS	3
+fail	SADNESS	2
+feel for	SADNESS	1
+pity	SADNESS	1
+compassionate	SADNESS	2
+condole with	SADNESS	1
+sympathize with	SADNESS	1
+commiserate	SADNESS	1
+sympathize	SADNESS	1
+sympathise	SADNESS	1
+care	SADNESS	2
+sorrowful	SADNESS	3
+sorrowfulness	SADNESS	3
+sorry	SADNESS	2
+good-for-nothing	SADNESS	1
+good-for-naught	SADNESS	1
+meritless	SADNESS	1
+no-account	SADNESS	1
+no-count	SADNESS	1
+no-good	SADNESS	1
+suffer	SADNESS	4
+sustain	SADNESS	1
+collapse	SADNESS	2
+cramp	SADNESS	2
+crack up	SADNESS	1
+crack	SADNESS	1
+crock up	SADNESS	1
+break up	SADNESS	1
+drop like flies	SADNESS	1
+fall over	SADNESS	1
+go over	SADNESS	1
+lose	SADNESS	2
+freeze	SADNESS	1
+swelter	SADNESS	1
+meet	SADNESS	1
+tragic	SADNESS	3
+tragical	SADNESS	1
+tribulation	SADNESS	1
+trial	SADNESS	1
+visitation	SADNESS	1
+fire	SADNESS	1
+unhappy	SADNESS	3
+infelicitous	SADNESS	1
+wail	SADNESS	2
+weep	SADNESS	3
+wistful	SADNESS	1
+pensive	SADNESS	1
+woe	SADNESS	3
+wound	SADNESS	2
+afflict	WORRY	3
+grieve	WORRY	4
+aggrieve	WORRY	2
+tribulate	WORRY	1
+try	WORRY	1
+strain	WORRY	2
+stress	WORRY	2
+rack	WORRY	1
+smite	WORRY	1
+visit	WORRY	1
+blight	WORRY	1
+plague	WORRY	2
+afraid	WORRY	4
+aggrieve	WORRY	2
+agonize	WORRY	4
+agonise	WORRY	4
+ail	WORRY	2
+trouble	WORRY	2
+pain	WORRY	4
+erupt	WORRY	1
+recrudesce	WORRY	1
+break out	WORRY	1
+anguish	WORRY	4
+torment	WORRY	2
+torture	WORRY	4
+annoy	WORRY	3
+rag	WORRY	1
+get to	WORRY	1
+bother	WORRY	2
+get at	WORRY	1
+irritate	WORRY	3
+rile	WORRY	1
+nark	WORRY	1
+nettle	WORRY	1
+gravel	WORRY	1
+vex	WORRY	3
+chafe	WORRY	2
+devil	WORRY	2
+get	WORRY	1
+get under one's skin	WORRY	1
+eat into	WORRY	1
+fret	WORRY	3
+rankle	WORRY	1
+grate	WORRY	1
+peeve	WORRY	1
+ruffle	WORRY	1
+harass	WORRY	3
+hassle	WORRY	2
+harry	WORRY	1
+chivy	WORRY	1
+chivvy	WORRY	1
+chevy	WORRY	1
+chevvy	WORRY	1
+beset	WORRY	2
+molest	WORRY	4
+provoke	WORRY	2
+antagonize	WORRY	2
+antagonise	WORRY	1
+needle	WORRY	1
+goad	WORRY	1
+torment	WORRY	2
+bedevil	WORRY	1
+crucify	WORRY	1
+dun	WORRY	1
+frustrate	WORRY	3
+haze	WORRY	1
+annoyance	WORRY	3
+irritation	WORRY	3
+vexation	WORRY	3
+botheration	WORRY	1
+bummer	WORRY	1
+huff	WORRY	1
+miff	WORRY	1
+seeing red	WORRY	1
+pinprick	WORRY	1
+restlessness	WORRY	2
+impatience	WORRY	2
+snit	WORRY	1
+chafe	WORRY	2
+pique	WORRY	1
+temper	WORRY	3
+frustration	WORRY	3
+aggravation	WORRY	3
+exasperation	WORRY	2
+harassment	WORRY	3
+displeasure	WORRY	3
+aggravator	WORRY	1
+bother	WORRY	2
+pain	WORRY	4
+infliction	WORRY	1
+pain in the neck	WORRY	1
+pain in the ass	WORRY	1
+nuisance	WORRY	2
+irritant	WORRY	3
+thorn	WORRY	1
+plague	WORRY	2
+abatable nuisance	WORRY	1
+attractive nuisance	WORRY	1
+mixed nuisance	WORRY	1
+private nuisance	WORRY	1
+public nuisance	WORRY	1
+common nuisance	WORRY	1
+annoying	WORRY	3
+red flag	WORRY	1
+exacerbation	WORRY	1
+apprehension	WORRY	3
+apprehensiveness	WORRY	3
+dread	WORRY	4
+trepidation	WORRY	1
+foreboding	WORRY	2
+premonition	WORRY	1
+presentiment	WORRY	1
+boding	WORRY	1
+suspense	WORRY	1
+gloom	WORRY	3
+gloominess	WORRY	3
+somberness	WORRY	2
+sombreness	WORRY	1
+chill	WORRY	1
+pall	WORRY	1
+shadow	WORRY	1
+presage	WORRY	1
+understanding	WORRY	1
+discernment	WORRY	1
+savvy	WORRY	1
+comprehension	WORRY	1
+self-knowledge	WORRY	1
+smattering	WORRY	1
+appreciation	WORRY	2
+grasp	WORRY	1
+hold	WORRY	1
+grasping	WORRY	1
+hindsight	WORRY	1
+insight	WORRY	1
+brainstorm	WORRY	1
+brainwave	WORRY	1
+realization	WORRY	1
+realisation	WORRY	1
+recognition	WORRY	1
+sense	WORRY	1
+light	WORRY	1
+revelation	WORRY	1
+discovery	WORRY	1
+breakthrough	WORRY	1
+find	WORRY	1
+flash	WORRY	1
+misgiving	WORRY	1
+arrest	WORRY	1
+catch	WORRY	1
+collar	WORRY	1
+pinch	WORRY	2
+taking into custody	WORRY	1
+apprehensive	WORRY	3
+discerning	WORRY	1
+worried	WORRY	4
+bedevil	WORRY	1
+madden	WORRY	3
+hamstring	WORRY	1
+tease	WORRY	2
+badger	WORRY	1
+pester	WORRY	1
+bug	WORRY	2
+beleaguer	WORRY	1
+persecute	WORRY	3
+oppress	WORRY	3
+purge	WORRY	1
+confuse	WORRY	2
+throw	WORRY	1
+fox	WORRY	1
+befuddle	WORRY	1
+fuddle	WORRY	1
+confound	WORRY	2
+discombobulate	WORRY	1
+demoralize	WORRY	2
+perplex	WORRY	2
+stick	WORRY	1
+puzzle	WORRY	1
+mystify	WORRY	1
+baffle	WORRY	2
+beat	WORRY	1
+pose	WORRY	1
+bewilder	WORRY	3
+flummox	WORRY	1
+stupefy	WORRY	1
+nonplus	WORRY	1
+amaze	WORRY	3
+dumbfound	WORRY	1
+disorient	WORRY	1
+disorientate	WORRY	1
+stump	WORRY	1
+mix up	WORRY	1
+riddle	WORRY	1
+elude	WORRY	1
+escape	WORRY	1
+beleaguer	WORRY	1
+besiege	WORRY	2
+surround	WORRY	1
+hem in	WORRY	1
+circumvent	WORRY	1
+blockade	WORRY	2
+seal off	WORRY	1
+ebb	WORRY	1
+beset	WORRY	2
+set upon	WORRY	1
+encrust	WORRY	1
+incrust	WORRY	1
+beside oneself	WORRY	1
+bother	WORRY	2
+trouble oneself	WORRY	1
+inconvenience oneself	WORRY	1
+put out	WORRY	1
+inconvenience	WORRY	2
+disoblige	WORRY	1
+discommode	WORRY	1
+incommode	WORRY	1
+straiten	WORRY	1
+distress	WORRY	3
+bothered	WORRY	2
+daunted	WORRY	1
+fazed	WORRY	1
+brood	WORRY	2
+dwell	WORRY	1
+hover	WORRY	1
+loom	WORRY	1
+bulk large	WORRY	1
+overshadow	WORRY	1
+dominate	WORRY	2
+eclipse	WORRY	1
+sulk	WORRY	1
+pout	WORRY	2
+grizzle	WORRY	1
+stew	WORRY	1
+hatch	WORRY	1
+cover	WORRY	1
+incubate	WORRY	1
+chafe	WORRY	2
+gall	WORRY	2
+excoriate	WORRY	1
+rub	WORRY	1
+fray	WORRY	1
+scratch	WORRY	1
+clutched	WORRY	1
+concern	WORRY	2
+worldly concern	WORRY	1
+earthly concern	WORRY	1
+world	WORRY	1
+earth	WORRY	1
+matter	WORRY	1
+affair	WORRY	1
+thing	WORRY	1
+personal business	WORRY	1
+personal matters	WORRY	1
+affairs	WORRY	1
+part	WORRY	1
+point of honor	WORRY	1
+least	WORRY	1
+dirty linen	WORRY	1
+dirty laundry	WORRY	1
+care	WORRY	2
+fear	WORRY	4
+solicitude	WORRY	1
+solicitousness	WORRY	1
+softheartedness	WORRY	1
+tenderness	WORRY	3
+worry	WORRY	4
+headache	WORRY	2
+bugaboo	WORRY	1
+burden	WORRY	2
+load	WORRY	1
+encumbrance	WORRY	1
+incumbrance	WORRY	1
+onus	WORRY	1
+business	WORRY	1
+dead weight	WORRY	1
+fardel	WORRY	1
+imposition	WORRY	1
+pill	WORRY	1
+business concern	WORRY	1
+business organization	WORRY	1
+business organisation	WORRY	1
+agency	WORRY	1
+brokerage	WORRY	2
+carrier	WORRY	1
+common carrier	WORRY	1
+chain	WORRY	1
+firm	WORRY	1
+house	WORRY	1
+business firm	WORRY	1
+franchise	WORRY	1
+dealership	WORRY	1
+manufacturer	WORRY	1
+maker	WORRY	1
+manufacturing business	WORRY	1
+partnership	WORRY	1
+processor	WORRY	1
+shipbuilder	WORRY	1
+underperformer	WORRY	1
+advertising agency	WORRY	1
+ad agency	WORRY	1
+credit bureau	WORRY	1
+detective agency	WORRY	1
+employment agency	WORRY	1
+employment office	WORRY	1
+mercantile agency	WORRY	1
+commercial agency	WORRY	1
+news agency	WORRY	1
+press agency	WORRY	1
+wire service	WORRY	1
+press association	WORRY	1
+news organization	WORRY	1
+news organisation	WORRY	1
+service agency	WORRY	1
+service bureau	WORRY	1
+service firm	WORRY	1
+travel agency	WORRY	1
+transfer agent	WORRY	1
+commodity brokerage	WORRY	1
+line	WORRY	1
+apparel chain	WORRY	1
+discount chain	WORRY	1
+restaurant chain	WORRY	1
+retail chain	WORRY	1
+corporation	WORRY	1
+corp	WORRY	1
+accounting firm	WORRY	1
+consulting firm	WORRY	1
+consulting company	WORRY	1
+publisher	WORRY	1
+publishing house	WORRY	1
+publishing firm	WORRY	1
+publishing company	WORRY	1
+dealer	WORRY	1
+law firm	WORRY	1
+auction house	WORRY	1
+armorer	WORRY	1
+armourer	WORRY	1
+bottler	WORRY	1
+car manufacturer	WORRY	1
+car maker	WORRY	1
+carmaker	WORRY	1
+auto manufacturer	WORRY	1
+auto maker	WORRY	1
+automaker	WORRY	1
+computer business	WORRY	1
+copartnership	WORRY	1
+concerned	WORRY	2
+interested	WORRY	2
+implicated	WORRY	1
+depress	WORRY	4
+deject	WORRY	1
+cast down	WORRY	1
+get down	WORRY	1
+dismay	WORRY	3
+dispirit	WORRY	1
+demoralise	WORRY	1
+chill	WORRY	1
+lower	WORRY	2
+press down	WORRY	1
+despair	WORRY	4
+despond	WORRY	1
+disquiet	WORRY	1
+anxiousness	WORRY	3
+unease	WORRY	2
+uneasiness	WORRY	2
+disquiet	WORRY	1
+perturb	WORRY	2
+unhinge	WORRY	1
+cark	WORRY	1
+distract	WORRY	2
+disorder	WORRY	2
+worry	WORRY	4
+misgive	WORRY	1
+eat	WORRY	1
+eat on	WORRY	1
+nag	WORRY	2
+distracted	WORRY	2
+distrait	WORRY	1
+distraught	WORRY	4
+overwrought	WORRY	1
+distress	WORRY	3
+hurt	WORRY	3
+suffering	WORRY	4
+self-torture	WORRY	1
+self-torment	WORRY	1
+tsoris	WORRY	1
+wound	WORRY	2
+pressure	WORRY	2
+throe	WORRY	1
+distraint	WORRY	1
+distress	WORRY	3
+distressed	WORRY	3
+hard-pressed	WORRY	1
+hard put	WORRY	1
+in a bad way	WORRY	1
+dysphoric	WORRY	1
+unhappy	WORRY	3
+stressed	WORRY	2
+disquieted	WORRY	1
+disturbed	WORRY	2
+upset	WORRY	3
+disturb	WORRY	2
+upset	WORRY	3
+agitate	WORRY	2
+rouse	WORRY	1
+turn on	WORRY	1
+charge	WORRY	2
+commove	WORRY	1
+excite	WORRY	3
+charge up	WORRY	1
+jolt	WORRY	1
+hype up	WORRY	1
+psych up	WORRY	1
+pother	WORRY	1
+electrify	WORRY	1
+shake up	WORRY	1
+stir up	WORRY	1
+raise up	WORRY	1
+scramble	WORRY	1
+toss	WORRY	1
+roil	WORRY	1
+poke	WORRY	1
+whisk	WORRY	1
+whip	WORRY	2
+cream	WORRY	1
+tumble	WORRY	1
+muddle	WORRY	2
+puddle	WORRY	1
+touch	WORRY	1
+violate	WORRY	4
+interrupt	WORRY	2
+disturbed	WORRY	2
+maladjusted	WORRY	2
+brainsick	WORRY	1
+crazy	WORRY	2
+demented	WORRY	1
+mad	WORRY	2
+sick	WORRY	2
+unbalanced	WORRY	1
+unhinged	WORRY	1
+doubt	WORRY	2
+uncertainty	WORRY	1
+incertitude	WORRY	1
+dubiety	WORRY	1
+doubtfulness	WORRY	2
+dubiousness	WORRY	2
+mental reservation	WORRY	1
+reservation	WORRY	1
+arriere pensee	WORRY	1
+mistrust	WORRY	2
+distrust	WORRY	2
+suspicion	WORRY	2
+incredulity	WORRY	1
+disbelief	WORRY	2
+skepticism	WORRY	2
+mental rejection	WORRY	1
+indecision	WORRY	2
+indecisiveness	WORRY	2
+irresolution	WORRY	1
+peradventure	WORRY	1
+hesitation	WORRY	1
+vacillation	WORRY	1
+wavering	WORRY	1
+question	WORRY	1
+dun	WORRY	1
+fear	WORRY	4
+fearfulness	WORRY	3
+fright	WORRY	4
+alarm	WORRY	3
+dismay	WORRY	3
+consternation	WORRY	2
+creeps	WORRY	1
+frisson	WORRY	1
+shiver	WORRY	2
+quiver	WORRY	1
+shudder	WORRY	1
+thrill	WORRY	4
+tingle	WORRY	1
+horror	WORRY	4
+hysteria	WORRY	2
+panic	WORRY	3
+terror	WORRY	2
+affright	WORRY	1
+scare	WORRY	4
+panic attack	WORRY	1
+stage fright	WORRY	1
+timidity	WORRY	2
+timidness	WORRY	2
+timorousness	WORRY	1
+intimidation	WORRY	4
+swivet	WORRY	1
+cold feet	WORRY	1
+shyness	WORRY	3
+diffidence	WORRY	1
+self-doubt	WORRY	1
+self-distrust	WORRY	1
+reverence	WORRY	1
+awe	WORRY	1
+veneration	WORRY	1
+fearful	WORRY	3
+awful	WORRY	4
+dire	WORRY	2
+direful	WORRY	1
+dread	WORRY	4
+dreaded	WORRY	4
+dreadful	WORRY	4
+fearsome	WORRY	2
+frightening	WORRY	4
+horrendous	WORRY	4
+horrific	WORRY	4
+terrible	WORRY	4
+cowardly	WORRY	2
+frightful	WORRY	4
+timorous	WORRY	1
+trepid	WORRY	1
+fret	WORRY	3
+fuss	WORRY	2
+niggle	WORRY	1
+scruple	WORRY	1
+dither	WORRY	1
+flap	WORRY	1
+honeycomb	WORRY	1
+choke	WORRY	4
+gag	WORRY	1
+erode	WORRY	2
+eat away	WORRY	1
+wash	WORRY	1
+frightened	WORRY	4
+scared	WORRY	4
+panicky	WORRY	3
+panicked	WORRY	3
+panic-stricken	WORRY	1
+panic-struck	WORRY	1
+terrified	WORRY	4
+goad	WORRY	1
+spur	WORRY	1
+prick	WORRY	3
+harass	WORRY	3
+hassle	WORRY	2
+hector	WORRY	1
+strong-arm	WORRY	1
+bully	WORRY	1
+browbeat	WORRY	1
+bullyrag	WORRY	1
+ballyrag	WORRY	1
+boss around	WORRY	1
+push around	WORRY	1
+tyrannize	WORRY	1
+tyrannise	WORRY	1
+domineer	WORRY	1
+importune	WORRY	1
+insist	WORRY	1
+irritate	WORRY	3
+itch	WORRY	1
+pinch	WORRY	2
+vellicate	WORRY	1
+misery	WORRY	3
+wretchedness	WORRY	3
+miserableness	WORRY	3
+concentration camp	WORRY	1
+living death	WORRY	1
+woe	WORRY	3
+misgiving	WORRY	1
+scruple	WORRY	1
+qualm	WORRY	2
+nervous	WORRY	3
+anxious	WORRY	3
+queasy	WORRY	1
+uneasy	WORRY	2
+unquiet	WORRY	1
+neural	WORRY	1
+aflutter	WORRY	1
+skittish	WORRY	1
+flighty	WORRY	1
+spooky	WORRY	1
+oppress	WORRY	3
+suppress	WORRY	2
+crush	WORRY	2
+repress	WORRY	2
+quash	WORRY	1
+keep down	WORRY	1
+subdue	WORRY	1
+subjugate	WORRY	2
+reduce	WORRY	1
+persecute	WORRY	3
+perturb	WORRY	2
+derange	WORRY	1
+throw out of kilter	WORRY	1
+perturbed	WORRY	2
+flustered	WORRY	1
+hot and bothered	WORRY	1
+rattled	WORRY	1
+pester	WORRY	1
+plague	WORRY	2
+problem	WORRY	2
+job	WORRY	1
+race problem	WORRY	1
+balance-of-payments problem	WORRY	1
+puzzle	WORRY	1
+puzzler	WORRY	1
+mystifier	WORRY	1
+teaser	WORRY	2
+case	WORRY	1
+homework problem	WORRY	1
+riddle	WORRY	1
+conundrum	WORRY	1
+enigma	WORRY	1
+brain-teaser	WORRY	1
+poser	WORRY	1
+stumper	WORRY	1
+toughie	WORRY	2
+sticker	WORRY	1
+Gordian knot	WORRY	1
+koan	WORRY	1
+pons asinorum	WORRY	1
+rebus	WORRY	1
+sudoku	WORRY	1
+word square	WORRY	1
+acrostic	WORRY	1
+trouble	WORRY	2
+pressure point	WORRY	1
+can of worms	WORRY	1
+deep water	WORRY	1
+growing pains	WORRY	1
+hydra	WORRY	1
+stew	WORRY	1
+grudge	WORRY	2
+jug	WORRY	1
+tense	WORRY	3
+tormented	WORRY	1
+anguished	WORRY	4
+tortured	WORRY	4
+hag-ridden	WORRY	1
+hagridden	WORRY	1
+trouble	WORRY	2
+uncertainty	WORRY	1
+uncertainness	WORRY	1
+precariousness	WORRY	2
+indefiniteness	WORRY	1
+indeterminateness	WORRY	2
+indefinity	WORRY	1
+indetermination	WORRY	2
+indeterminacy	WORRY	2
+unpredictability	WORRY	1
+improbability	WORRY	1
+improbableness	WORRY	1
+fortuitousness	WORRY	1
+speculativeness	WORRY	1
+inconclusiveness	WORRY	1
+unlikelihood	WORRY	1
+unlikeliness	WORRY	1
+uneasiness	WORRY	2
+edginess	WORRY	1
+inquietude	WORRY	1
+disquietude	WORRY	1
+willies	WORRY	1
+malaise	WORRY	1
+self-consciousness	WORRY	1
+uncomfortableness	WORRY	3
+queasiness	WORRY	1
+jactitation	WORRY	1
+jactation	WORRY	1
+unsettle	WORRY	1
+faze	WORRY	1
+unnerve	WORRY	2
+enervate	WORRY	1
+unman	WORRY	1
+upset	WORRY	3
+discompose	WORRY	1
+untune	WORRY	1
+disconcert	WORRY	1
+discomfit	WORRY	1
+dissolve	WORRY	1
+inhibit	WORRY	2
+bemuse	WORRY	1
+embarrass	WORRY	3
+abash	WORRY	1
+anguish	WORRY	4
+hurt	WORRY	3
+flurry	WORRY	1
+put off	WORRY	1
+break someone's heart	WORRY	1
+torture	WORRY	4
+excruciate	WORRY	5
+overturn	WORRY	2
+tip over	WORRY	1
+turn over	WORRY	1
+knock over	WORRY	1
+bowl over	WORRY	1
+tump over	WORRY	1
+swage	WORRY	1
+upset	WORRY	3
+broken	WORRY	2
+confused	WORRY	2
+disordered	WORRY	2
+overturned	WORRY	2
+upturned	WORRY	1
+vex	WORRY	3
+defy	WORRY	2
+resist	WORRY	1
+refuse	WORRY	2
+woe	WORRY	3
+woefulness	WORRY	3
+worried	WORRY	4
+worry	WORRY	4
+worry	WORRY	4
+fear	WORRY	4
+obsess	WORRY	3
+care	WORRY	2
+concern	WORRY	2
+interest	WORRY	2
+occupy	WORRY	1
+worrying	WORRY	4
+distressing	WORRY	3
+distressful	WORRY	3
+disturbing	WORRY	2
+perturbing	WORRY	2
+troubling	WORRY	2
+worrisome	WORRY	4

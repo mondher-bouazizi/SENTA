@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.EndWindow">
+	<children>
+	
+		<!-- ########################################## -->
+		<!--                 Introduction               -->
+		<!-- ########################################## -->
+	
+		<Label layoutX="50.0" layoutY="40.0" prefHeight="60.0" prefWidth="700.0" text="Your oroject has finished executing successfully. Here you can find some inforation regarding your project. To go back to the main window where you can select to open a project, or start a new one, please ckick on &quot;Go to main menu&quot;. To go back and change the parameters of the current project, click on &quot;Back&quot;. To finish, click on &quot;Exit&quot;." textAlignment="JUSTIFY" wrapText="true" />
+	
+		<Separator layoutX="50.0" layoutY="110.0" prefHeight="3.0" prefWidth="700.0" />
+		
+		
+		<!-- ########################################## -->
+		<!--               Project details              -->
+		<!-- ########################################## -->
+	
+		<Label layoutX="350.0" layoutY="127.0" text="Project details" textFill="#4c00ff">
+			<font>
+				<Font name="System Bold" size="15.0" />
+			</font>
+		</Label>
+		
+		<!-- Project directory -->
+		<Label layoutX="39.0" layoutY="169.0" text="Project file">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label fx:id="projectLocation" layoutX="165.0" layoutY="169.0" prefHeight="17.0" prefWidth="420.0" text="C:\Users\admin\Desktop\Projects\Project X\Project X-Config.senta" />
+		
+		<Button fx:id="openInSystemExplorer" layoutX="600.0" layoutY="165.0" mnemonicParsing="false" onAction="#handleOpenInSystemExplorer" prefHeight="25.0" prefWidth="150.0" text="Open in system Explorer" />
+		
+		<!-- project type -->
+		<Label layoutX="39.0" layoutY="194.0" text="Project type">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label fx:id="projectType" layoutX="165.0" layoutY="194.0" prefHeight="17.0" prefWidth="419.0" text="Training set + Test set" />
+		
+		<!-- Classes -->
+		<Label layoutX="39.0" layoutY="219.0" text="Classes">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label fx:id="classes" alignment="TOP_LEFT" layoutX="165.0" layoutY="219.0" prefHeight="60.0" prefWidth="470.0" text="[POSITIVE, NEGATIVE, NEUTRAL]" textAlignment="JUSTIFY" wrapText="true" />
+		
+		<Separator layoutX="200.0" layoutY="282.0" prefHeight="3.0" prefWidth="400.0" />
+		
+		<!-- Training set -->
+		<Label layoutX="39.0" layoutY="294.0" text="Training set">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label fx:id="trainingSetLocation" layoutX="165.0" layoutY="294.0" prefHeight="17.0" prefWidth="419.0" text="C:\Users\admin\Desktop\Training.txt" />
+		
+		<Label fx:id="trainingSetSize" layoutX="165.0" layoutY="319.0" text="12000" />
+		<Label layoutX="215.0" layoutY="319.0" text="Tweets" />
+		
+		<!-- Test set -->
+		<Label layoutX="39.0" layoutY="354.0" text="Test set">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label fx:id="testSetLocation" layoutX="166.0" layoutY="354.0" prefHeight="17.0" prefWidth="419.0" text="C:\Users\admin\Desktop\Test.txt" />
+
+		<Label fx:id="testSetSize" layoutX="165.0" layoutY="379.0" text="12000" />
+		<Label layoutX="215.0" layoutY="379.0" text="Tweets" />
+		
+		
+		<Separator layoutX="200.0" layoutY="416.0" prefHeight="3.0" prefWidth="400.0" />
+		
+		
+		<!-- ########################################## -->
+		<!--                 Extra files                -->
+		<!-- ########################################## -->
+		
+		
+		<Label layoutX="39.0" layoutY="430.0" text="Extra files extracted">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="165.0" layoutY="430.0" text="Features in CSV format:" />
+		<Label fx:id="isSaveCsv" layoutX="298.0" layoutY="430.0" text="TRUE" />
+		
+		<Label layoutX="377.0" layoutY="430.0" text="Features in TXT format:" />
+		<Label fx:id="isSaveTxt" layoutX="508.0" layoutY="430.0" text="TRUE" />
+		
+		<Label layoutX="583.0" layoutY="430.0" text="Features in ARFF format:" />
+		<Label fx:id="isSaveArff" layoutX="721.0" layoutY="430.0" text="TRUE" />
+		
+		<Label layoutX="164.0" layoutY="457.0" text="Top Words: " />
+		<Label fx:id="isSaveTopWords" layoutX="298.0" layoutY="457.0" text="TRUE" />
+		
+		<Label layoutX="376.0" layoutY="457.0" text="Basic Patterns:" />
+		<Label fx:id="isSaveBasicPatterns" layoutX="508.0" layoutY="457.0" text="TRUE" />
+		
+		<Label layoutX="582.0" layoutY="457.0" text="Advanced Patterns:" />
+		<Label fx:id="isSaveAdvancedPatterns" layoutX="721.0" layoutY="457.0" text="TRUE" />
+		
+		
+		<!-- ########################################## -->
+		<!--                  Buttons                   -->
+		<!-- ########################################## -->
+		
+		<Separator layoutX="50.0" layoutY="486.0" prefHeight="3.0" prefWidth="700.0" />
+		
+		<Button fx:id="goToClassification" layoutX="326.0" layoutY="506.0" mnemonicParsing="false" onAction="#handleGoToClassification" prefHeight="25.0" prefWidth="150.0" text="Proceed to classification" />
+		<Button fx:id="goToMainMenu" layoutX="631.0" layoutY="506.0" mnemonicParsing="false" onAction="#handleGoToMainMenu" prefHeight="25.0" prefWidth="120.0" text="Go to main menu" />
+	
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+	
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="exitButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleExitButton" prefHeight="25.0" prefWidth="65.0" text="Exit" />
+		
+	</children>
+</AnchorPane>

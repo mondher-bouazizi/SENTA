@@ -1,0 +1,5472 @@
+*4u	Kiss for you	1
+*67	unknown	-1
+*eg*	evil grin	0
+7734	hello	1
+0day	software illegally obtained before it was released	1
+0noe	Oh No	-1
+0vr	over	0
+10q	thank you	1
+10tacle	Tentacle	0
+10x	thanks	1
+12b	wannabe	0
+1337	elite	1
+133t	elite	1
+13itch	bitch	-1
+143	I love you	1
+187	murder	0
+1ab	wannabe	0
+1daful	wonderful	1
+1dering	wondering	1
+1nce	once	0
+1sec	one second	0
+2	too	0
+2b	to be	0
+2b4u	too bad for you	-1
+2bad4u2	too bad for you too	-1
+2bh	to be honest	-1
+2da	to the	0
+2dae	today	0
+2day	today	0
+2ditd	today is the day	1
+2ez	too easy	-1
+2g2b4g	To good to be forgotten	1
+2g2bt	too good to be true	-1
+2ge4	Together	0
+2getha	together	0
+2gether	together	0
+2gethr	together	0
+2getr	Together	0
+2h2h	too hot to handle	0
+2h4u	too hot for you	-1
+2k0	2000	0
+2k1	2001	0
+2k4	2004	0
+2k6	2006	0
+2k7	2007	0
+2k8	2008	0
+2k9	2009	0
+2l8	too late	-1
+2m	tomorrow	0
+2m4u	too much for you	-1
+2ma	Tomorrow	0
+2maro	tomorrow	0
+2mmrw	tomorrow	0
+2mo	tomorrow	0
+2mora	tomorrow	0
+2moro	tomorrow	0
+2morow	tomorrow	0
+2morro	tomorrow	0
+2morrow	tomorrow	0
+2moz	tomorrow	0
+2mozz	tomorrow	0
+2mro	tomorrow	0
+2mrw	tomorrow	0
+2mw	tomorrow	0
+2mz	tomorrow	0
+2night	tonight	0
+2nite	tonight	0
+2nyt	tonight	0
+2o4s	too old for sex	-1
+2qt	too cute	1
+2sday	tuesday	0
+2tali	totally	0
+2tm	to the max	0
+2trd	too tired	-1
+2u2	To you too	0
+301ing	referring traffic to another site	0
+304	whore	-1
+31337	elite	1
+313373	elite	1
+31ee7	elite	1
+3arc	Treyarch	0
+3q	thank you	1
+3u	thank you	1
+3vi1	evil	-1
+3y3 y4m	I am	0
+4	for	0
+404	Clueless	-1
+42n8	fortunate	1
+4311	hell	-1
+4col	For crying out loud	-1
+4e&e	forever and ever	0
+4eva	forever	0
+4ever	forever	0
+4evr	for ever	0
+4evs	forever	0
+4fs	for fuck's sake	-1
+4g8	forget	-1
+4gai	forget about it	-1
+4geit	forget it	-1
+4get	forget	-1
+4getu	forget you	-1
+4give	forgive	1
+4got	forgot	-1
+4gv	forgive	1
+4head	forehead	0
+4hoa	four horsemen of the apocalypse	0
+4ker	fucker	-1
+4king	fucking	-1
+4lyf3	for life	0
+4lyfe	for life	0
+4m	form	0
+4n	Phone	0
+4q	fuck you	-1
+4r3al	for real	0
+4rm	from	0
+4sho	for sure	0
+4tlog	for the love of god	-1
+4tw	for the win	1
+4u	for you	0
+4umb	For You Maybe	0
+4us	for us	0
+4ward	forward	0
+4wd	forward	0
+4yeo	For Your Eyes Only	1
+5-oh	cop	0
+53x	sex	0
+5h17	shit	-1
+5n	fine	1
+5o	police	0
+6flx	X-Rated movie (sex flick)	0
+6up	cops in area	0
+6y	sexy	1
+7734	hell	-1
+7uck	fuck	-1
+8008	boob	0
+8008135	boobies	0
+80085	Boobs	0
+81tc#	bitch	-1
+9009l3	Google	0
+911sc	emergency let's stop chatting	-1
+9t	night	0
+<3	love	1
+?u@	Where are you?	0
+?up	what's up?	0
+?^	what's up?	0
+@	at	0
+@$$	ass	-1
+@$$ #013	ass hole	-1
+@$$hole	asshole	-1
+@h	asshole	-1
+^5	high five	1
+a$$	ass	-1
+a&f	always and forever	1
+a'ight	alright	1
+a.i.m.	aol instant messanger	0
+a/l	age and location	0
+a/m	away message	0
+a/s/l	age,sex,location	0
+a/s/l/p	age/sex/location/picture	0
+a/s/l/r	age, sex, location, race	0
+a1t	anyone there	1
+a3	anyplace, anywhere, anytime	0
+aaaaa	American Assosciation Against Acronym Abuse	0
+aabf	as a best friend	1
+aaf	as a friend	1
+aak	Alive and Kicking	0
+aamof	as a matter of fact	0
+aatf	always and totally forever	0
+aatw	all around the world	0
+abd	Already Been Done	1
+abend	absent by enforced net deprivation	0
+abft	About f**king Time	-1
+aboot	about	0
+abreev	abbreviation	0
+absnt	absent	0
+abt	about	0
+abwt	about	0
+acc	account	0
+acct	account	0
+acgaf	Absolutely couldn't give a f**k	-1
+ack	acknowledged	0
+addy	address	0
+adhd	Attention Deficit Hyperactivity Disorder	0
+adl	all day long	0
+admin	administrator	0
+adn	any day now	0
+aeap	as early as possible	0
+af	assface	-1
+afaiaa	As Far As I Am Aware	0
+afaic	as far as I'm concerned	0
+afaicr	As Far As I Can Remember	0
+afaics	as far as I can see	0
+afaict	as far as I can tell	0
+afaik	as far as I know	0
+afair	as far as I recall	0
+afaiu	As far as I understand	0
+afc	away from computer	0
+afcpmgo	away from computer parents may go on	0
+afg	away from game	0
+afk	away from keyboard	0
+afkb	away from keyboard	0
+agn	again	0
+ah	ass hole	-1
+ahole	asshole	-1
+ai	Artificial Intelligence	0
+aiadw	ALL IN A DAYS WORK	0
+aiamu	and I'm a monkey's uncle	0
+aicmfp	and I claim my five pounds	0
+aight	Alright	0
+aightz	alright	0
+aiic	as if I care	-1
+aiid	and if I did	0
+aiight	all right	0
+aim	AOL instant messanger	0
+ain't	are not	0
+aint	are not	0
+aite	Alright	0
+aitr	Adult in the room	0
+aiui	as I understand it	0
+aiws	as i was saying	0
+ajax	Asynchronous Javascript and XML	0
+aka	also known as	0
+akp	Alexander King Project	0
+akpcep	Alexander King Project Cultural Engineering Project	0
+alaytm	as long as you tell me	0
+alol	actually laughing out loud	2
+alot	a lot	0
+alotbsol	always look on the bright side of life	1
+alrite	alright	1
+alrt	alright	1
+alryt	alright	1
+ama	ask me anything	0
+amf	adios motherfucker	-1
+amiic	ask me if i care	-1
+amiigaf	ask me if i give a fuck	-1
+aml	All My Love	1
+amsp	ask me something personal	0
+anim8	animate	0
+anl	all night long	0
+anlsx	Anal Sex	0
+anon	anonymous	0
+anuda	another	0
+anw	anyways	0
+anwwi	alright now where was i	0
+any1	Anyone	0
+anywaz	anyways	0
+aob	any other business	0
+aoc	age of consent	0
+aoe	Age Of Empires	0
+aon	all or nothing	0
+aos	adult over shoulder	0
+aota	all of the above	-1
+aoto	Amen on that one	1
+aoys	angel on your shoulder	1
+api	application program interface	0
+apoc	apocalypse	0
+apod	Another Point Of Discussion	0
+app	application	0
+appt	appointment	0
+aprece8	appreciate	1
+apreci8	appreciate	1
+apu	as per usual	0
+aqap	as quick as possible	0
+ar	are	0
+arent	are not	0
+arnd	around	0
+arse	ass	-1
+arsed	bothered	-1
+arvo	afternoon	0
+asafp	as soon as f**king possible	-1
+asaik	as soon as I know	1
+asap	as soon as possible	1
+asarbambtaa	All submissions are reviewed by a moderator before they are added.	0
+asbmaetp	Acronyms should be memorable and easy to pronounce	0
+ase	age, sex, ethnicity	0
+ashl	asshole	-1
+ashole	asshole	-1
+asic	application specific integrated circuit	0
+asl	age, sex, location	0
+aslo	age sex location orientation	0
+aslop	Age Sex Location Orientation Picture	0
+aslp	age, sex, location, picture	0
+aslr	age sex location race	0
+aslrp	age, sex, location, race, picture	0
+asr	age sex race	0
+asshle	asshole	-1
+atb	all the best	0
+atfp	answer the f**king phone	-1
+atl	atlanta	0
+atm	at the moment	0
+ato	against the odds	0
+atop	at time of posting	0
+atp	answer the phone	0
+atq	answer the question	0
+atst	At the same time	0
+attn	attention	0
+attotp	At The Time Of This Post	0
+atw	All the way	0
+aty	according to you	0
+audy	Are you done yet?	0
+aufm	are you f**king mental	-1
+aufsm	are you f**king shiting me	-1
+aup	acceptable use policy	0
+av7x	avenged sevenfold	0
+avgn	Angry Video Game Nerd	0
+avie	Avatar	0
+avsb	a very special boy	1
+avtr	avatar	0
+avvie	avatar	0
+avy	avatar	0
+awes	awesome	1
+awk	awkward	-1
+awol	absent without leave	0
+awsic	and why should i care	0
+awsm	awesome	1
+awsome	awesome	1
+ayagob	are you a girl or boy	0
+ayb	All Your Base	1
+aybab2m	all your base are belong to me	1
+aybab2u	All your base are belong to us	1
+aybabtg	All Your Base Are Belong To Google	-1
+aybabtu	all your base are belong to us	1
+ayc	awaiting your comments	0
+ayd	are you done	0
+aydy	are you done yet	0
+ayec	at your earliest convenience	0
+ayfk	are you f**king kidding	-1
+ayfkm	are you f**king kidding me	-1
+ayfr	are you for real	0
+ayfs	Are You f**king Serious	-1
+ayk	are you kidding	-1
+aykm	are you kidding me	-1
+ayl	are you listening	-1
+aymf	are you my friend	0
+ayok	are you okay	0
+aypi	And Your Point Is	0
+aypi	and your point is	0
+ays	are you serious	0
+aysm	are you shitting me?	-1
+ayst	are you still there	0
+ayt	are you there	0
+ayte	alright	0
+aytf	are you there f**ker	-1
+ayty	are you there yet	0
+ayw	as you wish	0
+azhol	a**h**e	-1
+azn	asian	0
+azz	a**	-1
+bi	bye	0
+b&	banned	-1
+b'day	birthday	0
+b-cuz	because	0
+b-day	birthday	0
+b.f.f.	best friend forever	1
+b.s.	bulls**t	-1
+b/c	because	0
+b/cos	because	0
+b/g	background	0
+b/s/l	Bisexual/Straight/Lesbian	0
+b/t	between	0
+b/w	between	0
+b00n	new person	0
+b00t	boot	0
+b0rked	broken	0
+b1tch	bitch	-1
+b2b	business to business	0
+b2u	back to you	0
+b2w	Back to work	0
+b3	be	0
+b4	before	0
+b4n	bye for now	0
+b4u	before you	0
+b8	bait	0
+b82rez	Batteries	0
+b8rez	Batteries	0
+b@	banned	-1
+bab	Big a** Boobs	0
+babi	baby	1
+baf	bring a friend	0
+baggkyko	be a good girl, keep your knickers on	0
+bah	I don't really care	0
+bai	Bye	1
+bak	back	0
+bakk	back	0
+balz	balls	0
+bamf	bad a** mother f**ker	-1
+bamofo	b***h a** mother f**ker	-1
+bau	back at you	0
+bb	bye bye	0
+bb4h	bros before hoes	0
+bb4n	Bye-bye for now	0
+bbbj	Bare Back Blow Job	0
+bbe	baby	1
+bbf	best boyfriend	1
+bbfn	Bye Bye for now	0
+bbfs	best boyfriends	1
+bbfu	be back for you	0
+bbg	baby girl	1
+bbi	Baby	1
+bbiab	be back in a bit	0
+bbiaf	be back in a few	0
+bbialb	Be back in a little bit	0
+bbiam	be back in a minute	0
+bbias	be back in a second	0
+bbiaw	be back in a while	0
+bbifs	be back in a few seconds	0
+bbilb	be back in a little bit	0
+bbilfm	be back in like five minutes	0
+bbim	Be Back In Minute	0
+bbk	be back, ok?	0
+bbl	be back later	0
+bbl8a	Be Back Later	0
+bblig	Be back later...i guess	0
+bbm	BlackBerry Messenger	0
+bbml	be back much later	0
+bbn	be back never	0
+bbol	be back online later	0
+bbp	Banned by parents	0
+bbq	be back quick	0
+bbrs	be back really soon	0
+bbs	be back soon	0
+bbsts	be back some time soon	0
+bbt	be back tomorrow	0
+bbtn	be back tonight	0
+bbvl	Be Back Very Later	0
+bbw	be back whenever	0
+bbwb	best buddy with boobs	1
+bbwe	be back whenever	0
+bbwl	be back way later	0
+bby	baby	1
+bbz	babes	1
+bc	because	0
+bch	bitch	-1
+bck	back	0
+bcnu	be seeing you	0
+bcnul8r	be seeing you later	0
+bcoz	Because	0
+bcurl8	Because you're late.	0
+bcuz	because	0
+bd	birthday	0
+bday	birthday	0
+bdfl	Benevolent Dictator For Life	0
+be4	before	0
+beatch	bitch	-1
+bebe	baby	1
+becuse	because	0
+becuz	because	0
+beech	bitch	-1
+beeoch	bitch	-1
+beezy	bitch	-1
+beotch	bitch	-1
+besos	kisses	1
+bestie	best friend	1
+betch	bitch	-1
+betcha	bet you	0
+bettr	better	1
+bewb	boob	0
+bewbs	boobs	0
+bewbz	boobs	0
+bewt	boot	0
+beyatch	b***h	-1
+beyotch	b***h	-1
+bezzie	best friend	1
+bf	boyfriend	0
+bf's	boyfriend's	0
+bf+gf	boyfriend and girlfriend	0
+bf4e	best friends for ever	1
+bf4eva	Best Friends forever	1
+bf4l	best friends for life	1
+bfam	brother from another mother	0
+bfd	big fucking deal	0
+bfe	Bum fuck Egypt	0
+bff	best friend forever	1
+bffa	best friends for always	1
+bffaa	Best Friends Forever And Always	1
+bffae	Best Friends Forever And Ever	1
+bffaw	best friends for a while	1
+bffe	Best friends forever	1
+bffeae	Best Friend For Ever And Ever	1
+bffene	Best Friends For Ever And Ever	1
+bffl	best friends for life	1
+bffn	best friends for now	1
+bfftddup	best friends forever till death do us part	1
+bfg	big f**king gun	0
+bfh	bitch from hell	-1
+bfhd	big fat hairy deal	0
+bfitww	best friend in the whole world	1
+bfn	bye for now	0
+bfs	Boyfriends	0
+bft	big fucking tits	0
+bg	background	0
+bh	bloody hell	0
+bhwu	back home with you	0
+biab	back in a bit	0
+biach	bitch	-1
+biaf	Back In A Few	0
+biatch	bitch	-1
+bibi	bye bye	0
+bibifn	bye bye for now	0
+bicbw	but I could be wrong	0
+bich	bitch	-1
+bigd	big deal	1
+bii	bye	0
+bilf	brother i'd like to fuck	1
+bilu	baby i love you	1
+bion	Believe it or not.	0
+biotch	bitch	-1
+bioya	blow it out your ass	0
+bish	bitch	-1
+bitd	back in the day	0
+biw	boss is watching	0
+biwm	bisexual white male	0
+biz	Business	0
+bizatch	bitch	-1
+bizi	Busy	0
+biznatch	bitch	-1
+biznitch	bitch	-1
+bizzle	bitch	-1
+bj	blowjob	0
+bk	back	0
+bka	better known as	0
+bl	bad luck	-1
+bleme	blog meme	0
+bleve	believe	0
+blg	blog	0
+blh	bored like hell	-1
+bling-bling	jewelry	0
+blj	blowjob	0
+bljb	blowjob	0
+blk	black	0
+blkm	Black Male	0
+blnt	Better Luck Next time	0
+blog	web log	0
+blogger	web logger	0
+blu	blue	0
+bm	Bite Me	0
+bm&y	between you and me	0
+bm4l	best mates for life	1
+bma	best mates always	1
+bmay	between me and you	0
+bmf	be my friend	1
+bmfe	best mates forever	1
+bmfl	best mates for life	1
+bmha	bite my hairy ass	0
+bml	bless my life	0
+bmoc	Big Man On Campus	0
+bmttveot	best mates till the very end of time	1
+bmvp	be my valentine please	0
+bn	been	0
+bndm3ovr	Bend me over	0
+bng	being	0
+bnib	Brand new in Box	0
+bnol	be nice or leave	0
+bnr	banner	0
+bo	body odour	0
+boati	Bend Over And Take It	0
+bobfoc	Body of Baywatch, Face of Crimewatch	0
+bobw	Best of Both Worlds	0
+boffum	Both of them	0
+bofh	bastard operator from hell	-1
+bogo	buy one get one	0
+bogof	buy one get one free	0
+bogsatt	bunch of guys sitting around the table	0
+bohic	Bend over here it comes	0
+bohica	bend over, here it comes again	0
+boi	boy	0
+bol	Barking Out Loud	0
+bonr	boner	0
+boomm	bored out of my mind	0
+bord	bored	-1
+bos	boss over shoulder	0
+botoh	but on the other hand	0
+bout	about	0
+bovered	bothered	0
+bowt	about	0
+boxor	box	0
+bpot	big pair of tits	0
+br	bathroom	0
+brb	be right back	0
+brbbrb	be right back bathroom break	0
+brbf	Be Right Back f**ker	0
+brbg2p	be right back, got to pee	0
+brbigtp	be right back, i got to pee.	0
+brbl	be right back later	0
+brbmf	be right back mother f**ker	0
+brbn2gbr	Be right back, I need to go to the bathroom	0
+brbs	be right back soon	0
+brbts	be right back taking s**t	0
+brd	bored	-1
+brfb	be right f**king back	0
+brgds	best regards	0
+brh	be right here	0
+bro	brother	0
+bros	brothers	0
+broseph	brother	0
+brover	brother	0
+brt	be right there	0
+bruh	brother	0
+bruhh	Brother	0
+bruv	brother	0
+bruva	brother	0
+bruz	brothers	0
+bs	bulls**t	-1
+bsmfh	b*****d System Manager From Hell	-1
+bsod	blue screen of death	-1
+bsomn	blowing stuff out my nose	0
+bstfu	b***h shut the f**k up	-1
+bstrd	b*****d	-1
+bsx	bisexual	0
+bsxc	be sexy	0
+bt	bit torrent	0
+btb	by the by	0
+btch	bitch	-1
+btcn	Better than Chuck Norris	0
+btd	bored to death	0
+btdt	been there done that	0
+btdtgtts	Been there, done that, got the T-shirt	0
+btfl	beautiful	0
+btfo	back the f**k off	0
+btfw	by the f**king way	0
+btias	Be there in a second	0
+btm	bottom	0
+btr	better	1
+bts	be there soon	0
+btsoom	Beats The s**t Out Of Me	0
+bttt	been there, tried that	0
+bttyl	be talking to you later	0
+btw	by the way	0
+btwilu	by the way i love you	1
+btwitiailwu	by the way i think i am in love with you	1
+btwn	between	0
+bty	back to you	0
+bubar	bushed up beyond all recognition	0
+bubi	bye	0
+budzecks	butt sex	0
+buhbi	Bye Bye	0
+bukket	bucket	0
+bur	p***y	0
+burma	be undressed ready my angel	0
+buszay	busy	0
+but6	buttsex	0
+butsecks	butt sex	0
+butterface	every thing is hot but her face	0
+buwu	breaking up with you	-1
+bw3	Buffalo Wild Wings	0
+bwim	by which i mean	0
+bwoc	Big Woman On Campus	0
+bwpwap	back when Pluto was a planet	0
+bwt	but when though	0
+byak	blowing you a kiss	0
+byeas	good-bye	0
+byes	bye bye	0
+bykt	But you knew that	0
+byob	Bring your own Beer	0
+byoc	bring our own computer	0
+byself	by myself	0
+bytabm	beat you to a bloody mess	0
+bytch	bitch	-1
+bz	busy	0
+bzns	buisness	0
+bzy	busy	0
+bzzy	busy	0
+c	see	0
+c 2 c	cam to cam	0
+c&c	Command and Conquer	0
+c'mon	Come On	0
+c-p	sleepy	0
+c.y.a	cover your a**	0
+c/b	comment back	0
+c/t	can't talk	0
+c14n	canonicalization	0
+c2	come to	0
+c2c	care to chat?	0
+c2tc	cut to the chase	0
+c4ashg	care for a shag	0
+c@	cat	0
+cam	camera	0
+cancer stick	cigarette	0
+cant	can not	0
+catwot	complete and total waste of time	0
+cawk	c**k	0
+cayc	call at your convenience	0
+cb	come back	0
+cba	can't be arsed	0
+cbb	can't be bothered	0
+cbf	cant be f**ked	0
+cbfa	can't be f**king arsed	0
+cbfed	can't be f**ked	0
+cbi	can't believe it	-1
+ccl	Couldn't Care Less	-1
+ccna	Cisco Certified Network Associate	0
+cd9	Code 9 (other people nearby)	0
+celly	cell phone	0
+cex	sex	0
+cexy	sexy	1
+cfas	care for a secret?	0
+cfid	check for identification	0
+cfm	come f**k me	0
+cg	Congratulations	1
+cgad	couldn't give a d**n	-1
+cgaf	couldn't give a f**k	-1
+cgf	cute guy friend	0
+ch@	chat	0
+champs	champions	1
+char	character	0
+cheezburger	cheeseburger	0
+chik	chick	0
+chilax	chill and relax in one word	1
+chillax	chill and relax	1
+chillin	relaxing	1
+chk	check	0
+chohw	Come Hell or high water	0
+chr	character	0
+chswm	come have sex with me	0
+chswmrn	come have sex with me right now	0
+chu	you	0
+chut	p***y	0
+cid	consider it done	0
+cig	cigarette	0
+cigs	cigarettes	0
+cihswu	can i have sex with you	0
+cihyn	can i have your number	0
+cilf	child i'd like to f**k	1
+cing	seeing	0
+cis	computer information science	0
+ciwwaf	cute is what we aim for	0
+cless	clanless	0
+clm	Cool Like Me	1
+clt	Cool Like That	1
+cluebie	clueless newbie	0
+cm	call me	0
+cma	Cover My ass	0
+cmao	Crying My ass Off	-1
+cmar	cry me a river	0
+cmb	comment me back	0
+cmbo	combo	0
+cmcp	call my cell phone	0
+cmeo	crying my eyes out	0
+cmh	Call My House	0
+cmiiw	correct me if I'm wrong	0
+cmitm	Call me in the morning	0
+cml	call me later	0
+cml8r	call me later	0
+cmliuw2	call me later if you want to	0
+cmomc	call me on my cell	0
+cmon	Come on	0
+cmplcdd	complicated	0
+cmplte	complete	0
+cmptr	computer	0
+cms	content management system	0
+cmt	comment	0
+cmw	cutting my wrists	0
+cn	can	0
+cnc	Command and Conquer	0
+cnt	can't	0
+cob	close of business	0
+cod	Call of Duty	0
+cod4	call of duty 4	0
+cod5	call of duty 5	0
+code 29	moderator is watching	0
+code 8	parents are watching	0
+code 9	Parents are watching	0
+code9	other people near by	0
+cof	Crying on the floor	0
+coiwta	come on i wont tell anyone	0
+col	crying out loud	0
+comfy	comfortable	1
+comin'	coming	0
+comnt	comment	0
+comp	Computer	0
+compy	computer	0
+congrats	congratulations	0
+contrib	contribution	0
+contribs	contributions	0
+convo	conversation	0
+coo	cool	1
+cood	could	0
+copyvio	copyright violation	0
+cos	because	0
+cotf	crying on the floor	0
+cotm	check out this myspace	0
+couldnt	could not	0
+cowboy choker	cigarette	0
+coz	because	0
+cp	child porn	0
+cpl	Cyber Athlete Professional League	0
+cpm	cost per 1000 impressions	0
+cptn	captain	0
+cpu	computer	0
+cpy	copy	0
+cr	Can't remember	0
+cr8	crate	0
+crakalakin	happening	0
+crazn	crazy asian	0
+cre8or	creator	0
+crm	customer relationship management	0
+crp	crap	0
+crs	can't remember shit	-1
+crunk	combination of crazy and drunk	0
+crzy	crazy	0
+cs	Counter-Strike	0
+cs:s	Counter-Strike: Source	0
+csi	Crime Scene Investigation	0
+cskr	c**k sucker	0
+csl	can't stop laughing	0
+ct	can't talk	0
+ctc	call the cell	0
+ctf	capture the flag	0
+ctfd	calm the f**k down	0
+ctfo	chill the f**k out	0
+ctfu	cracking the f**k up	0
+ctm	chuckle to myself	0
+ctn	can't talk now	0
+ctnbos	can't talk now boss over shoulder	0
+ctncl	Can't talk now call later	0
+ctpc	cant talk parent(s) coming	0
+ctpos	Can't Talk Parent Over Sholder	0
+ctrl	control	0
+ctrn	can't talk right now	0
+cts	change the subject	0
+ctt	change the topic	0
+cu	see you	0
+cu2nit	see you tonight	0
+cu46	see you for sex	0
+cubi	can you believe it	0
+cud	could	0
+cuic	see you in class	0
+cul	see you later	0
+cul83r	See you later	0
+cul8er	see you later	0
+cul8r	See You Later	0
+cul8tr	see you later	0
+culd	Could	0
+cunt	vagina	0
+cuom	see you on monday	0
+cuple	couple	0
+curn	calling you right now	0
+cut3	cute	1
+cuwul	catch up with you later	0
+cuz	because	0
+cuzz	because	0
+cvq	chucking very quietly	0
+cw2cu	can't wait to see you	0
+cwd	comment when done	0
+cwm	come with me	0
+cwmaos	coffee with milk and one sugar	0
+cwot	complete waste of time	-1
+cwtgypo	can't wait to get your panties off	0
+cwyl	chat with ya later	0
+cya	goodbye	0
+cyal	see you later	0
+cyal8r	see you later	0
+cyas	see you soon	0
+cyb	cyber	0
+cybl	call you back later	0
+cybr	cyber	0
+cybseckz	cyber sex	0
+cye	Close Your Eyes	0
+cyff	change your font, f**ker	0
+cyl	see you later	0
+cyl,a	see ya later, alligator	0
+cyl8	see you later	0
+cyl8er	see you later	0
+cylbd	catch ya later baby doll	0
+cylor	check your local orhtodox rabbi	0
+cym	check your mail	0
+cyntott	see you next time on Tech Today	0
+cyt	see you tomorrow	0
+cyu	see you	0
+c|n>k	coffee through nose into keyboard	0
+d&c	divide and conquer	0
+d&df	drug & disease free	0
+d.t.f	down to f**k	0
+d.w	don't worry	0
+d/c	disconnected	0
+d/l	download	0
+d/m	Doesn't Matter	0
+d/w	don't worry	0
+d00d	dude	0
+d1ck	d**k	0
+d2	Diablo 2	0
+d2m	dead to me	0
+d2t	drink to that	0
+d8	date	0
+da	the	0
+da2	Dragon Age 2	0
+dadt	Don't ask. Don't tell.	0
+dafs	do a fucking search	-1
+dah	dumb as hell	-1
+daii	day	0
+damhik	don't ask me how I know	0
+damhikijk	Don't Ask Me How I Know - I Just Know	0
+damhikt	don't ask me how I know this	0
+dammit	damn it	-1
+dass	dumb ass	-1
+dat	that	0
+dats	that's	0
+dawg	Friend	0
+dayum	damn	-1
+dayumm	damn	-1
+db	database	0
+db4l	drinking buddy for life	0
+dbab	don't be a bitch	-1
+dbafwtt	Don't Be A Fool Wrap The Tool	0
+dbag	douchebag	0
+dbeyr	don't believe everything you read	0
+dbg	don't be gay	0
+dbh	don't be hating	0
+dbi	Don't Beg It	0
+dbm	don't bother me	0
+dbz	Dragon Ball Z	0
+dc	don't care	0
+dc'd	disconnected	0
+dctnry	dictionary	0
+dcw	Doing Class Work	0
+dd	don't die	0
+ddf	Drug and Disease Free	0
+ddg	Drop Dead Gorgeous	0
+ddl	direct download	0
+ddos	Distributed Denial of Service	0
+ddr	dance dance revolution	0
+deets	details	0
+deez	these	0
+def	definitely	0
+defs	definetly	0
+degmt	Don't Even Give Me That	0
+dem	them	0
+der	there	0
+dernoe	I don't know	0
+detai	don't even think about it	0
+dewd	Dude	0
+dey	they	0
+df	Dumb f**k	-1
+dfc	DON'T f**kING CARE	-1
+dfo	dumb f**king operator	-1
+dftba	don't forget to be awesome	0
+dftc	down for the count	0
+dfu	don't f**k up	-1
+dfw	down for whatever	0
+dfw/m	Don't f**k with Me	-1
+dfwm	Don't f**k with Me	-1
+dfwmt	Don't f**king waste my time	-1
+dg	don't go	0
+dga	don't go anywhere	0
+dgac	don't give a crap	0
+dgaf	don't give a fuck	-1
+dgara	don't give a rats ass	-1
+dgas	Don't give a shit	-1
+dgms	Don't get me started	0
+dgoai	don't go on about it	0
+dgt	don't go there	0
+dgypiab	don't get your panties in a bunch	0
+dh	dickhead	0
+dhac	Don't have a clue	0
+dhcp	Dynamic Host Configuration Protocol	0
+dhly	does he like you	0
+dhv	Demonstration of Higher Value	0
+diacf	die in a car fire	0
+diaf	die in a fire	0
+diah	die in a hole	0
+dic	do i care	0
+dick	penis	0
+diez	dies	0
+diff	difference	0
+dih	d**k in hand	0
+dikhed	dickhead	0
+diku	do i know you	0
+diky	Do I know you	0
+dil	Daughter in law	0
+dilf	dad i'd like to f**k	1
+dillic	Do I look like I care	-1
+dillifc	do I look like I f**king care	-1
+dilligad	do I look like I give a d**n	-1
+dilligaf	do I look like I give a f**k	-1
+dilligas	do i look like i give a s**t	-1
+din	didn't	0
+din't	didn't	0
+dirl	Die in real life	0
+dis	this	0
+dit	Details in Thread	0
+diy	do it yourself	0
+dju	did you	0
+dk	don't know	0
+dkdc	don't know, don't care	0
+dl	download	0
+dlf	dropping like flies	-1
+dlibu	Dont let it bother you	0
+dln	don't look now	0
+dm	deathmatch	0
+dmaf	do me a favor	0
+dmba*	dumbass	-1
+dmi	don't mention it	0
+dmn	damn	-1
+dmu	don't mess up	0
+dmwm	don't mess with me	0
+dmy	don't mess yourself	0
+dn	don't know	0
+dnd	Do Not Disturb	0
+dndp	Do not double post	0
+dnimb	dancing naked in my bra	0
+dno	don't know	0
+dnrta	did not read the article	0
+dnrtfa	did not read the fucking article	-1
+dns	Domain Name System	0
+dnt	don't	0
+dnw	Do not want	0
+doa	dead on arrival	0
+dob	date of birth	0
+dod	Day of Defeat	0
+doesnt	does not	0
+dogg	friend	0
+doin	doing	0
+doin'	doing	0
+don	denial of normal	0
+doncha	Don't you	0
+donno	don't know	0
+dont	don't	0
+dontcha	don't you	0
+dood	dude	0
+doodz	dudes	0
+dos	denial of service	0
+doesnt	does not	0
+dotc	dancing on the ceiling	0
+doypov	depends on your point of view	0
+dp	display picture	0
+dpmo	don't piss me off	-1
+dprsd	depressed	-1
+dqmot	don't quote me on this	0
+dqydj	don't quit your day job	0
+dr00d	druid	0
+drc	don't really care	0
+drm	dream	0
+drood	druid	0
+dsided	decided	0
+dsu	don't screw up	0
+dt	double team	0
+dta	Don't Trust Anyone	0
+dtb	don't text back	0
+dth	down to hang	0
+dtl	d**n the luck	0
+dtp	Don't Type Please	0
+dtrt	do the right thing	0
+dts	Don't think so	0
+dttm	don't talk to me	0
+dttml	don't talk to me loser	0
+dttpou	Don't tell the police on us	0
+dttriaa	don't tell the RIAA	0
+du2h	damn you to hell	-1
+ducy	do you see why	0
+dugi	do you get it?	0
+dugt	did you get that?	0
+duk	did you know	0
+dulm	do you like me	0
+dum	dumb	0
+dun	don't	0
+dunna	i don't know	0
+dunno	I don't know	0
+duno	don't know	0
+dupe	duplicate	0
+dutma	don't you text me again	0
+dvda	double vaginal, double anal	0
+dw	don't worry	0
+dwai	don't worry about it	0
+dwb	Driving while black	0
+dwbh	don't worry, be happy	0
+dwbi	Don't worry about it.	0
+dwi	deal with it	0
+dwioyot	Deal With It On Your Own Time	0
+dwmt	don't waste my time	0
+dwn	down	0
+dwt	don't wanna talk	0
+dwy	don't wet yourself	0
+dy2h	damn you to hell	-1
+dya	Do you	0
+dyac	damn you auto correct	-1
+dycotfc	do you cyber on the first chat	0
+dyec	Don't You Ever Care	0
+dygtp	did you get the picture	0
+dyk	did you know	0
+dylh	do you like him	0
+dylm	do you love me	1
+dylos	do you like oral sex	0
+dym	Do you mind	0
+dynk	do you not know	0
+dynm	do you know me	0
+dyt	Don't you think	0
+dyth	damn You To Hell	-1
+dyw	don't you worry	0
+dyw2gwm	do you want to go with me	0
+dywtmusw	do you want to meet up some where	0
+e-ok	Electronically OK	0
+e.g.	example	0
+e4u2s	easy for you to say	0
+eabod	eat a bag of dicks	0
+ead	eat a dick	-1
+ebitda	earnings before interest, taxes, depreciation and amortization	0
+ecf	error carried forward	0
+edumacation	education	0
+eedyat	idiot	0
+eejit	idiot	0
+ef	f**k	-1
+ef-ing	f**king	0
+efct	effect	0
+effed	f**ked	0
+efffl	extra friendly friends for life	0
+effin	f**king	0
+effing	f**king	0
+eg	evil grin	0
+ehlp	help	0
+eil	explode into laughter	0
+el!t	elite	0
+eleo	Extremely Low Earth Orbit	0
+ello	hello	0
+elo	hello	0
+em	them	0
+emm	email me	0
+emo	emotional	0
+emp	eat my p***y	0
+enat	every now and then	0
+enit	isn't it	0
+enof	enough	0
+enuf	enough	0
+enuff	enough	0
+eob	End of Business	0
+eoc	end of conversation	0
+eod	End of day	0
+eof	end of file	0
+eom	end of message	0
+eos	end of story	0
+eot	end of transmission	0
+eotw	end of the world	0
+epa	Emergency Parent Alert	0
+eq	Everquest	0
+eq2	Everquest2	0
+ere	here	0
+errythin	everything	0
+esad	eat s**t and die	0
+esadyffb	eat s**t and die you fat f**king b*****d	0
+esbm	Everyone sucks but me	0
+esc	escape	0
+esl	eat s**t loser	0
+eta	Estimated Time of Arrival	0
+etla	extended three letter acronym	0
+etmda	Explain it to my dumb a**	0
+etp	eager to please	0
+eula	end user license agreement	0
+ev1	everyone	0
+eva	ever	0
+evaa	ever	0
+evar	ever	0
+evercrack	Everquest	0
+every1	everyone	0
+evn	even	0
+evr	ever	0
+evry	every	0
+evry1	every one	0
+evrytin	everything	0
+ex-bf	Ex-Boy Friend	0
+ex-gf	Ex-Girl Friend	0
+exp	experience	0
+ey	hey	0
+eyez	eyes	0
+ez	Easy	0
+ezi	easy	0
+f u	fuck you	-1
+f#cking	f**king	0
+f&e	forever and ever	0
+f'n	f**king	0
+f-ing	f**king	0
+f.b.	facebook	0
+f.m.l.	f**k my life	-1
+f.u.	fuck you	-1
+f/o	f**k off	-1
+f00k	fuck	-1
+f2f	face to face	0
+f2p	free to play	0
+f2t	Free to talk	0
+f4c3	face	0
+f4eaa	friends forever and always	1
+f4f	female for female	0
+f4m	female for male	0
+f8	fate	0
+f9	fine	1
+f@	fat	0
+fa-q	fuck you	-1
+faa	forever and always	0
+fab	fabulous	0
+faggit	faggot	0
+fah	Funny as hell	0
+faic	For All I Care	0
+fam	family	0
+fankle	area between foot and ankle	0
+fao	for attention of	0
+fap	masturbate	0
+fapping	masterbating	0
+faq	frequently asked question	0
+farg	fuck	-1
+fashizzle	for sure	0
+fav	Favorite	1
+fave	favorite	1
+fawk	fuck	-1
+fbimcl	Fall Back In My Chair Laughing	0
+fbk	facebook	0
+fbtw	Fine Be That Way	0
+fc	fruit cake	0
+fcbk	facebook	0
+fcfs	first come first served	0
+fck	fuck	-1
+fckd	f**ked	-1
+fckin	f**king	0
+fcking	f**king	0
+fckm3hdbayb	f**k Me Hard Baby	0
+fcku	f**k you	-1
+fcol	for crying out loud	0
+fcuk	fuck	-1
+fe	fatal error	0
+feck	fuck	-1
+fer	for	0
+ferr	For	0
+ff	friendly fire	0
+ffa	free for all	0
+ffcl	falling from chair laughing	0
+ffr	for future reference	0
+ffs	for f**k's sake	0
+fft	food for thought	0
+ffxi	Final Fantasy 11	0
+fg	f**king gay	0
+fgi	f**king google it	-1
+fgs	for God's sake	0
+fgssu	For Gods sake shut up	0
+fgt	faggot	0
+fi	f**k it	-1
+fi9	fine	1
+fibijar	f**k it buddy, I'm just a reserve	0
+fifo	first in, first out	0
+fify	Fixed It For You	0
+figjam	f**k I'm good, just ask me	0
+figmo	F*ck it - got my orders	0
+fiic	f**ked If I Care	-1
+fiik	f**ked If I Know	-1
+fimh	forever in my heart	1
+fio	figure it out	0
+fitb	fill in the blank	0
+fiv	five	0
+fk	fuck	0
+fka	formerly known as	0
+fkd	f**ked	0
+fker	f**ker	0
+fkin	f**king	0
+fking	f**king	0
+fkn	f**king	0
+fku	f**k you	0
+flamer	angry poster	0
+flames	angry comments	0
+flicks	pictures	0
+floabt	for lack of a better term	0
+fm	f**k me	0
+fmah	f**k my a** hole	0
+fmao	freezing my a** of	0
+fmb	f**k me b***h	0
+fmbb	f**k Me Baby	0
+fmbo	f**k my brains out	0
+fmfl	f**k my f**king life	0
+fmflth	f**k My f**king Life To Hell	0
+fmh	f**k me hard	0
+fmhb	f**k me hard b***h	0
+fmi	for my information	0
+fmir	family member in room	0
+fmita	f**k me in the a**	0
+fml	f**k my life	0
+fmltwia	f**k me like the w***e I am	1
+fmn	f**k me now	0
+fmnb	f**k me now b***h	0
+fmnkml	f**k me now kiss me later	0
+fmph	f**k my p***y hard	0
+fmq	f**k me quick	0
+fmr	f**k me runnig	0
+fmsh	f**k me so hard	0
+fmth	f**k me to hell	0
+fmuta	f**k me up the a**	0
+fmutp	f**k me up the p***y	0
+fn	first name	0
+fnar	For No Apparent Reason	0
+fnci	fancy	0
+fnny	funny	0
+fnpr	for no particular reason	0
+fny	funny	0
+fo	f**k off	0
+fo shizzle	for sure	0
+fo sho	for sure	0
+foa	f**k off a**h**e	0
+foad	f**k off and die	0
+foaf	friend of a friend	0
+foah	f**k off a**h**e	0
+fob	fresh off the boat	0
+focl	Falling Off Chair Laughing.	0
+fofl	fall on the floor laughing	0
+foia	freedom of information act	0
+fol	farting out loud	0
+folo	Follow	0
+fomofo	f**k off mother f**ker	0
+fone	phone	0
+foo	fool	-1
+foobar	f**ked up beyond all recognition	0
+foocl	falls out of chair laughing	0
+fook	f**k	-1
+for sheeze	for sure	0
+fos	full of s**t	-1
+foshizzle	for sure	0
+fosho	for sure	0
+foss	free, open source software	0
+fotcl	fell off the chair laughing	0
+fotm	Flavour of the month	1
+fouc	f**k off you c**t	0
+fov	Field of View	0
+foyb	f**k off you b***h	0
+fo`	for	0
+fp	first post	0
+fpmitap	federal pound me in the a** prison	0
+fpos	f**king piece of s**t	0
+fps	First Person Shooter	0
+frag	kill	0
+fragged	killed	0
+fren	friend	0
+frens	friends	0
+frgt	forgot	0
+fri.	Friday	0
+frig	fuck	-1
+frigg	fuck	-1
+friggin	freaking	0
+frk	freak	0
+frm	from	0
+frnd	friend	0
+frnds	friends	0
+fs	For Sure	0
+fsho	for sure	0
+fsm	flying spaghetti monster	0
+fsob	f**king son of a b***h	0
+fsod	frosn screen of death	0
+fsr	for some reason	0
+fst	fast	0
+ft	f**k THAT	0
+ft2t	From time to time	0
+fta	From The Article	0
+ftb	f**k That b***h	0
+ftbfs	Failed to build from source	0
+ftf	face to face	0
+ftfa	From The f**king Article	0
+ftfw	For the f**king win!	0
+ftfy	Fixed that for you	0
+ftio	fun time is over	0
+ftk	For the Kill	0
+ftl	For The Lose	0
+ftlog	for the love of god	-1
+ftlt	For the last time	0
+ftmfw	for the mother f**king win	0
+ftmp	For the most part	0
+ftp	file transfer protocol	0
+ftr	For The Record	0
+fts	f**k that s**t	0
+fttp	for the time being	0
+ftw	For the win!	1
+fu	f**k you	-1
+fua	f**k you all	-1
+fuah	f**k you a** hole	-1
+fub	f**k you b***h	-1
+fubah	f**ked up beyond all hope	0
+fubalm	f**ked up beyond all local maintenance	0
+fubar	f**ked up beyond all recognition	0
+fubb	f**ked up beyond belief	0
+fubh	f**ked up beyond hope	0
+fubohic	f**k you Bend over here it comes	0
+fubr	f**ked Up Beyond Recognition	0
+fuccin	fucking	-1
+fucken	f**king	0
+fucktard	f**king retard	0
+fuctard	f**king retard	0
+fud	fear, uncertainty and doubt	0
+fudh	f**k you d**k head	0
+fudie	f**k you and die	-1
+fugly	f**king ugly	0
+fuh-q	f**k you	-1
+fuhget	forget	0
+fuk	f**k	-1
+fukin	f**king	0
+fukk	f**k	-1
+fukkin	f**king	0
+fukn	f**king	0
+fukr	f**ker	0
+fulla	Full of	0
+fumfer	f**k you mother f**ker	-1
+funee	funny	0
+funner	more fun	0
+funy	funny	0
+fuq	f**k you	-1
+fus	f**k yourself	-1
+fut	f**k You Too	-1
+fuu	f**k you up	0
+fux	f**k	-1
+fuxing	f**king	0
+fuxor	f**ker	0
+fuxored	f**ked	0
+fvck	f**k	-1
+fwb	Friends with Benefits	0
+fwd	forward	0
+fwiw	for what it's worth	0
+fwm	Fine With Me	0
+fwob	friends with occasional benefits	0
+fwp	first world problems	0
+fxe	foxy	0
+fxp	file exchange protocol	0
+fy	f**k you	-1
+fya	for your attention	0
+fyad	f**k you and die	-1
+fyah	f**k you a**h**e	-1
+fyb	f**k you b***h	-1
+fyc	f**k your couch	-1
+fye	For Your Entertainment	0
+fyeo	For your eyes only	0
+fyf	f**k your face	-1
+fyfi	For Your f**king Information	0
+fyi	for your information	0
+fyk	for your knowledge	0
+fyl	For your Love	1
+fym	f**k your mom	-1
+fyp	fixed your post	0
+fyrb	f**k you right back	0
+fytd	f**k you to death	-1
+*g*	grin	-1
+g'nite	good night	0
+g/f	girlfriend	0
+g/g	got to go	0
+g0	go	0
+g00g13	Google	0
+g1	good one	1
+g2	go to	0
+g2/-/	go to hell	0
+g2bg	got to be going	0
+g2bl8	going to be late	0
+g2cu	glad to see you	0
+g2e	got to eat	0
+g2g	got to go	0
+g2g2tb	got to go to the bathroom	0
+g2g2w	got to go to work	0
+g2g4aw	got to go for a while	0
+g2gb	got to go bye	0
+g2gb2wn	got to go back to work now	0
+g2ge	got to go eat	0
+g2gn	got to go now	0
+g2gp	got to go pee	0
+g2gpc	got 2 go parents coming	0
+g2gpp	got to go pee pee	0
+g2gs	got to go sorry	0
+g2h	go to hell	0
+g2hb	go to hell b***h	-1
+g2k	good to know	0
+g2p	got to pee	0
+g2t2s	got to talk to someone	0
+g33k	geek	0
+g3y	gay	0
+g4u	good for you	0
+g4y	good for you	0
+g8	gate	0
+g9	good night	0
+g@y	gay	0
+ga	go ahead	0
+gaalma	go away and leave me alone	0
+gaf	good as f**k	0
+gafi	get away from it	0
+gafl	get a f**king life	-1
+gafm	Get away from me	0
+gagf	go and get f**ked	-1
+gagp	go and get pissed	0
+gah	gay a** homo	-1
+gai	gay	0
+gaj	get a job	0
+gal	get a life	0
+gamez	illegally obtained games	0
+gangsta	gangster	0
+gank	kill	0
+gaoep	generally accepted office etiquette principles	0
+gaw	grandparents are watching	0
+gawd	god	0
+gb	Go back	0
+gb2	go back to	0
+gba	game boy advance	0
+gbioua	Go blow it out your a**	0
+gbnf	Gone but not forgotten	0
+gbtw	go back to work	0
+gbu	god bless you	0
+gby	good bye	0
+gcad	get cancer and die	0
+gcf	Google Click Fraud	0
+gd	good	1
+gd&r	grins, ducks, and runs	0
+gd4u	Good For You	0
+gday	Good Day	1
+gdby	good bye	0
+gded	grounded	0
+gdgd	good good	1
+gdi	God d**n it	-1
+gdiaf	go die in a fire	0
+gdih	Go die in hell	0
+gdilf	Grandad I'd Like To f**k	1
+gdmfpos	god d**n mother f**king piece of s**t	-1
+gdr	grinning, ducking, running	0
+geez	annoyed	-1
+gemo	gay emo	0
+getcha	get you	0
+geto	ghetto	0
+gewd	good	1
+gey	gay	0
+gf	girlfriend	0
+gfad	go f**k a duck	-1
+gfadh	go f**k a dead horse	-1
+gfak	go fly a kite	0
+gfam	Go f**k A Monkey	-1
+gfar2cu	go find a rock to crawl under	0
+gfas	go f**k a sheep	-1
+gfd	god f**king damnit	-1
+gfe	Girl Friend experience	0
+gfe2e	grinning from ear to ear	0
+gfg	good f**king game	1
+gfgi	go f**king google it	-1
+gfi	good f**king idea	1
+gfj	good f**king job	1
+gfl	grounded for life	0
+gfo	go f**k off	-1
+gfu	go f**k yourself	-1
+gfurs	go f**k yourself	-1
+gfus	go f**k yourself	-1
+gfx	graphics	0
+gfy	good for you	0
+gfyd	go f**k your dad	-1
+gfym	go f**k your mom	-1
+gfys	go f**k yourself	-1
+gg	good game	1
+gga	good game all	1
+ggal	go get a life	0
+ggf	go get f**ked	-1
+ggg	Go, go, go!	1
+ggnore	good game no rematch	1
+ggp	gotta go pee	0
+ggpaw	gotta go parents are watching	0
+ggs	good games	1
+gh	good half	1
+ghei	Gay	0
+ghey	gay	0
+gigig	get it got it good	1
+gigo	garbage in garbage out	-1
+gilf	Grandma I'd like to f**k	1
+gim	google instant messanger	0
+gimme	give me	0
+gimmie	give me	0
+gir	google it retard	0
+gis	Google Image Search	0
+gitar	guitar	0
+giv	give	0
+giyf	google is your friend	0
+gj	good job	1
+gjial	go jump in a lake	-1
+gjp	good job partner	1
+gjsu	god just shut up	-1
+gjt	good job team	1
+gky	Go kill yourself	-1
+gkys	Go kill yourself	-1
+gl	good luck	1
+gl hf	good luck, have fun	1
+gl&hf	good luck and have fun	1
+gla	good luck all	1
+glbt	Gay, lesbian, bisexual, transgenderd	0
+glf	group looking for	0
+glhf	good luck, have fun	1
+glln	Got Laid Last Night	0
+glnhf	good luck and have fun	1
+glty	good luck this year	1
+glu	girl like us	0
+glu2	good luck to you too	1
+glux	good luck	1
+glwt	good luck with that	1
+gm	good morning	1
+gma	grandma	0
+gmab	give me a break	0
+gmabj	give me a blowjob	0
+gmafb	give me a f**king break	0
+gmao	Giggling my a** off	0
+gmfao	Giggling My f**king a** Off	0
+gmilf	grandmother i'd like to f**k	1
+gmod	Global Moderator	0
+gmta	great minds think alike	1
+gmtyt	good morning to you too	0
+gmv	Got my vote	0
+gmybs	give me your best shot	0
+gn	good night	1
+gn8	good night	1
+gnasd	good night and sweet dreams	1
+gndn	Goes nowhere,does nothing	0
+gnfpwlbn	good news for people who love bad news	-1
+gng	going	0
+gng2	going to	0
+gngbng	gang bang	0
+gnight	good night	0
+gnite	good night	0
+gnn	get naked now	0
+gno	going to do	0
+gnoc	get naked on cam	0
+gnos	get naked on screen	0
+gnr	Guns n' roses	0
+gnrn	get naked right now	0
+gnst	goodnight sleep tight	0
+gnstdltbbb	good night sleep tight don't let the bed bugs bite	0
+goc	get on camera	0
+goi	get over it	0
+goia	get over it already	0
+goin	going	0
+gok	God Only Knows	0
+gokid	got observers - keep it decent	0
+gokw	God Only Knows Why	0
+gol	giggle out loud	0
+gomb	get off my back	0
+goml	get out of my life	-1
+gona	going to	0
+gonna	going to	0
+good9	good night	0
+gooh	get out of here!	0
+goomh	get out of my head	-1
+gork	God only really knows	0
+gosad	go suck a d**k	-1
+gotc	get on the computer	0
+gotcha	got you	0
+gotta	got to	0
+govt	government	0
+gvmnt	government	0
+gow	gears of war	0
+goya	Get Off Your a**	0
+goyhh	get off your high horse	0
+gp	good point	1
+gpb	gotta pee bad	0
+gpwm	good point well made	1
+gpytfaht	gladly pay you tuesday for a hamburger today	0
+gr8	great	1
+gr8t	great	1
+grats	congratulations	1
+gratz	congratulations	1
+grfx	graphics	0
+grillz	metal teeth	0
+grl	girl	0
+grmbl	grumble	-1
+grog	beer	0
+grrl	Girl	0
+grtg	Getting ready to go	0
+grvy	groovy	0
+gsad	go suck a d**k	-1
+gsave	global struggle against violent extremists	0
+gsd	getting s**t done	0
+gsfg	Go search f**king google	0
+gsi	go suck it	-1
+gsoh	Good Sense of Humor	0
+gsp	get some p***y	0
+gsta	Gangster	0
+gt	get	0
+gta	Grand Theft Auto	0
+gtas	go take a s**t	-1
+gtb	Go To Bed	0
+gtf	get the f**k	-1
+gtfa	Go The f**k Away	-1
+gtfbtw	get the f**k back to work	-1
+gtfh	go to f**king hell	-1
+gtfo	get the f**k out	-1
+gtfoi	get the f**k over it	-1
+gtfon	Get the f**k out noob	-1
+gtfooh	get the f**k out of here	-1
+gtfoomf	get the f**k out of my face	-1
+gtfu	grow the f**k up	0
+gtfuotb	get the f**k up out this b***h	0
+gtg	got to go	0
+gtgb	got to go bye	0
+gtgbb	got to go bye bye	0
+gtgfn	got to go for now	0
+gtgmmiloms	got to go my mum is looking over my shoulder	0
+gtgn	got to go now	0
+gtgp	got to go pee	0
+gtgpp	got to go pee pee	0
+gtgtb	got to go to bed	0
+gtgtpirio	got to go the price is right is on	0
+gtgtwn	Got to go to work now	0
+gth	go to hell	0
+gtha	go the hell away	0
+gthb	go to hell b***h	0
+gthmf	go to hell mothaf**ka	0
+gtho	get the hell out	0
+gthu	grow the heck up	0
+gthyfah	go to hell you f**king a**h**e	0
+gtk	good to know	0
+gtm	giggling to myself	0
+gtn	getting	0
+gtp	Got to pee	0
+gtr	Got to run	0
+gts	going to school	0
+gtsy	good to see you	0
+gttp	get to the point	0
+gtty	good talking to you	1
+gu	grow up	0
+gu2i	get used to it	0
+gud	good	1
+gudd	good	1
+gui	graphical user interface	0
+gurl	girl	0
+gurlz	girls	0
+guru	expert	0
+gw	good work	0
+gwijd	guess what i just did	0
+gwm	gay white male	0
+gwork	good work	0
+gwrk	good work	0
+gws	get well soon	0
+gwytose	go waste your time on someone else	0
+gy	gay	0
+gyal	girl	0
+gypo	Get Your Penis Out	0
+roflmfao	rolling on the floor laughing my f**king a** off	0
+h&k	hugs and kisses	0
+h*r	homestar runner	0
+h+k	hugs and kisses	0
+h.o	hold on	0
+h/e	However	0
+h/mo	homo	0
+h/o	hold on	0
+h/u	hold up	0
+h/w	homework	0
+h2	Halo 2	0
+h2gtb	have to go to the bathroom	0
+h2o	water	0
+h2sys	hope to see you soon	0
+h3y	hey	0
+h4kz0r5	hackers	0
+h4x	Hacks	0
+h4x0r	hacker	0
+h4xor	hacker	0
+h4xr	hacker	0
+h4xrz	hackers	0
+h4xx0rz	hacker	0
+h4xxor	hacker	0
+h8	hate	-1
+h80r	hater	-1
+h82sit	hate to say it	0
+h83r	hater	-1
+h8ed	hated	-1
+h8er	hater	-1
+h8r	hater	-1
+h8red	Hatred	0
+h8s	hates	-1
+h8t	hate	-1
+h8t0r	hater	-1
+h8t3r	hater	-1
+h8te	hate	-1
+h8tr	hater	-1
+h8u	I Hate You	-1
+h9	Husband in Room	0
+habt	how about this	0
+hafta	have to	0
+hagd	have a good day	0
+hagl	have a great life	0
+hagn	have a good night	0
+hago	have a good one	0
+hags	have a great summer	0
+hai	hello	0
+hait	hate	-1
+hak	here's a kiss	0
+hakas	have a kick a** summer	0
+hammrd	hammered	0
+han	how about now	0
+hau	How Are You	0
+hav	have	0
+havnt	haven't	0
+hawf	Husband and Wife forever	0
+hawt	hot	0
+hawtie	hottie	0
+hax	Hacks	0
+hax0r	hacker	0
+hax0red	hacked	0
+hax0rz	Hackers	0
+haxer	Hacker	0
+haxor	hacker	0
+haxoring	hacking	0
+haxors	hackers	0
+haxorz	hackers	0
+haxxor	hacker	0
+haxxzor	Hacker	0
+haxz0r	Hacker	0
+haxzor	hacker	0
+hayd	how are you doing	0
+hb	hurry back	0
+hb4b	hoes before bros	0
+hbd	happy birthday	0
+hbic	head b***h in charge	0
+hbii	how big is it	0
+hbu	how about you	0
+hby	how about you	0
+hc	how come	0
+hcbt1	he could be the one	0
+hcib	how can it be	0
+hcihy	how can I help you	0
+hdop	Help Delete Online Predators	0
+hdu	how dare you	0
+hdydi	How do you do it	0
+hdydt	how did you do that	0
+heh	haha	0
+hella	very	0
+heya	hey	0
+heyt	hate	-1
+heyy	hello	0
+heyya	hello	0
+hf	have fun	0
+hfn	Hell f**king no	0
+hfs	holy f**king s**t!	0
+hfsbm	holy f**king s**t batman	0
+hfwt	have fun with that	0
+hg	HockeyGod	0
+hght	height	0
+hhiad	holy hole in a doughnut	0
+hhiadb	Holy Hole in a Donut Batman	0
+hhok	Ha Ha Only Kidding	0
+hhyb	how have you been	0
+hi2u	hello	0
+hi2u2	hello to you too	0
+hiet	height	0
+hiik	Hell If I Know	0
+hijack	start an off topic discussion	0
+hith	how in the hell	0
+hiw	husband is watching	0
+hiya	hello	0
+hiybbprqag	copying somebody else's search results	0
+hj	hand job	0
+hl	Half-Life	0
+hl2	Half-Life 2	0
+hla	Hot lesbian action	0
+hlb	horny little b*****d	0
+hld	hold	0
+hldn	hold on	0
+hldon	hold on	0
+hll	Hell	-1
+hlm	he loves me	1
+hlo	hello	0
+hlp	help	0
+hly	holy	0
+hlysht	Holy s**t	0
+hmb	hold me back	0
+hmewrk	homework	0
+hmfic	head mother f**ker in charge	0
+hml	hate my life	-1
+hmoj	holy mother of jesus	0
+hmu	Hit Me Up	0
+hmul	Hit me up later	0
+hmus	Hit me up sometime	0
+hmw	homework	0
+hmwk	homework	0
+hmwrk	Homework	0
+hng	horny net geek	0
+hngry	hungry	0
+hnic	head n****r in charge	0
+ho	hold on	0
+hoas	Hang on a second	0
+hoay	how old are you	0
+hoh	head of household	0
+hom	home	0
+homey	Friend	0
+homie	good friend	0
+homo	homosexual	0
+hoopty	broke down automobile	0
+hott	hot	0
+howdey	hello	0
+howz	hows	0
+hpb	high ping b*****d	0
+hpoa	Hot Piece of a**	0
+hppy	Happy	0
+hpy	happy	0
+hpybdy	happy birthday	0
+hr	hour	0
+hre	here	0
+hrny	horny	0
+hrs	hours	0
+hru	how are you	0
+hrud	how are you doing	0
+hs	headshot	0
+hsd	high school dropout	0
+hsik	how should i know	0
+hsr	homestar runner	0
+hss	horse s**t and splinters	0
+hswm	Have Sex With me	0
+ht	Heard Through	0
+htc	hit the cell	0
+htf	how the f**k	0
+htfu	Hurry the f**k up	0
+hth	hope that helps	0
+hthu	Hurry the hell up	0
+htr	hater	-1
+http	hyper text transfer protocol	0
+hu	Hey you	0
+hubby	husband	0
+hud	Heads Up Display	0
+huggle	hug and cuddle	0
+hugz	hugs	0
+hun	honey	0
+hv	have	0
+hve	have	0
+hvnt	haven't	0
+hw	homework	0
+hw/hw	help me with homework	0
+hwg	here we go	0
+hwga	here we go again	0
+hwik	how would i know	0
+hwk	homework	0
+hwmbo	he who must be obeyed	0
+hwmnbn	he who must not be named	0
+hwms	hot wild monkey sex	0
+hws	homeworks	0
+hwu	hey what's up	0
+hwz	how is	0
+hxc	hardcore	0
+hy	hell yeah	0
+hyb	how you been	0
+hyg	here you go	0
+hyk	how you know	0
+i <3 u	I love you	1
+i c	i see	0
+i8	alright	0
+i8u	i hate you	-1
+i<3 u	i love you	1
+i<3u	I love you	1
+iab	I Am Bored	0
+iafh	I Am f**king Hot	0
+iafi	I am from India	0
+iag	it's all good	0
+iah	i am horny	0
+iai	i am interested	0
+ianabs	I am not a brain surgeon	0
+ianacl	I am not a copyright lawyer	0
+ianal	I am not a lawyer	0
+ianalb	I am not a lawyer, but..	0
+ianars	I am not a rocket scientist	0
+ians	I am Not Sure	0
+ianyl	I am not your lawyer	0
+iap	I Am Pissed	0
+iasb	i am so bored	0
+iaspfm	i am sorry please forgive me	0
+iatb	I am the best	0
+iateu	i hate you	-1
+iavb	i am very bored	0
+iaw	In Another Window	0
+iawtc	I agree with this comment	0
+iawtp	I agree with this post	0
+iawy	I agree with you	0
+ib	I'm back	0
+ibbl	I'll be back later	0
+ibcd	Idiot between chair & desk	0
+ibs	Internet b***h Slap	0
+ibt	I'll be there	0
+ibtl	In Before The Lock	0
+ibw	I'll be waiting	0
+ic	I see	0
+icb	I can't believe	0
+icbi	i can't believe it	0
+icbiwoop	I chuckled, but it was out of pity.	0
+icbt	i can't believe that	0
+icbu	I can't believe you	0
+icbyst	i cant believe you said that	0
+iccl	I could care less	0
+icgup	I can give you pleasure	0
+icic	I See. I See	0
+icp	insane clown posse	0
+icr	I can't rememer	0
+icsrg	I can still reach Google	0
+ictrn	I can't talk right now	0
+icty	i can't tell you	0
+icu	i see you	0
+icudk	in case you didn't know	0
+icup	i see you pee	0
+icw	I care why?	0
+icwudt	I see what you did there	0
+icwum	I see what you mean	0
+icydk	in csae you didn't know	0
+icydn	in case you didn't know	0
+icymi	in case you missed it	0
+id10t	idiot	0
+idbtwdsat	I don't believe they would do such a thing	0
+idby	I Don't Believe You	0
+idc	I don't care	0
+iddi	I didn't do it	0
+idec	I don't even care	0
+idek	I don't even know	0
+idfc	i don't f**king care	0
+idfk	i don't f**king know	0
+idfts	I don't f**king think so	0
+idgac	i don't give a crap	0
+idgad	I don't give a d**n	0
+idgaf	i don't give a f**k	0
+idgaff	I don't give a flying f**k	0
+idgafs	I don't give a f**king s**t	0
+idgara	I don't give a rat's a**	0
+idgas	i don't give a s**t	0
+idgi	I don't get it	0
+idjit	idiot	0
+idk	I don't know	0
+idkbibt	I don't know but I've Been Told	0
+idke	I don't know ethier	0
+idkh	I don't know how	0
+idkh2s	i don't know how to spell	0
+idkt	I don't know that	0
+idkw	I don't know why	0
+idkwiwdwu	I don't know what I would do without you	0
+idkwts	I don't know what to say	0
+idkwurta	I don't know what you are talking about.	0
+idkwym	I don't know what you mean	0
+idky	I don't know you	0
+idkyb	i don't know why but	0
+idkymb2	I didn't know yoru mom blogs too	0
+idl	I don't like	-1
+idli	I don't like it	-1
+idlu	i don't like you	-1
+idly	I don't like you	-1
+idlyitw	i don't like you in that way	1
+idm	I don't mind	0
+idn	i don't know	0
+idnk	i don't know	0
+idno	i do not know	0
+idntk	i dont need to know	0
+idnwths	i do not want to have sex	0
+idonno	i do not know	0
+idop	it depends on price	0
+idot	idiot	-1
+idr	I don't remember	0
+idrc	i don't really care	0
+idrfk	I don't really f**king know	0
+idrgaf	I don't really give a f**k	0
+idrgaff	i don't really give a flying f**k	0
+idrk	i don't really know	0
+idrts	I don't really think so	0
+idsw	i don't see why	0
+idtis	I don't think I should	0
+idtkso	i don't think so	0
+idts	i don't think so	0
+idunno	i do not know	0
+iduwym	I don't understand what you mean.	0
+idw2	I don't want to	0
+idw2n	i don't want to know	0
+idwk	I don't wanna know	0
+idwt	i don't want to	0
+idwtg	I don't want to go	0
+idyat	idiot	0
+iebkac	issue exists between keyboard and chair	0
+ietf	internet engineering task force	0
+iff	if and only if	0
+ifhu	I f**king hate you	-1
+ifhy	i f**king hate you	-1
+ifk	I f**king know	0
+iflu	i f**king love you	1
+ifthtb	i find that hard to belive	0
+ifttt	if this then that	0
+ifwis	I forgot what I said	0
+ig	I guess	0
+ig2g	I got to go	0
+ig5oi	I got 5 on it	0
+igahp	I've got a huge penis	0
+igalboc	I've got a lovely bunch of coconuts	0
+igg	i gotta go	0
+ight	alright	0
+igkymfa	I'm gonna kick your mother f**king a**	0
+igs	I guess so	0
+igt	I Got This	0
+igtg	i've got to go	0
+igtgt	I got to go tinkle	0
+igtkya	im going to kick your a**	0
+igu	i give up	0
+igyb	I Got Your Back	0
+ih	it happens	0
+ih2gp	I have to go pee	0
+ih2p	i'll have to pa**	0
+ih8	i hate	-1
+ih8mls	I hate my little sister	-1
+ih8p	I hate parents	-1
+ih8tu	i hate you	-1
+ih8u	I hate you	-1
+ih8usm	i hate you so much	-1
+ih8y	I hate you	-1
+ihac	I have a customer	0
+ihat3u	I hate you	-1
+ihistr	i hope i spelled that right	0
+ihiwydt	I hate it when you do that	-1
+ihml	I hate my life	-1
+ihmp	i hate my parents	-1
+ihnc	i have no clue	0
+ihnfc	I have no f**king clue	0
+ihni	i have no idea	0
+iht	I heard that	0
+ihtfp	I hate this f**king place	-1
+ihtgttbwijd	I have to go to the bathroom, wait I just did.	0
+ihtp	I Have To Poop	0
+ihtsm	i hate this so much	-1
+ihtutbr	I have to use the bathroom	0
+ihu	I hate you	-1
+ihurg	i hate your guts	-1
+ihusb	i hate you so bad	-1
+ihusfm	i hate you so f**king much	-1
+ihusm	i hate you so much	-1
+ihy	i hate you	-1
+ihya	i hate you all	-1
+ihysm	I hate you so much	-1
+ihysmrn	i hate you so much right now	-1
+iigh	alright	0
+iight	alright	0
+iiok	is it okay	0
+iirc	if I recall correctly	0
+iistgtbtipi	If It Sounds Too Good To Be True It Probably Is	0
+iit	is it tight	0
+iitywimwybmad	if I tell you what it means will you buy me a drink	0
+iitywybmad	if I tell you, will you buy me a drink?	0
+iiuc	if I understand correctly	0
+iiw2	is it web 2.0?	0
+iiwii	it is what it is	0
+ij	indide joke	0
+ijaf	it's just a fact	0
+ijcomk	i just came on my keyboard	0
+ijdk	I just don't know	0
+ijdl	I just died laughing	0
+ijeomk	I just ejaculated on my keybord	0
+ijf	i just farted	0
+ijgl	I just got laid	0
+ijit	idiot	0
+ijk	I'm Just kidding	0
+ijp	Internet job posting	0
+ijpmp	I just peed my pants	0
+ijpms	I just pissed myself	0
+ijr	i just remembered	0
+ijsabomomcibstg	I just saved a bunch of money on my car insurance by switching to geico	0
+ik	i know	0
+iki	i know it	0
+ikm	I know man	0
+ikr	I know really	0
+ikt	i knew that	0
+ikwud	I know what you did	0
+ikwum	I know what you meant	0
+ikwyl	I know where you live	0
+ikwym	i know what you mean	0
+ilbbaicnl	I like big butts and I can not lie	1
+ilbcnu	i'll be seeing you	0
+ilcul8r	I'll see you later	0
+ilhsm	i love him/her so much	1
+ili	i love it	1
+ilk2fku	I would like to f**k you	1
+ilml	I Love My Life	1
+ilms	I love my self	1
+ilotibinlirl	I'm laughing on the internet, but I'm not laughing in real life	0
+ilshipmp	I laughed so hard I peed my pants	0
+iltf	i love to f**k	1
+ilu	I love you	1
+ilu2	I love you too	1
+iluaaf	i love you as a friend	1
+ilulafklc	I love you like a fat kid loves cake.	1
+ilum	i love you more	1
+ilusfm	I love you so f**king much	1
+ilusm	I love you So much	1
+iluvm	I Love You Very Much	1
+iluvu	i love you	1
+iluvya	i love you	1
+iluwamh	i love you with all my heart	1
+ilvu	i love you	1
+ily	i love you	1
+ily2	i love you too	1
+ily4e	i love you forever	1
+ily4ev	i love you forever	1
+ilyaas	I Love You As A Sister	1
+ilyal	I like you a lot	1
+ilyb	i love you b***h	1
+ilybby	i love you baby	1
+ilybtid	I Love You But Then I Don't	0
+ilyf	I'll Love You Forever	1
+ilygsm	i love you guys so much	1
+ilykthnxbai	i love you k thanks bye	1
+ilyl	i love you loads	1
+ilylab	I love you like a brother	1
+ilylabf	I love you like a best friend	1
+ilylafklc	i love you like a fat kid loves cake	1
+ilylas	i love you like a sister	1
+ilylc	i love you like crazy	1
+ilym	i love you more	1
+ilymtyk	i love you more than you know	1
+ilymtylm	i love you more than you love me	1
+ilysfm	i love you so f**king much	1
+ilysfmb	i love you so f**king much baby	1
+ilysm	i love you so much	1
+ilysmih	i love you so much it hurts	1
+ilysmm	i love you so much more	1
+ilysmydek	I Love You So Much You Don't Even Know	1
+ilysvm	i love you so very much	1
+ilyvm	i love you very much	1
+ilywamh	I love you with all my heart	1
+im	i am	0
+im'd	instant messaged	0
+im26c4u	I am too sexy for you	0
+ima	I am a	0
+imao	in my arrogant opinion	0
+imb	I am back	0
+imcdo	in my conceited dogmatic opinion	0
+imed	instant messaged	0
+imfao	In My f**king Arrogant Opinion	0
+imfo	in my f**king opinion	0
+imh	I am here	0
+imhbco	In my humble but correct opinion	0
+imhe	in my humble experience	0
+imho	in my humble opinion	0
+imm	instant message me	0
+imma	I'm going to	0
+imnerho	In my not even remotely humble opinion	0
+imnl	I'm not laughing	0
+imnshmfo	In My Not So Humble Mother f**king Opinion	0
+imnsho	in my not so humble opinion	0
+imo	in my opinion	0
+imoo	in my own opinion	0
+impo	In My Personal Opinion	0
+impov	in my point of view	0
+imsb	i am so bored	0
+imsry	I am sorry	0
+imtaw	it may take a while	0
+imts	I meant to say	0
+imu	i miss you	0
+imusm	I miss you so much	0
+imvho	in my very humble opinion	0
+imwtk	Inquiring minds want to know	0
+imy	I miss you	0
+imy2	i miss you to	0
+imya	i miss you already	0
+imysfm	i miss you so f**king much	0
+in2	into	0
+inb4	in before	0
+inbd	it's no big deal	0
+incld	include	0
+incrse	increase	0
+ind2p	I need to pee	0
+indie	independent	0
+inef	it's not even funny	0
+inet	internet	0
+inh	I need help	0
+inho	in my honest opinion	0
+inhwh	I need homework help	0
+init	isn't it	0
+inmp	it's not my problem	0
+innit	isn't it	0
+ino	I know	0
+instagib	instant kill	0
+instakill	instant kill	0
+intarwebs	internet	0
+intel	intelligence	0
+interweb	internet	0
+intpftpotm	I nominate this post for the post of the month	0
+inttwmf	I am Not Typing This With My Fingers	0
+invu	I envy you	0
+ioh	I'm out of here	0
+iois	Indicators of Interest	0
+iokiya	it's ok if you are	0
+ionno	I don't know	0
+iono	I don't know	0
+iotd	image of the day	0
+iou	i owe you	0
+iow	in other words	0
+ioya	I'd Own Your a**	0
+ioyk	if only you knew	0
+ip	internet protocol	0
+irc	internet relay chat	0
+irdc	I really don't care	0
+irdgaf	i really don't give a f**k	0
+irdk	I really don't know	0
+irgtgbtw	I've really got to get back to work	0
+irhtgttbr	I really have to go to the bathroom	0
+irhy	i really hate you	-1
+irl	in real life	0
+irly	I really love you	1
+irt	in reply to	0
+irtf	I'll return the favor	0
+is2g	i swear to god	0
+isb	I'm so bored.	0
+isbya	im sorry but you asked	0
+isd	internet slang dictionary	0
+ise	internal server error	0
+isfly	i so f**king love you	1
+isg	I speak geek	0
+ishii	i see how it is	0
+isianmtu	I swear I am not making this up	0
+isj	inside joke	0
+isnt	is not	0
+iso	In Search Of	0
+isp	internet service provider	0
+iss	im so sorry	0
+istr	I seem to remember	0
+istwfn	I stole this word from noslang.com	0
+iswydt	i see what you did there	0
+ita	I Totally Agree	0
+itb	in the butt	0
+itc	in that case	0
+itd	in the dark	0
+ite	alright	0
+itk	in the know	0
+itn	I think not	0
+itt	in this thread	0
+ityltk	I thought you'd like to know	1
+itz	it's	0
+itzk	it's ok	0
+iucmd	if you catch my drift	0
+iukwim	if you know what i mean	0
+iunno	I don't know	0
+iuno	i dunno	0
+ive	i have	0
+iw2f	i want to f**k	0
+iw2fu	i want to f**k you	0
+iw2mu	I want to meet you	0
+iwaa	It was an accident	0
+iwbrbl@r	I will be right back later	0
+iwc	In Which Case	0
+iwfusb	i wanna f**k you so bad	0
+iwfy	I want to f**k you	0
+iwfybo	i will f**k your brains out	0
+iwg	it was good	0
+iwhi	I would hit it	0
+iwhswu	I want to have sex with you	0
+iwjk	i was just kidding	0
+iwk	I wouldn't know	0
+iwlu4e	I will love you forever	1
+iwmu	i will miss you	0
+iwmy	i will miss you	0
+iws	i want sex	0
+iwsn	i want sex now	0
+iwsul8r	I will see you later	0
+iwtfu	i want to f**k you	0
+iwtfy	i want to f**k you	0
+iwthswy	i want to have sex with you	0
+iwtly	i want to love you	1
+iwu	i want you	0
+iwuwh	i wish you were here	0
+iwy	i want you	0
+iwyb	I want your body	0
+iwyn	I want you now	0
+iwythmb	i want you to have my baby	0
+iyam	if you ask me	0
+iyc	if you can	0
+iyd	In Your Dreams	0
+iydhantsdsaaa	If you don't have anything nice to say don't say anything at all	0
+iydmma	if you don't mind me asking	0
+iyf	In your face	0
+iyflg	If You're Feeling Less Generous	0
+iygm	if you get me	0
+iykwim	if you know what I mean	0
+iym	I am your man	0
+iyo	in your opinion	0
+iyq	I like you	1
+iyss	if you say so	0
+iyswim	if you see what I mean	0
+iywt	if you want to	0
+iz	is	0
+j-c	just chilling	0
+j/a	Just Asking	0
+j/c	just curious	0
+j/j	just joking	0
+j/k	just kidding	0
+j/o	jackoff	0
+j/p	just playing	0
+j/s	just saying	0
+j/t	just talking	0
+j/w	just wondering	0
+j00	you	0
+j00r	your	0
+j2bs	just to be sure	0
+j2c	just too cute	1
+j2f	just too funny	1
+j2luk	just to let you know	0
+j2lyk	just to let you know	0
+j4f	just for fun	0
+j4g	just for grins	0
+j4l	just for laughs	0
+j4u	just for you	0
+jalaudlm	just as long as you don't leave me	0
+jas	just a second	0
+jb	jailbait	0
+jbu	just between us	0
+jc	just curious	0
+jcam	just checking away message	0
+jcath	Just chilling at the house	0
+jdfi	Just f**king do it	0
+jebus	Jesus	0
+jeomk	Just ejaculated on my keyboard	0
+jf	just fooling	0
+jfc	Jesus f**king Christ	0
+jfdi	Just f**king Do It!	0
+jff	just for fun	0
+jfg	just for giggles	0
+jfgi	just f**king google it	0
+jfi	just forget it	0
+jfj	jump for joy	0
+jfk	Just f**king kidding	0
+jfl	just for laughs	0
+jflts	just felt like typing something	0
+jfn	just for now	0
+jfo	just f**k off	0
+jfr	Just for reference	0
+jftr	just for the record	0
+jfu	just for you	0
+jfwy	just f**king with you	0
+jg2h	just go to hell	0
+jgiyn	Just google it you noob	0
+jgtfooh	just get the f**k out of here	0
+jh	Just hanging	0
+jhm	just hold me	0
+jho	just hanging out	0
+jic	just in case	0
+jit	just in time	0
+jizz	semen	0
+jj	just joking	0
+jj/k	just joking	0
+jja	just joking around	0
+jk	just kidding	0
+jka	just kidding around	0
+jking	joking	1
+jkl	just kidding loser	0
+jklol	Just Kidding Laughing Out Loud	1
+jkn	joking	1
+jks	jokes	0
+jkz	jokes	0
+jlma	just leave me alone	0
+jlt	just like that	0
+jm	Just Messing	0
+jma	just messing around	0
+jml	just my luck	0
+jmo	just my opinion	0
+jms	just making sure	0
+jom	just one minuite	0
+joo	you	0
+jooc	just out of curiosity	0
+jooce	Juice	0
+joor	your	0
+jp	just playing	0
+js	just saying	0
+jsa	just stop already	0
+jsing	just saying	0
+jst	just	0
+jsuk	just so you know	0
+jsun	Just so you know	0
+jsut	just	0
+jsyk	Just so you know	0
+jsyn	just so you know	0
+jtay	just thinking about you	0
+jtbs	Just To Be Sure	0
+jtc	Join the club	0
+jtfo	joke the f**k out	0
+jtluk	just to let you know	0
+jtlyk	just to let you know	0
+jtoi	just thought of it	0
+jtol	just thinking out loud	0
+jttsiowctw	just testing to see if other websites copy this word	0
+jtty	just to tell you	0
+jtumltk	just thought you might like to know	1
+jtwii	just the way it is.	0
+jtwiw	just the way it was.	0
+jtyltk	just thought you'd like to know	1
+jtysk	just thought you should know	0
+jumping the couch	acting strange	0
+jus	just	0
+juss	just	0
+juz	just	0
+juzt	just	0
+jw	just wondering	0
+jw2k	just wanted to know	0
+jwas	just wait a second	0
+jwtlyk	Just wanted to let you know	0
+jyfihp	jam your finger in her p***y	0
+k	ok	0
+k3wl	cool	1
+ka	Kick a**	0
+kafn	kill all f**king noobs	0
+kah	kisses and hugs	1
+kaw	kick a** work	0
+kay	okay	0
+kb	KiloBite	0
+kcco	keep calm chive on	0
+kek	laughing out loud	0
+kewel	cool	1
+kewl	cool	1
+kfc	kentucky fried chicken	0
+khitbash	kick her in the box and shove her	0
+khuf	know how you feel	0
+kia	Killed In Action	0
+kib	okay, im back	0
+kic	keep it clean	0
+kicks	sneakers	0
+kig	keep it going	0
+kiled	killed	0
+kinda	kind of	0
+kir	kid in room	0
+kis	keep it simple	0
+kisa	knight in shining armor	0
+kit	keep in touch	0
+kitfo	knock it the f**k off	0
+kitteh	kitten	0
+kiu	Keep it up	0
+kiwf	Kill It With Fire	0
+kk	ok	0
+kkk	ku klux klan	0
+kkthnxbye	okay thanks bye	0
+kky	kinky	0
+kl	cool	1
+km	kiss me	0
+kma	kiss my a**	0
+kmag	kiss my a** goodbye	0
+kmao	kick my a** off	0
+kmb	kiss my butt	0
+kmfa	kiss my f**king a**	0
+kmhba	kiss my hairy big a**	0
+kml	Killing Myself Laughing	0
+kmn	kill me now	0
+kmp	kill me please	0
+kmsl	killing myself laughing	0
+kmswl	killing myself with laughter	0
+knackered	drunk	0
+knewb	new player	0
+knn	f**k your mother	-1
+kno	know	0
+knw	know	0
+ko	knock out	0
+kol	kiss on lips	1
+koo	cool	1
+kool	cool	1
+kos	kid over shoulder	0
+kotc	kiss on the cheek	1
+kotl	kiss on the lips	1
+kotor	Knights of the old republic	0
+kots	keep on talking s**t	-1
+kpc	keeping parents clueless	0
+ks	kill steal	0
+kss	kiss	1
+kssd	kissed	1
+kt	keep talking	0
+ktc	kill the cat	0
+ktfo	knocked the f**k out	0
+kthanxbi	Okay, thanks. Bye.	0
+kthnxbai	Okay, thanks, bye	0
+kthnxbye	Okay, thanks, bye	0
+kthx	ok, thank you	0
+kthxbai	ok thanks bye!	0
+kthxbi	ok, thank you, goodbye	0
+kthxbye	ok, thank you, goodbye	0
+kthxbye	ok, thank you, goodbye	0
+kthxgb	ok thanks goodbye	0
+kthxmn	Ok Thanks Man	1
+kthz	ok thanks	0
+ktnx	Okay and Thanks	0
+kuhl	cool	1
+kul	cool	1
+kute	cute	1
+kutgw	Keep Up The good Work	1
+kuwl	cool	1
+kwik	quick	0
+kwim	Know What I Mean	0
+kwis	Know what I'm saying?	0
+kwit	quit	0
+kwiz	quiz	0
+kwl	cool	1
+kwtsds	Kiss where the sun don't shine	0
+kyag	Kiss Your a** Goodbye	0
+kyfag	kiss your f**king a** goodbye	0
+kyfc	keep your fingers crossed	0
+kyko	keep your knickers on	0
+kys	kill yourself	0
+l0lz	laugh out loud	0
+l2	learn to	0
+l2m	listening to music	0
+l2ms	laughing to myself	0
+l2p	learn to play	0
+l2r	Learn to read	0
+l337	elite	1
+l33t	elite	1
+l4m3rz	lamers	-1
+l8	late	-1
+l84skool	late for school	-1
+l8a	later	0
+l8er	later	0
+l8ers	Later	0
+l8r	see you later	0
+l8rs	laters	0
+l8rz	later	0
+l8s	later	0
+l8t	later	0
+l8ta	later	0
+l8ter	later	0
+l8tr	later	0
+l@u	laughing at you	0
+laff	laugh	0
+lafs	love at first sight	1
+lak	love and kisses	1
+lal	laughing a little	0
+lalol	lots and lots of laughs	0
+lam	leave a message	0
+lamf	like a motherf**ker	-1
+lan	local area network	0
+lappy	Laptop	0
+larp	live action role-play	0
+lasb	Lame a** Stupid b***h	-1
+lat	laugh at that	0
+lata	later	0
+lates	later	0
+latn	laugh at the newbs	0
+latr	Later	0
+latwttb	laughing all the way to the bank	0
+lau	laugh at you	0
+lawd	lord	0
+lawl	lauging out loud with a southern drawl	0
+lawl'd	laughed out loud	0
+lawled	laughed out loud	0
+lawls	laughing out loud with a southern drawl	0
+lawlz	laughing out loud with a southern drawl	0
+lazer	laser	0
+lazor	laser	0
+lbh	let's be honest	0
+lbnr	laughing but not really	0
+lbo	laughing butt off	0
+lbr	little boy's room	0
+lbvs	laughing but very serious	0
+lcsnpc	low cost small notebook personal computer	0
+ldr	Long-distance relationship	0
+lee7	elite	1
+leet	elite	1
+legit	legitimate	1
+leik	like	1
+leme	let me	0
+lemme	let me	0
+lesbo	lesbian	0
+less than 3	love	1
+less than three	love	1
+lez	lesbian	0
+lezbean	lesbian	0
+lezbo	lesbian	0
+lezzzie	lesbian	0
+lf	looking for	0
+lf1m	Looking for one more	0
+lf2m	looking for 2 more	0
+lfg	Looking for group	0
+lfl	let's f**k later	0
+lfm	looking for mate	0
+lfnar	laughing for no aparent reason	0
+lfp	looking for p***y	0
+lfr	Laughing for real	0
+lgb	lesbian/gay/bisexual	0
+lgbnaf	lets get butt naked and f**k	0
+lgbtq	Lesbien, Gay, Bisexual, Transgender and Queer.	0
+lgf	little green footballs	0
+lggd	let's go get drunk	0
+lgn	link goes nowhere	0
+lgo	life goes on	0
+lgot	let's go out tonight	0
+lgr	little girls room	0
+lgs	let's go shopping!	0
+lhao	laughing her a** off	0
+lhs	lets have sex	0
+lhsrn	let's have sex right now	0
+lic	like i care	-1
+liec	like i even care	-1
+liek	like	1
+liekz	likes	1
+lifo	last in first out	0
+ligaff	like I give a flying f**k	-1
+ligafs	like I give a flying s**t	-1
+ligas	like I give a s**t	-1
+lih	Laugh in head	0
+liita	love is in the air	1
+lik	like	1
+lil	little	0
+lim	Like it Matters	-1
+limh	laugh in my head	0
+liol	laugh insanely out loud	0
+lirl	laughing in real life	0
+liu	Look It Up	0
+liv	live	0
+liyf	laughing in your face	0
+lj	live journal	0
+lk	like	1
+lke	like	1
+llab	Laughing like a b***h.	0
+llap	live long and prosper	0
+llc	laughing like crazy	0
+llf	laugh like f**k	0
+llol	literally laughing out loud	0
+lltnt	live like theres no tomorrow	0
+lm4aq	Let's meet for a quickie.	0
+lma	leave me alone	0
+lmamf	leave me alone mother f**ker	0
+lmao	laughing my a** off	1
+lmaol	laughing my a** out loud	1
+lmaomtoaoa	Laugh my a** off many times over and over again	1
+lmaonade	laughing my a** off	1
+lmaool	laughing my a** off out loud	1
+lmaootf	Laughing my a** off on the floor	1
+lmaorof	Laughing my a** off Rolling on the floor	1
+lmaorotf	laughing my a** off rolling on the floor	1
+lmaowrotf	Laughing my a** of while rolling on the floor	1
+lmaowtntpm	laughing my a** off whilst trying not to piss myself	1
+lmaoxh	laughing my a** off extremely hard	1
+lmap	leave me alone please	-1
+lmb	lick my balls	0
+lmbao	laughing my black a** off	1
+lmbfwao	laughing my big fat white a** off	1
+lmbo	laughing my butt off	1
+lmcao	laughing my crazy a** off	1
+lmclao	laughing my cute little a** off	1
+lmd	Lick My d**k	0
+lmfao	laughing my f**king a** off	1
+lmfbo	laugh my f**king butt off	1
+lmffao	laughing my f**king fat a** off	1
+lmffo	Laughing my f**king face off	1
+lmfho	laughing my f**king head off	1
+lmfo	laughing my face off	1
+lmfpo	laughing my f**king p***y off	1
+lmfr	Lets Meet For Real	0
+lmfto	laughing my f**kin tits off	1
+lmg	let me guess	0
+lmgdao	Laughing My God d**n a** Off	1
+lmgtfy	Let me Google that for you	0
+lmhao	laughing my hairy a** off	1
+lmho	laughing my heiny off	0
+lmip	LETS MEET IN PERSON	0
+lmirl	Let's meet in real life	0
+lmk	let me know	0
+lmks	Let Me Know Soon	0
+lmkwut	let me know what you think	0
+lml	love my life	1
+lmmfao	laughing my mother f**king a** off	0
+lmmfaos	laughing my mother f**king a** off silly	0
+lmmfas	laugh my mother f**kin a** off	0
+lmmffao	laughing my mother f**king fat a** off	0
+lmo	Leave Me One	0
+lmoao	Laughing my Other a** Off	0
+lmp	lick my p***y	0
+lmpo	laughing my panties off	0
+lms	leave me some	0
+lmsao	laughing my sexy a** off	0
+lmso	laughing my socks off	0
+lmtd	limited	0
+lmtfa	leave me the f**k alone	0
+lmto	laughing my tits off	0
+lmtus	let me tell you something	0
+lmty	laughing more than you	0
+lmvo	laugh my vagina off	0
+ln	last name	0
+lnk	Link	0
+lobfl	Laugh Out Bloody f**king Loud	0
+lof	Laughing on floor	0
+lofi	uncool	0
+lofl	laugh out f**king loud	0
+loflmao	laying on floor laughing my a** off	0
+loi	laughing on the inside	0
+lol	laughing out loud	1
+lol'd	laughed out loud	1
+lol2u	Laugh out loud to you	0
+lol@u	Laugh out loud at you	0
+lolarotf	laughing out loud and rolling on the floor	0
+lolaw	laugh out loud at work	0
+lolbs	laugh out loud but seriously	0
+lolcano	laugh out loud	0
+lolci	laughing out loud, crying inside	0
+lolcity	the whole city laughs out loud	0
+lold	laughed out loud	0
+lolees	laugh out loud	0
+lolerz	laugh out loud	0
+lolf	lots of love forever	1
+lolin	laughing out loud	0
+lolio	laugh out loud I own	0
+lollam	Laughing Out Loud Like A Maniac	0
+lollercaust	an extreme event of hilarity	0
+lollercoaster	laugh out loud (a lot)	0
+lollerskates	laughing out loud	0
+lolm	laugh out loud man	0
+loln	laught out loud... not	0
+lolngs	laghing out loud never gonna stop	0
+lolocost	laugh out loud	0
+lolol	saying "lol" out loud	0
+lololz	laugh out loud	0
+lolpimp	Laughing out loud peeing in my pants	0
+lolq	laugh out loud quietly	0
+lolrof	Laughing out loud while rolling on the floor.	0
+lolrotf	laughing out loud rolling on the floor	0
+lols	laugh out loud	0
+lolvq	laugh out loud very quietly	0
+lolwtime	laughing out loud with tears in my eyes	0
+lolz	laugh out loud	0
+lomg	like oh my god	0
+loml	love of my life	1
+lomy	love of my life	1
+loomm	laughing out of my mind	0
+lorl	laugh out real loud	0
+lorrl	laugh out really really loud	0
+lotf	laughing on the floor	0
+loti	laughing on the inside	0
+loto	laughing on the outside	0
+lotr	lord of the rings	0
+lov	love	1
+lovu	love you	1
+loxen	laughing out loud	0
+loxxen	laughing out loud	0
+lozer	loser	0
+lpb	low ping b*****d	0
+lpiaw	Large Penis is always welcome	0
+lpms	life pretty much sucks	0
+lq	Laughing Quietly	0
+lq2m	laughing quietly to myself	0
+lqtm	Laugh quietly to myself	0
+lqtms	Laughing quietly to myself	0
+lqts	laughing quietly to self	0
+lrfl	Laughing really f**king loud	0
+lrh	laughing really hard	0
+lrqtms	laughing really quietly to myself	0
+lrt	last retweet	0
+lsfw	Less Safe For Work	0
+lshic	laughing so hard i'm crying	0
+lshid	laugh so hard i die	0
+lshipmp	Laughing so Hard I Piss My Pants	0
+lshismp	laughed so hard I s**t my pants	0
+lshiwms	laughing so hard I wet myself	0
+lshmson	laughing so hard milk shot out nose	0
+lshrn	laughing so hard right now	0
+lsmih	laughing so much it hurts	0
+lsr	loser	0
+lsudi	Lets see you do it	0
+lt	long time	0
+ltb	looking to buy	0
+lthtt	laughing too hard to type	0
+ltip	laughting until I puke	0
+ltm	listen to me	0
+ltmq	Laugh To Myself Quietly	0
+ltms	Laughing to my self	0
+ltnc	Long time no see	0
+ltns	long time no see	0
+ltnsoh	Long time, no see or hear	0
+ltnt	long time no talk	0
+ltp	Lay the pipe	0
+ltr	later	0
+lttpot	laughing to the point of tears	0
+ltw	Lead The Way	0
+ltywl	love the way you lie	1
+lu2	love you too	1
+lu2d	love you to death	1
+lu4l	love you for life	1
+lub	laugh under breath	0
+luf	love	1
+luff	Love	1
+lug	lesbian until graduation	0
+luk	look	0
+lukin	looking	0
+lul	love you lots	1
+lulab	Love you like a brother	1
+lulas	Love You Like a Sister	1
+lulz	Laughing out loud.	0
+lurker	one who reads but doesn't reply	0
+lurve	love	1
+luser	user who is a loser	0
+lusm	love you so much	1
+luv	love	1
+luvd	loved	1
+luver	lover	1
+luvuvm	love you very much	1
+luvv	love	1
+luzar	Loser	0
+lv	love	1
+lve	Love	1
+lvl	level	0
+lvn	loving	1
+lvr	lover	1
+lvya	love you	1
+lwih	look what I have	0
+lwn	last week's news	0
+ly	love you	1
+ly2	love you too	1
+lya	love you always	1
+lyaab	Love you as a brother	1
+lyaaf	Love you as a friend	1
+lyao	laugh your a** off	0
+lybo	laugh your butt off	0
+lyf	life	0
+lyfao	laughing your f**king a** off	0
+lyfe	life	0
+lyk	like	1
+lyk3	like	1
+lyke	like	1
+lyl	love you lots	1
+lylab	love you like a brother	1
+lylaba	love you like a brother always	1
+lylad	love you like a dad	1
+lylafklc	love you like a fat kid loves cake	1
+lylam	love you like a mom	1
+lylas	I love you like a sister	1
+lylasa	love you like a sister always	1
+lylno	Love you like no other	1
+lyls	love you lots	1
+lymi	love you mean it	0
+lysfm	love you so f**king much	1
+lysm	love you so much	1
+lyt	love you too	1
+lyvm	love you very much	1
+lzer	laser	0
+lzr	loser	0
+m	am	0
+m$	Microsoft	0
+m$wxp	Microsoft Windows XP	0
+m&d	mom and dad	0
+m'kay	okay	0
+m.i.a	Missing In Action	0
+m.o	makeout	0
+m/b	maybe	0
+m/f	male or female	0
+m2	me too	0
+m3	me	0
+m473s	friends	0
+m473z	friends	0
+m4f	male for female	0
+m4m	male for male	0
+m8	friend	0
+m84l	mate for life	0
+m8s	mates	0
+m8t	mate	0
+m8t's	friends	0
+m9	mine	0
+mabby	maybe	0
+mabe	Maybe	0
+mah	my	0
+mai	my	0
+mao	my a** off	0
+marvy	marvelous	1
+masterb8	masterbate	0
+mastrb8	masturbate	0
+mayb	maybe	0
+mayte	mate	0
+mb	my bad	-1
+mbf	my best friend	1
+mbfal	my best friend and lover	1
+mbhsm	My Boobs Hurt So Much	0
+mbl8r	Maybe Later	0
+mcds	mcdonalds	0
+mcs	My computer sucks	-1
+mcse	Microsoft Certified Systems Engineer	0
+me2	me too	0
+meatcurtain	woman's private parts	0
+meatspace	the real world	0
+meeh	me	0
+mego	my eyes glaze over	0
+meh	whatever	-1
+messg	message	0
+mf	motherf**ker	0
+mf2f4sx	meet face to face for sex	0
+mfa	mother f**king a**h**e	0
+mfah	motherf**king a**h**e	0
+mfao	my f**king a** off	0
+mfb	mother f**king b***h	0
+mfg	merge from current	0
+mfkr	motherf**ker	0
+mflfs	married female looking for sex	0
+mfr	motherf**ker	0
+mfw	my face when	0
+mgiwjsdchmw	my girlfriend is watching jeff so don't call her my wife	0
+mhh	my head hurts	0
+mhm	Yes	0
+mho	My Humble Opinion	0
+mia	Missing In Action	0
+mic	microphone	0
+miid	my internet is down	0
+milf	Mom i'd like to f**k	1
+miltf	Mom I'd like to f**k	1
+min	minute	0
+mins	minutes	0
+miq	make it quick	0
+mir	mom in room	0
+mirl	meet in real life	0
+misc.	miscellaneous	0
+miself	myself	0
+mite	might	0
+miw	mom is watching	0
+miwnlf	mom I would not like to f**k.	0
+mk	mmm....ok	0
+mkay	ok	0
+mlc	mid life crisis	0
+mle	emily	0
+mlia	my life is amazing	0
+mlod	mega laugh out loud of doom	0
+mlp	my little pony	0
+mmamp	Meet me at my place	0
+mmas	meet me after school	0
+mmatc	meet me around the corner	0
+mmatp	meet me at the park	0
+mmbocmb	message me back or comment me back	0
+mmd	make my day	0
+mmiw	my mom is watching	0
+mmk	umm, ok	0
+mml	making me laugh	0
+mml8r	meet me later	0
+mmlfs	married man looking for sex	0
+mmmkay	okay	0
+mmo	Massive Multiplayer Online	0
+mmt	meet me there	0
+mmtyh	My mom thinks you're hot	0
+mmw	making me wet	0
+mngmt	management	0
+mngr	manager	0
+mnm	eminem	0
+mnt	More next time	0
+mobo	motherboard	0
+mof	matter of fact	0
+mofo	mother f**ker	-1
+moh	Medal Of Honor	0
+mohaa	Medal of Honor Allied Assult	0
+mol	more or less	0
+mompl	moment please	0
+moobs	man boobs	0
+mor	more	0
+morf	male or female	0
+moro	tomorrow	0
+mos	mom over shoulder	0
+moss	member of same sex	0
+motarded	more retarded	0
+motd	message of the day	0
+motos	member of the opposite sex	0
+mpaw	my parents are watching	0
+mpbis	most popular boy in school	0
+mpd	Multiple Personality Disorder	0
+mpgis	most popular girl in school	0
+mph	miles per hour	0
+mpih	my penis is hard	0
+mpty	more power to you	0
+mrau	message received and understood	0
+msf	male seeking female	0
+msg	message	0
+msgs	messages	0
+msh	Me so horny	0
+msibo	my side is busting open	0
+msie	microsoft's internet explorer	0
+msm	main stream media	0
+msmd	monkey see - monkey do	0
+msngr	messenger	0
+mssg	message	0
+mstrb8r	masturbator	0
+msv	Microsoft Vista	0
+mtc	more to come	0
+mtf	More to Follow	0
+mtfbwu	may the force be with you	0
+mtfbwy	May the Force be with you	0
+mtg	Meeting	0
+mtherfker	mother f**ker	-1
+mthrfkr	mother f**ker	-1
+mtl	more than likely	0
+mtr	matter	0
+mtrfkr	mother f**ker	-1
+mty	empty	0
+mu	miss you	0
+mudda	mother	0
+mul	miss you lots	0
+musiq	music	0
+musm	Miss You So Much	0
+mutha	mother	0
+muve	multi-user virtual environment	0
+muvva	mother	0
+muzik	music	0
+mw2	modern warfare 2	0
+mw3	Modern Warfare 3	0
+mwah	kiss	1
+mwf	Married White Female	0
+mwsmirl	maybe we should meet in real life	0
+myaly	miss you and love you	1
+myfb	mind your f**king business	0
+myke	man-dyke	0
+myn	mine	0
+myob	mind your own business	-1
+myodb	mind your own d**n business	-1
+myofb	mind your own f**king business	-1
+mypl	my young padawan learner	0
+mysm	Miss you so much	0
+myspce	myspace	0
+mmorpg	massively multiplayer online role playing game	0
+n	and	0
+n e	any	0
+n/a	not applicable	0
+n/a/s/l	name, age, sex location	0
+n/c	no comment	-1
+n/m	nevermind	0
+n/n	nickname	0
+n/o	no offense	0
+n/t	no text	0
+n00b	newbie	-1
+n00bs	newbies	-1
+n00dz	nudes	0
+n00s	news	0
+n1	nice one	1
+n199312	african american	0
+n1994	african american	0
+n2	into	0
+n2b	not too bad	1
+n2bb	nice to be back	1
+n2br	not to be rude	0
+n2g	Not too good	-1
+n2m	not too much	-1
+n2mh	not too much here	0
+n2mhbu	not too much how about you?	0
+n2mhjc	not too much here just chillin	0
+n2mu	not too much, you?	0
+n2n	need to know	0
+n2p	need to pee	0
+n64	Nintendo 64	0
+n8v	native	0
+na	not applicable	0
+na4w	not appropriate for work	0
+naa	not at all	0
+nade	grenade	0
+nafc	Not Appropriate for Children	0
+nafkam	Not Away From Keyboard Any More	0
+naft	Not A f**king Thing	0
+nafta	North American Free Trade Agreement	0
+nah	no	0
+namh	not at my house	0
+nao	Not As Often	0
+natch	naturally	0
+natm	not at the minute	0
+naw	no	0
+naw-t	Naughty	-1
+nawidt	never again will i do that	-1
+nawt	not	0
+naww	no	0
+nayl	in a while	0
+nb	not bad	1
+nb,p	nothing bad, parents	0
+nba	national basketball association	0
+nbd	no big deal	-1
+nbdy	nobody	0
+nbf	never been f**ked	0
+nc	not cool	-1
+ncaa	National Collegiate Athletic Association	0
+ncs	no crap sherlock	0
+nd	and	0
+ndit	No details in thread	0
+ndn	indian	0
+nds	Nintendo DS	0
+ne	any	0
+ne1	anyone	0
+neday	any day	0
+nedn	any day now	0
+nefing	anything	0
+nei	Not enough information	0
+neida	any idea	0
+nekkid	naked	0
+nemore	Anymore	0
+nes	Nintendo Entertainment System	0
+nethin	anything	0
+nething	anything	0
+neva	never	0
+nevah	never	0
+nevar	Never	0
+nevarz	never	0
+nevm	never mind	0
+nevr	never	0
+newais	Anyways	0
+neway	anyway	0
+neways	anyways	0
+newayz	anyways	0
+newb	someone who is new	0
+newbie	new player	0
+newez	anyways	0
+nf	not funny	0
+nfbsk	not for british school kids	0
+nfc	no f**king clue	-1
+nfd	no f**king deal	-1
+nff	not f**king fair	-1
+nfi	no f**king idea	-1
+nfr	not for real	0
+nfs	not for sale	0
+nft	no further text	0
+nfw	no f**king way	-1
+ng	nice game	1
+ngaf	nobody gives a f**k	-1
+ngl	Not Gonna Lie	0
+nh	nice hand	-1
+nhatm	not here at the moment	0
+ni	no idea	0
+ni994	n***a	-1
+nib	new in box	0
+nic	Network Interface Card	0
+nif	non internet friend	0
+nifoc	naked in front of computer	0
+nifok	naked in front of keyboard	0
+nigysob	now I've got you son of a b***h	0
+nimby	not in my backyard	0
+nin	no its not	0
+nip	nothing in particular	0
+nips	nipples	0
+nite	night	0
+nizzle	n****r	0
+nj	Nice job	0
+njoy	enjoy	0
+njp	nice job partner	0
+nk	no kidding	0
+nkt	never knew that	0
+nld	nice lay down	0
+nm	not much	0
+nm u	not much, you	0
+nmbr	number	0
+nme	enemy	0
+nmf	not my fault	0
+nmfp	not my f**king problem	0
+nmh	not much here	0
+nmhau	nothing much how about you	0
+nmhm	nothing much here, man	0
+nmhu	nothing much here, you?	0
+nmhwby	nothing much here what about you	0
+nmjb	nothing much just bored	0
+nmjc	not much, just chillin'	0
+nmjch	Nothing Much Just Chilling	0
+nmjcu	nothing much, just chilling, you?	0
+nmjdhw	nothing much just doing homework	0
+nmjfa	nothing much, just f**king around	0
+nmnhnlm	no money, no honey, nobody loves me	-1
+nmp	Not My Problem	0
+nmu	nothing much, you	0
+nmw	no matter what	0
+nmwh	no matter what happens	0
+nn	good night	0
+nn2r	no need to respond	0
+nnaa	no not at all	0
+nnfaa	no need for an apology	0
+nnr	no not really	0
+nntr	no need to reply	0
+nntst	no need to say thanks	1
+no pro	no problem	0
+no1	no one	0
+noaa	National Oceanic and Atmospheric Administration	0
+noc	naked on camera	0
+noe	know	0
+noes	no	-1
+nofi	No Flame Intended	0
+nolm	No one loves me	-1
+nomw	not on my watch	0
+noob	someone who is new	0
+noobie	new person	0
+nooblet	new player	0
+noobz0r	newbie	-1
+noodz	nude pictures	0
+nookie	sex	0
+nop	normal operating procedure	0
+norwich	knickers off ready when I come home	0
+notin	nothing	0
+noty	no thank you	0
+noub	none of your business	-1
+nowai	No way	-1
+nowin	knowing	0
+noyb	none of your business	-1
+noygdb	none of your god d**n business	-1
+np	no problem	0
+np4np	naked pic for naked pic	0
+npa	not paying attention	0
+npc	Non-playable character	0
+npe	nope	0
+npgf	no problem girl friend	0
+nph	no problem here	0
+npi	no pun intended	0
+npnt	no picture, no talk	0
+nps	No Problems	0
+nq	Thank you	1
+nr	no reserve	0
+nr4u	not right for you	0
+nrg	energy	0
+nrn	No Response Necessary	0
+ns	nice	1
+nsa	No Strings Attached	0
+nsas	No Strings Attached Sex	0
+nsfmf	not so fast my friend	0
+nsfu	no sex for you	0
+nsfw	not safe for work	0
+nss	no s**t sherlock	0
+nst	no school today	0
+nstaafl	No Such Thing As a Free Lunch	0
+nt	nice try	0
+ntb	not too bad	1
+ntbn	no text-back needed	0
+nthg	nothing	0
+nthin	nothing	0
+nthn	nothing	0
+ntigaf	not that i give a f**k	0
+ntk	Need to know	0
+ntkb	need to know basis	0
+ntm	not to much	0
+ntmk	Not to my knowledge	0
+ntmu	nice to meet you	0
+ntmy	nice to meet you	0
+ntn	nothing	0
+ntrly	Not Really	0
+nts	note to self	0
+ntstt	not safe to talk	0
+ntt	need to talk	0
+ntta	nothing to talk about	0
+nttawwt	Not that there is anything wrong with that	0
+nttiawwt	Not that there is anything wrong with that.	0
+ntty	nice talking to you	0
+ntw	not to worry	0
+ntxt	no text	0
+nty	no thank you	0
+nu	new	0
+nub	inexperienced person	0
+nuff	enough	0
+nuffin	nothing	0
+nufin	nothing	0
+nutin	nothing	0
+nuttin	nothing	0
+nv	envy	-1
+nvm	never mind	0
+nvmd	nevermind	0
+nvmdt	never mind then	0
+nvmt	nevermind that	0
+nvr	never	0
+nvrm	Nevermind	0
+nvrmnd	never mind	0
+nw	no way	-1
+nwb	a new person	0
+nwih	no way in hell	0
+nwj	No Way Jose	0
+nwrus	no way are your serious	0
+nws	not work safe	0
+nwtf	now what the f**k	-1
+nwy	no way	-1
+nxt	next	0
+ny1	Anyone	0
+nyc	New York City	0
+nyf	not your fault	0
+nyp	not your problem	0
+nywy	anyway	0
+o	Oh	0
+o rly	oh really	0
+o&o	over and out	0
+o.p.	Original Poster	0
+o/y	oh yeah	0
+oaoa	over and over again	0
+oar	on a roll	0
+oaw	on a website	0
+obgjfioyo	old but good job finding it on your own	0
+obj	Object	0
+obl	osama bin laden	0
+obo	or best offer	0
+obtw	oh, by the way	0
+obv	obviously	0
+obvi	obviously	0
+occ	Occupation	0
+ocd	obsessive compulsive disorder	0
+ocgg	Oh Crap, gotta go	-1
+od	over dose	0
+oday	software illegally obtained before it was released	0
+odg	oh dear God	0
+odtaa	one d**n thing after another	0
+oe	or else	0
+oed	oxford english dictionary	0
+of10	often	0
+ofc	of course	0
+ofcol	oh for crying out loud	0
+ofn	Old f**king News	0
+oftc	out for the count	0
+oftn	often	0
+oftpc	off topic	0
+ofwg	old fat white guys	0
+og	original gangster	0
+ogw	oh guess what	0
+oh noes	oh s**t!	-1
+oh noez	Oh no!	-1
+ohic	oh I see	0
+ohn	oh hell no	-1
+ohnoez	Oh no	-1
+ohy	oh hell yeah	0
+oibmpc	oops I broke my computer	0
+oic	oh, I see	0
+oicic	oh i see i see	0
+oicu	oh, i see you!	0
+oicwydt	oh, i see what you did there	0
+oidia	oops i did it again	0
+oiyd	Only In Your Dreams	-1
+oj	orange juice	0
+ojsu	Oh, just shut up!	-1
+ok	okay	0
+oll	online love	0
+olpc	One Laptop Per Child	0
+omdg	oh my dear god	0
+omdz	Oh My Days	0
+omfd	oh my f**king days	-1
+omfg	oh my f**king god	-1
+omfgn	Oh my f**king god noob	-1
+omfgsh	Oh My f**king Gosh	-1
+omfj	oh my f**king jesus	-1
+omfl	oh my f**king internet connection is slow	-1
+omfsm	Oh My Flying Spaghetti Monster	0
+omfwtg	Oh My f**k What The God?	-1
+omg	oh my God	0
+omg's	oh my god's	0
+omgd	Oh my gosh dude	0
+omgf	oh my god...f**k!	-1
+omgg	Oh my gosh girl	0
+omgicfbi	Oh my god I can't f**king believe it	-1
+omgih	Oh My God In Heaven	0
+omgihv2p	oh my god i have to pee	0
+omginbd	Oh my God, It's no big deal	0
+omgn	oh my goodness	0
+omgny	oh my god no way	0
+omgosh	Oh my gosh	0
+omgroflmao	oh my god roll on the floor laughing my a** off	0
+omgsh	oh my gosh	0
+omgty	Oh my god thank you	1
+omgukk	oh my god you killed kenny	0
+omgwtf	on my God, what the f**k	-1
+omgwtfbbq	oh my God, what the f**k	-1
+omgwtfhax	Oh My God What The f**k, Hacks!	-1
+omgwtfit	Oh my God, what the f**k is that	-1
+omgwtfnipples	on my God, what the f**k	-1
+omgyg2bk	oh my god you got to be kidding	-1
+omgykkyb	oh my god you killed kenny you b*****ds	0
+omgz	oh my God	0
+omgzors	oh my god	0
+omhg	oh my hell god	0
+omj	oh my jesus	0
+ommfg	oh my mother f**king god	-1
+omt	one more time	0
+omw	on my way	0
+omwh	on my way home	0
+omwts	on my way to school	0
+omy	oh my!	0
+onoez	oh no	-1
+onoz	oh no	-1
+onud	oh no you didn't	-1
+onyd	oh no you didn't	-1
+oob	out of buisness	0
+oobl	out of breath laughing	0
+ooc	out of character	0
+oohm	out of his/her mind	0
+oom	Out of mana	0
+oomf	One of my followers	0
+oomm	out of my mind	0
+ooo	out of the office	0
+ootb	out of the blue	0
+ootd	outfit of the day	0
+oow	On our way	0
+ooym	out of your mind	0
+op	operator	0
+orgy	orgasm	0
+orlsx	oral sex	0
+orly	Oh Really	0
+orly	oh really?	0
+orpg	online role playing game	0
+os	operating system	0
+osbutctt	only sad b*****ds use this crappy text talk	-1
+osd	On Screen Display	0
+osifgt	oh s**t i forgot	-1
+oslt	or something like that	0
+osy	oh screw you	-1
+ot	off topic	0
+otc	off the chain	0
+otfcu	on the floor cracking up	0
+otfl	on the floor laughing	0
+otflmao	On the floor laughing my a** off	0
+otflmfao	On the floor laughing my f**king a** off	0
+otflol	on the floor laughing out loud	0
+otfp	on the f**king phone	0
+otft	over the f**king top	0
+oti	on the internet	0
+otl	out to lunch	0
+otoh	on the other hand	0
+otp	on the phone	0
+ots	over the shoulder	0
+ott	over the top	0
+otw	on the way	0
+oughta	ought to	0
+ova	over	0
+oways	oh wow are you serious	0
+owned	made to look bad	-1
+ownt	made to look bad	-1
+ownz	owns	0
+ownzer	one who makes others look bad	0
+ownzorz	Owned	0
+owt	Out	0
+oww	Oops, wrong window	0
+oyfe	Open Your f**king Eyes	-1
+oyid	oh yes i did	0
+oyo	on your own	0
+oyr	Oh Yeah Right	0
+p-nis	penis	0
+p.o.b.	Parent Over Back	0
+p.o.s	parent over shoulder	0
+p.o.s.	parent over shoulder	0
+p/oed	pissed off	-1
+p/w	password	0
+p00p	poop	0
+p0wn	make to look bad	0
+p2p	peer to peer	0
+p33n	penis	0
+p3n0r	penis	0
+p3n15	penis	0
+p3n1s	penis	0
+p4p	pic for pic	0
+p911	parent emergency (parent near)	0
+p@w	parents are watching	0
+pach	parents are coming home	0
+pachs	parents are coming home soon	0
+pae	Pimpin aint easy	0
+pag	Parents Are Gone	0
+pah	parents at home	0
+parnts	parents	0
+pas	parent at side	0
+pasii	put a sock in it	0
+patd	Panic At The Disco	0
+paw	parents are watching	0
+pb	peanut butter	0
+pb&j	peanut butter and jelly	0
+pbb	parent behind back	0
+pbcakb	problem between chair and keyboard	0
+pbj	peanut butter and jelly	0
+pbjt	peanut butter jelly time	0
+pbkc	Problem between keyboard & chair	0
+pbly	probably	0
+pbm	parent behind me	0
+pbp	Please Be Patient	0
+pcbd	page cannot be displayed	0
+pce	peace	1
+pcent	percent	0
+pcm	please call me	0
+pco	please come over	0
+pcrs	Parents can read slang	0
+pda	public display of affection	0
+pdg	pretty d**n good	0
+pdq	pretty d**n quick	0
+peanus	penis	0
+pearoast	repost	0
+pebcak	Problem Exists Between Chair and Keyboard	-1
+pebkac	problem exists between keyboard and chair	-1
+pebmac	Problem Exist Between monitor and chair	-1
+peep dis	check out what I'm telling you	0
+peeps	people	0
+pen0r	Penis	0
+pen15	penis	0
+penor	penis	0
+peoples	people	0
+perv	pervert	0
+pewp	poop	0
+pex	Please explain?	0
+pezzas	parents	0
+pf	profile	0
+pfa	Please Find Attached	0
+pfm	Please forgive me	0
+pfo	please f**k off	-1
+pfos	parental figure over sholder	0
+pfy	pimply faced youth	0
+pg	page	0
+ph#	phone number	0
+ph33r	fear	0
+ph34r	fear	0
+phag	fag	-1
+phail	fail	-1
+phat	pretty hot and tasty	0
+phayl	fail	-1
+phear	fear	0
+phlr	peace hugs love respect	1
+phm	please help me	0
+phq	f**k you	-1
+phreak	freak	0
+phreaker	phone hacker	0
+phuck	f**k	0
+phucker	f**ker	-1
+phuk	f**k	0
+phun	fun	1
+phux	f**k	0
+phuxor	f**ker	-1
+piab	panties in a bunch	0
+pic	picture	0
+piccies	Pictures	0
+pics	pictures	0
+pihb	pee in his butt	-1
+piihb	put it in her butt	-1
+piitb	put it in the butt	-1
+pima	Pain in my a**	-1
+pimfa	pain in my f**king a**	-1
+pimha	Pain in my hairy a**	-1
+pimpl	pissing in my pants laughing	0
+pino	Filipino	0
+pir	parents in room	0
+pirlos	parent in room looking over shoulder	0
+pita	pain in the a**	-1
+pitfa	Pain In The f**king a**	-1
+pitr	parent in the room	0
+pitrtul	parents in the room text you later	0
+piw	Parent is watching	0
+pix	pictures	0
+pk	player kill	0
+pkemon	pokemon	0
+pker	player killer	0
+pking	player killing	0
+pl	parent looking	0
+pl0x	please	0
+pl8	plate	0
+plac	parent looking at computer	0
+plams	parents looking at my screen	0
+plars	party like a rock star	1
+platcs	parent looking at the computer screen	0
+ple's	please	0
+pleaz	please	0
+pleez	please	0
+pleeze	please	0
+pleze	please	0
+pliz	please	0
+plma	please leave me alone	0
+plmk	please let me know	0
+plocks	please	0
+plom	parents looking over me	0
+plomb	parents looking over my back	0
+ploms	parent looking over my shoulder	0
+plos	Parents Looking Over Shoulder	0
+plox	please	0
+ploxxorz	please	0
+pls	please	0
+plse	please	0
+plx	please/thanks	0
+plywm	play with me	0
+plz	please	0
+plzkthx	Please? OK, Thank you	0
+plzthx	please? Thanks	0
+pmfji	Pardon me for jumping in	0
+pmfsl	piss my f**king self laughing	0
+pmg	oh my God	0
+pmita	pound me in the a**	-1
+pmitap	pound me in the a** prison	-1
+pml	pissing myself laughing	0
+pmo	pissing me off	-1
+pmp	pissing my pants	0
+pmpl	piss my pants laughing	0
+pmsfl	Pissed Myself f**king Laughing	0
+pmsl	piss my self laughing	0
+pnbf	Potential new boy friend	0
+pnhlgd	parents not home, let's get dirty	0
+pns	penis	0
+pnus	penis	0
+po	piss off	-1
+po po	police	0
+po'd	pissed off	-1
+pob	parent over back	0
+poc	Piece of crap	-1
+poed	pissed off	-1
+poets	piss off early, tomorrow's Saturday	-1
+poi	point of interest	0
+poidnh	Pics or it did not happen	0
+pol	parent over looking	0
+poms	parent over my shoulder	0
+poo	poop	0
+poontang	female genitalia	0
+pooter	Computer	0
+popo	police	0
+poq	Piss Off Quick	-1
+pos	Parent Over Shoulder	0
+poscs	parents over sholder change subject	0
+posmbri	parent over shoulder might be reading it	0
+potc	pirates of the caribbean	0
+pots	Plain Old Telephone Service	0
+pov	point of view	0
+pow	prisoner of war	0
+pp	pee pee	0
+ppl	people	0
+ppls	people	0
+pplz	people	0
+ppor	post proof or recant	0
+ppppppp	Prior Proper Planning Prevents Piss Poor Performance	0
+pr0	professional	1
+pr0n	porn	0
+pr0nz	porn	0
+prblm	Problem	-1
+prd	period	0
+preggers	pregnant	0
+prego	Pregnant	0
+prez	president	0
+prfct	perfect	1
+prn	porn	0
+prncpl	principal	0
+prncss	princess	1
+prnoscrn	porn on screen	0
+pro	professional	1
+prob	problem	-1
+probs	problems	-1
+probly	probably	0
+probz	probably	0
+prod	product	0
+prolly	Probably	0
+prollz	probably	0
+pron	porn	0
+proxie	proxy	0
+prp	please reply	0
+prsn	person	0
+prty	party	0
+prv	private	0
+prvrt	pervert	0
+prw	parents are watching	0
+ps1	Play Station 1	0
+ps2	Play Station 2	0
+ps3	Play Station 3	0
+psa	Public Service Announcement	0
+psbms	parent standing by my side	0
+psn	playstation netwok	0
+psos	parent standing over sholder	0
+psp	playstation portable	0
+pssy	pussy	0
+pst	please send tell	0
+pt33n	preteen	0
+ptbb	pass the barf bag	0
+ptfo	passed the f**k out	0
+pthc	preteen hardcore	0
+ptl	Praise the Lord	0
+pto	Personal Time Off	0
+ptw	play to win	0
+puh-leaze	Please	0
+purdy	pretty	1
+purty	pretty	1
+puter	Computer	0
+pvp	player versus player	0
+pvt	pervert	-1
+pw	parent watching	0
+pwb	p***y whipped b***h	0
+pwcb	parents watching close by	0
+pwd	password	0
+pwn	made to look bad	0
+pwn3d	owned	0
+pwn3r	owner	0
+pwnage	Ownage	0
+pwnd	owned	1
+pwned	made to look bad	-1
+pwner	owner	0
+pwns	owns	1
+pwnt	owned	1
+pwnz	owns	1
+pwnzor	owner	0
+pwob	Parent watching over back	0
+pwoms	parent watching over my shoulder	0
+pwor	power	0
+pwos	parent was over sholder	0
+pww	parents were watching	0
+pxr	punk rocker	0
+pydim	put your d**k in me	0
+pyfco	put your freaking clothes on	0
+pyt	pretty young thing	0
+pz	peace	1
+pzled	puzzled	0
+p^s	parent over shoulder	0
+q2c	quick to c**	0
+q33r	Queer	0
+q4u	question for you	0
+qed	I've made my Point	0
+qfe	quoted for emphasis	0
+qfmft	quoted for motherfucking truth	0
+qft	quoted for truth	0
+qft&gj	quoted for truth and great justice	0
+ql	cool	1
+qltm	quietly laughing to myself	0
+qna	question and answer	0
+qool	cool	1
+qoolz	cool	1
+qotd	quote of the day	0
+qotsa	queens of the stone age	0
+qoty	quote of the year	0
+qpr	quite pathetic really	0
+qpwd	quit posting while drunk	0
+qq	crying eyes	0
+qt	cutie	1
+qt3.14	cutie pie	1
+qte	cutie	1
+qtpi	cutie pie	1
+r	are	0
+r-tard	retard	-1
+r.i.p.	rest in peace	0
+r0x0rz	rocks	0
+r2f	Ready To f**k	0
+r8	rate	0
+r8p	rape	0
+r8pist	rapist	0
+r8t	rate	0
+ra2	red alert 2	0
+ra3	Red Alert 3	0
+raoflmao	rolling around on floor laughing my a** off	0
+rawk	Rock	0
+rawks	rocks	0
+rawr	roar	0
+rb@u	right back at you	0
+rbau	right back at you	0
+rbay	right back at you	0
+rbm	right behind me	0
+rbtl	Read between the lines	0
+rbty	right back to you	0
+rcks	Rocks	0
+rcsa	right click save as	0
+rcvd	received	0
+rdy	ready	0
+re	reply	0
+re/rehi	hello again	0
+reefer	marijuana	0
+refl	rolling on the floor laughing	0
+rehi	hello again	0
+rele	really	0
+rents	parents	0
+rentz	parents	0
+rep	represent	0
+reppin	representing	0
+retrotextual	One who is using out of date words and abbreviations while texting.	0
+rff	really f**king funny	0
+rflmao	rolling on the floor laughing my a** off	0
+rfn	right fucking now	-1
+rgr	roger	0
+rhcp	red hot chilli peppers	0
+rhgir	really hot guy in room	0
+rhs	right hand side	0
+ricl	rolling in chair laughing	0
+rifk	rolling on the floor laughing	0
+rihad	Rot In Hell And Die	0
+rino	republican in name only	0
+rite	right	0
+ritjive	non virgin	0
+rjct	reject	0
+rl	real life	0
+rlbf	Real Life Boyfriend	0
+rlf	Real Life Friend	0
+rlg	really loud giggle	0
+rlgf	Real Life Girl Friend	0
+rlly	really	0
+rln	real life name	0
+rly	really	0
+rlz	rules	0
+rlze	realize	0
+rm	room	0
+rme	rolling my eyes	0
+rmr	remember	0
+rmso	Rock My socks off	0
+rn	Right now	0
+rnt	aren't	0
+ro	rock out	0
+rockr	rocker	0
+rodger	affirmative	0
+rofalol	roll on the floor and laugh out loud	0
+rofc	Rolling On Floor Crying	0
+roffle	rolling on the floor laughing	0
+roffle out loud	rolling on the floor laughing out loud	0
+rofflecake	rolling on the floor laughing	0
+rofflecopters	rolling on the floor with laughter	0
+roffleol	rolling on the floor laughing out loud	0
+roffles	rolling on floor laughing	0
+rofflmfao	rolling on the floor laughing my f**king a**	0
+rofl	rolling on the floor laughing	0
+rofl&pmp	rolling on floor laughing and peeing my pants	0
+roflao	rolling on the floor laughing my a** off	0
+roflastc	Rolling On Floor Laughing And Scaring The Cat	0
+roflcopter	Rolling on the floor laughing	0
+roflcopters	rolling on the floor laughing, VERY funny.	0
+roflkmd	rolling on the floor laughing kicking my dog	0
+rofllh	rolling on the floor laughing like hell	1
+roflmao	rolling on the floor laughing my a** off	0
+roflmaoapimp	rolling on the floor laughing my a** off and peeing in my pants	0
+roflmaool	Rolling on the floor laughing my a** off out loud	0
+roflmaopmp	rolling on the floor, laughing my a** off, pissing my pants	0
+roflmaouts	Rolling on floor laughing my f**king a** off unable to speak	0
+roflmaowpimp	rolling on floor laughing my a** off while peeing in my pants	0
+roflmbfao	Rolling On Floor Laughing My Big Fat a** Off	0
+roflmbo	rolling on floor laughing my butt off	0
+roflmfaopimp	rolling on the floor laughing my f**king a** off pissing in my pants	0
+roflmfaopmp	rolling on flor laughing my f**king a** of peeing my pants	0
+roflmgao	rolling on the floor laughing my gay a** off	0
+roflmgdao	rolling on the floor laughing my god d**n a** off	0
+roflmgdmfao	roling on floor laughing my god d**n mother f**king a** off	0
+roflmgo	Rolling On Floor Laughing My Guts Out	0
+roflmho	Rolling on the floor laughing my head off	0
+roflmiaha	Rolling on the floor laughing myself into a heart attack	0
+roflmmfao	rolling on the floor laughing my mother f**king a** off	0
+roflol	rolling on floor laughing out loud	0
+roflolbag	Rolling On The Floor Laughing Out Loud Busting A Gut	0
+roflpimp	rolling on the floor laughing pissing in my pants	0
+roflpmp	rolling on the floor laughing peeing my pants	0
+roflwtime	Rolling on the Floor laughing with tears in my eyes	0
+rofpml	rolling on the floor pissing myself laughing	0
+rofwl	Rolling on the floor while laughing	0
+roger	affirmative	0
+rogl	rolling on ground laughing	0
+roglmfao	rolling on ground laughing my f**king a** off	0
+roi	Return On Investment	0
+roids	steroids	0
+roj	affirmative	0
+rol	rolling over laugihng	0
+rolmao	Rolling Over Laughing My a** Off	0
+rolmfao	rolling over laughing my f**king a** off	0
+rombl	rolled off my bed laughing	0
+rong	wrong	0
+roofles	rolling on the floor laughing	0
+ror	raughing out roud	0
+rotf	rolling on the floor	0
+rotfalol	roll on the floor and laugh out loud	0
+rotffl	roll on the f**king floor laughing	0
+rotfflmao	rolling on the f**king floor laughing my a** off	0
+rotfflmfao	rolling on the f**king floor laughing my f**king a** off	0
+rotfl	rolling on the floor laughing	0
+rotflaviab	rolling on the floor laughing and vomiting in a bucket	0
+rotflmao	rolling on the floor laughing my a** off	0
+rotflmaofaktd	Rolling on the floor laughing my a** off farted and killed the dog	0
+rotflmaool	rolling on the floor laughing my a** off out loud	0
+rotflmaostc	rolling on the floor laughing my a** off scaring the cat	0
+rotflmbo	rolling on the floor laughing my butt off	0
+rotflmfao	rolling on the floor laughing my f**king a** off	0
+rotflmfaopimp	rolling on the floor laughing my f**king a** off peeing in my pants	0
+rotflmfaopmp	rolling on the floor laughing my a** off pissin my pants	0
+rotflmfho	rolling on the floor laughing my f**king head off	0
+rotflmho	rolling on the floor laughing my head off	0
+rotflmmfao	rolling on the floor laughing my mother f**king a** off	0
+rotflol	rolling on the floor laughing out loud	0
+rotfpm	rolling on the floor pissing myself	0
+rotfwlmao	rolling on the floor while laughing my a** off	0
+rotg	rolling on the ground	0
+rotgl	roll on the ground laughing	0
+rotglmao	rolling on the ground laughing my a** off	0
+rotw	rest of the world	0
+rowyco	rock out with your c**k out	0
+rox	rocks	0
+roxor	rock	0
+roxorz	rocks	0
+roxxor	rock	0
+rp	roleplay	0
+rpg	role playing game	0
+rpita	royal pain in the a**	0
+rplbk	reply back	0
+rpo	royally pissed off	0
+rq	real quick	0
+rr	rest room	0
+rrb	restroom break	0
+rsn	real soon now	0
+rsp	respawn	0
+rspct	respect	0
+rsps	Runescape Private Server	0
+rta	read the article	0
+rtard	retard	0
+rtbq	Read The Blinking Question	0
+rtf	return the favor	0
+rtfa	read the f**king article	0
+rtffp	Read the f**king front page	0
+rtfm	read the f**king manual	0
+rtfmfm	read the f**king manual f**king moron	0
+rtfmm	read the f**king manual moron	0
+rtfms	Read The f**king Manual Stupid	0
+rtfp	read the f**king post	0
+rtfq	Read The f**king Question	0
+rtfs	read the f**king summary	0
+rtfu	Ready the f**k up	0
+rtg	ready to go	0
+rtl	report the loss	0
+rtm	read the manual	0
+rtr	Read the Rules	0
+rtry	retry	0
+rts	Real-time strategy	0
+ru	are you	0
+ru18	are you 18	0
+rua	are you alone	0
+ruabog	are you a boy or girl	0
+ruagoab	are you a girl or a boy	0
+rubz2nt	are you busy tonight	0
+rufkm	are you f**king kidding me	0
+rugay	are you gay	0
+rugta	are you going to answer	0
+ruh	are you horny	0
+ruk	are you ok?	0
+rukm	are you kidding me	0
+rumf	Are you male or female	0
+ruok	are you ok?	0
+rur	are you ready	0
+rut	are you there	0
+ruwm	are you watching me	0
+rwb	Rich White b***h	0
+ryt	right	0
+ryte	right	0
+*s*	smile	0
+s'ok	it's okay	0
+s'pose	suppose	0
+s'up	what's up?	0
+s.i.n.g.l.e	Stay intoxicated nightly, get laid everyday.	0
+s.i.t.	stay in touch	0
+s.o.a.b.	son of a b***h	0
+s.o.b.	son of a b***h	0
+s.w.a.k.	sealed with a kiss	0
+s/b	should be	0
+s2a	sent to all	0
+s2bu	Sucks to be you	0
+s2r	send to receive	0
+s2u	same to you	0
+s2us	Speak to you soon	0
+s3x	Sex.	0
+s4se	Sight For Sore Eyes	0
+s8ter	skater	0
+sab	slap a b***h	0
+sagn	Spelling and Grammar Nazi	0
+sah	sexy as hell	0
+sahm	stay at home mom	0
+sase	self addressed stamped envelope	0
+sbc	sorry bout caps	0
+sbcg4ap	strongbads cool game for attractive people	0
+sbd	silent but deadly	0
+sblai	stop babbaling like an idiot	-1
+sbrd	so bored	0
+sbs	such bull s**t	0
+sbt	sorry bout that	0
+scnr	sorry, I couldn't resist	0
+scool	school	0
+scrilla	money	0
+scrt	secret	0
+scurred	scared	0
+sd	suck d**k	0
+sdf^	shut da f**k up	0
+sdk	Software Development Kit	0
+sdlc	Software Development Life Cycle	0
+sec	second	0
+secks	sex	0
+secksea	Sexy	0
+secksy	sexy	0
+sed	said	0
+see through your eyes	stye	0
+seg	s**t Eatin Grin	0
+seks	sex	0
+sellin	selling	0
+seo	Search Engine Optimization	0
+serp	search engine results page	0
+sexc	sexy	0
+sexe	sexy	0
+sexi	Sexy	0
+sexii	sexy	0
+sexilicious	Very Sexy	0
+sexx0rz	sex	0
+sez	says	0
+sfam	Sister from another mother	0
+sfe	safe	0
+sfh	So f**king Hot	0
+sfipmp	so funny I peed my pants	0
+sfm	so f**king much	0
+sfr	so f**king random	0
+sfs	so f**king stupid	0
+sfsg	So far so good	1
+sfu	shut the f**k up	0
+sfw	safe for work	0
+sfwuz	safe for work until zoomed	0
+sfy	speak for yourself	0
+sg	so good	1
+sgb	straight/gay/bisexual	0
+sgbadq	Search google before asking dumb questions	0
+sgi	Still got it	0
+sgtm	slightly gigling to myself	0
+sh	s**t happens	0
+shag	f**k	0
+shawty	girl	0
+shd	should	0
+shexi	sexy	0
+shexy	sexy	0
+shiat	s**t	0
+shiet	s**t	0
+shite	s**t	0
+shiz	s**t	0
+shizit	s**t	0
+shiznat	s**t	0
+shiznit	s**t	0
+shizz	s**t	0
+shizzle	s**t	0
+shld	should	0
+shmexy	sexy	1
+shmily	see how much i love you	1
+sho	sure	0
+sho'nuff	sure enough	0
+showin	showing	0
+shrn	so hot right now	0
+sht	s**t	-1
+shtf	s**t hits the fan	0
+shud	should	0
+shuddup	Shut Up	-1
+shup	shut up	-1
+shure	sure	0
+shut^	shut Up	-1
+shwr	shower	0
+shyat	s**t	-1
+shyt	s**t	-1
+siao	school is almost over	0
+sibir	sibling in room	0
+sic	said in context	0
+sicl	sitting in chair laughing	0
+sif	as if	0
+sifn't	as if not	0
+sig	Signature	0
+siggy	Signature	0
+silf	Sister I'd Like To f**k	1
+simcl	sitting in my chair laughing	0
+simclmao	sitting in my chair laughing my a** off	0
+siol	Shout It Out Loud	0
+sis	sister	0
+sista	Sister	0
+sitb	sex in the but	0
+sitmf	say it to my face	0
+siu	suck it up	0
+siuya	shove it up your a**	0
+sk	spawn kill	0
+sk8	skate	0
+sk8er	skater	0
+sk8ing	Skating	0
+sk8r	skater	0
+sk8ter	skater	0
+sk8tr	skater	0
+sked	schedule	0
+skeet	ejaculate	0
+skewl	school	0
+skhool	school	0
+skillz	skills	0
+skl	School	0
+skool	school	0
+skoul	school	0
+sktr	skater	0
+skwl	school	0
+sl4n	so long for now	0
+sleepin	sleeping	0
+sleepn	sleeping	0
+slf	sexy little f**k	0
+slgb	Straight/Lesbian/Gay/Bisexual	0
+slng	slang	0
+slo	slow	0
+slore	s**tty w***e	0
+slos	someone looking over shoulder	0
+slp	sleep	0
+slt	something like that	0
+sl^t	s**t	0
+sm	social media	0
+sm1	someone	0
+smb	see my blog	0
+smbd	suck my big d**k	-1
+smbt	Suck my big toe	0
+smc	suck my c**k	-1
+smd	suck my d**k	-1
+smdb	suck my d**k b***h	-1
+smdvq	suck my d**k quickly	-1
+smeg	f**k	-1
+smexy	sexy	1
+smf	stupid motherf**ker	-1
+smfd	suck my f**king d**k	-1
+smfpos	stupid mother f**king piece of s**t	0
+smh	shaking my head	0
+smhb	suck my hairy balls	-1
+smho	Screaming My Head Off	0
+smithwaws	Smack me in the head with a wooden spoon	0
+smofo	stupid mother f**ker	0
+smst	somebody missed snack time	0
+smt	suck my tits	0
+smthin	something	0
+smthng	something	0
+smtm	sometime	0
+smto	Sticking My Tongue Out	0
+smtoay	Sticking my tongue out at you	0
+sn	screen name	0
+snafu	situation normal all f**ked up	0
+snafubar	Situation Normal All f**ked Up Beyond Any Recognition	0
+snes	Super Nintendo Entertainment System	0
+snew	what's new	0
+snf	so not fair	0
+snl	Saturday Night Live	0
+snm	say no more	0
+snog	kiss	0
+snogged	kissed	0
+soa	service oriented architecture	0
+soab	son of a b**ch	0
+soad	system of a down	0
+soafb	son of a f**king b***h	0
+sob	son of a b***h	0
+sobs	same, old, boring s**t	0
+soc	Same old crap	0
+soe	service oriented enterprise	0
+sof	smile on face	0
+sofas	stepping out for a smoke	0
+sofs	same old f**king s**t	0
+soi	service oriented infrastructure	0
+sok	It's ok	0
+sokay	it's okay	0
+sol	s**t outta luck	0
+som'm	something	0
+som1	someone	0
+somadn	sitting on my a** doing nothing	0
+some1	someone	0
+soml	story of my life	0
+soo	So	0
+soobs	saggy boobs	0
+sool	s**t out of luck	0
+sop	same old place	0
+sorg	Straight or Gay	0
+sorreh	sorry	0
+sorta	sort of	0
+sos	same old s**t	0
+sosdd	same old s**t, different day	0
+sosg	spouse over shoulder gone	0
+sot	suck on this	0
+sotc	stupid off topic crap	0
+sotr	sex on the road	0
+sowi	sorry	0
+sowwy	sorry	0
+soz	sorry	0
+spk	speak	0
+sploits	exploits	0
+sploitz	exploits	0
+spos	stupid peace of s**t	0
+sprm	sperm	0
+sqtm	snickering quietly to myself	0
+srch	search	0
+srly	seriously	0
+sroucks	that's cool, but it still sucks	0
+srry	sorry	0
+srs	serious	0
+srsly	seriously	0
+srvis	Service	0
+sry	sorry	0
+srynd2g	sorry need to go	0
+srzly	seriously	0
+ss	screenshot	0
+ss4l	smoking sista for life	0
+ssdd	same s**t, different day	0
+ssdp	same s**t different pile	0
+ssia	subject says it all	0
+ssl	secure sockets layer	0
+ssob	stupid sons of b***hes	0
+ssry	so sorry	0
+sssd	Same s**t Same Day	0
+st	Stop That	0
+st1	stoned	0
+st8	state	0
+stb	soon to be	0
+stbx	soon to be ex	0
+stby	sucks to be you	0
+std	sexually transmitted disease	0
+steamloller	Laughing. Alot.	0
+stfd	sit the f**k down	0
+stff	stuff	0
+stfm	search the f**king manual	0
+stfng	search the f**king news group	0
+stfu	shut the f**k up	0
+stfua	shut the f**k up already	0
+stfuah	shut the f**k up a**h**e	0
+stfub	shut the f**k up b***h	0
+stfuda	Shut the f**k up dumb a**	0
+stfugbtw	shut the f**k up and get back to work	0
+stfun	Shut the f**k up n****r	0
+stfuogtfo	Shut the f**k up or get the f**k out.	0
+stfuppercut	shut the f**k up	0
+stfuyb	shut the f**k up you b***h	0
+stfuysoab	shut the f**k up you son of a b***h	0
+stfw	search the f**king web	0
+stg	swear to god	0
+sth	something	0
+sthing	something	0
+sthu	shut the hell up	0
+stm	smiling to myself	0
+stoopid	stupid	0
+stpd	stupid	0
+str8	straight	0
+str8up	straight up	0
+sts	so to speak	0
+stsp	Same Time Same Place	0
+stt	Same time tomorrow	0
+stufu	stupid f**ker	0
+stupd	stupid	0
+stw	share the wealth	0
+stys	speak to you soon	0
+su	shut up	0
+suabq	shut up and be quiet	0
+suagooml	shut up and get out of my life	0
+suib	shut up im busy	0
+suk	suck	0
+suka	Sucker	0
+sukz	sucks	0
+sul	see you later	0
+sum1	someone	0
+sumfin	Something	0
+summin	something	0
+sumone	someone	0
+sumthin'	Something	0
+sumtin	something	0
+sup	what's up?	0
+supa	super	0
+supposably	Supposedly	0
+sus	see you soon	0
+susfu	situation unchanged, still f**ked up	0
+sut	see you tomorrow	0
+sutuct	so you think you can type	0
+sux	sucks	-2
+sux0rz	sucks	-2
+sux2bu	sucks to be you	-2
+suxor	Sucks	-2
+suxors	sucks	-2
+suxorz	sucks	-2
+suxx	sucks	-2
+suxxor	sucks	-2
+suyah	shut up you ass hole!	-2
+svn	seven	0
+svu	special victims unit	0
+sw	so what	0
+swafk	sealed with a friendly kiss	0
+swak	sealed with a kiss	0
+swakaah	Sealed With A Kiss And A Hug	0
+swalk	sealed with a loving kiss	0
+swf	single white female	0
+swm	single white male	0
+swmbo	she who must be obeyed	0
+swmt	Stop Wasting My Time	0
+swp	sorry wrong person	0
+swsw2b	single when she wants to be	0
+swt	sweet	0
+swtf	seriously, what the f**k	0
+sx	sex	0
+sxc	sexy	0
+sxcy	sexy	0
+sxe	straight edge	0
+sxi	sexy	0
+sxs	sex	0
+sxy	sexy	0
+syatp	see you at the party	0
+sydim	stick your d**k in me	0
+sydlm	Shut your dirty little mouth	0
+syfm	shut your f**king mouth	0
+syiab	see you in a bit	0
+syiaf	see you in a few	0
+syl	see you later	0
+syl8r	see you later	0
+sym	shut your mouth	0
+syoa	Save Your Own a**	0
+syotbf	see you on the battlefield	0
+syrs	see ya real soon	0
+sys	see you soon	0
+sysop	system operator	0
+syt	see you there	0
+sytycd	so you think you can dance	0
+syu	sex you up	0
+sz	sorry	0
+t#3	the	0
+t,ftfy	there, fixed that for you	0
+t.t.y.l	Talk To You Later	0
+t/a	Try again	0
+t2b	time to blunt	0
+t2m	talk to me	0
+t2u	talking to you	0
+t2ul	talk to you later	0
+t2ul8r	talk to you later	0
+t3h	the	0
+t4a	thanks for asking	0
+t4m	Transgender for Male	0
+t8st	taste	0
+ta	thanks again	1
+taci	that's a crappy idea	0
+tafn	That's all for now	0
+taht	that	0
+tai	think about it	0
+taig	That's all I got.	0
+tal	thanks a lot	1
+tanq	thank you	1
+tanstaafl	there ain't no such thing as a free lunch	0
+tard	retard	0
+tarfu	things are really f**ked up	0
+tat	that	0
+tat2	tattoo	0
+tau	thinking about you	0
+taunch	te amo un chingo	0
+taw	Teachers are Watching	0
+tay	thinking about you	0
+tb	text back	0
+tb4u	too bad for you	0
+tba	to be anounced	0
+tbc	To be continued	0
+tbd	to be decided	0
+tbf	to be fair	0
+tbfh	to be f**king honest	0
+tbfu	too bad for you	0
+tbh	to be honest	0
+tbhimo	to be honest in my opinion	0
+tbnt	thanks but no thanks	0
+tbp	The Pirate Bay	0
+tbpfh	To be perfectly f**king honest	-1
+tbph	To be perfectly honest	0
+tbqf	to be quite frank	0
+tbqh	to be quite honest	0
+tbss	too bad so sad	-1
+tbtfh	to be totally freaking honest	0
+tbvh	to be very honest	0
+tc	take care	0
+tcfc	Too Close For Comfort	0
+tcfm	too cool for me	1
+tcg	Trading Card Game	0
+tchbo	Topic creater has been owned	0
+tcial	The cake is a lie	0
+tcoy	take care of yourself	0
+tcp	transmission control protocol	0
+tcp/ip	transmission control protocol/internet protocol	0
+td2m	talk dirty to me	0
+tddup	till death do us part	0
+tdf	To Die For	0
+tdl	Too d**n Lazy	-1
+tdtm	Talk Dirty To Me	0
+tdwdtg	The Devil Went Down To Georgia	0
+te	Team effort	0
+teh	the	0
+teotwawki	the end of the world as we know it	0
+terd	s**t	-1
+tf2	Team Fortress 2	0
+tfa	the f**king article	-1
+tfb	time for bed	0
+tfbundy	totaly f**ked but unfortunatly not dead yet	-1
+tfc	Team Fortress Classic	0
+tfd	total f**king disaster	-1
+tff	That's f**king Funny	1
+tfft	thank f**k for that	0
+tffw	Too funny for words	1
+tfh	Thread from hell	0
+tfic	Tongue Firmly In Cheek	0
+tfiik	the f**k if i know	0
+tfl	Thanks For Looking	0
+tfln	thanx for last night	1
+tfm	too f**king much	-1
+tfs	thanks for sharing	1
+tfta	thanks for the add	1
+tfti	thanks for the information	1
+tfu	that's f**ked up	-1
+tfu2baw	time for you to buy a watch	0
+tg	thank god	1
+tgfe	together forever	1
+tgfitw	The Greatest Fans In The World	0
+tgft	thank god for that	1
+tgfu	too good for you	0
+tgfuap	thank god for unanswered prayers	-1
+tghig	thank god husband is gone	0
+tgif	thank god it's friday	0
+tgiff	thank god its f**king Friday	0
+tgis	thank god it's saturday	0
+tgiwjo	Thank God It Was Just Once	0
+tgsttttptct	thank God someone took the time to put this crap together	0
+tgtbt	Too Good To Be True	0
+tgwig	thank god wife is gone	0
+tgws	that goes without saying	0
+th@	that	0
+tha	the	0
+thankies	Thank You	1
+thankx	thank you	1
+thanq	thank you	1
+thanx	thank you	1
+thar	there	0
+thats	that's	0
+thatz	that's	0
+thku	thank you	1
+thn	then	0
+thnk	think	0
+thnx	thanks	1
+tho	though	0
+thot	the hoe of today	0
+thr	there	0
+thr4	therefore	0
+thru	through	0
+tht	that	0
+thwdi	thats how we do it	0
+thwy	the hell with you!	0
+thx	thank you	1
+thxx	thanks	1
+thz	thank you	1
+ti2o	that is too obious	0
+tia	thanks in advance	0
+tiafayh	Thanks in advance for all your help	0
+tiai	take it all in	0
+tias	Try It And See	0
+tiatwtcc	this is a trap word to catch copiers	0
+tif	this is fun	0
+tif2m	this is f**king 2 much	0
+tifs	this is funny s**t	0
+tifu	that is f**ked up	0
+tigger	tiger	0
+tiic	the idiots in control	0
+til	until	0
+tilf	Teenager I'd Like To f**k	1
+tinf	this is not fair	0
+tinla	this is not legal advice	0
+tinstaafl	There Is No Such Thing As A Free Lunch	0
+tioli	take it or leave it	0
+tis	is	0
+tisc	that is so cool	1
+tisfu	that is so f**ked up	-1
+tisg	this is so gay	0
+tisly	that is so last year	0
+tisnf	that is so not fair	-1
+tiss	This is some s**t	-1
+tisw	that is so wrong	-1
+tiw	teacher is watching	0
+tix	tickets	0
+tjb	thats just boring	0
+tk	team kill	0
+tk2ul	talk to you later	0
+tkd	Tae Kwon Do	0
+tker	team killer	0
+tks	thanks	1
+tku	thank you	1
+tl	Tough Luck	0
+tl,dr	Too long; didn't read	0
+tl8r	talk later	0
+tl:dr	Too Long; Didn't Read	0
+tl; dr	To Long; Didn't read	0
+tl;dr	too long; didn't read	0
+tla	Three Letter Acronym	0
+tlc	tender loving care	0
+tld	told	0
+tldnr	too long, did not read	0
+tldr	Too long, didn't read.	0
+tlgo	The list goes on	0
+tliwwv	this link is worthless without video	0
+tlk	talk	0
+tlk2me	talk to me	0
+tlk2ul8r	talk to you later	0
+tlkin	talking	0
+tlkn	talking	0
+tltpr	Too long to proof read.	0
+tlyk	to let you know	0
+tma	take my advice	0
+tmaai	tell me all about it	0
+tmai	tell me about it	0
+tmbi	tell me about it	0
+tmi	too much information	0
+tmk	to my knowledge	0
+tml	tell me later	0
+tmmrw	tomorrow	0
+tmnt	teenage mutant ninja turtles	0
+tmo	take me out	0
+tmoro	tomorrow	0
+tmoz	tomorrow	0
+tmr	tomorrow	0
+tmr@ia	the monkeys are at it again	0
+tmrrw	tomorrow	0
+tmrw	Tomorrow	0
+tmrz	tomorrow	0
+tms	that makes sense	0
+tmsaisti	That's my story and I'm sticking to it.	0
+tmsg	tell me something good	0
+tmsidk	tell me somthing I don't know	0
+tmth	too much to handle	0
+tmtmo	text me tomorrow	0
+tmtoyh	Too Much Time On Your Hands	0
+tmtt	tell me the truth	0
+tmw	Too much work	0
+tmwfi	Take my word for it	0
+tmz	tomorrow	0
+tn1	trust no-one	0
+tna	tits and a**	0
+tnf	That's Not Funny	0
+tnlnsl	Took nothing left nothing signed log	0
+tnx	thanks	1
+tnxz	thanks	1
+tob	teacher over back	0
+tofy	Thinking of You	0
+toh	typing one handed	0
+tok	That's ok	0
+tok2ul8r	i'll talk to you later	0
+tolol	thinking of laughing out loud	0
+tomm	tomorrow	0
+tomoz	tomorrow	0
+tos	terms of service	0
+totes	totally	0
+totl	total	0
+totm	top of the morning	0
+totp	talking on the phone	0
+totpd	top of the page dance	0
+tou	thinking of you	0
+toya	thinking of you always	0
+tp	toilet paper	0
+tpb	the pirate bay	0
+tpiwwp	this post is worthless without pictures	0
+tps	test procedure specification	0
+tptb	the powers that be	0
+tq	Thank You	1
+trani	transexual	0
+tranny	Transexual	0
+trble	trouble	0
+trd	tired	0
+trnsl8	translate	0
+trnsltr	translator	0
+troll	person who diliberately stirs up trouble	0
+tru	TRUE	0
+ts	talking s**t	0
+tsc	that's so cool	0
+tsff	thats so f**kin funny	0
+tsig	that site is gay	0
+tsnf	that's so not fair	0
+tss	That's so sweet	0
+tstoac	too stupid to own a computer	0
+tswc	tell someone who cares	0
+tt4n	ta ta for now	0
+ttbc	Try to be cool	0
+ttbomk	to the best of my knowledge	0
+ttc	text the cell	0
+ttfaf	Through the Fire and Flames	0
+ttfn	ta ta for now	0
+tthb	try to hurry back	0
+ttihlic	try to imagine how little i care	0
+ttiuwiop	this thread is useless without pics	0
+ttiuwop	this thread is useless without pics	0
+ttiuwp	This Thread Is Useless Without Pictures	0
+ttiwwop	This thread is worthless without pics	0
+ttiwwp	this thread is worthless without pics	0
+ttl	total	0
+ttlly	totally	0
+ttly	totally	0
+ttm	talk to me	0
+ttml	talk to me later	0
+ttms	talking to myself	0
+ttr	time to run	0
+ttrf	That's the rules, f**ker	0
+tts	text to speech	0
+ttt	to the top	0
+ttth	Talk To The Hand	0
+tttt	to tell the truth	0
+ttul	Talk To You Later	0
+ttul8r	Talk to you later	0
+ttus	talk to you soon	0
+ttut	Talk to you Tomorrow	0
+ttutt	to tell you the truth	0
+tty	Talk to You	0
+ttyab	Talk to you after breakfast	0
+ttyad	Talk to you after Dinner	0
+ttyal	Talk to you after lunch	0
+ttyas	talk to you at school	0
+ttyiam	talk to you in a minute	0
+ttyitm	talk to you in the morning	0
+ttyl	talk to you later	0
+ttyl8r	talk to you later	0
+ttylo	talk to you later on	0
+ttylt	talk to you later today	0
+ttyn	talk to you never	0
+ttyna	talk to you never again	0
+ttynl	talk to you never loser	0
+ttynw	talk to you next week	0
+ttyo	talk to you online	0
+ttyob	tend to your own business	0
+ttyotp	talk to you on the phone	0
+ttyrs	talk to you really soon	0
+ttys	talk to you soon	0
+ttyt	talk to you tomorrow	0
+ttytm	talk to you tomorrow	0
+ttytt	to tell you the truth	0
+ttyw	talk to you whenever	0
+ttywl	Talk to you way later	0
+tu	thank you	1
+tuff	tough	-1
+tuh	to	0
+tut	take your time	0
+tuvm	thank you very much	1
+tv	television	0
+tvm	thanks very much	1
+tw	Teacher Watching	0
+twajs	That was a joke, son.	0
+twat	vagina	0
+twbc	that would be cool	0
+twdah	that was dumb as hell	0
+twf	That was funny	0
+twfaf	thats what friends are for	0
+twg	That was great	0
+twi	Texting While Intoxicated	0
+twis	that's what I said	0
+twoh	typing with one hand	0
+tws2wa	That was so 2 weeks ago	0
+twss	That's what she said	0
+twsy	That was so yeterday	0
+twttr	twitter	0
+twvsoy	that was very stupid of you	0
+twyl	Talk With You Later	0
+twys	Talk With You Soon	0
+tx	thanks	1
+txs	thanks	1
+txt	text	0
+txting	texting	0
+txtyl	text you later	0
+ty	thank you	1
+tyclos	turn your CAPS LOCK off, stupid	0
+tyfi	Thank You for invite	1
+tyfn	thank you for nothing	-1
+tyfyc	Thank You For Your Comment	0
+tyfyt	Thank you for your time	1
+tyl	text you later	0
+tym	time	0
+tyme	time	0
+typ	thank you partner	1
+typo	typing mistake	0
+tyred	tired	0
+tys	Told You So	0
+tysfm	thank you so f**king much	-1
+tysm	thank you so much	1
+tysvm	thank you so very much	1
+tyt	take your time	0
+tyto	take your top off	0
+tyty	thank you thank you	1
+tyvm	Thank You Very Much	1
+tyvvm	thank you very very much	1
+u	you	0
+u iz a 304	you is a hoe	0
+u'd	you would	0
+u'll	you will	0
+u'r	you're	0
+u'v	you have	0
+u've	You've	0
+u/l	upload	0
+u/n	username	0
+u2	You too	0
+u2u	up to you	0
+u4i	up for it	0
+ua	user agreement	0
+uaaaa	Universal Association Against Acronym Abuse	0
+uat	User Acceptance Testing	0
+uayor	Use At Your Own Risk	0
+ub3r	super	0
+uber	over	0
+uctaodnt	you can't teach an old dog new tricks	0
+udc	you don't care	0
+udek	you don't even know	0
+uds	you dumb s**t	0
+udwk	you don't want to know	0
+udy	you done yet	0
+ufab	ugly fat a** b***h	0
+ufia	unsolicited finger in the anus	0
+ufic	Unsolicited Finger in Chili	0
+ufmf	you funny mother f**ker	0
+ufr	Upon further review	0
+ugba	you gay b***h a**	0
+ugtr	you got that right	0
+uhab	you have a blog	0
+uhems	you hardly ever make sense	0
+ui	User Interface	0
+ujds	u just did s**t	0
+ukr	You know right	0
+ukwim	you know what i mean	0
+ul	unlucky	0
+ulbom	you looked better on myspace	0
+umfriend	sexual partner	0
+un2bo	you need to back off	0
+un4rtun8ly	unfortunately	0
+unt	until next time	0
+uom	You owe me	0
+upcia	unsolicited pool cue in anus	0
+upia	unsolicited pencil in anus	0
+upmo	You piss me off	0
+upos	you piece of s**t	0
+upw	unidentified party wound	0
+ur	your	0
+ur2g	you are too good	1
+ur6c	you're sexy	0
+ura	you are a	0
+uradrk	you're a dork	-1
+urafb	you are a f**king b***h	-1
+uraqt	you are a cutie	1
+urcrzy	you are crazy	-1
+ure	you are	0
+urg	you are gay	0
+urht	you're hot	0
+url8	you are late	-1
+urms	you rock my socks	0
+urmw	you are my world	1
+urnc	you are not cool	-1
+urs	yours	0
+ursab	you are such a b***h	0
+ursdf	you are so d**n fine	0
+ursg	you are so gay	0
+ursh	you are so hot	0
+urssb	you are so sexy baby	0
+urstpid	you are stupid	-1
+urstu	you are stupid	-1
+urtb	you are the best	1
+urtbitw	You are the best in the world!	1
+urtrd	you retard	0
+urtw	you are the worst	-1
+urw	you are weird	0
+uryyfm	you are too wise for me	0
+usck	you suck	-1
+usd	United States Dollar	0
+ussr	The Union of Soviet Socialist Republics	0
+usuk	You Suck	-1
+usux	you suck	-1
+ut	unreal tournament	0
+ut	you there	0
+uta	up the a**	0
+utfs	Use the f**king search	0
+utfse	use the f**king search engine	0
+utm	you tell me	0
+uttm	you talking to me?	0
+utube	youtube	0
+utw	used to work	0
+uty	it's up to you	0
+uve	You've	0
+uvgtbsm	you have got to be shiting me	0
+uw	you're welcome	0
+uwc	you are welcome	0
+uya	up your a**	0
+uyab	up your a** b***h	0
+v4g1n4	vagina	0
+vag	vagina	0
+vajayjay	vagina	0
+vb	visual basic	0
+vbeg	very big evil grin	0
+vbg	very big grin	0
+vf	very funny	0
+vfe	Virgins 4 ever	0
+vff	Verry f**king Funny	0
+vfm	value for money	0
+vgg	very good game	1
+vgh	Very good hand	1
+vgl	very good looking	1
+vgn	Video Game Nerd	0
+vid	Video	0
+vids	Videos	0
+vip	very important person	0
+vleo	Very Low Earth Orbit	0
+vlog	video log	0
+vn	very nice	1
+vnc	Virtual Network Computing	0
+vnh	Very nice hand	0
+voip	voice over ip	0
+vrsty	Varsity	0
+vry	very	0
+vwd	very well done	0
+vweg	very wicked evil grin	0
+vzit	visit	0
+vzn	verizon	0
+w'sup	what's up?	0
+w.b.s.	Write Back Soon	0
+w.e	whatever	-1
+w.e.	whatever	-1
+w.o.w	World of Warcraft	0
+w.o.w.	world of warcraft	0
+w/	with	0
+w/b	write back	0
+w/e	whatever	-1
+w/end	weekend	0
+w/eva	whatever	-1
+w/o	without	0
+w/out	without	0
+w/u	with you	0
+w00t	woohoo	0
+w012d	word	0
+w2d	what to do	0
+w2f	want to f**k	0
+w2g	Way to go	0
+w2ho	want to hang out	0
+w2m	want to meet	0
+w33d	weed	0
+w8	wait	0
+w8am	wait a minute	0
+w8ing	waiting	0
+w8t4me	wait for me	0
+w8ter	waiter	0
+w911	Wife in room	0
+wab	what a b***h	0
+wad	without a doubt	0
+wad ^	what's up?	0
+wadr	with all due respect	0
+wadzup	what's up?	0
+waf	weird as f**k	0
+wafda	What a f**king Dumb a**	0
+wafl	what a f**king loser	0
+wafm	wait a f**king minute	0
+wafn	what a f**ken noob	0
+wai	what an idiot	0
+waloc	what a load of crap	0
+walstib	what a long strange trip it's been	0
+wam	wait a minute	0
+wamh	with all my heart	0
+wan2tlk	Want to talk	0
+wana	want to	0
+wanafuk	wanna f**k	0
+wanker	masturbater	0
+wanking	Masturbating	0
+wanna	want to	0
+wansta	wanna be ganster	0
+warez	illegally obtained software	0
+wasnt	wasn't	0
+wassup	what's up?	0
+wasup	what's up?	0
+was^	what's up?	0
+wat	what	0
+wat's^	what's up?	0
+watcha	what are you	0
+watev	whatever	-1
+wateva	whatever	-1
+watevr	whatever	-1
+watevs	whatever	-1
+wats	whats	0
+wats ^	what's up?	0
+wats^	what's up?	0
+watz ^	what's up?	0
+wau	what about you	0
+waug	Where are you going	0
+wauw	what are you wearing	0
+wau^2	what are you up to?	0
+waw	what a w***e	0
+waycb	when are you coming back	0
+wayd	what are you doing	0
+waygow	who are you going out with	0
+wayh	why are you here	0
+wayn	Where Are You Now	0
+waysttm	why are you still talking to me	0
+waysw	Why are you so weird	0
+wayt	What are you thinking?	0
+wayta	what are you talking about	0
+wayut	what are you up to	0
+waz	what is	0
+waz ^	what's up?	0
+wazz	what's	0
+wazza	what's up?	0
+wazzup	what's up?	0
+waz^	what's up?	0
+wb	welcome back	0
+wbagnfarb	would be a good name for a rock band	1
+wbb	will be back	0
+wbbs	will be back soon	0
+wbp	Welcome Back Partner	0
+wbrb	Will be right back	0
+wbs	write back soon	0
+wbu	what about you	0
+wby	what about you	0
+wc	who cares	0
+wc3	Warcraft III	0
+wcutm	what can you tell me	0
+wcw	webcam w***e	0
+wd	well done	0
+wdf	Worth Dying For	0
+wdhlm	why doesn't he love me?	-1
+wdidn	what do i do now	0
+wdim	What Did I miss	0
+wdtm	what does that mean	0
+wduc	what do you care	0
+wdum	what do you mean	0
+wdus	What Did You Say	0
+wdut	what do you think?	0
+wdutom	what do you think of me	0
+wduw	what do you want	0
+wduwta	what do you wanna talk about	0
+wduwtta	what do you want to talk about	0
+wdwdn	what do we do now	0
+wdwgw	where did we go wrong	0
+wdydt	why do you do that	0
+wdye	What do you expect	0
+wdyl	who do you like	0
+wdym	what do you mean	0
+wdys	What did you say	0
+wdyt	what do you think	0
+wdytia	who do you think i am?	0
+wdyw	what do you want	0
+wdywd	what do you want to do?	0
+wdywtd	what do you want to do	0
+wdywtdt	Why Do You Want To Do That?	0
+wdywtta	what do you want to talk about	0
+webby	webcam	0
+weg	wicked evil grin	0
+welc	welcome	0
+wen	when	0
+werkz	works	0
+wev	whatever	-1
+weve	what ever	0
+wevr	whatever	-1
+wfh	Working From Home	0
+wfhw	what's for homework	0
+wfm	Works For Me	0
+wfyb	whatever floats your boat	1
+wg	wicked gril	0
+wgac	who gives a crap	0
+wgaf	Who gives a f**k	0
+wgas	who gives a s**t	0
+wgasa	who gives a s**t anyway	0
+wgo	what's going on	0
+wgph2	Want to go play Halo 2?	0
+wha	what?	0
+whaddya	what do you	0
+whaletail	thong	0
+whatcha	what are you	0
+whatev	whatever	-1
+whatevs	whatever	-1
+whats ^	what's up?	0
+what^	what's up?	0
+whenevs	whenever	0
+whevah	where ever	0
+whever	whatever	-1
+whf	Wanna have fun?	0
+whit	with	0
+whodi	friend	0
+whr	where	0
+whs	wanna have sex	0
+wht	What	0
+whteva	what ever	0
+whteve	whatever	-1
+whtever	whatever	-1
+whtevr	whatever	-1
+whtvr	whatever	-1
+wht^	what up	0
+whubu2	what have you been up to	0
+whubut	what have you been up to	0
+whut	what	0
+whyb	where have you been	0
+whyd	What Have You Done	0
+wid	with	0
+widout	without	0
+wieu2	What Is Everyone Up To	0
+wif	With	0
+wiid	what if i did	0
+wilco	will comply	0
+winnar	winner	0
+wio	without	0
+wip	Work In progress	0
+wit	with	0
+witcha	with you	0
+witfp	What is the f**king point	0
+witu	with you	0
+witw	what in the world	0
+witwct	What is the world coming too	0
+witwu	who is there with you	0
+witwwyt	what in the world were you thinking	0
+wiu	what's up?	0
+wiuwu	what's up with you?	0
+wiv	with	0
+wiw	wife is watching	0
+wiwhu	wish I was holding you	0
+wiwt	wish i was there	0
+wiyp	what is your problem	0
+wjwd	What Jesus Would Do	0
+wk	week	0
+wkd	wicked	0
+wkend	weekend	0
+wl	will	0
+wlc	welcome	0
+wlcb	welcome back	0
+wlcm	welcome	0
+wld	would	0
+wlkd	walked	0
+wlos	wife looking over Shoulder	0
+wltm	would like to meet	1
+wmao	working my a** off	0
+wmd	Weapons Of Ma** Destruction	0
+wmgl	wish me good luck	0
+wml	Wish Me Luck	0
+wmyb	What Makes You Beautiful	0
+wn	when	0
+wna	want to	0
+wnkr	wanker	0
+wnrn	why not right now	0
+wnt	want	0
+wntd	what not to do	0
+woa	word of advice	0
+woc	welcome on cam	0
+wochit	watch it	0
+woe	what on earth	0
+woft	Waste of f**king time	0
+wogge	what on god's green earth?	0
+wogs	waste of good sperm	-1
+wolo	we only live once	0
+wombat	waste of money, brains, and time	0
+wont	won't	0
+woot	woohoo	0
+wot	what	0
+wotevs	whatever	-1
+wotv	What's on Television?	0
+wotw	word of the week	0
+woum	what's on your mind	0
+wowzers	wow	0
+woz	was	0
+wp	wrong person	0
+wpe	worst president ever (Bush)	0
+wrd	word	0
+wrdo	weirdo	0
+wrgad	who really gives a d**n	0
+wrgaf	Who really gives a f**k?	0
+wrk	work	0
+wrm	which reminds me	0
+wrng	wrong	0
+wrt	with regard to	0
+wrtg	writing	0
+wrthls	Worthless	0
+wru	where are you	0
+wrud	what are you doing	0
+wruf	where are you from	0
+wruu2	what are you up to	0
+wsb	wanna cyber?	0
+wsf	we should f**k	0
+wshtf	when s**t hits the fan	0
+wsi	why should I	0
+wsibt	when should i be there	0
+wsidi	Why Should I Do It	0
+wsop	world series of poker	0
+wswta	What shall we talk about?	0
+wtb	Want to buy	0
+wtbd	what's the big deal	0
+wtbh	What the bloody hell	0
+wtc	what the crap	0
+wtcf	what the crazy f**k	0
+wtd	what the deuce	0
+wtf	what the f**k	-1
+wtfaud	what the fuck are you doing?	-1
+wtfay	who the f**k are you	-1
+wtfayd	what the f**k are you doing	-1
+wtfayt	why the f**k are you talking	-1
+wtfayta	What the f**k are you talking about?	-1
+wtfb	what the f**k b***h	0
+wtfbs	What the f**k bull s**t	-1
+wtfc	Who The f**k Cares	-1
+wtfdik	what the f**k do i know	-1
+wtfdum	what the f**k do you mean	-1
+wtfduw	What the f**k do you want?	-1
+wtfdyw	what the f**k do you want	-1
+wtfe	What The f**k Ever	-1
+wtfever	what the f**k ever	-1
+wtfg	What the f**king god	-1
+wtfh	what the f**king hell	-1
+wtfhb	what the f**king hell b***h	-1
+wtfhwt	what the f**king hell was that	-1
+wtfigo	what the f**k is going on	-1
+wtfigoh	what the f**k is going on here	-1
+wtfit	what the f**k is that	-1
+wtfits	what the f**k is this s**t	-1
+wtfiu	what the f**k is up	0
+wtfiup	what the f**k is your problem	-1
+wtfiuwy	what the f**k is up with you	-1
+wtfiwwu	what the f**k is wrong with you	-1
+wtfiwwy	what the f**k is wrong with you	-1
+wtfiyp	what the f**k is your problem	-1
+wtfm	what the f**k, mate?	0
+wtfmf	what the f**k mother f**ker	-1
+wtfo	what the f**k over	0
+wtfru	what the f**k are you	-1
+wtfrud	What the f**k are you doing?	-1
+wtfrudng	what the f**k are you doing	-1
+wtfrudoin	what the f**k are you doing	-1
+wtfruo	what the f**k are you on?	0
+wtfruttd	what the f**k are you trying to do	0
+wtfs	what the f**king s**t?	-1
+wtfuah	what the f**k you a**h**e	-1
+wtful	What the f**k you loser	-1
+wtfwjd	what the f**k would jesus do	0
+wtfwt	what the f**k was that	-1
+wtfwtd	what the f**k was that dude	0
+wtfwtf	what the f**k was that for?	-1
+wtfya	what the f**k you a**h**e	0
+wtfyb	what the f**k you b***h	0
+wtg	way to go	0
+wtgds	way to go dumb s**t	0
+wtgp	Want to go Private	0
+wth	what the heck	-1
+wtharud	what the heck are you doing	-1
+wthau	who the hell are you	-1
+wthauwf	what the hell are you waiting for	-1
+wthay	who the hell are you	-1
+wthayd	what the heck are you doing	-1
+wthaydwmgf	what the hell are you doing with my girlfriend	-1
+wthdydt	why the hell did you do that	-1
+wthhyb	where the hell have you been?	-1
+wthigo	what the hell is going on	-1
+wthiwwu	What the hell is wrong with you	-1
+wtho	want to hang out?	0
+wthru	Who the heck are you	-1
+wthrud	what the hell are you doing?	-1
+wths	want to have sex	0
+wthswm	want to have sex with me	0
+wthwt	what the hell was that?	-1
+wthwut	what the hell were you thinking	-1
+wthyi	what the hell you idiot	-1
+wtii	what time is it	0
+wtiiot	What time is it over there?	0
+wtityb	whatever, tell it to your blog	0
+wtly	Welcome to last year	0
+wtmf	what the mother f**k	0
+wtmfh	what the mother f**king hell	0
+wtmi	way too much information	0
+wtmtr	what's the matter	0
+wtp	where's the party	0
+wtrud	what are you doing	0
+wts	want to sell	0
+wtt	want to trade	0
+wttp	want to trade pictures?	0
+wtv	Whatever	-1
+wtva	whatever	-1
+wtvr	whatever	-1
+wtwm	what time are we meeting?	0
+wtwr	well that was random	0
+wu	what's up?	0
+wu	what's up?	0
+wu2kilu	want you to know I love you	1
+wub	love	1
+wubmgf	Will You Be My Girlfriend?	0
+wubu2	what you been up to	0
+wubut	what you been up too	0
+wud	would	0
+wudev	whatever	-1
+wudn	what you doing now	0
+wugowm	will you go out with me	0
+wula	what you looking at?	0
+wuld	would	0
+wuny	wait until next year	0
+wussup	what's up?	0
+wut	what	0
+wutb	What are you talking about	0
+wutcha	What are you	0
+wuteva	whatever	-1
+wutevr	what ever	0
+wuts	what is	0
+wutup	what's up?	0
+wuu2	what you up too	0
+wuu2	what you up to	0
+wuu22m	what you up to tomorrow	0
+wuut	what you up to	0
+wuv	love	1
+wuwh	Wish you were here	0
+wuwt	what's up with that?	0
+wuwta	what do you want to talk about	0
+wuwtab	what do you want to talk about	0
+wuwtb	what do you want to talk about	0
+wuwtta	what you want to talk about	0
+wuwu	what up with you	0
+wuz	was	0
+wuza	what's up?	0
+wuzup	what's up?	0
+wwc	who would care	0
+wwcnd	What would Chuck Norris do	0
+wwdhd	What would David Hasselhoff do	0
+wwe	World Wrestling Entertainment	0
+wwgf	when we gonna f**k	0
+wwhw	when where how why	0
+wwikt	why would i know that	0
+wwjd	what would jesus do?	0
+wwt	what was that	0
+wwtf	what was that for	0
+wwudtm	what would you do to me	0
+wwut	what were you thinking	0
+www	world wide web	0
+wwwy	what's wrong with you	0
+wwy	where were you	0
+wwycm	when will you call me	0
+wwyd	what would you do?	0
+wwyd2m	what would you do to me	0
+wwyt	What were you thinking	0
+wy	Why?	0
+wyas	wow you are stupid	0
+wyatb	wish you all the best	1
+wyauimg	Why you all up in my grill?	0
+wybts	were you born this sexy	0
+wyc	will you come	0
+wycm	Will You Call Me	0
+wyd	what are you doing	0
+wyg	will you go	0
+wygac	when you get a chance	0
+wygam	When you get a minute	0
+wygowm	Will you go out with me	0
+wygwm	will you go with me	0
+wyhi	Would You Hit It?	0
+wyhswm	would you have sex with me	0
+wyltk	wouldn't you like to know	0
+wylym	Watch Your Language Young Man	0
+wym	What You Mean?	0
+wyn	What's your name	0
+wyp	what's your problem?	0
+wypsu	will you please shut up	0
+wys	wow you're stupid	0
+wysiayg	what you see is all you get	0
+wysitwirl	what you see is totally worthless in real life	0
+wysiwyg	what you see is what you get	0
+wyw	What You Want	0
+wywh	wish you were here	0
+wywo	while you were out	0
+w\e	whatever	-1
+x treme	extreme	0
+xb36t	Xbox 360	0
+xbf	ex-boyfriend	0
+xbl	xbox live	0
+xcept	except	0
+xcpt	except	0
+xd	extreme droll	0
+xellent	excellent	1
+xfer	transfer	0
+xgf	exgirlfriend	0
+xing	crossing	0
+xit	Exit	0
+xl	extra large	0
+xlnt	Excellent	1
+xmas	christmas	0
+xmpl	example	0
+xoac	Christ on a crutch	0
+xor	hacker	0
+xover	crossover	0
+xox	hugs and kisses	1
+xoxo	hugs and kisses	1
+xp	experience	0
+xpect	expect	0
+xplaned	explained	0
+xpt	except	0
+xroads	crossroads	0
+xs	excess	0
+xtc	ecstasy	0
+xtra	extra	0
+xtreme	extreme	0
+xyz	examine your zipper	0
+xyzpdq	Examine Your Zipper Pretty Darn Quick	0
+y	why	0
+y w	you're welcome	0
+y!a	yahoo answers	0
+y'all	you all	0
+y/n	yes or no	0
+y/o	Years Old	0
+y00	you	0
+y2b	Youtube	0
+y2k	year 2000	0
+ya	you	0
+yaaf	you are a fuck	-1
+yaafm	You Are A fucking Moron	-1
+yaagf	you are a good friend	1
+yaai	You are an idiot	0
+yaf	you're a fuck	-1
+yafi	you're a fucking idiot	-1
+yag	you are gay	0
+yall	you all	0
+yapa	yet another pointless acronym	0
+yaqw	You are quite welcome	0
+yarly	yeah really	0
+yas	you are stupid	0
+yasan	You are such a nerd	0
+yasf	you are so funny	0
+yasfg	you are so fucking gay	-1
+yasg	you are so gay	0
+yasw	you are so weird	0
+yatb	you are the best	1
+yatwl	you are the weakest link	0
+yaw	you are welcome	0
+yayo	cocaine	0
+ybbg	Your Brother By Grace	0
+ybs	you'll be sorry	0
+ybya	you bet your ass	0
+ycliu	You could look it up	0
+ycmtsu	You Can't Make This shut Up	-1
+ycntu	Why Cant You?	0
+yctwuw	you can think what you want	0
+ydpos	you dumb piece of shit	-1
+ydtm	You're dead to me	0
+ydufc	Why do fucking care?	-1
+yduwtk	why do you want to know	0
+ye	yeah	0
+yea	yeah	0
+yer	you're	0
+yermom	your mother	0
+yesh	yes	0
+yew	you	0
+yfb	you fucking bastard	-1
+yfg	you're fucking gay	-1
+yfi	you fucking idiot	-1
+ygg	you go girl	0
+ygm	You Got Mail	0
+ygp	you got punked!	0
+ygpm	you've got a private message	0
+ygrr	you got rick rolled	0
+ygtbfkm	you've got to be f**king kidding me	-1
+ygtbk	you've got to be kidding	-1
+ygtbkm	you got to be kidding me	-1
+ygtbsm	You've got to be shitting me	-1
+ygtsr	you got that shit right	0
+yh	yeah	0
+yhbt	you've been trolled	0
+yhew	you	0
+yhf	you have failed	0
+yhgtbsm	You Have Got To Be Shitting Me	0
+yhl	you have lost	0
+yhm	You have mail	0
+yhpm	you have a private messge	0
+yhtbt	You Had To Be There	0
+yid	yes, I do	0
+yim	yahoo instant messenger	0
+yiwtgo	Yes, I want to go private	0
+yk	you kidding	0
+yki	You know it	0
+ykisa	Your knight in shining armor	0
+ykm	You're killing me	0
+ykn	you know nothing	0
+ykw	You Know What	0
+ykwim	you know what I mean	0
+ykwya	you know who you are	0
+ykywywm	you know you wish you were me	0
+ylb	you little bitch	0
+ym	your mom	0
+ymbkm	you must be kidding me	0
+yme	why me	0
+ymfp	Your Most Favorite Person	0
+ymg2c	your mom goes to college	0
+ymgtc	Your Mom Goes To college	0
+ymiaw	your mom is a whore	0
+ymislidi	you make it sound like i did it	-1
+ymmd	You Made My Day	0
+ymmv	your mileage may vary	0
+ymrasu	Yes, My Retarded ass Signed Up	0
+yn	why not	0
+yng	young	0
+ynk	you never know	0
+ynm	yes, no, maybe	0
+ynt	why not	0
+ynw	you know what	0
+yo	year old	0
+yo'	your	0
+yodo	you only die once	0
+yolo	you only live once	0
+yolt	you only live twice	0
+yomank	you owe me a new keyboard	0
+yooh	you	0
+yor	your	0
+youngin	young person	0
+yoy	why oh why	0
+ypmf	you pissed me off	0
+ypmo	you piss me off	0
+ypom	your place or mine	0
+yqw	you're quite welcome	0
+yr	year	0
+yrbk	Yearbook	0
+yrms	You Rock My Socks	0
+yrs	years	0
+yrsaf	You Are Such A Fool	-1
+yrsm	you really scare me	-1
+yrss	you are so sexy	1
+yru	why are you?	0
+yrubm	why are you bugging me?	0
+yrusm	Why are you so mean	-1
+ys	you suck	-1
+ysa	You Suck ass	-1
+ysal	you suck at life	-1
+ysati	you suck at the internet	-1
+ysf	you stupid fuck	0
+ysic	why should I care	0
+ysitm	your shirt is too small	0
+ysm	you scare me	-1
+ysoab	You son of a bitch	-1
+yss	you stupid shit	0
+yswnt	why sleep when not tired?	0
+yt	You there?	0
+ytd	year to date	0
+ytf	why the fuck	0
+ytfwudt	why the f**k would you do that?	-1
+ythwudt	Why the hell would you do that	-1
+ytis	You think I'm special?	0
+ytm	you tell me	0
+ytmnd	You're the man now, dog!	0
+yty	why thank you	0
+yu	You	0
+yua	you ugly ass	-1
+yuo	you	0
+yup	yes	0
+yur	your	0
+yust	why you say that	0
+yvfw	you're very fucking welcome	0
+yvw	you're very welcome	0
+yw	you're welcome	0
+ywapom	you want a piece of me?	0
+ywia	You're welcome in advance	0
+ywic	why would i care	0
+yws	you want sex	0
+ywsyls	you win some you lose some	0
+ywud	yo whats up dude	0
+ywvm	you're welcome very much	1
+ywywm	you wish you were me	0
+yysw	yeah, yeah, sure, whatever	-1
+z'omg	Oh my God	-1
+z0mg	oh my god	-1
+zex	sex	0
+zh	Zero Hour	0
+zig	cigarette	0
+zomfg	oh my fucking god	-1
+zomg	Oh my God	-1
+zomgzorrz	oh my god	-1
+zoot	woohoo	1
+zot	Zero Tolerance	0
+zt	zoo tycoon	0
+zup	what's up?	0

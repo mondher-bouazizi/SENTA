@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.CreateProjectWindow">
+	<children>
+
+		<!-- ########################################## -->
+		<!--         Project Name and Directory         -->
+		<!-- ########################################## -->
+		
+		<Label layoutX="317.0" layoutY="7.0" text="Project name and directory" textFill="#4c00ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="22.0" layoutY="24.0" text="Select where you want to save your project:" />
+		
+		<!-- Project Directory -->
+
+		<Label layoutX="36.0" layoutY="49.0" text="Project Directory" textFill="#1f5bff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<TextField fx:id="projectDirectory" layoutX="36.0" layoutY="71.0" prefHeight="25.0" prefWidth="485.0" />
+		
+		<Button fx:id="projectDirectorySelect" layoutX="536.0" layoutY="71.0" mnemonicParsing="false" onAction="#handleProjectDirectorySelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+
+		<Label layoutX="615.0" layoutY="75.0" text="Status:" />
+		<Label fx:id="projectDirectoryStatus" layoutX="664.0" layoutY="75.0" text="No directory selected">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<!-- Project Name -->
+		
+		<TextField fx:id="projectName" layoutX="33.0" layoutY="126.0" prefHeight="25.0" prefWidth="568.0" />
+		
+		<Label layoutX="33.0" layoutY="103.0" text="Project Name" textFill="#1f5bff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="615.0" layoutY="130.0" text="Status:" />
+		<Label fx:id="projectNameStatus" layoutX="664.0" layoutY="130.0" text="Non Valid">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="161.0" prefHeight="0.0" prefWidth="760.0" />
+
+
+		<!-- ########################################## -->
+		<!--         Import Words and Patterns          -->
+		<!-- ########################################## -->
+		
+		<Label layoutX="306.0" layoutY="171.0" text="Import top words and patterns" textFill="#4c00ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="22.0" layoutY="194.0" prefHeight="38.0" prefWidth="760.0" text="If you have already extracted the top words and patterns according to the same rules you defind in a previous work, you can import them which saves you a lot of time:" textAlignment="JUSTIFY" wrapText="true" />
+		
+		<!-- Top Words -->
+		
+		<CheckBox fx:id="importTopWords" layoutX="33.0" layoutY="235.0" mnemonicParsing="false" onAction="#handleImportTopWords" text="Import top words file" />
+		
+		<TextField fx:id="topWordsFile" layoutX="33.0" layoutY="257.0" prefHeight="25.0" prefWidth="485.0" />
+		
+		<Button fx:id="topWordsFileSelect" layoutX="533.0" layoutY="257.0" mnemonicParsing="false" onAction="#handleTopWordsFileSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+		
+		<Label fx:id="topWordsFileStatusLabel" layoutX="612.0" layoutY="261.0" text="Status:" />
+		<Label fx:id="topWordsFileStatus" layoutX="661.0" layoutY="261.0" text="No file!">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<!-- Basic Patterns -->
+		
+		<CheckBox fx:id="importPatterns" layoutX="33.0" layoutY="289.0" mnemonicParsing="false" onAction="#handleImportPatterns" text="Import basic patterns file" />
+		
+		<TextField fx:id="patternsFile" layoutX="33.0" layoutY="311.0" prefHeight="25.0" prefWidth="485.0" />
+		
+		<Button fx:id="patternsFileSelect" layoutX="533.0" layoutY="311.0" mnemonicParsing="false" onAction="#handlePatternsFileSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+		
+		<Label fx:id="patternsFileStatusLabel" layoutX="612.0" layoutY="315.0" text="Status:" />
+		<Label fx:id="patternsFileStatus" layoutX="661.0" layoutY="315.0" text="No file!">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		
+
+		<!-- Advanced Patterns -->
+		
+		<CheckBox fx:id="importAdvancedPatterns" layoutX="33.0" layoutY="343.0" mnemonicParsing="false" onAction="#handleImportAdvancedPatterns" text="Import advanced patterns file" />
+		
+		<TextField fx:id="advancedPatternsFile" layoutX="33.0" layoutY="365.0" prefHeight="25.0" prefWidth="485.0" />
+
+		<Label fx:id="advancedPatternsFileStatus" layoutX="661.0" layoutY="369.0" text="No file!">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label fx:id="advancedPatternsFileStatusLabel" layoutX="612.0" layoutY="369.0" text="Status:" />
+		<Button fx:id="advancedPatternsFileSelect" layoutX="533.0" layoutY="365.0" mnemonicParsing="false" onAction="#handleAdvancedPatternsFileSelect" prefHeight="25.0" prefWidth="65.0" text="Select" />
+		
+		
+		
+		
+		<Separator layoutX="20.0" layoutY="402.0" prefHeight="0.0" prefWidth="760.0" />
+		
+		<!-- ########################################## -->
+		<!--                 Save Format                -->
+		<!-- ########################################## -->
+		
+		<Label layoutX="357.0" layoutY="412.0" text="Save Options" textFill="#4c00ff">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="33.0" layoutY="429.0" text="In which format(s) do you want to your files to be saved?" />
+		
+		<CheckBox fx:id="csvFormat" layoutX="144.0" layoutY="458.0" mnemonicParsing="false" text="CSV file (comma delimited)" />
+		<CheckBox fx:id="txtFormat" layoutX="324.0" layoutY="458.0" mnemonicParsing="false" text="TXT file (tab delimited)" />
+		<CheckBox fx:id="arffFormat" layoutX="504.0" layoutY="458.0" mnemonicParsing="false" text="ARFF file (weka file)" />
+		
+		<Label layoutX="33.0" layoutY="491.0" text="Do you want to save the lists of top words and patterns [if you have selected to extract them]?" />
+		
+		<CheckBox fx:id="saveTopWords" layoutX="144.0" layoutY="521.0" mnemonicParsing="false" text="Save the top words" />
+		<CheckBox fx:id="savePatterns" layoutX="324.0" layoutY="521.0" mnemonicParsing="false" text="Save the basic patterns" />
+		<CheckBox fx:id="saveAdvancedPatterns" layoutX="504.0" layoutY="521.0" mnemonicParsing="false" text="Save the advanced patterns" />
+		
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+		
+		<!-- ########################################## -->
+		<!--        Back, Next and Cancel Buttons       -->
+		<!-- ########################################## -->
+
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+
+	</children>
+</AnchorPane>

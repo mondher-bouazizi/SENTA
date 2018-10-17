@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="320.0" prefWidth="480.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.custompatterns.CustomPatternsWindow">
+	<children>
+		<!-- ########################### -->
+		<!--            title            -->
+		<!-- ########################### -->
+		<Label layoutX="20.0" layoutY="15.0" text="Customize the rules">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Separator layoutX="20.0" layoutY="43.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		
+		<!-- ########################### -->
+		<!--            Rules            -->
+		<!-- ########################### -->
+
+		<Label layoutX="39.0" layoutY="75.0" text="Category" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<Label fx:id="category1" layoutX="24.0" layoutY="105.0" text="First Category" />
+		<Label fx:id="category2" layoutX="24.0" layoutY="135.0" text="Second Category" />
+		<Label fx:id="category3" layoutX="24.0" layoutY="165.0" text="Third Category" />
+		<Label fx:id="category4" layoutX="24.0" layoutY="195.0" text="Fourth Category" />
+		
+		<Label layoutX="208.0" layoutY="75.0" text="Action" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<ComboBox fx:id="action1" layoutX="134.0" layoutY="101.0" onAction="#handleAction1" prefHeight="25.0" prefWidth="184.0" promptText="action" />
+		<ComboBox fx:id="action2" layoutX="134.0" layoutY="131.0" onAction="#handleAction2" prefHeight="25.0" prefWidth="184.0" promptText="action" />
+		<ComboBox fx:id="action3" layoutX="134.0" layoutY="161.0" onAction="#handleAction3" prefHeight="25.0" prefWidth="184.0" promptText="action" />
+		<ComboBox fx:id="action4" layoutX="134.0" layoutY="191.0" onAction="#handleAction4" prefHeight="25.0" prefWidth="184.0" promptText="action" />
+		
+		<Label layoutX="362.0" layoutY="75.0" text="Replace by" textFill="#2583e1">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		<TextField fx:id="replacement1" layoutX="333.0" layoutY="101.0" prefHeight="25.0" prefWidth="119.0" promptText="replace by..." />
+		<TextField fx:id="replacement2" layoutX="333.0" layoutY="131.0" prefHeight="25.0" prefWidth="119.0" promptText="replace by..." />
+		<TextField fx:id="replacement3" layoutX="333.0" layoutY="161.0" prefHeight="25.0" prefWidth="119.0" promptText="replace by..." />
+		<TextField fx:id="replacement4" layoutX="334.0" layoutY="191.0" prefHeight="25.0" prefWidth="119.0" promptText="replace by..." />
+		
+		
+		<!-- ########################### -->
+		<!--           Buttons           -->
+		<!-- ########################### -->
+		
+		<Button fx:id="def" layoutX="166.0" layoutY="238.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="60.0" text="Default" />
+		<Button fx:id="clear" layoutX="253.0" layoutY="238.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="60.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="271.0" prefHeight="3.0" prefWidth="440.0" />
+		
+		<Button fx:id="ok" layoutX="166.0" layoutY="281.0" mnemonicParsing="false" onAction="#handleOk" prefHeight="25.0" prefWidth="60.0" text="OK" />
+		<Button fx:id="cancel" layoutX="253.0" layoutY="281.0" mnemonicParsing="false" onAction="#handleCancel" prefHeight="25.0" prefWidth="60.0" text="Cancel" />
+
+		
+
+	</children>
+</AnchorPane>

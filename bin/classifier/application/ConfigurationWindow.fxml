@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.RadioButton?>
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.application.ConfigurationWindow">
+	<children>
+
+		<ImageView fitHeight="128.0" fitWidth="221.0" layoutX="304.0" layoutY="8.0" pickOnBounds="true" preserveRatio="true">
+			<image>
+				<Image url="@../../resources/images/about.png" />
+			</image>
+		</ImageView>
+
+		<Separator layoutX="10.0" layoutY="142.0" prefWidth="780.0" />
+
+		<Label depthTest="ENABLE" layoutY="171.0" prefHeight="43.0" prefWidth="800.0" text="Welcome to Twitter Classifier. This tool is used to help you create weka files automatically (i.e., &quot;*.arff&quot;). All you need to do is to select which features you want to use and the corresponding parameters." textAlignment="JUSTIFY" wrapText="true">
+			<opaqueInsets>
+				<Insets />
+			</opaqueInsets>
+			<padding>
+				<Insets left="10.0" right="10.0" />
+			</padding>
+		</Label>
+
+
+		<!-- ##################### -->
+		<!-- Open Existing Project -->
+		<!-- ##################### -->
+
+		<RadioButton fx:id="openExistingProjectRadioButton" layoutX="31.0" layoutY="240.0" mnemonicParsing="false" onAction="#handleRadioButtons" text="Open an existing project">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+			<toggleGroup>
+				<ToggleGroup fx:id="projectSelectionGroup" />
+			</toggleGroup>
+		</RadioButton>
+
+		<Label depthTest="ENABLE" layoutX="42.0" layoutY="255.0" prefHeight="43.0" prefWidth="716.0" text="Use this if you want to open an already existing project that you started already and want to continue working on. A project usually is saved in a &quot;*.tcp&quot; format." textAlignment="JUSTIFY" wrapText="true">
+			<opaqueInsets>
+				<Insets />
+			</opaqueInsets>
+			<padding>
+				<Insets left="10.0" right="10.0" />
+			</padding>
+		</Label>
+
+
+		<!-- ##################### -->
+		<!--    Open Weka File     -->
+		<!-- ##################### -->
+
+		<RadioButton fx:id="openWekaFileRadioButton" layoutX="32.0" layoutY="339.0" mnemonicParsing="false" onAction="#handleRadioButtons" text="Import a weka file (i.e., &quot;*.arff&quot; file)" toggleGroup="$projectSelectionGroup">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+
+		<Label depthTest="ENABLE" layoutX="42.0" layoutY="355.0" prefHeight="55.0" prefWidth="716.0" text="Use this if you want to import a weka file. Note that the file should be created by this program for it to be imported successfully. Furthermore, all you can do here is to remove some of the features already existing in the file. We highly recommend you use weka to do it." textAlignment="JUSTIFY" wrapText="true">
+			<opaqueInsets>
+				<Insets />
+			</opaqueInsets>
+			<padding>
+				<Insets left="10.0" right="10.0" />
+			</padding>
+		</Label>
+
+
+		<!-- ##################### -->
+		<!--  Start a New Project  -->
+		<!-- ##################### -->
+		
+		<RadioButton fx:id="startNewProjectRadioButton" layoutX="31.0" layoutY="451.0" mnemonicParsing="false" onAction="#handleRadioButtons" text="Start a new Project" toggleGroup="$projectSelectionGroup">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</RadioButton>
+
+		<Label depthTest="ENABLE" layoutX="42.0" layoutY="467.0" prefHeight="61.0" prefWidth="716.0" text="Use this if you want to start a new project. This will allow to open a raw file. A raw file can be in any format, but if you used our twitter collector program, it should be a &quot;*.txt&quot; file. The file must contain the following fileds &quot;Tweet ID&quot;, &quot;User Name&quot; and &quot;Twitter Message&quot;." textAlignment="JUSTIFY" wrapText="true">
+			<opaqueInsets>
+				<Insets />
+			</opaqueInsets>
+			<padding>
+				<Insets left="10.0" right="10.0" />
+			</padding>
+		</Label>
+
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+		
+		
+		<!-- ##################### -->
+		<!--        Buttons        -->
+		<!-- ##################### -->
+
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+
+	</children>
+</AnchorPane>

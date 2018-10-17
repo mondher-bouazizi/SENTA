@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.TopWordsFeaturesWindow">
+	<children>
+
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Top words features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+
+		<!-- ############################### -->
+		<!--             POS tags            -->
+		<!-- ############################### -->
+
+		<Label layoutX="38.0" layoutY="72.0" text="Part of Speech to consider" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="useTopWordsNouns" layoutX="38.0" layoutY="91.0" mnemonicParsing="false" text="Nouns" />
+		<CheckBox fx:id="useTopWordsVerbs" layoutX="38.0" layoutY="110.0" mnemonicParsing="false" text="Verbs" />
+		<CheckBox fx:id="useTopWordsAdjectives" layoutX="38.0" layoutY="129.0" mnemonicParsing="false" text="Adjectives" />
+		<CheckBox fx:id="useTopWordsAdverbs" layoutX="38.0" layoutY="148.0" mnemonicParsing="false" text="Adverbs" />
+
+
+		<!-- ############################### -->
+		<!--      POS separated/together     -->
+		<!-- ############################### -->
+
+		<Label layoutX="392.0" layoutY="72.0" text="Part of Speech taken" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="together" layoutX="392.0" layoutY="91.0" mnemonicParsing="false" onAction="#handleTogetherRadio" text="All together">
+			<toggleGroup>
+				<ToggleGroup fx:id="posTags" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="separated" layoutX="392.0" layoutY="110.0" mnemonicParsing="false" onAction="#handleSeparatedRadio" text="Separately" toggleGroup="$posTags" />
+
+
+		<!-- ############################### -->
+		<!-- Number of words parameters -->
+		<!-- ############################### -->
+
+		<Label layoutX="38.0" layoutY="190.0" text="Number of words" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="38.0" layoutY="208.0" text="Number of top words (per class)" />
+		<TextField fx:id="numberOfTopWordsPerClass" layoutX="214.0" layoutY="204.0" prefHeight="25.0" prefWidth="56.0" />
+
+		<Label layoutX="329.0" layoutY="208.0" text="Number of top words (per PoS-Tag)" />
+		<TextField fx:id="numberOfTopWordsPerPos" layoutX="526.0" layoutY="204.0" prefHeight="25.0" prefWidth="56.0" />
+
+
+		<!-- ############################### -->
+		<!--            Parameters           -->
+		<!-- ############################### -->
+		
+		<Label layoutX="38.0" layoutY="244.0" text="Parameters" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="153.0" layoutY="262.0" text="Min Ratio" />
+		<TextField fx:id="topWordsMinRatio" layoutX="233.0" layoutY="258.0" prefHeight="25.0" prefWidth="56.0" />
+
+		<Label layoutX="329.0" layoutY="262.0" text="Min # of Occurrences" />
+		<TextField fx:id="topWordsMinOccurrence" layoutX="462.0" layoutY="258.0" prefHeight="25.0" prefWidth="56.0" />
+		
+
+		<!-- ############################### -->
+		<!--         Type of features        -->
+		<!-- ############################### -->
+
+		<Label layoutX="38.0" layoutY="299.0" text="Type of features" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Label layoutX="38.0" layoutY="323.0" text="How do you want the Top Words features to be extracted?" />
+
+		<RadioButton fx:id="uniquefeature" layoutX="102.0" layoutY="345.0" mnemonicParsing="false" text="Each Words is a unique feature">
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfFeature" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="summedfeature" layoutX="368.0" layoutY="345.0" mnemonicParsing="false" text="Top words are summed" toggleGroup="$typeOfFeature" />
+
+
+		<!-- ############################### -->
+		<!--             Buttons             -->
+		<!-- ############################### -->
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+
+	</children>
+</AnchorPane>

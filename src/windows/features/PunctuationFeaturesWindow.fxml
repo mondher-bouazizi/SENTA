@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.features.PunctuationFeaturesWindow">
+	<children>
+	
+		<!-- =============================== -->
+		<!--              Title              -->
+		<!-- =============================== -->
+	
+		<Label layoutX="20.0" layoutY="34.0" text="Punctuation features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<!-- =============================== -->
+		<!--        Punctuation Marks        -->
+		<!-- =============================== -->
+		
+		<Label layoutX="59.0" layoutY="92.0" text="Punctuation Marks" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<CheckBox fx:id="numberOfDots" layoutX="59.0" layoutY="111.0" mnemonicParsing="false" text="Number of dots (&quot;.&quot;)" />
+		<CheckBox fx:id="numberOfCommas" layoutX="59.0" layoutY="130.0" mnemonicParsing="false" text="Number of commas (&quot;,&quot;)" />
+		<CheckBox fx:id="numberOfSemicolons" layoutX="59.0" layoutY="149.0" mnemonicParsing="false" text="Number of semicolons (&quot;;&quot;)" />
+		<CheckBox fx:id="numberOfExclamationMarks" layoutX="59.0" layoutY="168.0" mnemonicParsing="false" text="Number of exclamation marks" />
+		<CheckBox fx:id="numberOfQuestionMarks" layoutX="59.0" layoutY="187.0" mnemonicParsing="false" text="Number of question marks" />
+		
+		
+		<!-- =============================== -->
+		<!--      Parenthesis and others     -->
+		<!-- =============================== -->
+		
+		<Label layoutX="341.0" layoutY="92.0" text="Parentheses and others" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="numberOfParentheses" layoutX="341.0" layoutY="111.0" mnemonicParsing="false" text="Number of parenthises (1 couple = 1)" />
+		<CheckBox fx:id="numberOfBrackets" layoutX="341.0" layoutY="130.0" mnemonicParsing="false" text="Number of brackets (1 couple = 1)" />
+		<CheckBox fx:id="numberOfBraces" layoutX="341.0" layoutY="149.0" mnemonicParsing="false" text="Number of braces (1 couple = 1)" />
+
+		
+		<!-- =============================== -->
+		<!--       Words and characters      -->
+		<!-- =============================== -->
+		
+		<Label layoutX="59.0" layoutY="238.0" text="Words and Characters" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="totalNumberOfCharacters" layoutX="59.0" layoutY="257.0" mnemonicParsing="false" text="Total number of characters" />
+		<CheckBox fx:id="totalNumberOfWords" layoutX="59.0" layoutY="276.0" mnemonicParsing="false" text="Total number of words" />
+		<CheckBox fx:id="totalNumberOfSentences" layoutX="59.0" layoutY="295.0" mnemonicParsing="false" text="Total number of sentences" />
+      	<CheckBox fx:id="averageNumberOfCharacters" layoutX="59.0" layoutY="314.0" mnemonicParsing="false" text="Average number of char. per sentence" />
+      	<CheckBox fx:id="averageNumberOfWords" layoutX="59.0" layoutY="333.0" mnemonicParsing="false" text="Average number of words per sentence" />
+
+
+		<!-- =============================== -->
+		<!--     Apostrophes and others      -->
+		<!-- =============================== -->
+		
+		<Label layoutX="339.0" layoutY="238.0" text="Apostrophes and others" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<CheckBox fx:id="numberOfApostrophes" layoutX="339.0" layoutY="257.0" mnemonicParsing="false" text="Number of apostrophes" />
+		<CheckBox fx:id="numberOfQuotationMarks" layoutX="339.0" layoutY="276.0" mnemonicParsing="false" text="Number of quotation marks (1 couple = 1)" />
+		
+
+		<!-- =============================== -->
+		<!--             Buttons             -->
+		<!-- =============================== -->
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+
+	</children>
+</AnchorPane>

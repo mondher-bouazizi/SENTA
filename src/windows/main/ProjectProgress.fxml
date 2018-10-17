@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.web.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.RadioButton?>
+
+<AnchorPane fx:id="layout" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="windows.main.ProjectProgress">
+	<children>
+		
+		<Label layoutX="50.0" layoutY="27.0" prefHeight="40.0" prefWidth="700.0" text="Here, you can follow the progress of the extraction of features from both your training and test set. An extra step related to the extraction of Top Words and Patterns is added in case these features are to be extracted!" textAlignment="JUSTIFY" wrapText="true" />
+		<Label layoutX="50.0" layoutY="67.0" prefHeight="40.0" prefWidth="700.0" text="Note that the progress bar does not display the time spent/remaining, but the ration of number of tasks finished/remaining for both training and test set." textAlignment="JUSTIFY" wrapText="true" />
+		
+		<Separator layoutX="100.0" layoutY="117.0" prefWidth="600.0" />
+
+		<Label layoutX="100.0" layoutY="125.0" text="Progress">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<ProgressBar fx:id="progressBar" layoutX="164.0" layoutY="125.0" prefHeight="18.0" prefWidth="536.0" progress="0.0" />
+
+		<TextArea fx:id="progressText" layoutX="100.0" layoutY="149.0" prefHeight="355.0" prefWidth="600.0">
+			<font>
+				<Font name="Consolas" size="10.0" />
+			</font>
+		</TextArea>
+
+		<!-- ##################### -->
+		<!--        Buttons        -->
+		<!-- ##################### -->
+
+		<Button fx:id="startPauseButton" layoutX="359.0" layoutY="514.0" mnemonicParsing="false" onAction="#handleStartPauseButton" prefHeight="25.0" prefWidth="82.0" text="Start" />
+		
+		<Separator layoutX="10.0" layoutY="549.0" prefHeight="3.0" prefWidth="780.0" />
+
+		<Button fx:id="backButton" layoutX="566.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="25.0" prefWidth="65.0" text="Back" />
+		<Button fx:id="nextButton" layoutX="645.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="25.0" prefWidth="65.0" text="Next" />
+		<Button fx:id="cancelButton" layoutX="724.0" layoutY="563.0" mnemonicParsing="false" onAction="#handleCancelButton" prefHeight="25.0" prefWidth="65.0" text="Cancel" />
+		
+	</children>
+</AnchorPane>

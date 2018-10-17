@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="480.0" prefWidth="640.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="classifier.features.windows.AdvancedSentimentFeaturesWindow">
+	<children>
+
+		<!-- ############################### -->
+		<!--              Title              -->
+		<!-- ############################### -->
+
+		<Label layoutX="20.0" layoutY="34.0" text="Advanced sentiment-related features">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<Separator layoutX="20.0" layoutY="60.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<!-- ############################### -->
+		<!--       Type of the features      -->
+		<!-- ############################### -->
+
+		<Label layoutX="59.0" layoutY="92.0" text="Type of the sentiment features" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="sentimentPolarityRadio" layoutX="64.0" layoutY="115.0" mnemonicParsing="false" text="Sentiment polarity" >
+			<toggleGroup>
+				<ToggleGroup fx:id="typeOfFeature" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="sentimentScoreRadio" layoutX="64.0" layoutY="138.0" mnemonicParsing="false" text="Sentiment score" toggleGroup="$typeOfFeature" />
+
+
+		<!-- ############################### -->
+		<!--   Number of surrounding words   -->
+		<!-- ############################### -->
+
+		<Label layoutX="59.0" layoutY="195.0" text="Number of words surrounding the subject" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+		
+		<Label layoutX="104.0" layoutY="221.0" text="Words before" />
+		<TextField fx:id="wordsBefore" layoutX="190.0" layoutY="217.0" prefHeight="25.0" prefWidth="73.0" />
+		
+		<Label layoutX="321.0" layoutY="221.0" text="Words after" />
+		<TextField fx:id="wordsAfter" layoutX="397.0" layoutY="217.0" prefHeight="25.0" prefWidth="73.0" />
+
+		<!-- ############################### -->
+		<!--   Sentiment class information   -->
+		<!-- ############################### -->
+
+		<Label layoutX="59.0" layoutY="299.0" text="Add sentiment information (different classes for each word?)?" textFill="#405bf5">
+			<font>
+				<Font name="System Bold" size="12.0" />
+			</font>
+		</Label>
+
+		<RadioButton fx:id="addSentimentInformation" layoutX="66.0" layoutY="347.0" mnemonicParsing="false" text="Do not add" >
+			<toggleGroup>
+				<ToggleGroup fx:id="addinfo" />
+			</toggleGroup>
+		</RadioButton>
+		<RadioButton fx:id="notAddSentimentInformation" layoutX="66.0" layoutY="324.0" mnemonicParsing="false" text="Add" toggleGroup="$addinfo" />
+
+
+		<!-- ############################### -->
+		<!--             Buttons             -->
+		<!-- ############################### -->
+
+		<Button fx:id="defaultFeatures" layoutX="178.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleDefault" prefHeight="25.0" prefWidth="91.0" text="Default" />
+		<Button fx:id="allFeatures" layoutX="275.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleAll" prefHeight="25.0" prefWidth="91.0" text="All" />
+		<Button fx:id="clearFeatures" layoutX="372.0" layoutY="386.0" mnemonicParsing="false" onAction="#handleClear" prefHeight="25.0" prefWidth="91.0" text="Clear" />
+
+		<Separator layoutX="20.0" layoutY="420.0" prefHeight="3.0" prefWidth="600.0" />
+
+		<Button fx:id="cancel" layoutX="565.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleCancel" prefWidth="55.0" text="Cancel" />
+		<Button fx:id="select" layoutX="497.0" layoutY="438.0" mnemonicParsing="false" onAction="#handleSelect" prefWidth="55.0" text="Select" />
+		
+	</children>
+</AnchorPane>
